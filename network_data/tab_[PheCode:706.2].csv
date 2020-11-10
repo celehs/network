@@ -1,0 +1,224 @@
+"Variable","Description","Integrative_Estimator_RPDR","Integrative_Estimator_VA","Local_Estimator_RPDR","Local_Estimator_VA"
+"CCS:117","other non-or therapeutic procedures, male genital",0.000131257092382126,0.00936870627745548,0,0.0162670177469764
+"CCS:118","other or therapeutic procedures, male genital",0,0,0,0.00974201561016604
+"CCS:130","other diagnostic procedures, female organs",0,0,0.00644528772707997,0
+"CCS:155","arthrocentesis",0,0,0,0
+"CCS:156","injections and aspirations...tissue",0,0,0,0
+"CCS:160","other therapeutic procedures...tendons",0.0141916808919197,0.0161908155156252,0.0222516447291164,0.012283070766541
+"CCS:166","lumpectomy, quadrantectomy of breast",-0.00216444870773886,0.0219929588942328,0,0.033337651321739
+"CCS:168","incision and drainage,...tissue",0.115923867805653,0.0895930101586577,0.109953957409547,0.0811294807209152
+"CCS:170","excision of skin lesion",0.0231060230893377,0.0272950302861357,2.80460272395674e-05,0.0214708108480151
+"CCS:171","suture of skin and subcutaneous tissue",0.0570340158993445,0.0714625053501692,0.0804918905475948,0.0887781257910923
+"CCS:173","other diagnostic procedures...tissue",0.0198726220611098,0.026635670080172,0.00707232053807104,0.0186218820801554
+"CCS:174","other non-or therapeutic...breast",0,0,-0.00471248297049481,0
+"CCS:175","other or therapeutic procedures on skin and breast",0,0,0,0.001303722515577
+"CCS:182","mammography",0.00476153530615793,0.00256633515073118,0.0109080829676198,0
+"CCS:19","other therapeutic procedures...cornea",0,0,0,0.00664070250619079
+"CCS:214","traction, splints, and other wound care",0,0,0,0
+"CCS:220","ophthalmologic and otologic...treatment",0,0,0,0
+"CCS:227","other diagnostic procedures...consultation",0,0,0,0
+"CCS:228","prophylactic vaccinations and inoculations",0,0,-0.00765849943338679,0
+"CCS:234","pathology",0,0,0,0
+"CCS:25","diagnostic procedures on ear",0,0,0,0
+"CCS:26","other therapeutic ear procedures",0.00840883134115198,0.0061504383376379,0.0539604509834285,0
+"CCS:33","other or therapeutic...pharynx",0,0,0,0
+"CCS:76","colonoscopy and biopsy",0,0,0.00621177182052867,0
+"CCS:85","inguinal and femoral hernia repair",0,0,0,0
+"LOINC:13453-6","mean bld glucose, calc'd group:mglu",0,0,0.00594254097085536,0
+"LOINC:2086-7","hdl group:hdl",0,0,0,0
+"LOINC:2090-9","ldl group:ldl",0,0,0,0
+"LOINC:2092-5","vldl group:vldl",0,0,0.00840640815728828,0
+"LOINC:2093-3","cholesterol group:chol",0,0,0,0
+"LOINC:2857-1","psa total group:psa",0,0,0.0180839126308467,0
+"LOINC:43396-1","cholesterol.non hdl",0,0,0.0205687377430756,0
+"PheCode:054","herpes simplex",0,0,0.023844427869824,0
+"PheCode:078","viral warts & hpv",0.0419740280241314,0.0535386570683001,0.0387517689510579,0.058833324194658
+"PheCode:1009","injury, nos",0,0,0,0
+"PheCode:110.1","dermatophytosis",0,0,0.0355463117743087,0
+"PheCode:110.2","dermatomycoses",0,0,0,0
+"PheCode:172.1","melanomas of skin, dx or hx",0,0,0.030643249208652,0
+"PheCode:172.2","other non-epithelial cancer of skin",0,0,0,0
+"PheCode:172.3","carcinoma in situ of skin",0,0,0,0
+"PheCode:173","neoplasm of uncertain behavior of skin",0.0793980546380957,0.0655375385297149,0.0878911852500993,0.0527969303587774
+"PheCode:199.4","neurofibromatosis",0,0,0,0
+"PheCode:208","benign neoplasm of colon",0.000282490088271123,0.000236844130750337,0.0205094618950921,0
+"PheCode:210","benign neoplasm of lip, oral cavity, and pharynx",0,0,0,0
+"PheCode:213","benign neoplasm of bone and articular cartilage",0,0,0,0
+"PheCode:214.1","lipoma of skin and subcutaneous tissue",0.0936622004025837,0.0713738140222983,0.121119411844015,0.0575016356415238
+"PheCode:215","other benign neoplasm...tissue",0.0489887374702779,0.0297095239021113,0.0854146469498814,0.0361571001566145
+"PheCode:216.1","screening for malignant neoplasms of the skin",0.00903071348581344,0.0096285443257333,0.00743625524490299,0.0175563281539407
+"PheCode:217.1","nevus, non-neoplastic",0.0687336588923385,0.0403824036806353,0.0868049475064521,0.0216186965036027
+"PheCode:224.1","benign neoplasm of eye, uveal",0,0,0,0
+"PheCode:228.1","hemangioma of skin and subcutaneous tissue",0.0425747221685771,0.0227449103114153,0.058175411300207,0.0182991178179315
+"PheCode:241.1","nontoxic uninodular goiter",0,0,0,0
+"PheCode:261.4","vitamin d deficiency",0,0,0.00531361629833399,0
+"PheCode:272.1","hyperlipidemia",0,0,-0.000494699053392173,0
+"PheCode:277.5","other disorders of lipoid metabolism",0,0,0,0
+"PheCode:293.1","swelling, mass, or...nos]",0.0207443163758803,0.0291321247658286,0.035571204543432,0.020857591642796
+"PheCode:318","tobacco use disorder",0,0,0,0
+"PheCode:333.1","essential tremor",0,0,0,0
+"PheCode:351","other peripheral nerve disorders",0,0,0.00538049602351845,0
+"PheCode:362.6","peripheral retinal degenerations",0,0,0,0
+"PheCode:363.3","chorioretinal scars",0,0,0,0
+"PheCode:364.5","corneal dystrophy",0,0,0,0
+"PheCode:367.1","myopia",0,0,0,0
+"PheCode:367.2","astigmatism",0,0,0,0
+"PheCode:367.4","presbyopia",0,0,0,0
+"PheCode:367.8","hypermetropia",0,0,0,0.0212126453980626
+"PheCode:368.1","amblyopia",0,0,0,0
+"PheCode:371.2","conjunctivitis, noninfectious",0,0,0,0
+"PheCode:371.3","inflammation of eyelids",0,0,0,0.0192889417658699
+"PheCode:372","disorders of conjunctiva",0,0,0,0
+"PheCode:374.1","ectropion or entropion",0,0,0,0
+"PheCode:374.3","ptosis of eyelid",0,0,0,0
+"PheCode:374.6","dermatochalasis",0,0,0,0
+"PheCode:375.1","dry eyes",0,0,0,0
+"PheCode:379.2","disorders of vitreous body",0,0,0,0
+"PheCode:380.1","otitis externa",0,0,0,0.00398321772972062
+"PheCode:380.4","impacted cerumen",0.0130978391468482,0.0118344062392704,0.0383205723074505,0
+"PheCode:381.1","otitis media",0,0,0,0.0152334339905521
+"PheCode:381.2","eustachian tube disorders",0,0,0,0
+"PheCode:382","otalgia",0,0,0,0
+"PheCode:385.3","cholesteatoma",0,0,0,0
+"PheCode:386.2","peripheral or central vertigo",0,0,0,0
+"PheCode:389.1","sensorineural hearing loss",0,0,0,0
+"PheCode:389.4","tinnitus",0,0,0,0
+"PheCode:402","elevated blood pressure...hypertension",0,0,0,0.0215320534098189
+"PheCode:427.9","palpitations",0,0,0.0112678738124751,0
+"PheCode:448","disease of capillaries",0,0,0,0
+"PheCode:454.1","varicose veins of lower extremity",0.0250511152223716,0.0157080200534754,0.0374571794904638,0
+"PheCode:455","hemorrhoids",0.0035340106591431,0.00221455245739819,0.0158403562169729,0
+"PheCode:464","acute sinusitis",0,0,0,0
+"PheCode:465.2","acute pharyngitis",0,0,0.00672883277903639,0
+"PheCode:470","septal deviations/turbinate hypertrophy",0,0,0,0
+"PheCode:472","chronic pharyngitis and nasopharyngitis",0,0,0,0.0171402980707412
+"PheCode:476","allergic rhinitis",0,0,-0.00193723898491171,0
+"PheCode:483","acute bronchitis and bronchiolitis",0,0,0,0
+"PheCode:497","bronchitis",0,0,0,0
+"PheCode:521.1","dental caries",0,0,0,0
+"PheCode:523.1","gingivitis",0,0,0,0
+"PheCode:523.3","periodontitis acute or chronic",0,0,0,0
+"PheCode:525.1","loss of teeth or edentulism",0,0,0,0
+"PheCode:526.1","cysts of the jaws",-0.00611699905096449,0.0494431139270508,0,0.0462440097055627
+"PheCode:528.4","cysts of oral soft tissues",-0.00315769480263801,0.0481068547834531,0,0.0573835652664052
+"PheCode:528.5","diseases of lips",0,0,0,0
+"PheCode:536.8","dyspepsia and other...stomach",0,0,0,0
+"PheCode:550.1","inguinal hernia",0,0,0,0
+"PheCode:550.4","umbilical hernia",0,0,0,0.00310017929501156
+"PheCode:564.1","irritable bowel syndrome",0,0,0,0
+"PheCode:599.9","other abnormality of urination",0,0,0,0
+"PheCode:601.3","orchitis and epididymitis",0,0,0,0
+"PheCode:601.8","other inflammatory disorders...organs",0,0,0,0
+"PheCode:603.1","hydrocele",0,0,0,0
+"PheCode:603.2","spermatocele",-0.000604062691976808,0.020308421058299,0,0.0255543858895264
+"PheCode:604.3","peyronie's disease",0,0,0,0
+"PheCode:608","other disorders of male genital organs",0.0138582507747775,0.0172803014376554,0.0263014387099127,0.00798561658074486
+"PheCode:610.1","cystic mastopathy",0.0239386519946877,0.0212879931527055,0.0590882158926701,0.0198048879726883
+"PheCode:610.8","other specified benign mammary dysplasias",-0.00119622095190622,0.0233808362786998,0,0.0334557495580431
+"PheCode:611.3","lump or mass in breast",0.0163621995037555,0.00966741828248728,0.040790548127259,0
+"PheCode:612.2","hypertrophy of breast gynecomastia",0,0,0,0
+"PheCode:614.5","inflammatory disease of cervix, vagina, and vulva",0.00377697794812829,0.00112721957543082,0.026227695076513,0
+"PheCode:627.2","symptomatic menopause",0.00756144247477461,0.00346345032924824,0.020762904834707,0
+"PheCode:681.2","cellulitis and abscess of face/neck",0.0354080489534034,0.0297378384314427,0.0463476280797562,0.0174734369293484
+"PheCode:681.7","cellulitis and abscess of trunk",0.0335377329258459,0.0340159974855687,0.0586121151461326,0.0296718295960908
+"PheCode:686.1","carbuncle and furuncle",0.111515880710674,0.0781804396414444,0.12758873255668,0.0746897730470252
+"PheCode:686.3","pilonidal cyst",0.00349871899333378,0.0242468873460537,0,0.0498958501626716
+"PheCode:686.4","pyogenic granuloma",-0.000532097375970958,0.00650540297579776,0,0.0156575913161674
+"PheCode:687.1","rash and other nonspecific skin eruption",0,0,0.0187378160043624,0
+"PheCode:687.2","localized superficial swelling, mass, or lump",0,0,0,0.0529759684147078
+"PheCode:687.3","changes in skin texture",0,0,0,0
+"PheCode:687.4","disturbance of skin sensation",-0.000229049558054981,0.0060929331241754,0,0
+"PheCode:689","disorder of skin and subcutaneous tissue nos",0.0437970968569961,0.0439945810172712,0.0394309907382056,0.0572021083874634
+"PheCode:690.1","seborrheic dermatitis",0.088271814444915,0.0323311882013474,0.0644035740792608,0.000369918619189957
+"PheCode:694.2","other dyschromia",0,0,0.0108094497341763,0
+"PheCode:695.3","rosacea",0.0864289978618388,0.0525620257288134,0.0772431368160215,0.0310660498013044
+"PheCode:695.7","prurigo and lichen",0,0,0,0
+"PheCode:695.8","other specified erythematous conditions",0.0234178665264423,0.00536996271834508,0.0616360857842072,0
+"PheCode:696.4","psoriasis",0,0,0.00567446979590457,0
+"PheCode:698","pruritus and related conditions",0.00778740505968509,0.00187012810604417,0.0282670874228553,0
+"PheCode:700","corns and callosities",0,0,0,0
+"PheCode:701.1","keratoderma, acquired",0,0,0,0.00263669084756745
+"PheCode:701.2","scar conditions and fibrosis of skin",0.053361050432529,0.0310394397055925,0.0442357188368451,0.0133316664979885
+"PheCode:701.4","keloid scar",0.0623652150459818,0.0294135255972872,0.0891681305411213,0.00785923573788494
+"PheCode:701.5","abnormal granulation tissue",-0.000909948834837935,0.0125505691434016,0,0.0276465825337557
+"PheCode:702.1","actinic keratosis",0,0,0.0145445943794259,0
+"PheCode:702.2","seborrheic keratosis",0.0692994422607222,0.040486573563904,0.0373785981002513,0.0690683513362799
+"PheCode:703.1","ingrowing nail",0,0,0,0.000250484277316339
+"PheCode:704.1","alopecia",0.0533510974307535,0.00917678088193729,0.0527161844134997,0
+"PheCode:704.8","other specified diseases...follicles",0.0606083428537765,0.05090993659307,0.0747388835262239,0.0301983405761989
+"PheCode:705.1","dyshidrosis",0,0,0,0
+"PheCode:705.3","hidradenitis",0.0985728034147376,0.0600550746887245,0.121253141486914,0.0333003972198442
+"PheCode:706.1","acne",0.0590507117910682,0.0397823799115152,0.0443820353337779,0.0248056970122035
+"PheCode:706.3","seborrhea",0,0,0,0
+"PheCode:706.8","other specified diseases of sebaceous glands",0.00410246009234403,0.00336145818102397,0.0268676600025152,0
+"PheCode:721.1","spondylosis without myelopathy",0,0,0.0207553723524735,0
+"PheCode:722.1","displacement of intervertebral disc",0,0,0,0
+"PheCode:722.6","degeneration of intervertebral disc",0,0,0.00657088375290595,0
+"PheCode:726.1","enthesopathy",0.0098752931847002,0.0149680082734137,0.0220737681113948,0
+"PheCode:726.3","bursitis",0,0,0,0
+"PheCode:726.4","calcaneal spur; exostosis nos",0,0,0,0
+"PheCode:727.1","synovitis and tenosynovitis",0,0,0,0.00743937861325206
+"PheCode:727.2","bursitis disorders",0,0,0,0
+"PheCode:727.4","ganglion and cyst of synovium, tendon, and bursa",0.0880971749019545,0.0778803740248348,0.105749344650196,0.0704500640122156
+"PheCode:727.6","rupture of tendon, nontraumatic",0,0,0,0
+"PheCode:728.7","fasciitis",0.00217739851716923,0.017957375950988,0,0
+"PheCode:733.2","cyst of bone",-0.000807620880902419,0.00990848069408938,0,0.0324367990584553
+"PheCode:735.1","flat foot",0,0,0,0
+"PheCode:735.2","acquired toe deformities",0,0,0,0
+"PheCode:735.3","hallux valgus bunion",0,0,0,0
+"PheCode:736.2","acquired deformities of finger",0,0,0,0
+"PheCode:740.1","osteoarthritis; localized",0,0,0,0
+"PheCode:742.8","articular cartilage disorder",-9.08401272865277e-05,0.000829206535113114,0,0.0172165038756453
+"PheCode:743.9","osteopenia or other disorder of bone and cartilage",0,0,0.0137129822639957,0
+"PheCode:745","pain in joint",0,0,0,0
+"PheCode:755.1","congenital deformities of feet",0,0,0,0
+"PheCode:760","back pain",0,0,0,0
+"PheCode:761","cervicalgia",0,0,0.0122392915983231,0
+"PheCode:764","sciatica",0,0,0.0296807465235092,0
+"PheCode:765","cervical radiculitis",0,0,0,0
+"PheCode:835","internal derangement of knee",0,0,0,0.00639984376034089
+"PheCode:836","traumatic arthropathy",0,0,0,0
+"PheCode:840.2","rotator cuff capsule sprain",0,0,0,0
+"PheCode:841","sprains and strains of back and neck",0,0,0,0
+"PheCode:870.3","other open wound of head and face",0,0,0,0
+"PheCode:870.6","open wound of neck",-0.000945845431330291,0.0198764042061507,0,0.0382396115671877
+"PheCode:870.8","open wound of genital organs",0,0,0,0
+"PheCode:871.2","open wound of fingers",0,0,0,0
+"PheCode:876","posttraumatic wound infection...classified",0,0,0,0
+"PheCode:912","insect bite",0,0,0,0
+"PheCode:915","superficial injury without mention of infection",0,0,0,0
+"PheCode:938.2","chronic dermatitis due to solar radiation",0.0342384161131484,0.0129122865416116,0.0487603662816033,0
+"PheCode:947","urticaria",0,0,0,0
+"RXNORM:10753","tretinoin",0,0,0.00215505174059159,0
+"RXNORM:10759","triamcinolone",0,0,-0.00791138222353424,0
+"RXNORM:107602","epinephrine/lidocaine",0,0,0.0154668448760632,0
+"RXNORM:10831","sulfamethoxazole/trimethoprim",0,0,0.0178514485014334,0
+"RXNORM:135775","zolmitriptan",0,0,0,0
+"RXNORM:136411","sildenafil",0,0,0.0205986008263096,0
+"RXNORM:1418","benzoyl peroxide",0,0,0,0
+"RXNORM:142434","econazole nitrate",0.0196928161121291,-0.00250593633919998,0.0395005122298088,0
+"RXNORM:1514","betamethasone",0,0,0.0119566344849936,0
+"RXNORM:214182","acetaminophen/hydrocodone",0,0,-0.0193956466802597,0
+"RXNORM:214442","codeine/guaifenesin",0,0,0.0113067378185879,0
+"RXNORM:2231","cephalexin",0.0197593095375092,0.0142907732908153,0.0100922531516115,0
+"RXNORM:25126","fluocinolone",0,0,0.0311477871099971,0
+"RXNORM:2582","clindamycin",0,0,-0.00655365675785959,0
+"RXNORM:2590","clobetasol",0,0,-0.014247004060864,0
+"RXNORM:306674","vardenafil",0,0,0,0
+"RXNORM:3254","desonide",0,0,0.00401523665683534,0
+"RXNORM:3356","dicloxacillin",0.028282926581263,0.00904577633981317,0.0799312890235047,0
+"RXNORM:35827","ketorolac",0,0,0,0
+"RXNORM:3640","doxycycline",0,0,-0.00120522695240829,0
+"RXNORM:3992","epinephrine",0,0,0,0
+"RXNORM:4083","estradiol",0,0,0.00466874739726352,0
+"RXNORM:42372","mupirocin",0,0,0.0161273150482471,0
+"RXNORM:4419","fish oil",0,0,0,0
+"RXNORM:4462","fluocinonide",0.00255916719751652,-0.000419505670759917,0.0144155992188435,0
+"RXNORM:5489","hydrocodone",0,0,0,0
+"RXNORM:598","alprostadil",0,0,0,0.0239215814077271
+"RXNORM:6064","isotretinoin",0.000141738038022098,0.000995650698519211,0,0.0136179712639883
+"RXNORM:6135","ketoconazole",0,0,0.00224810661004598,0
+"RXNORM:6980","minocycline",0,0,0.0438296070904683,0
+"RXNORM:7258","naproxen",0,0,-0.00285306050485823,0
+"RXNORM:73645","valacyclovir",0,0,0.00772202515566058,0
+"RXNORM:817579","acetaminophen/codeine",0.0221043400807302,0.00546641464186128,0.0173302476640745,0

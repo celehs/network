@@ -1,0 +1,270 @@
+"Variable","Description","Integrative_Estimator_RPDR","Integrative_Estimator_VA","Local_Estimator_RPDR","Local_Estimator_VA"
+"CCS:177","computerized axial tomography ct scan head",0,0,0,0
+"CCS:188","cerebral arteriogram",0.0246036076084958,0.0486707022034762,0.0158714715398596,0.064772455529223
+"CCS:189","contrast aortogram",0.0134152393409471,0.0104089495336355,0.0122665513827785,0.00770366014121192
+"CCS:190","contrast arteriogram of...arteries",0,0,0,0
+"CCS:191","arterio- or venogram not heart and head",0.070403296009412,0.0326878376207401,0.0799351764777243,0.00487790522818012
+"CCS:192","diagnostic ultrasound of head and neck",0.0688243477261747,0.124767068869635,0.0494744271690872,0.153872832096531
+"CCS:193","diagnostic ultrasound of heart echocardiogram",0,0,0,0
+"CCS:198","magnetic resonance imaging",0,0,0.012464124499707,0
+"CCS:199","electroencephalogram eeg",0,0,0,0
+"CCS:201","cardiac stress tests",0.00225124608146348,0.00547444636548563,0.00116577707590164,0.0307484077752392
+"CCS:203","electrographic cardiac monitoring",0.0211105769234074,0.0102606379718845,0.0335795804488425,0
+"CCS:204","swan-ganz catheterization for monitoring",0.0136405621638143,0.0021956390870487,0.02070411538167,0
+"CCS:205","arterial blood gases",0,0,0,0
+"CCS:209","radioisotope scan and function studies",0,0,0,0
+"CCS:212","diagnostic physical therapy",0,0,0,0
+"CCS:41","other non-or therapeutic...system",0,0,0,0
+"CCS:43","heart valve procedures",0,0,0,0
+"CCS:44","coronary artery bypass graft cabg",0.0571765311614742,0.0180489422927926,0.0619760509108805,0
+"CCS:45","percutaneous transluminal coronary...ptca",0,0,0,0
+"CCS:47","diagnostic cardiac catheterization,...arteriography",0.00186341113336644,0.00214007755335553,0,0.0091980198444499
+"CCS:49","other or heart procedures",0,0,0,0
+"CCS:50","extracorporeal circulation auxiliary...procedures",0,0,0.0149657114246468,0
+"CCS:51","endarterectomy, vessel of head and neck",0.12895925887126,0.141096077660985,0.129493594105225,0.123486897354196
+"CCS:52","aortic resection, replacement or anastomosis",0,0,0,0
+"CCS:54","other vascular catheterization, not heart",0,0,0,0
+"CCS:55","peripheral vascular bypass",0,0,0,0
+"CCS:56","other vascular bypass and shunt, not heart",0.00677514510479686,0.0130018990527001,0.00333393879760115,0.0147426282421438
+"CCS:59","other or procedures on vessels of head and neck",0.0311081407216732,0.0579161603070965,0.0139749578339489,0.0691914029749259
+"CCS:60","embolectomy and endarterectomy of lower limbs",0,0,0,0
+"CCS:61","other or procedures...neck",0.032799381192102,0.0288158600343261,0.0246093462621566,0.0369681865639008
+"CCS:62","other diagnostic cardiovascular procedures",0.00554628690726496,0.00670348666928377,0,0.0141752949989049
+"CCS:7","other diagnostic nervous system procedures",0.000561211641742026,0.000257170037420495,0.000691700640516671,0
+"LOINC:10835-7","lipoprotein a group:lpa",0.0223122707319262,0,0.0625714229148648,0
+"LOINC:13453-6","mean bld glucose, calc'd group:mglu",0,0,0.00161294169536997,0
+"LOINC:13589-7","act protein c resistance confirm group:apcr-cfm",0,0,0.00757368704248519,0
+"LOINC:13590-5","act prot c res screen group:apcrsc",0,0,0,0
+"LOINC:13965-9","homocysteine",0.039188773436347,0.0222682989702352,0.0297461324840672,0.0127614485366966
+"LOINC:16135-6","b2 glycoprotein ab, igg group:b2gpg",0,0,0.0191271782396606,0
+"LOINC:16136-4","b2 glycoprotein ab, igm group:b2gpm",0,0,0,0
+"LOINC:17861-6","scca group:scca",0,0,0.0158151242822075,0
+"LOINC:19147-8","misc test ref range group:mref",0,0,0.00459860452363831,0
+"LOINC:20569-0","ck-mb% group:%ckmb",0,0,0,0
+"LOINC:2158-4","ck-mb index group:ckmbri",0,0,0.00208465726783967,0
+"LOINC:24475-6","g20210a gene mutation group:g20210a",0,0,0,0
+"LOINC:3177-3","at iii functional group:atiiif",0,0,0,0
+"LOINC:3181-5","cardiolipin ab.igg",0,0,0.00208143818056726,0
+"LOINC:3182-3","cardiolipin ab.igm",0,0,7.15897417033846e-05,0
+"LOINC:3184-9","activated clotting time",0.0281682567169969,0.00880795116145454,0.0168715201922254,0
+"LOINC:3281-3","ptt-la interp group:ptt-la",0,0,0.0140617509204947,0
+"LOINC:33984-6","factor x chromogenic group:fxact",0,0,0,0
+"LOINC:4677-1","protein s free antigen group:freeps",0,0,0,0
+"LOINC:5892-5","protein s functional group:protsf",0,0,0,0
+"LOINC:5974-1","pai-1 to 31+40 iu/ml group:pai1",0,0,0.0369785841297837,0
+"LOINC:6002-0","heparin-pf4 antibody group:hpia",0,0,0,0
+"LOINC:6007-9","protein c functional group:protcf",0,0,0,0
+"LOINC:6598-7","troponin-t group:trop-t",0,0,0,0
+"LOINC:66747-7","heparin protamine titration group:hpt",0,0,0.0231681308701361,0
+"LOINC:6773-6","ck-mb quant group:cpk-mb",0,0,0,0
+"LOINC:80893-1","projected heparin concentration group:hep-projconc",0,0,0,0
+"LOINC:81639-7","heparin dose response group:hep-doseresp",0,0,0.00851711445919042,0
+"LOINC:9679-2","scca group:scca",0,0,0.00452795843982492,0
+"LOINC:X1043-2","sequence group:seq",0.0183985937615209,0,0.0596097605442754,0
+"LOINC:X1731-9","ph uncorrected group:phu",0,0,0.0268580042127846,0
+"LOINC:X1732-7","pco2 uncorrected group:pco2u",0,0,0.000822607700629178,0
+"LOINC:X1733-5","po2 uncorrected group:po2u",0,0,0,0
+"LOINC:X1742-6","creatinine poc group:creat-poc",0,0,0.0274967871659491,0
+"LOINC:X3001-0","special coag interp group:sclint",0,0,0,0
+"LOINC:XC491-1","lactate, blood group:lactbld",0,0,0.0027551018652123,0
+"Other lab:1000000151","vitd/h",0,0,0,0
+"Other lab:1200028312","urobili",0,0,0,0
+"Other lab:1200034210","card #3",0,0,0,0.021177381145141
+"Other lab:1200036803","card #2",0,0,0,0.000260257453882309
+"Other lab:1200039982","card #1",0,0,0,0
+"Other lab:1200059579","ph'type",0,0,0,0
+"Other lab:1200090777","poctco2",0,0,0,0.0092029457640629
+"Other lab:1200090950","pocso2c",0,0,0,0.00343548183165269
+"Other lab:1200091568","pocfio2",0,0.00133372431346417,0,0
+"Other lab:1200092167","pochco3",0,0,0,0
+"Other lab:1200092687","fobt#2",0,0,0,0.00264052989692596
+"Other lab:1200093175","fobt#3",0,0,0,3.06646982742199e-05
+"Other lab:1200094576",".tropi",0,0,0,0
+"Other lab:1200095873","fobt#1",0,0,0,0
+"Other lab:1200097312","pocpco2",0,0,0,0
+"Other lab:1200099586","poc po2",0,0,0,0
+"Other lab:1200102408","macreat",0,0,0,0
+"Other lab:1200106856","tc/hdlc",0,0,0,0.0172951902816694
+"Other lab:1200108249","ana-pan",0,0,0,0.00827602852254834
+"Other lab:1200108250","ana-t",0,0,0,0.000848215890216219
+"Other lab:1200108328","ana-p",0,0,0,1.09202676282915e-15
+"Other lab:1200135114","ptt",0,0,0,0.0177853122232889
+"Other lab:1200151596","pt-acl",0,0,0,0.00704863528317236
+"Other lab:1400063152","occ bld",0,0,0,0.0138857184863707
+"PheCode:1007","injury to blood vessels",0,0,0,0.00375562424279173
+"PheCode:149.5","hx of malignant...pharynx",0.00825632919247172,0.00408438486410188,0.019185263691621,0
+"PheCode:172.2","other non-epithelial cancer of skin",0,0,0,0
+"PheCode:241.1","nontoxic uninodular goiter",0,0,0,0.00479276471964181
+"PheCode:244.4","hypothyroidism nos",0,0,0,0
+"PheCode:245.2","chronic thyroiditis",3.22256834497299e-05,0.0122659356990639,0,0.00805253842587626
+"PheCode:246.2","thyroid cyst",0,0,0,8.18211864401854e-05
+"PheCode:261.2","vitamin b-complex deficiencies",0.00820866273823524,0.0146673521621574,0,0.0219278699636602
+"PheCode:270.1","disturbances of amino-acid transport",0,0,0,0
+"PheCode:272.1","hyperlipidemia",0.0141339656002261,0.0157466498737008,0,0
+"PheCode:281.1","megaloblastic anemia",0.000257998316473776,0.000506655734697516,0,0
+"PheCode:286.8","hypercoagulable state",0,0,0,0
+"PheCode:290.1","dementias",0,0,0,0
+"PheCode:292.1","aphasia/speech disturbance",0.0374559620123812,0.0186130562269134,0.0343134048782094,0.00226599584657417
+"PheCode:292.3","memory loss",0,0,0,0.000806699119853371
+"PheCode:318","tobacco use disorder",0,0,0,0
+"PheCode:331.9","cerebral degeneration, unspecified",1.08725177175401e-05,0.000436618996606592,0,0.0177045688926875
+"PheCode:342","hemiplegia",0.0127053022119446,0.0125699678251344,0.0265961038037763,0.0188515491856938
+"PheCode:346.1","nonspecific abnormal findings...head",0.0108957678296966,0.0182669763905358,0,0.0263795855265258
+"PheCode:346.2","nonspecific abnormal results...system",0.00342077188609901,0.00552843573215161,0.00812337280350245,0.00560984761228242
+"PheCode:348.2","cerebral edema and compression of brain",0,0,0,0
+"PheCode:348.7","coma",0,0,0.00308154085512504,0
+"PheCode:350.3","lack of coordination",0,0,0.0110406255836727,0
+"PheCode:362.2","degeneration of macula...retina",0,0,0,0
+"PheCode:362.4","retinal vascular changes and abnomalities",0.0452506711446184,0.0338156769453978,0.0406801725618063,0.0333225464779048
+"PheCode:362.8","retinal hemorrhage/ischemia",1.05547995718489e-05,0.000635407062744062,0,0.0170033064606564
+"PheCode:367.9","blindness and low vision",0.0149636229769496,0.00515055533414913,0.0171450246708206,0
+"PheCode:368.2","diplopia and disorders of binocular vision",0.0119855636717971,0.0085780511948935,0.00817655294226111,0
+"PheCode:368.4","visual field defects",0.0274976698983764,0.0171988740444703,0.0390867578445084,0.0147052747948465
+"PheCode:368.9","subjective visual disturbances",0.00773214977483806,0.00626524704005474,0.00920273220983474,0
+"PheCode:374.2","lagophthalmos",-0.000350118601434074,0.0136435935328431,0,0.0290924921709975
+"PheCode:374.3","ptosis of eyelid",0.00814318588120254,0.0017062708983759,0.0120564542820821,0
+"PheCode:377.3","optic neuritis/neuropathy",0.00150712096605491,0.00119827075661213,0,0
+"PheCode:378.5","paralytic strabismus",0,0,0.00925481206549691,0
+"PheCode:380.4","impacted cerumen",0,0,0,0
+"PheCode:386.2","peripheral or central vertigo",0.00597555603950627,0.00509673162558507,0.0187669963620598,0
+"PheCode:386.9","dizziness and giddiness...vertigo",0.0192533311018203,0.0299441002032066,0.0277452114439792,0.0449472544153193
+"PheCode:394.1","mitral valve stenosis and aortic valve stenosis",0.0143015122749554,0.0161673638049561,0.0084141623412733,0.0130991826066842
+"PheCode:394.2","mitral valve disease",0,0,0.00810845798959804,0
+"PheCode:394.4","acute rheumatic heart disease",0,0,0.0173113302457751,0
+"PheCode:394.7","disease of tricuspid valve",0.00195239955981136,0.00263779811229784,0,0
+"PheCode:395.1","nonrheumatic mitral valve disorders",0.00315654166534319,0.00238300423561405,0.00882568358979239,0
+"PheCode:395.2","nonrheumatic aortic valve disorders",0.0148947760582309,0.011659820544977,0.0201141649516081,0.0056106547159069
+"PheCode:395.4","nonrheumatic pulmonary valve disorders",0,0,0,0
+"PheCode:395.6","heart valve replaced",0,0,0,0
+"PheCode:396","abnormal heart sounds",0,0,0,0
+"PheCode:401.1","essential hypertension",0,0,0.00323323818441716,0
+"PheCode:401.2","hypertensive heart and/or renal disease",0,0,0,0
+"PheCode:401.3","other hypertensive complications",0,0,0.0058439288022586,0
+"PheCode:411.1","unstable angina intermediate coronary syndrome",0.0187750934521037,0.0118992057605862,0.0316575044426028,0
+"PheCode:411.2","myocardial infarction",0,0,0,0
+"PheCode:411.3","angina pectoris",0.0214998294212346,0.0211792108768603,0.0105471994889048,0.0239333826005203
+"PheCode:411.4","coronary atherosclerosis",0.0412437559912755,0.0483695137786655,0,0.043435137142925
+"PheCode:411.8","other chronic ischemic heart disease, unspecified",0.00562129390332487,0.00770279774441927,0,0.0159020097856769
+"PheCode:411.9","other acute and...disease",0,0,0,0
+"PheCode:414.2","ascvd",0.0326454603302424,0.0317249470491577,0.0233276219943303,0.0228972565336167
+"PheCode:416","cardiomegaly",0.010728354298293,0.00613807191209398,0,0
+"PheCode:426.2","atrioventricular [av] block",0,0,0.000187971700620751,0
+"PheCode:426.3","bundle branch block",0.00943336678254966,0.0054964300392735,0.00252252059744716,0
+"PheCode:426.7","abnormal electrocardiogram [ecg] [ekg]",0,0,0,0
+"PheCode:426.9","cardiac pacemaker/device in situ",0,0,0,0
+"PheCode:427.2","atrial fibrillation and flutter",0,0,0,0
+"PheCode:427.3","other specified cardiac dysrhythmias",0.0131254058771676,0.01401070790539,0.00314109713830516,0
+"PheCode:427.5","arrhythmia cardiac nos",0,0,0,0
+"PheCode:427.6","premature beats",0,0,0,0
+"PheCode:427.8","sinoatrial node dysfunction bradycardia",0,0,0,0
+"PheCode:428.4","heart failure with...failure]",0,0,0,0
+"PheCode:429.2","abnormal function study of cardiovascular system",0.0115546172294758,0.0107220033934914,0.00497878853182686,0.00040465267515467
+"PheCode:429.3","symptoms involving cardiovascular system",0.016155431407146,0.00991244948224685,0.04050912382132,0.00573781012921328
+"PheCode:429.9","cardiac complications, not elsewhere classified",0,0,0,0
+"PheCode:430.1","subarachnoid hemorrhage",0,0,0,0
+"PheCode:430.2","intracerebral hemorrhage",0,0,0,9.97477595078939e-05
+"PheCode:433.2","occlusion of cerebral arteries",0.102967735079577,0.0474089438164418,0.0948349795452866,0.0299729001275488
+"PheCode:433.3","cerebral ischemia",0.112191756787582,0.10015350030675,0.106384969455951,0.0791978019546809
+"PheCode:433.5","cerebral aneurysm",0.0194154505189841,0.0195738158792451,0.0268152067149294,0.00849898035894739
+"PheCode:433.6","acute, but ill-defined cerebrovascular disease",0.0431139355571385,0.0274365179432702,0.0462742888375988,0.0304482400727604
+"PheCode:433.8","late effects of cerebrovascular disease",0.0375121117384809,0.029810500420818,0.0368561791214402,0.0286009968259424
+"PheCode:440.1","atherosclerosis of renal artery",0.0336945032897076,0.0276628344615176,0.0450601902686043,0.0313311976708986
+"PheCode:440.2","atherosclerosis of the extremities",0.0347281298510367,0.032485804509249,0.0312662536709487,0.0160730401938049
+"PheCode:440.9","atherosclerosis of aorta",0.0368174538812705,0.0341914869189819,0.0144415930245974,0.0219851773729022
+"PheCode:441.2","chronic vascular insufficiency of intestine",0.0128967556642446,0.00873186847620811,0.0237513026940883,0
+"PheCode:442.1","aortic aneurysm",0.0297397260148166,0.0438744874745362,0.0166901851093224,0.0613478097331415
+"PheCode:442.2","aneurysm of iliac artery",0,0,0.00685836290329543,0
+"PheCode:442.3","aneurysm of artery of lower extremity",0.00924277103771531,0.00902282035135704,0.012823942270957,0
+"PheCode:442.4","arterial dissection",0.0331414194706129,0.0405433471885659,0.0355077503865803,0.0418883870107344
+"PheCode:442.8","aneurysm of other specified artery",0.00666849478696819,0.00743275865015894,0.00694918196805791,0.00354573212139342
+"PheCode:443.8","other specified peripheral vascular diseases",0.0365440619021069,0.0221456215969816,0.0509331412545124,0
+"PheCode:443.9","peripheral vascular disease, unspecified",0.0513689776009489,0.0577851179296484,0.0317353713464884,0.0508706174345821
+"PheCode:444.1","arterial embolism and...artery",0,0,0,0
+"PheCode:444.2","embolism and thrombosis of abdominal aorta",0,0,0,0
+"PheCode:444.5","atheroembolism",0,0,0,0
+"PheCode:446.1","thromboangiitis obliterans",0,0,0,0
+"PheCode:446.5","giant cell arteritis",0.0131639184770248,0.00513543973441329,0.031482623426389,0
+"PheCode:447.1","stricture of artery",0.016586851215315,0.0124104352391597,0.0262124462381089,0.00758352887426733
+"PheCode:447.7","aortic ectasia",0,0,0,0.00552925148365705
+"PheCode:457.2","encounter for long-term...antiplatelets/antithrombotics",0,0,0.00448813551060344,0
+"PheCode:457.3","encounter for long-term current use of aspirin",0.0080571195623373,0.00604612617067279,0.00876737358350527,0
+"PheCode:458.1","orthostatic hypotension",0.000377262730232352,0.00033385211209379,0,0
+"PheCode:459.7","blood vessel replaced",0.00608447492802721,0.00716504367377647,0.00860986830707068,0.000176349622391586
+"PheCode:459.9","circulatory disease nec",0.0131761522049498,0.0170903555836305,0.0176918610748421,0.0189609552722758
+"PheCode:503","pulmonary congestion and hypostasis",0,0,0,0
+"PheCode:508","pulmonary collapse; interstitial...emphysema",0,0,0,0
+"PheCode:512.3","abnormal chest sounds",0,0,0.0216979793587112,0
+"PheCode:562.1","diverticulosis",0,0,0,0
+"PheCode:586.3","vascular disorders of kidney/hypertrophy",0,0,0,0
+"PheCode:592.2","urethritis and urethral syndrome",0.0408853046229617,0.000646689177435975,0.0617105224638677,0
+"PheCode:600","hyperplasia of prostate",0,0,0,0
+"PheCode:687.4","disturbance of skin sensation",0,0,0.0097869080773595,0
+"PheCode:747.1","cardiac congenital anomalies",0,0,0.000535945011171636,0
+"PheCode:753.1","congenital cataract and lens anomalies",-0.00179065079043706,0.029475153350702,0,0.0354952020227042
+"PheCode:772.6","facial weakness",0.0282467700209016,0.0284366728982858,0.0361850827509502,0.023607116773163
+"PheCode:788","syncope and collapse",0.0146932769267763,0.0217712899653755,0.0109847424981623,0.00734333434176279
+"PheCode:795.8","abnormal tumor markers",1.30788335132255e-05,0.00757034408811945,0,0.0179890814831667
+"PheCode:850","hemorrhage or hematoma complicating a procedure",0,0,0,0
+"PheCode:856","vascular complications of...procedures",0.0033265444384802,0.00320328602343069,0.00929483420534138,0.00743078797077393
+"RXNORM:10156","sucralfate",0,0,0,0
+"RXNORM:10528","thrombin",0,0,0,0
+"RXNORM:1191","aspirin",7.16839488689769e-05,1.64559261518635e-06,0,0
+"RXNORM:1202","atenolol",0.00314420460197596,6.50448757712511e-06,0,0
+"RXNORM:135447","donepezil",0,0,0.00456052594793142,0
+"RXNORM:15202","argatroban",0,0,0,0
+"RXNORM:1659152","alirocumab",0,0,0,0.0148098450252427
+"RXNORM:17767","amlodipine",0,0,0,0
+"RXNORM:197","acetylcysteine",0,0,0,0
+"RXNORM:1998","captopril",0,0,0,0
+"RXNORM:20352","carvedilol",0,0,0,0
+"RXNORM:21107","cilostazol",0.0195769320895268,0.015927326661108,0.0189426542541345,0.00680294210660715
+"RXNORM:2180","cefazolin",0,0,0.0126062933555554,0
+"RXNORM:226716","aspirin/dipyridamole",0.00930499112878688,0.00619751581044279,0.0160016604961443,0
+"RXNORM:2409","chlorthalidone",0,0,0.00713929011663658,0
+"RXNORM:2541","cimetidine",0,0,0.00246877859074463,0
+"RXNORM:25789","glimepiride",0,0,0.00795160000919589,0
+"RXNORM:27729","iodixanol",0,0,0,0
+"RXNORM:28004","isosorbide mononitrate",0,0,0.00862290431616046,0
+"RXNORM:301542","rosuvastatin",0.00270540257690252,0.0014137013993802,0.0132429639034188,0
+"RXNORM:321064","olmesartan",0,0,0.00598920509691914,0
+"RXNORM:3272","dextran 40",0,0,0.0447734004528431,0
+"RXNORM:32968","clopidogrel",0.0314084567249196,0.00837082434693246,0.0308746605143978,0
+"RXNORM:33738","pioglitazone",0.00950861845486259,0.00128440557785206,0.0173841250037325,0
+"RXNORM:3407","digoxin",0,0,0,0
+"RXNORM:341248","ezetimibe",0.0143536444237055,0.00807335648463429,0.0190985694227082,0
+"RXNORM:35208","quinapril",0,0,0.00405783122160033,0
+"RXNORM:35296","ramipril",0,0,0.00811220442612977,0
+"RXNORM:35829","ranolazine",0,0,0,0
+"RXNORM:36567","simvastatin",0,0,0,0
+"RXNORM:4603","furosemide",0,0,0,0
+"RXNORM:4719","gemfibrozil",0,0,0,0
+"RXNORM:4815","glyburide",0,0,0,0
+"RXNORM:4821","glipizide",0,0,0,0
+"RXNORM:48274","acetaminophen/propoxyphene",0,0,0.00797139206053622,0
+"RXNORM:4917","nitroglycerin",0,0,0.00998240797632794,0
+"RXNORM:49276","doxazosin",0,0,0.0080883368060744,0
+"RXNORM:52769","milrinone",0,0,0,0
+"RXNORM:5470","hydralazine",0,0,0.013304495430184,0
+"RXNORM:593411","sitagliptin",0,0,0,0
+"RXNORM:5966","iopamidol",0,0,0.00517360714311044,0
+"RXNORM:6058","isosorbide dinitrate",0,0,0.00474207068476497,0
+"RXNORM:6185","labetalol",0,0,0.000563409274888132,0
+"RXNORM:640062","regadenoson",0,0,0,0
+"RXNORM:6472","lovastatin",0,0,0.0117262262349641,0
+"RXNORM:6676","meclizine",0,0,0.000217538736021791,0
+"RXNORM:67109","dalteparin",0,0,0,0
+"RXNORM:6918","metoprolol",0,0,0,0
+"RXNORM:703","amiodarone",0,0,0,0
+"RXNORM:7393","niacin",0.0128113926156023,0.00115769621204389,0.0193560034066809,0
+"RXNORM:7396","nicardipine",0,0,0,0
+"RXNORM:7417","adalat",0,0,0,0
+"RXNORM:7512","norepinephrine",0,0,0,0
+"RXNORM:75635","eptifibatide",0,0,0,0
+"RXNORM:7895","papaverine",0,0,0,0
+"RXNORM:8013","pentoxifylline",0.000864404973335496,8.08173251552538e-05,0.0323693889168126,0
+"RXNORM:83367","atorvastatin",0,0,0.0077405370352798,0
+"RXNORM:83818","irbesartan",0,0,0.00216288177770514,0
+"RXNORM:8703","fenofibrate",0.0179342621733659,0.00365544493417669,0.0261096398417049,0
+"RXNORM:8825","protamine sulfate",0.0135140449162651,0.0161475179892425,0,0.0103923718745507
+"RXNORM:9895","sodium nitroprusside",0,0,0,0
+"ShortName:LPA","lpa",0,0,0,0

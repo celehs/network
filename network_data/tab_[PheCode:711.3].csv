@@ -1,0 +1,43 @@
+"Variable","Description","Integrative_Estimator_RPDR","Integrative_Estimator_VA","Local_Estimator_RPDR","Local_Estimator_VA"
+"CCS:211","therapeutic radiology",0,0,0,0
+"LOINC:11039-5","c-reactive protein group:crp",0,0,0,0
+"LOINC:X1166-8","crp mg/l group:crpt",0,0,0,0
+"Other lab:1000002957","ca",0,0,0,0
+"Other lab:1000003303","protein",0,0,0,0
+"Other lab:1000005210","baso",0,0,0,0
+"Other lab:1200107854","difftyp",0,0,0,0
+"PheCode:038.3","bacteremia",0,0,0,0
+"PheCode:041.9","infection with drug-resistant microorganisms",0,0,0,0
+"PheCode:136","other infectious and parasitic diseases",0,0,0,0
+"PheCode:153.3","malignant neoplasm of...anus",0,0,0,0
+"PheCode:276.4","acid-base balance disorder",0,0,0,0
+"PheCode:280.1","iron deficiency anemias,...loss",0,0,0,0
+"PheCode:288.2","elevated white blood cell count",0,0,0,0
+"PheCode:300.9","posttraumatic stress disorder",0,0,0,0
+"PheCode:303.4","somatoform disorder",0,0,0,0
+"PheCode:320","meningitis",0,0,0,0
+"PheCode:355.1","chronic pain syndrome",0,0,0,0
+"PheCode:357","inflammatory and toxic neuropathy",0,0,0,0
+"PheCode:367.9","blindness and low vision",0,0,0,0
+"PheCode:371.1","uveitis, noninfectious or nos",0,0,0,0
+"PheCode:415.1","acute pulmonary heart disease",0,0,0,0
+"PheCode:420.3","endocarditis",0,0,0,0
+"PheCode:446.9","arteritis nos",0,0,0,0
+"PheCode:452.2","deep vein thrombosis [dvt]",0,0,0,0
+"PheCode:508","pulmonary collapse; interstitial...emphysema",0,0,0,0
+"PheCode:521.1","dental caries",0,0,0,0
+"PheCode:528.1","stomatitis and mucositis",0,0,0,0
+"PheCode:687.1","rash and other nonspecific skin eruption",0,0,0,0
+"PheCode:710.1","osteomyelitis",0,0,0,0
+"PheCode:711.2","reiter's disease",0,0,0,0
+"PheCode:772.1","muscular wasting and disuse atrophy",0,0,0,0
+"RXNORM:1256","azathioprine",0,0,0,0
+"RXNORM:191831","infliximab",0,0,0,0
+"RXNORM:194000","capecitabine",0,0,0,0
+"RXNORM:214555","etanercept",0,0,0,0
+"RXNORM:2683","colchicine",0,0,0,0
+"RXNORM:3002","cyclophosphamide",0,0,0,0
+"RXNORM:3251","desmopressin",0,0,0,0
+"RXNORM:327361","adalimumab",0,0,0,0
+"RXNORM:6851","methotrexate",0,0,0,0
+"RXNORM:8640","prednisone",0,0,0,0

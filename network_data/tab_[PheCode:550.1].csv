@@ -1,0 +1,176 @@
+"Variable","Description","Integrative_Estimator_RPDR","Integrative_Estimator_VA","Local_Estimator_RPDR","Local_Estimator_VA"
+"CCS:100","endoscopy and endoscopic...tract",0,0,0,0.000633858436144391
+"CCS:115","circumcision",0.0444821304401423,-0.003649431418325,0.03411040686595,0
+"CCS:116","diagnostic procedures, male genital",0.00139627636860527,0.00209793997576318,0,0.00197209669664753
+"CCS:117","other non-or therapeutic procedures, male genital",0,0,0,0
+"CCS:118","other or therapeutic procedures, male genital",0.106170276111498,0.0882488626503456,0.0909850763085792,0.0776545246589258
+"CCS:179","ct scan abdomen",0,0,0,0
+"CCS:186","lower gastrointestinal x-ray",0.000331344321114258,0.0112403245813354,0,0.0225831133940063
+"CCS:201","cardiac stress tests",0,0,0,0.0106601050000749
+"CCS:202","electrocardiogram",0,0,0,0.00107988791595462
+"CCS:232","anesthesia",0.0154996105031404,0.0203372791069646,0,0.020625870691887
+"CCS:26","other therapeutic ear procedures",-0.000446403555252411,0.00426407040954714,0,0.00776899314967134
+"CCS:75","small bowel resection",0,0,0,0.00774704344136143
+"CCS:76","colonoscopy and biopsy",0,0,0,0
+"CCS:80","appendectomy",0,0,0,0.00255411968818324
+"CCS:85","inguinal and femoral hernia repair",0.25902916121884,0.204117445083901,0.261994835862558,0.192487706649292
+"CCS:86","other hernia repair",0.0678472744034601,0.0568040417860466,0.075590950007126,0.052693753487874
+"CCS:87","laparoscopy",0.0395585901499669,0.0191024375652967,0.0370902449231086,0.013160056176526
+"LOINC:1961-2","hco3, capillary group:chco3",0,0,0,0
+"LOINC:2020-6","capillary pco2 group:cpco2",0,0,0.00127187897285675,0
+"LOINC:21026-0","slide review group:slider",0,0,0,0
+"LOINC:2514-8","ketones",0.000235683944266847,0.00236383011764623,0,0
+"LOINC:2704-5","capillary po2 group:cpo2",0,0,0.0110388671666048,0
+"LOINC:2745-8","capillary ph group:cph",0,0,0,0
+"LOINC:2761-5","phenyl ketones group:pku",0,0,0,0
+"LOINC:4679-7","reticulocytes/100 erythrocytes",0,0,0,0
+"LOINC:5767-9","appearance",0,0,0,0.00781701671204768
+"LOINC:5778-6","color",0,0,0,0
+"LOINC:5802-4","nitrite",0,0,0,0.00127297530952365
+"LOINC:5803-2","ph",0,0,0,0
+"LOINC:5811-5","specific gravity",0,0,0,0
+"LOINC:X1172-6","psa monitoring group:psamon",0,0,0.0206222319328524,0
+"LOINC:XC458-0","tco2, cap, nicu group:tco2cn",0.0132494937378983,0,0.0173122236272988,0
+"LOINC:XC461-4","base ex, cap, nicu group:bexcapn",0.0597988941695026,0,0.038295359112243,0
+"Other lab:1000015567","zzbili",0,0,0,0.0287770224693897
+"Other lab:1000022035","zprotein",0,0,0,0
+"Other lab:1000022582","zglu",0,0,0,0
+"Other lab:1000044207","ocb #1",0,0.0100106495482133,0,0.0377495075703009
+"Other lab:1000044208","ocb #3",0,1.79630812997252e-05,0,0
+"Other lab:1000050541","*urobil",0,0,0,0.00330563011909065
+"Other lab:1000055050","zzblood",0,0,0,4.80238537698331e-05
+"Other lab:1000055052","zleu.est",0,0,0,0
+"Other lab:1000061738","ocb #2",0,0,0,0.00136753880086135
+"Other lab:1000064392","tp-fv",0,0,0,0
+"Other lab:1000073599","cholhdl",0,0,0,0
+"Other lab:1000073692","urobil",0,0,0,0
+"Other lab:1200004159","protein",0,0,0,0.0121297960158409
+"Other lab:1200004167","ur glu",0,0,0,0.00657763713129805
+"Other lab:1200004169","ur bili",0,0,0,0.000113982820045897
+"Other lab:1200004170","ur bloo",0,0,0,4.63843414300243e-06
+"Other lab:1200004171","urobili",0,0,0,0
+"Other lab:1200012647","leu's",0,0,0,1.14486667903601e-05
+"Other lab:1200016825","ekg",0,0,0,0.0116666685356664
+"Other lab:800037781","ur. bld",0,0,0,0.0350145381707919
+"Other lab:800038450","urmicr",0,0,0,0.0169365688952642
+"Other lab:800040767","protein",0,0,0,0
+"Other lab:800057670","glu",0,0,0,0
+"Other lab:800059138","protein",0,0,0,0.0302116764750291
+"Other lab:800070502","ur. bld",0,0,0,0
+"Other lab:800077850","ururo",0,0,0,0
+"Other lab:800078306","leu est",0,0,0,0.0265069582331935
+"Other lab:800078372","glu",0,0,0,0
+"Other lab:800078647","prote-u",0,0,0,0
+"Other lab:800079372","ur. bld",0,0,0,0
+"Other lab:800079862","ur leu",0,0,0,0
+"Other lab:800081701","leu ase",0,0,0,0
+"Other lab:800082233","urobili",0,0,0,0.00899921519184895
+"Other lab:800082624","hep c",0,0,0,0.0136969964862998
+"Other lab:800082629","ur.prot",0,0,0,0.0144337237142861
+"Other lab:800082837","ur.bld",0,0,0,1.2596127916762e-05
+"Other lab:800085139","ur.glu",0,0,0,4.99851201314812e-15
+"Other lab:800087350","cultre",0,0,0,0.000788275838255384
+"PheCode:173","neoplasm of uncertain behavior of skin",0,0,0,0.0101631640344796
+"PheCode:187.8","neoplasm of uncertain...organs",0,0,0,0.00452972443663921
+"PheCode:208","benign neoplasm of colon",0.015151408134072,0.0156371579557207,0,0.00191943647057321
+"PheCode:214.1","lipoma of skin and subcutaneous tissue",0,0,0,0.0237338291571358
+"PheCode:222","benign neoplasm of male genital organs",0,0,0,0.00890730047106415
+"PheCode:244.5","congenital hypothyroidism",0.0603392210389133,0,0.0734164867761048,0
+"PheCode:246.7","abnormal results of function study of thyroid",0.064684959116919,0.00621191646970596,0.055835948156111,0
+"PheCode:264.2","failure to thrive childhood",0.0214219699789277,0.000992487585998761,0.0187847378117054,0
+"PheCode:277.4","disorders of bilirubin excretion",0,0,0,0
+"PheCode:277.8","carnitine deficiencies",0.0960982176251659,0,0.11348344485048,0
+"PheCode:362.1","retinopathy of prematurity",0.0829649351748183,0,0.0990550513645978,0
+"PheCode:380.4","impacted cerumen",-0.000476190050708527,0.0102155445800266,0,0.0224304787605639
+"PheCode:396","abnormal heart sounds",0.0470839707938919,0.0188238344598106,0.0209846793665437,0
+"PheCode:402","elevated blood pressure...hypertension",0,0.0142480384278379,0,0.03758867414655
+"PheCode:427.3","other specified cardiac dysrhythmias",0,0,0,0.00139276170165962
+"PheCode:427.6","premature beats",0.0123606165476261,0.00725956258778612,0.00256214300166075,0
+"PheCode:442.1","aortic aneurysm",0,0,0,0.00574616701037179
+"PheCode:455","hemorrhoids",0.0154068359489386,0.0246200354453851,0,0.0343183814986638
+"PheCode:470","septal deviations/turbinate hypertrophy",-0.00389779311197642,0.00899840527109979,0,0.0119136860120999
+"PheCode:513.3","hypoventilation",0,0,0,0
+"PheCode:530.1","esophagitis, gerd and related diseases",0,0,0,0
+"PheCode:531.4","peptic ulcer, site unspecified",0.000262922211938088,0.00285790656164009,0,0.0188594575573248
+"PheCode:536.8","dyspepsia and other...stomach",0,0,0,0.00453058918827594
+"PheCode:540.1","appendicitis",0,0,0,0.00239396470476145
+"PheCode:550.2","diaphragmatic hernia",0.0123917133422202,0.01140610644765,0.000517980584241766,0.0110186653469196
+"PheCode:550.3","femoral hernia",0.0849376463462047,0.0926534250513339,0.0500028554152852,0.108571415385733
+"PheCode:550.4","umbilical hernia",0.0943983310188432,0.112526885234487,0.0683172649765602,0.113836655718017
+"PheCode:550.5","ventral hernia",0.0485873850886531,0.043693666293765,0.0571290411173071,0.0344371143538468
+"PheCode:550.6","incisional hernia",0.0466853368081252,0.0332096656535328,0.068112222872428,0.0267450593328066
+"PheCode:560.4","other intestinal obstruction",0,0,0,0.00278846172658594
+"PheCode:562.1","diverticulosis",0.00914697415104883,0.00865269854779131,0,0.0188360692209083
+"PheCode:562.2","diverticulitis",0,0,0,0
+"PheCode:564.9","personal history of diseases of digestive system",0,0,0.00563337130054784,0
+"PheCode:568.1","peritoneal adhesions postoperative postinfection",0,0,0,0
+"PheCode:574.1","cholelithiasis",0,0,0,0.0107247678480752
+"PheCode:575.8","other disorders of biliary tract",0,0,0,0
+"PheCode:578.8","hemorrhage of rectum and anus",0,0,0,0.0016037553780246
+"PheCode:586.2","cyst of kidney, acquired",0,0,0,0.00417107123060733
+"PheCode:593.2","microscopic hematuria",0.000555636185457014,0.00440831338353398,0,0.0152034979417374
+"PheCode:594.1","calculus of kidney",0.0114014113121511,0.0189456073848781,0,0.00952030953128706
+"PheCode:594.2","calculus of lower urinary tract",0,0,0,0
+"PheCode:594.3","calculus of ureter",0,0,0,0.00408501463818837
+"PheCode:596.1","bladder neck obstruction",-0.000879966281244373,0.00739594508971467,0,0.0253835782618881
+"PheCode:597.2","urinary complications nec",0,0,0,0.00401472930644002
+"PheCode:599.2","retention of urine",0,0,0,0.0090546287509699
+"PheCode:599.3","dysuria",0.000983628863873094,0.015931179443401,0,0.0210933249544852
+"PheCode:599.5","frequency of urination and polyuria",0.00330182757842145,0.0122641547623105,0,0.0244903681532805
+"PheCode:599.9","other abnormality of urination",3.0104561366165e-05,0.00182397838221864,0,0.0137121274707012
+"PheCode:600","hyperplasia of prostate",0.00820084171086766,0.00721365054250054,0.00810040930569561,0.0157583581773234
+"PheCode:601.1","prostatitis",0.00880713593534602,0.0352884782287819,0,0.0204686476175045
+"PheCode:601.3","orchitis and epididymitis",0.000808739304380138,0.0115653665987459,0,0.0288063779842747
+"PheCode:603.1","hydrocele",0.0910305384079241,0.0741131156741941,0.0627333050888974,0.0549013877981399
+"PheCode:603.2","spermatocele",0.00102066441961712,0.00627105239046069,0,0.02510204165676
+"PheCode:604.1","redundant prepuce and phimosis/bxo",0.102291773273266,0.00565949373812599,0.0935481433046689,0
+"PheCode:604.3","peyronie's disease",0,0,0,0.0178381972689338
+"PheCode:605","erectile dysfunction [ed]",0.0365596387453199,0.00964895196640297,0.0367027332858406,0
+"PheCode:608","other disorders of male genital organs",0.0308230554799667,0.0291006253146535,0.0400421283014316,0.0271552617695399
+"PheCode:637","short gestation; low...retardation",0.00825197753852535,0,0.0178609708351818,0
+"PheCode:656.1","isoimmunization of fetus or newborn",0,0,0,0
+"PheCode:656.2","respiratory conditions of fetus and newborn",0.00794990417062181,0,0.0148747222356554,0
+"PheCode:656.3","endocrine and metabolic...newborn",0.0084525192112684,0.000380981704702436,0.0199860617711171,0
+"PheCode:656.4","hemorrhage of fetus or newborn",0,0,0.00288229027107829,0
+"PheCode:656.5","hematological disorders of newborn",0.0423514747018017,0,0.0628275550296409,0
+"PheCode:656.6","perinatal disorders of digestive system",0.0448860278591041,0.00157218336323121,0.0236365612969848,0
+"PheCode:656.7","conditions involving the...newborn",0.0276245351002388,0.000768490236165921,0.00720488525369733,0
+"PheCode:689","disorder of skin and subcutaneous tissue nos",0,0,0,0
+"PheCode:702.1","actinic keratosis",0.00484505116820272,0.00930382655883963,0,0.0156410310184577
+"PheCode:702.2","seborrheic keratosis",0.0120152813376638,0.030528298045184,0,0.0210086573368729
+"PheCode:706.2","sebaceous cyst",-0.00034334613924813,0.00317597166632503,0,0.0172351146854912
+"PheCode:743.9","osteopenia or other disorder of bone and cartilage",4.84691010580458e-05,2.38803073891964e-05,0,0
+"PheCode:747.1","cardiac congenital anomalies",0,0,0,0
+"PheCode:748","anomalies of respiratory system, congenital",0.0224595220620435,0.00131243931114051,0.0199196759626617,0
+"PheCode:750.2","lower gastrointestinal congenital anomalies",0.0161015238705009,0.00465821567016019,0.00129967368810352,0
+"PheCode:751.1","congenital anomalies of genital organs",0.0822602508045804,0.03220417736084,0.0675159037371496,0.0152866932917369
+"PheCode:751.2","congenital anomalies of urinary system",0,0,0,0
+"PheCode:752.2","other specified congenital...system",0.0178333055148914,0.00514550213314578,0.0224629018394904,0
+"PheCode:756.1","congenital anomalies of abdominal wall; diaphram",0.0613395737859212,0.0014868626071914,0.0465904651916643,0
+"PheCode:785","abdominal pain",0.0038979210545886,0.00714233310423204,0,0.0151436878629561
+"PheCode:796","elevated prostate specific antigen [psa]",0.0471821789998061,0.0348051974977329,0.0302975885707983,0.0190391235336472
+"PheCode:850","hemorrhage or hematoma complicating a procedure",0,0,0,0.0063688389451891
+"PheCode:977","personal history of allergy to medicinal agents",0,0,0,0
+"RXNORM:10154","succinylcholine",0,0,0,0
+"RXNORM:107606","bupivacaine/epinephrine",0.0120912436538044,0,0.0285965883107471,0
+"RXNORM:142439","hydrocodone bitartrate",0,0.00841217337695224,0,0.0312955528984821
+"RXNORM:1815","bupivacaine",0.0238454054587306,0.00076481784577933,0.00209210465401514,0
+"RXNORM:1886","caffeine",0,0,0.00491636422080728,0
+"RXNORM:2180","cefazolin",0.00429288320271454,0.00454651201197785,0,0.00859976279692346
+"RXNORM:2396","chlorothiazide",0,0,0,0
+"RXNORM:32521","rocuronium bromide",0.00624640910240836,0.000386219019477672,0,0
+"RXNORM:34905","proparacaine",0,0,0,0
+"RXNORM:35780","ropivacaine",0.00863717098849697,0.0172885788337793,0,0.0511987465756225
+"RXNORM:3966","ephedrine",0,0,0,0
+"RXNORM:4955","glycopyrrolate",0,0,0,0
+"RXNORM:5489","hydrocodone",0,0,0,0.0104971097809564
+"RXNORM:690312","cyclopentolate/phenylephrine",0.0217490251504784,0,0.0582816741938161,0
+"RXNORM:71517","propoxyphene hcl",0,0.00676021986916487,0,0.0332880438077142
+"RXNORM:71535","vecuronium",0,0,0,0
+"RXNORM:73032","remifentanil",0,0,0,0
+"RXNORM:7315","neostigmine",0.0103004613950983,0.00836106413555086,0,0
+"RXNORM:817579","acetaminophen/codeine",0,0,0.00266074642819396,0
+"RXNORM:8536","polymyxin b",0,0,0.00206246886281443,0
+"RXNORM:8782","propofol",0,0,0,0
+"ShortName:Bilirubin Stick","bilirubin stick",0,0,0,0
+"ShortName:PSA","psa",0,0,0,0.0068371224664144

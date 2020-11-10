@@ -1,0 +1,80 @@
+"Variable","Description","Integrative_Estimator_RPDR","Integrative_Estimator_VA","Local_Estimator_RPDR","Local_Estimator_VA"
+"CCS:222","blood transfusion",0,0,0,0
+"CCS:224","cancer chemotherapy",0,0,0.021496254878427,0
+"CCS:62","other diagnostic cardiovascular procedures",0,0,0.0614256007343482,0
+"CCS:63","other non-or therapeutic cardiovascular procedures",0,0,0,0
+"LOINC:11253-2","tacrolimus",0,0,0.0321327244730242,0
+"LOINC:13513-7","iron stain group:fe-bma",0,0,0.0214932864703343,0
+"LOINC:2532-0","lactate dehydrogenase",0,0,0.0357496800706788,0
+"LOINC:3246-6","fibrin split products/d-dimer group:fsp/dd",0,0,0.0395964718118056,0
+"LOINC:3251-6","fibrin split prods group:fsp",0,0,0.0336240729089904,0
+"LOINC:3520-4","cyclosporine",0,0,0,0
+"LOINC:4542-7","haptoglobin",0,0,0.0483450052299964,0
+"LOINC:4644-1","hemosiderin, urine group:uhmsid",0,0,0,0
+"LOINC:4679-7","reticulocytes/100 erythrocytes",0,0,0.0458918596199749,0
+"LOINC:50670-9","rbc agglutination group:rbcagg",0,0,0,0
+"LOINC:709-6","blasts/100 leukocytes",0,0,0,0
+"LOINC:721-1","hgb - pl group:phgb",0,0,0.143546843895993,0
+"LOINC:7791-7","dacryocytes",0,0,0,0
+"LOINC:7798-2","smudge cells",0,0,0,0
+"LOINC:783-1","promyelocytes/100 leukocytes",0,0,0,0
+"LOINC:800-3","schistocytes",0,0,0,0
+"LOINC:X2024-8","special slide group:spslide",0,0,0.0485962770433781,0
+"Other lab:1000032557","rbc mor",0,0,0,0
+"Other lab:1000033969","teardro",0,0,0,0.0228750754249013
+"Other lab:1000037310","plt.est",0,0,0,0
+"Other lab:1000039701","polychr",0,0,0,0
+"Other lab:1000040931","plt mor",0,0,0,0
+"Other lab:1000042131","segs",0,0,0,0
+"Other lab:1000048861","bands",0,0,0,0
+"Other lab:1000064552","macrocy",0,0,0,0
+"Other lab:1000074649","ovaloc",0,0,0,0
+"Other lab:1000076166","plt.e",0,0,0,0
+"Other lab:1200000145","gran #",0,0,0,0
+"Other lab:1200000146","gran %",0,0,0,0
+"Other lab:1200006433","urobili",0,0,0,0
+"Other lab:1200006436","glu",0,0,0,0
+"Other lab:1200006437","protein",0,0,0,0
+"Other lab:1200012283","retic",0,0,0,0
+"Other lab:1200012373","uric",0,0,0,0
+"Other lab:1200027437","nrbc",0,0,0,0
+"Other lab:1200028644","ur. bld",0,0,0,0
+"Other lab:1200028669","leu ase",0,0,0,0
+"Other lab:1200035456","t.p.",0,0,0,0
+"Other lab:1200046429","gran %",0,0,0,0
+"Other lab:1200047004","gran #",0,0,0,0
+"Other lab:1200070847","cast/ul",0,0,0,0
+"Other lab:1200074700","tp",0,0,0,0
+"Other lab:1200103867","plt suf",0,0,0,0
+"Other lab:1200103882","macro",0,0,0,0
+"Other lab:1200104150","rbc mo",0,0,0,0
+"Other lab:1200108174","ig%",0,0,0,0
+"Other lab:1200108175","ig abs",0,0,0,0
+"Other lab:1400000823","bands",0,0.0235772760396424,0,0.025619647335233
+"Other lab:1400002775","segs",0,0.0234055080367703,0,0.0216148062784351
+"Other lab:1400005665","plt.e",0,0.0207812523344759,0,0.0365461405654624
+"Other lab:1400045229","tp",0,0,0,0.0193969740302945
+"Other lab:1400564813","ig%",0,0,0,0
+"Other lab:1400564874","absig",0,0,0,0
+"Other lab:1400564909","neut#",0,0,0,0
+"Other lab:800025590","protein",0,0,0,0
+"Other lab:800031854","ldh",0,0,0,0
+"Other lab:800035013","plt suf",0,0,0,0
+"Other lab:800038812","platcnt",0,0,0,0
+"Other lab:800222760","calc",0,0,0,0
+"Other lab:800222761","tp",0,0,0,0
+"Other lab:800222826","globu",0,0,0,0
+"PheCode:204.1","lymphoid leukemia",0,0,0,0
+"PheCode:283.1","autoimmune hemolytic anemias",0.148171174818029,0.0947963302754605,0.243464413461048,0.0441081847279488
+"PheCode:283.2","non-autoimmune hemolytic anemias",0,0,-0.0229961744064891,0
+"PheCode:284.1","pancytopenia",0,0,0,0
+"PheCode:286.8","hypercoagulable state",0,0,0,0
+"PheCode:287.3","thrombocytopenia",0,0,0.0183372509675536,0
+"PheCode:288.1","decreased white blood cell count",0,0,0.0449854285644613,0
+"PheCode:289.1","myelofibrosis",0.0100702035247558,0.0755665104661262,0,0.055809694098006
+"PheCode:429.1","heart transplant/surgery",0,0,0.0288666144970313,0
+"PheCode:854","complications of cardiac/vascular...graft",0,0,0.104511540968004,0
+"PheCode:860","bone marrow or stem cell transplant",0,0,0.0361846039551711,0
+"RXNORM:1193326","ruxolitinib",0.00145520393741375,0.0319790435465784,0,0.0250895801822211
+"RXNORM:591781","eculizumab",0.0914526933759336,0,0.449997547254262,0
+"RXNORM:68442","filgrastim",0,0,0,0

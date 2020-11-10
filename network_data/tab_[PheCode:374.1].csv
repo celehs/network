@@ -1,0 +1,145 @@
+"Variable","Description","Integrative_Estimator_RPDR","Integrative_Estimator_VA","Local_Estimator_RPDR","Local_Estimator_VA"
+"CCS:14","glaucoma procedures",0,0,0,0
+"CCS:15","lens and cataract procedures",0,0,0,0
+"CCS:170","excision of skin lesion",0,0,0,0
+"CCS:171","suture of skin and subcutaneous tissue",-0.000293986926614848,0.00283260940278541,0,0
+"CCS:172","skin graft",-0.000943812259070972,0.00663636276915595,0,0.00945834702818854
+"CCS:173","other diagnostic procedures...tissue",0,0,0,0.00238365778063086
+"CCS:18","diagnostic procedures on eye",0.0182402080971571,0.0108390835282764,0.0486305197692168,0
+"CCS:19","other therapeutic procedures...cornea",0.104472394665185,0.135683948481487,0.0935470427688891,0.158781208113805
+"CCS:192","diagnostic ultrasound of head and neck",0,0,0,0
+"CCS:20","other intraocular therapeutic procedures",0,0,0,0.000620798750875509
+"CCS:21","other extraocular muscle...procedures",-0.00415959801283576,0.0334506832896226,0,0.0326175066222714
+"CCS:220","ophthalmologic and otologic...treatment",0.0125067230139803,0.00757544989007012,0.0157576677403045,0.00361916326870604
+"CCS:229","nonoperative removal of foreign body",0,0,0,0
+"CCS:232","anesthesia",0.00458656789062467,0.00343168506322549,0.0290774045108032,0
+"CCS:241","visual aids and other optical supplies",0,0,0,0
+"CCS:242","hearing devices and audiology supplies",0,0,0,0
+"CCS:26","other therapeutic ear procedures",0,0,0,0
+"Other lab:1200074699","col/epi",0,0,0,0
+"Other lab:1400056668","eag",0,0,0,0
+"PheCode:053.1","herpes zoster with nervous system complications",0,0,0,0
+"PheCode:1001","foreign body injury",0,0,0,0
+"PheCode:110.1","dermatophytosis",0,0,0,0
+"PheCode:145.3","cancer of major salivary glands",-0.0033682751460602,0.0169989519839861,0,0.00832085212914279
+"PheCode:149.9","cancer of of nasal cavities",-0.00266587364125291,0.0133432234890895,0,0
+"PheCode:172.1","melanomas of skin, dx or hx",0,0,0,0
+"PheCode:172.2","other non-epithelial cancer of skin",0.0393890637756576,0.0393730542825003,0.0682496065567465,0.0240951040565422
+"PheCode:172.3","carcinoma in situ of skin",-0.00350539908150753,0.0245942103197141,0,0.0220652432104016
+"PheCode:173","neoplasm of uncertain behavior of skin",-0.00155548327884935,0.00538171380905241,0,0.0190158482290745
+"PheCode:190","cancer of eye",-0.00160361648333823,0.00885646841557981,0,0.00549147914887632
+"PheCode:216.1","screening for malignant neoplasms of the skin",0,0,0,0
+"PheCode:217.1","nevus, non-neoplastic",-0.000629170409017052,0.00379745030803756,0,0
+"PheCode:224.1","benign neoplasm of eye, uveal",0.00131382612609353,0.0102069285196758,0,0.0337521928426019
+"PheCode:228.1","hemangioma of skin and subcutaneous tissue",-0.0010659339895751,0.0170462946376375,0,0.00632322691786501
+"PheCode:242.1","graves' disease",0,0,0,0
+"PheCode:242.3","exophthalmos",-0.00114553044554686,0.00506859212149919,0,0.00275040020204814
+"PheCode:250.7","diabetic retinopathy",0,0,0,0
+"PheCode:333.1","essential tremor",0,0,0,0
+"PheCode:333.4","torsion dystonia",0,0,0,0
+"PheCode:352.1","trigeminal nerve disorders [cn5]",0,0,0,0
+"PheCode:352.2","facial nerve disorders [cn7]",-0.0103686065791867,0.0243386109871759,0,0.0259034551833552
+"PheCode:361.1","retinal detachment with retinal defect",0,0,0,0
+"PheCode:361.2","retinoschisis and retinal cysts",-3.37050995676965e-07,0.00325003990074598,0,0
+"PheCode:362.2","degeneration of macula...retina",-0.00687293419743008,0.030895922106505,0,0.0254015034047484
+"PheCode:362.3","other nondiabetic retinopathy",0,0,0,0
+"PheCode:362.4","retinal vascular changes and abnomalities",0,0,0,0.0133678904582219
+"PheCode:362.6","peripheral retinal degenerations",0,0,0,0
+"PheCode:362.7","hereditary retinal dystrophies",-0.000174493566396219,0.00068821231722566,0,0
+"PheCode:362.8","retinal hemorrhage/ischemia",-0.000210518200033156,0.00121280081846225,0,0
+"PheCode:362.9","retinal edema",0,0,0,0
+"PheCode:363.3","chorioretinal scars",0.00604042682989081,0.0115907883445163,0.0170023242522497,0.0222735678030945
+"PheCode:364.1","corneal opacity",-0.0221475765924133,0.0270576400123759,0,0.0233037476921799
+"PheCode:364.2","corneal edema",0,0,0,0
+"PheCode:364.4","corneal degenerations",0.00821105248809991,0.00943450550549756,0.0151429055534081,0.0049811386013318
+"PheCode:364.5","corneal dystrophy",0.00148083479287225,0.00834275292536545,0,0.00899686960821705
+"PheCode:364.9","cornea replaced by transplant",0,0,0,0.00464225629119828
+"PheCode:365.1","open-angle glaucoma",-0.0171341231453279,0.00941829476478082,0,0.00780723310862178
+"PheCode:365.2","primary angle-closure glaucoma",-0.000618069937021742,0.014276737389705,0,0.0180694711350505
+"PheCode:365.5","pseudoexfoliation glaucoma",0.00682714620319955,0.0283082082821997,0,0.0279921092521892
+"PheCode:366.1","nonsenile cataract",0,0,0,0.00452326433285434
+"PheCode:366.2","senile cataract",0.0384984255624178,0.0246508528446468,0.0384167958291963,0
+"PheCode:367.1","myopia",0,0,0,0
+"PheCode:367.2","astigmatism",0,0,0,0.0114403265134676
+"PheCode:367.4","presbyopia",0,0,0,0
+"PheCode:367.8","hypermetropia",0,0,0,0
+"PheCode:367.9","blindness and low vision",0,0,0,0
+"PheCode:368.1","amblyopia",-0.000233095610477303,0.0171518455947222,0,0.0331161768182588
+"PheCode:368.2","diplopia and disorders of binocular vision",-0.00859475061213208,0.0185498577411251,0,0.00591504774043801
+"PheCode:368.3","anisometropia",0,0,0,0
+"PheCode:368.4","visual field defects",0,0,0,0.00290713192131823
+"PheCode:368.9","subjective visual disturbances",0,0,0,0
+"PheCode:369.2","eye infection, viral",0.00144791886216525,0.00747686867120366,0.000632444081906463,0.011091695778043
+"PheCode:369.5","conjunctivitis, infectious",0.00341698956670488,0.0498003974068705,0,0.0559716740619143
+"PheCode:370.1","corneal ulcer",0.12237308056502,0.0486527235371754,0.135873103255178,0.0175839730094378
+"PheCode:370.2","superficial keratitis",0.0200781668791001,0.0378738184447715,0.021168350622874,0.0376531062876962
+"PheCode:370.3","keratoconjunctivitis",0.0344097425853826,0.0529561416626345,0.0418012208348256,0.048335336749214
+"PheCode:371.1","uveitis, noninfectious or nos",0,0,0,0
+"PheCode:371.2","conjunctivitis, noninfectious",0.00634458241969016,0.0285962309221295,0,0.0210461537837257
+"PheCode:371.3","inflammation of eyelids",0.0989959662415394,0.0789710316228344,0.106406423548017,0.0568830843728741
+"PheCode:372","disorders of conjunctiva",0.00954591849737819,0.0502326350337699,0,0.0358680034598814
+"PheCode:374.2","lagophthalmos",-0.00238259015325417,0.0314124338210892,0,0.0382835702513456
+"PheCode:374.3","ptosis of eyelid",0.129784095041346,0.0921444768123942,0.175270783737308,0.0715514198091235
+"PheCode:374.6","dermatochalasis",0.0158099565191267,0.0527325950172186,0.00567319924498547,0.0585348303301533
+"PheCode:375.1","dry eyes",0.0548108174474918,0.0350187483165019,0.0479437739851016,0.0281948281995601
+"PheCode:375.2","epiphora",0.299104090062716,0.106166766759151,0.327315563892095,0.0539328489015414
+"PheCode:376","disorders of the orbit",0.000231931606855115,0.0131493620541213,0,0.0182973952825588
+"PheCode:377.1","optic atrophy",0.000352158395151334,0.0209430455308782,0,0.00873499931135476
+"PheCode:377.3","optic neuritis/neuropathy",-0.00885332980419858,0.0144174094468155,0,0
+"PheCode:378.1","strabismus not specified as paralytic",-0.00120618099877017,0.00775372353952338,0,0.0239842238827197
+"PheCode:378.5","paralytic strabismus",0,0,0,0
+"PheCode:379.1","scleritis and episcleritis",0,0,0,0
+"PheCode:379.2","disorders of vitreous body",-0.00568703235460977,0.00415143239940576,0,0
+"PheCode:379.3","aphakia and other disorders of lens",-0.00290697105014945,0.0226631354038365,0,0.00623599031877023
+"PheCode:379.4","anomalies of pupillary function",0,0,0,0
+"PheCode:379.5","disorders of iris and ciliary body",0,0,0,0
+"PheCode:379.9","pain, swelling or discharge of eye",-0.00137396008374544,0.00606826335024737,0,0.0184823415233541
+"PheCode:380.1","otitis externa",0,0,0,0
+"PheCode:380.4","impacted cerumen",0,0,0,0.000638579094100832
+"PheCode:381.1","otitis media",0,0,0,0
+"PheCode:389.1","sensorineural hearing loss",0,0,0,0
+"PheCode:426.2","atrioventricular [av] block",0,0,0,0
+"PheCode:500.2","pneumoconiosis",0,0,0,0
+"PheCode:689","disorder of skin and subcutaneous tissue nos",0,0,0,0
+"PheCode:690.1","seborrheic dermatitis",0,0,0,0.00822974740026272
+"PheCode:694.2","other dyschromia",-0.000673480054201048,0.00202880440335055,0,0
+"PheCode:695.2","bullous dermatoses",0.00210117288535245,0.0125301894170919,0,0.0200954181872118
+"PheCode:695.3","rosacea",0.00563485005209379,0.0120234077238734,0,0.0132654573947298
+"PheCode:701.1","keratoderma, acquired",0,0,0,0
+"PheCode:701.2","scar conditions and fibrosis of skin",-0.00430585197063888,0.0157592624639141,0,0.00948325338221257
+"PheCode:702.1","actinic keratosis",0,0,0,0.00490557047873185
+"PheCode:702.2","seborrheic keratosis",-0.000265707046076894,0.00121562942474208,0,0.00124697147730499
+"PheCode:703.1","ingrowing nail",0,0,0,0
+"PheCode:704.8","other specified diseases...follicles",0,0,0,0
+"PheCode:706.2","sebaceous cyst",0,0,0,0
+"PheCode:706.8","other specified diseases of sebaceous glands",-7.19480648017485e-05,0.000200475102752824,0,0.00307580533139317
+"PheCode:709.2","sicca syndrome",0,0,0,0
+"PheCode:780","hypothermia/chills",0,0,0,0
+"PheCode:870.1","open wound or laceration of eye or eyelid",0.00284127762490663,0.0166648282228091,0,0.0161431978074921
+"PheCode:870.3","other open wound of head and face",0,0,0,0
+"PheCode:915","superficial injury without mention of infection",0,0,0,0.00234888036771755
+"PheCode:938.2","chronic dermatitis due to solar radiation",-0.00355042061224566,0.0138709249726127,0,0.0136707732605259
+"PheCode:939.1","contact and allergic dermatitis of eyelid",-0.00142104705768149,0.05350016050642,0,0.0467283134290296
+"RXNORM:10627","tobramycin",0,0,0,0
+"RXNORM:10803","trifluridine",0,0,0,0
+"RXNORM:1232150","aflibercept",0,0,0,0
+"RXNORM:135391","olopatadine",0,0,0,0
+"RXNORM:139462","moxifloxacin",0.0418739058279662,0.000594098757829822,0.0491941531862942,0
+"RXNORM:216525","dexamethasone/neomycin/polymyxin b",0,0.0137522187000517,0,0.0404390650555469
+"RXNORM:219314","polymyxin b/trimethoprim",0,0,0,0
+"RXNORM:237027","loteprednol",-0.000960134615883787,0.00118772038276516,0,0
+"RXNORM:3001","cyclopentolate",0,0,0,0
+"RXNORM:4053","erythromycin",0.0274158879034272,0.0214596331684294,0.0343618992615893,0.00706242847457205
+"RXNORM:4491","fluorometholone",0.00670483278581433,0.00751709737278441,0.0316197707528993,0
+"RXNORM:491498","carboxymethylcellulose sodium",0,0,0,0
+"RXNORM:50610","goserelin",0,0,0,0
+"RXNORM:59943","imiquimod",-1.90285501316502e-05,9.14994096141459e-05,0,0
+"RXNORM:6146","ketotifen",0,0,0,0
+"RXNORM:645555","bacitracin/polymyxin b",0,0,0,0
+"RXNORM:689623","bacitracin/hydrocortisone/neomycin/polymyxin b",0,0,0,0
+"RXNORM:689953","polyethylene glycol 400/propylene glycol",0,0,0,0
+"RXNORM:690161","prednisolone/sulfacetamide",1.00732725275847e-06,0.000512558528349462,0,0.00011080935659176
+"RXNORM:746083","lubricating oph oint",0,0.00693786112460235,0,0.0218564834515902
+"RXNORM:7623","ofloxacin",0,0,0,0
+"RXNORM:8638","prednisolone",0.029704616930854,0.00876885189891059,0.00850769389047011,0
+"RXNORM:883815","dexamethasone/tobramycin",-0.00319430285336897,0.0224959610091826,0,0.0350902850481882

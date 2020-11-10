@@ -1,0 +1,137 @@
+"Variable","Description","Integrative_Estimator_RPDR","Integrative_Estimator_VA","Local_Estimator_RPDR","Local_Estimator_VA"
+"CCS:218","psychological and psychiatric...therapy",0.0160810553206175,0.0104187786921339,0.0228832677052579,0
+"CCS:227","other diagnostic procedures...consultation",0,0,0.00787655138470603,0
+"CCS:231","other therapeutic procedures",0,0,0.0130293742891448,0
+"CCS:233","laboratory - chemistry and hematology",0,0,0.00733746626231507,0
+"LOINC:10466-1","anion gap 3",0,0,0.00472095763395476,0
+"LOINC:13347-0","rna polymerase abs group:rnapoly",0,0,0.0033673596084136,0
+"LOINC:13588-9","venlafaxine group:venlfx",0,0,0.0142499687805035,0
+"LOINC:19048-8","nrbc% auto group:nrbc%",0,0,0.0369809124072805,0
+"LOINC:27099-1","vitamin b2 group:vitb2",0,0,0.00262338554324449,0
+"LOINC:3312-6","alprazolam xanax group:alpraz",0,0,0.00529711781939182,0
+"LOINC:3335-7","amitriptyline+nortriptyline group:aminor",0,0,0.00954490814734323,0
+"LOINC:33914-3","gfr estimated group:gfr",0,0,0.00838994131212321,0
+"LOINC:34200-6","nrbc#, auto group:nrbca",0,0,0.0102016228548845,0
+"LOINC:3491-8","clomipramine group:clom",0,0,0.020653146416951,0
+"LOINC:3531-1","desipramine group:desip",0,0,0.0105247624070999,0
+"LOINC:55349-5","ethyl glucuronide, urine group:etg",0,0,0.0193505438805296,0
+"LOINC:56007-8","arachid induced 0.5 mm group:arach05",0,0,0.0200335018128311,0
+"LOINC:56008-6","collagen induced 1 ug/ml group:collag1",0,0,2.41591121074814e-15,0
+"LOINC:56009-4","collagen induced 5 ug/ml group:collag5",0,0,2.30355912544449e-15,0
+"LOINC:772-4","erythrocytes.nucleated",0,0,-0.00991033934324885,0
+"LOINC:776-5","mean platelet volume group:mvp",0,0,0.0120965242928251,0
+"LOINC:X7013-6","other findings ii tox group:otfii",0,0,0.0143576772441289,0
+"Other lab:1000048582","barbs",0,0,0,0
+"Other lab:1000110086","opiate semi quant",0,0,0,0
+"Other lab:1200012404","barbs",0,0,0,0
+"Other lab:1200037238","barbs",0,0,0,0
+"Other lab:1200089763","acuchek",0,0,0,0
+"Other lab:1400046439","barbs",0,0,0,0
+"Other lab:1400057084","barbs",0,0,0,0.0203703616096639
+"Other lab:1400069898","protein",0,0,0,0
+"PheCode:260.7","polyphagia",0,0,0.0282801373295009,0
+"PheCode:292.2","mild cognitive impairment",0,0,0,0
+"PheCode:295.2","paranoid disorders",0,0,0,0
+"PheCode:296.2","depression",0.0298646889011365,0.0286048493626151,0.038677197762206,0
+"PheCode:297.1","suicidal ideation",0.000184192295853151,0.00382294019149941,0,0
+"PheCode:297.2","suicide or self-inflicted injury",0,0,0,0
+"PheCode:300.1","anxiety disorder",0.0079733840594041,0.0104655498964989,0.0400831146893533,0
+"PheCode:300.3","obsessive-compulsive disorders",1.71249367587736e-05,0.000163645431887972,0,0
+"PheCode:300.4","dysthymic disorder",0,0,0,0
+"PheCode:300.9","posttraumatic stress disorder",0,0,0,0
+"PheCode:301.1","schizoid personality disorder",0,0,0.0112434667260303,0
+"PheCode:301.2","antisocial/borderline personality disorder",0,0,0,0
+"PheCode:303.1","dissociative disorder",0,0,0.0134766453485591,0
+"PheCode:305.2","eating disorder",0.00312691799832408,0.0290033350656563,0,0
+"PheCode:313.1","attention deficit hyperactivity disorder",0.000170661333040426,0.0314733157494491,0,0.00938553173163531
+"PheCode:317.1","alcoholism",0,0,0,0
+"PheCode:327.7","sleep related movement disorders",0,0,0,0
+"PheCode:333.3","tics and choreas",0,0,0.011815541326871,0
+"PheCode:347","cataplexy and narcolepsy",0,0,0.0127810992793515,0
+"PheCode:526.8","exostosis of jaw",0,0,0.00814443741541953,0
+"PheCode:564.1","irritable bowel syndrome",0,0,0,0
+"PheCode:626.4","premenstrual tension syndromes",0,0,0.0172435495671377,0
+"PheCode:965.3","salicylates causing adverse...use",0,0,0.0099859000589884,0
+"PheCode:971","poisoning by drugs...system",0,0,0.0116492958379857,0
+"PheCode:972.6","antihypertensive agents causing adverse effects",0,0,0.00983957607736324,0
+"RXNORM:1008559","ferrous fumarate/folic acid",0,0,0.0101188509511132,0
+"RXNORM:10379","testosterone",0,0,0,0
+"RXNORM:10390","tetrabenazine",0,0,0,0.0170194753256229
+"RXNORM:1040028","lurasidone",0.00227702270985829,0.0386468490420235,0,0.0202650433532293
+"RXNORM:10502","thioridazine",0,0,0.010716378050016,0
+"RXNORM:10510","thiothixene",0,0,0.00216749072845415,0
+"RXNORM:106964","hydrocortisone/lidocaine",0,0,0.00799179313160131,0
+"RXNORM:107011","nystatin/triamcinolone",0,0,0.0037274421765177,0
+"RXNORM:10734","tranylcypromine",0,0,0.0234196296635712,0
+"RXNORM:10737","trazodone",0,0,0,0
+"RXNORM:10814","liothyronine",0.00289530443132416,0.0271407663507215,0,0.0139058330025335
+"RXNORM:1114883","curcuma",0,0,0.00651102235154694,0
+"RXNORM:114979","rabeprazole",0,0,0.0100405241716691,0
+"RXNORM:125933","cranberry",0,0,0.00481753748222081,0
+"RXNORM:1307404","linaclotide",0,0,0.0169544268753899,0
+"RXNORM:1455099","vortioxetine",0,0,0.0480912281816462,0
+"RXNORM:1487518","umeclidinium/vilanterol",0,0,0,0
+"RXNORM:1827","buspirone",0,0,0,0
+"RXNORM:18603","azelastine",0,0,0,0
+"RXNORM:187832","pregabalin",0,0,0,0
+"RXNORM:214130","acetaminophen/butalbital/caffeine",0,0,0,0
+"RXNORM:214181","acetaminophen/diphenhydramine",0,0,0.00805088673076744,0
+"RXNORM:21949","cyclobenzaprine",0,0,0,0
+"RXNORM:2296","charcoal",0,0,0,0
+"RXNORM:253146","amphetamine/dextroamphetamine",-0.000629628635385839,0.0103832735861281,0,0.000247228453062594
+"RXNORM:2597","clomipramine",0,0,0.0125939606536161,0
+"RXNORM:2598","clonazepam",0,0,0.0418115107405528,0
+"RXNORM:260101","oseltamivir",0,0,0,0
+"RXNORM:2635","coal tar",0,0,0.00356236993532434,0
+"RXNORM:28439","lamotrigine",0,0,0,0
+"RXNORM:30125","modafinil",0,0,0,0
+"RXNORM:3013","cyproheptadine",0,0,0,0
+"RXNORM:31565","nefazodone",0,0,0.0401484002971083,0
+"RXNORM:31914","tiagabine",0,0,0.00830447898718051,0
+"RXNORM:324050","meningococcal b",0,0,0.0022492535836257,0
+"RXNORM:3247","desipramine",0,0,0.00897593992817,0
+"RXNORM:32613","oxaprozin",0,0,0.00436299628391217,0
+"RXNORM:3288","dextroamphetamine",0.0013110578489578,0.0140480039808767,0,0.00987415978267077
+"RXNORM:3355","diclofenac",0,0,0,0
+"RXNORM:3361","dicyclomine",0,0,0,0
+"RXNORM:3393","diflunisal",0,0,0.00371471942734637,0
+"RXNORM:352364","buprenorphine/naloxone",-0.00041362593127565,0.00665813830675218,0,0.00248925383306354
+"RXNORM:352372","dexmethylphenidate",0,0,0.0109040512145255,0
+"RXNORM:3554","disulfiram",0.00425968551762424,0.0307624659377193,0.016384387597093,0.0192080454340337
+"RXNORM:3626","domperidone",0,0,0.00440471636196053,0
+"RXNORM:3638","doxepin",0,0,0,0
+"RXNORM:37418","sumatriptan",0,0,0,0
+"RXNORM:38400","atomoxetine",0.00138105908260797,0.0265215704361088,0,0.0193852020659719
+"RXNORM:38866","trolamine salicylate",0,0,0.00292767898592425,0
+"RXNORM:39993","zolpidem",0,0,0,0
+"RXNORM:407884","l-methylfolate",0,0,0.0433786340934513,0
+"RXNORM:4083","estradiol",0.00056974682142791,0.0212945429235145,0,0.00198510039766763
+"RXNORM:42347","bupropion",0,0,0.0534797563562478,0
+"RXNORM:4440","flavoxate",0,0,0.00303619924509386,0
+"RXNORM:4502","flurbiprofen",0,0,0.00411343825857341,0
+"RXNORM:461016","eszopiclone",0.00159436928671831,0.0271158788980297,0,0.0204976683467873
+"RXNORM:46241","aluminum chloride",0,0,0.0102773086519847,0
+"RXNORM:466584","acetaminophen/aspirin/caffeine",0,0,0.0096662718851461,0
+"RXNORM:475968","liraglutide",0,0,0,0
+"RXNORM:5553","hydroxyzine",0,0,0,0
+"RXNORM:5691","imipramine",0,0,0.00887757742820645,0
+"RXNORM:641465","armodafinil",0,0,0.0250390839681666,0
+"RXNORM:6448","lithium",0,0,0,0
+"RXNORM:6470","lorazepam",0,0,0.0324131977177334,0
+"RXNORM:6475","loxapine",0,0,0.0139429005566808,0
+"RXNORM:690161","prednisolone/sulfacetamide",0,0,0.0026837565556974,0
+"RXNORM:700810","lisdexamfetamine",0.0106406351713237,0.115623443918896,0,0.118350453794003
+"RXNORM:7243","naltrexone",0,0,0,0
+"RXNORM:734064","desvenlafaxine",0,0,0.0196504893270432,0
+"RXNORM:7407","nicotine",0,0,0,0
+"RXNORM:74667","zaleplon",0,0,0.0137415366619555,0
+"RXNORM:784649","asenapine",0,0,0.0265258678213714,0
+"RXNORM:787390","tapentadol",0,0,0.00742517529900598,0
+"RXNORM:794809","menthol/zinc oxide",0,0,0.0040070527043824,0
+"RXNORM:8124","phenelzine sulfate",0,0,0.0378273469190349,0
+"RXNORM:82819","acamprosate",0,0,0,0
+"RXNORM:8629","prazosin",0,0,0,0
+"RXNORM:8787","propranolol",0,0,0,0
+"RXNORM:89013","aripiprazole",0,0,0,0
+"RXNORM:9639","selegiline",0,0,0.0124585538720005,0
+"RXNORM:97016","vitamin a/vitamin d",0,0,0.00355029115614757,0

@@ -1,0 +1,403 @@
+"Variable","Description","Integrative_Estimator_RPDR","Integrative_Estimator_VA","Local_Estimator_RPDR","Local_Estimator_VA"
+"CCS:176","other organ transplantation",0,0,0,0
+"CCS:179","ct scan abdomen",0,0,0,0
+"CCS:194","diagnostic ultrasound of gastrointestinal tract",0,0,0,0
+"CCS:196","diagnostic ultrasound of...retroperitoneum",0.0669312832025875,0.0657056991786238,0.0603682692013533,0.0538870155754755
+"CCS:219","alcohol and drug rehabilitation/detoxification",0,0,0.0213002223880227,0
+"CCS:222","blood transfusion",0,0,0,0
+"CCS:244","gastric bypass and volume reduction",0.0429937503157228,0.00448122178791578,0.0558714431363065,0
+"CCS:56","other vascular bypass and shunt, not heart",0.0202972687664739,0.0241982404812861,0.0235385330153906,0.00458727108832062
+"CCS:68","injection or ligation of esophageal varices",0.0278983705301252,0.0247476191452567,0.0467870907782325,0.00923947397218479
+"CCS:70","upper gastrointestinal endoscopy, biopsy",0.00574458839758198,0.0059563552260679,0.0130854590235184,0
+"CCS:74","gastrectomy, partial and total",0,0,0.0207691378842883,0
+"CCS:83","biopsy of liver",0.0113457428864984,0.00449785968901535,0.0219746308515812,0
+"CCS:88","abdominal paracentesis",0.0305167765044817,0.0241394166024762,0.0226766562470842,0.027122899017386
+"CCS:92","other bowel diagnostic procedures",0,0,0.00301746433037889,0
+"CCS:93","other non-or upper gi therapeutic procedures",0,0,0,0
+"CCS:97","other gastrointestinal diagnostic procedures",0.00762803938405397,0.0108309718489605,0.00606975675186449,0.0148288654903307
+"CCS:98","other non-or gastrointestinal...procedures",0,0,0,0
+"LOINC:10330-9","csf/f monocytes group:f-mono",0,0,0,0
+"LOINC:10335-8","color",0,0,0,0
+"LOINC:10900-9","hbv surface ab group:hbsab",0.0105564499245566,0,0.0153411654632908,0
+"LOINC:11011-4","hcv viral load iu/ml group:hcvrnaq",0,0,0.020367851957713,0
+"LOINC:11031-2","fluid lymphs group:flymph",0,0,0,0
+"LOINC:11153-4","csf/f mhct group:f-mhct",0,0,0,0
+"LOINC:11258-1","hepatitis b virus dna",0.0235116259873148,0.025628758956061,0,0.0145392355236325
+"LOINC:11259-9","hcv rna qual group:hcvrna3",0,0,0.00404191030072571,0
+"LOINC:11276-3","renal tubular cells group:uas-tubu",0,0,0,0
+"LOINC:12183-0","fluid cholesterol group:fchol",0,0,0.00719017787695213,0
+"LOINC:12201-0","cryoglobulins group:cryog",0,0,0.00567778497965761,0
+"LOINC:12209-3","csf/f eos group:f-eos",0,0,0,0
+"LOINC:12217-6","fluid globulin group:fglob",0,0,0,0
+"LOINC:12230-9","macrophages/100 leukocytes",0.0132927241978926,0.0165709997146961,0,0.00306627281886091
+"LOINC:12234-1","mesothelial cells/100 leukocytes",0,0,0,0
+"LOINC:12238-2","csf/f polys group:f-poly",0,0,0,0
+"LOINC:12950-2","fluid triglycerides group:ftri",0,0,0,0
+"LOINC:13056-7","plt citrated bld group:plt-plasma",0,0,0.0395025834374744,0
+"LOINC:13238-1","ebv abs group:ebvab",0,0,0,0
+"LOINC:13354-6","csf/f bands group:f-band",0,0,0.00737302237817371,0
+"LOINC:13518-6","csf/f atyps group:f-atyp",0,0,0,0
+"LOINC:13520-2","csf/f basos group:f-baso",0,0,0,0
+"LOINC:13522-8","fluid blast group:fblast",0,0,0,0
+"LOINC:13524-4","csf/f other hematics group:f-othr",0,0,0,0
+"LOINC:13526-9","csf/f nonhematics group:f-non",0,0,0.0330551540496106,0
+"LOINC:13528-5","csf/f unidentified group:f-unid",0,0,0.0152461033350733,0
+"LOINC:13530-1","fluid nrbc group:fnrbc",0,0,0,0
+"LOINC:13543-4","fluid phosphorus group:fp",0,0,0.00646798809344958,0
+"LOINC:13919-6","hbv core abs group:hbsabt",0,0,0,0
+"LOINC:13949-3","cmv ab, igg group:cmvg",0,0,0,0
+"LOINC:13950-1","hepatitis a virus ab.igm",0,0,0.00132662845906956,0
+"LOINC:13951-9","hepatitis a virus ab",0.0323066270000651,0.0204144912392809,0.0132783875744462,0
+"LOINC:13952-7","hepatitis b virus core ab",0,0,0,0
+"LOINC:13953-5","hepatitis b virus little e ab",0,0,0,0
+"LOINC:13954-3","hbv e ag group:hbe-ag",0,0,0,0
+"LOINC:13955-0","hcv ab group:hcvab",0,0,0,0
+"LOINC:14252-1","smooth muscle ab group:smareslt",0.0360394307885157,0,0.0372092444089007,0
+"LOINC:14664-7","color",0,0,0,0.00462745949071593
+"LOINC:15174-6","cryocrit group:crycrt",0,0,0.00607035991764678,0
+"LOINC:15176-1","cryoprotein identification group:cryoid",0,0,0.0411489010329337,0
+"LOINC:15212-4","lipase, fluid u/l group:flipa",0,0,0.000986633505541735,0
+"LOINC:15396-5","toxoplasma ab, igg group:toxoigg",0,0,0.00399851066054745,0
+"LOINC:15410-4","varicella ab, igg group:varigg",0,0,0,0
+"LOINC:16362-6","ammonia",0,0,0,0.00427199056870489
+"LOINC:16935-9","hepatitis b virus surface ab",0,0,0,0.00771434670471245
+"LOINC:1747-5","fluid albumin group:falb",0,0,0.0365309639135377,0
+"LOINC:17780-8","h. pylori ag group:hpyag",0,0,0.00631727626776295,0
+"LOINC:17799-8","promyelocytes, fluid % group:fpmyelo",0.00326834745023494,0,0.0208003958976209,0
+"LOINC:17800-4","myelocytes, fluid % group:fmyelo",0,0,0,0
+"LOINC:17801-2","metamyelocytes, fld % group:fmeta",0,0,0.00072350975842317,0
+"LOINC:17803-8","plasma cells, fluid group:fpcell",0.00398092983011644,0,0.0183748544261249,0
+"LOINC:17850-9","hsv 1 ab, igg group:hsv1igg",0,0,0.0166671652871215,0
+"LOINC:17851-7","hsv 2 ab, igg group:hsv2igg",0,0,0.000299859008809315,0
+"LOINC:1795-4","fluid amylase group:famy",0,0,0.00837683878351888,0
+"LOINC:1834-1","alpha-1-fetoprotein",0.0338449689306616,0.0971576665435711,0.0156874627431461,0.0918500928429708
+"LOINC:1839-0","ammonia group:nh3",0,0,0.0249324952223393,0
+"LOINC:1968-7","direct bilirubin group:dbili",0,0,0,0
+"LOINC:1974-5","fluid total bili group:fbili",0,0,0,0
+"LOINC:20416-4","hcv viral load copies/ml group:hepcrna",0,0,0,0
+"LOINC:20450-3","afp mom group:afpmom",0,0,0.0485640941792463,0
+"LOINC:20471-9","isopropanol group:isopr",0.0146164768105479,0,0.0444836842861144,0
+"LOINC:20479-2","measles virus ab.igg",0,0,0.018028152785943,0
+"LOINC:20512-0","turbidity",0,0,0,0
+"LOINC:20513-8","turbidity",0,0,0,0.0114446015518836
+"LOINC:2064-4","ceruloplasmin",0,0,0.0122926838439581,0
+"LOINC:21260-5","ebv nuclear ab group:ebvnab",0,0,0,0
+"LOINC:21570-7","toxoplasma ab, igg group:toxoigg",0,0,9.13312536789963e-05,0
+"LOINC:21597-0","varicella ab, igm group:varigm",0,0,0.0214939962666424,0
+"LOINC:21694-5","hfe gene analysis group:hfedna",0,0,0.0165903228124448,0
+"LOINC:22285-1","e. histolytica ab, igg group:ehist",0,0,0,0
+"LOINC:22322-2","hepatitis b virus surface ab",0,0,0,0
+"LOINC:22330-5","hepatitis d virus ab",0,0,0,0
+"LOINC:22415-4","mumps virus ab.igg",0.0216959177346798,-0.00269402939422071,0.0355483379813646,0
+"LOINC:22584-7","toxoplasma ab, igm group:toxom",0,0,0.0257242889116357,0
+"LOINC:2276-4","ferritin group:fer",0,0,0.00888934739269216,0
+"LOINC:2336-6","globulin group:glob",0,0,0,0
+"LOINC:2344-0","fluid glucose group:fglu",0,0,0.0198085014040934,0
+"LOINC:24113-3","hbv core ab, igm group:hbcigm",0,0,0,0
+"LOINC:24114-1","ebv - vca ab, igg group:ebvcag",0,0,0,0
+"LOINC:24115-8","ebv - vca ab, igm group:ebvcam",0,0,0.00248515131792406,0
+"LOINC:24119-0","cmv ab, igm group:cmvm",0,0,0.00424308019133363,0
+"LOINC:24398-0","toxoplasma ab, igm group:toxom",0,0,0.00117784042516247,0
+"LOINC:2498-4","iron",0.017021093402608,0.00681234922502947,0,0
+"LOINC:2500-7","tibc group:tibc",0,0,0,0
+"LOINC:2524-7","lactate",0,0,0.00268732593192129,0
+"LOINC:2529-6","lactate dehydrogenase",0.0130481130541417,0.00189878707469507,0.00651075499106944,0
+"LOINC:25435-9","hsv abs, igm group:hsv12m",0,0,0.00600973935956925,0
+"LOINC:26054-7","mitochondrial m2 ab group:m2ab",0,0,0.0377774939236885,0
+"LOINC:2748-2","fluid ph group:fph",0,0,0.00015897479458401,0
+"LOINC:2881-1","fluid total protein group:ftp",0,0,0.00147832245263991,0
+"LOINC:2955-3","urine sodium group:una",0,0,0.00582852269966787,0
+"LOINC:29610-3","hbv dna group:hbvdna",0,0,0,0
+"LOINC:29615-2","hepatitis b virus dna",0,0,0,0.00169826018379922
+"LOINC:30083-0","ebv nuclear ab, igg group:ebvnag",0,0,0.0159667496802357,0
+"LOINC:30158-0","toxoplasma gondii",0,0.000135479349752301,0,0.0184981440889186
+"LOINC:3040-3","triacylglycerol lipase",0,0,0,0
+"LOINC:30535-9","lkm-1 ab group:l/k1",0,0,0.0206677248244452,0
+"LOINC:3095-7","urine urea nitrogen group:uun",0,0,0,0
+"LOINC:31503-6","mumps abs group:mump",0,0,0.00111440361029659,0
+"LOINC:31844-4","hepatitis b virus little e ag",0,0,0,0
+"LOINC:32018-4","hepatitis a virus ab.igg",0.0280430649326757,0.0169361177082477,0.0210873522594498,0.00580653007080133
+"LOINC:32286-7","hcv genotyping group:hcvgtyp",0,0,0.0296884077388116,0
+"LOINC:33376-5","macrophages/100 leukocytes",0,0,0,0.0041527709839362
+"LOINC:34697-3","a1 antitrypsin activity group:a1at%",0.0097294727138473,0,0.0327900383702667,0
+"LOINC:35051-2","other wbc's, fluid group:othbf",0,0,0.0165104891073925,0
+"LOINC:38180-6","hcv viral load log iu/ml group:hcvrna",0,0,0.011998941873652,0
+"LOINC:38256-4","total cells counted, fluid group:tcntfld",0,0,0,0
+"LOINC:38995-7","cellular casts /lpf group:celcast",0,0,0,0
+"LOINC:40459-0","hepatitis b virus dna",0,0,0,0
+"LOINC:45323-3","interferon-gamma tb antigen group:ifn-g",0,0,0.0177744798836197,0
+"LOINC:4542-7","haptoglobin",0,0,0,0
+"LOINC:48053-3","turbidity",0,0,0,0.000354301982484979
+"LOINC:48398-2","hepatitis b virus dna",0,0,0,0.0223114710563229
+"LOINC:48795-9","liver fibrosis score",0,0,0,0
+"LOINC:5194-6","hbv surface ag group:hbsag",0,0,0,0
+"LOINC:5195-3","hbv surface ag group:hbsag",0,0,0,0
+"LOINC:5196-1","hepatitis b virus surface ag",0,0,0,0
+"LOINC:5247-2","antimitochondrial ab group:ama",0,0,0.00741728666436098,0
+"LOINC:52819-0","nucleated cells, fluid group:nuc#-fld",0,0,0.0111219237528465,0
+"LOINC:5358-7","smooth muscle ab",0,0,0.0190147697893047,0
+"LOINC:54067-4","clostridium difficile toxin genes",0,0,0.00155066929015052,0
+"LOINC:5633-3","copper, timed urine ug/24hr group:t/ucu",0,0,0.0108472789357504,0
+"LOINC:5667-1","isopropanol group:isopr",0.000131838746120831,0,1.17787223467767e-05,0
+"LOINC:5693-7","methanol mg/l group:methan",0.00815477430639941,0,0.0489965309380531,0
+"LOINC:6741-3","csf/f rbc group:f-rbc",0,0,0,0
+"LOINC:6771-0","alpha-1-antitrypsin group:a1at",8.8630656673034e-05,0,0.000353071627265573,0
+"LOINC:6824-7","color",0.024579470588893,0.0106944549303358,0,0
+"LOINC:74278-3","t spot group:tspot",0,0,0,0
+"LOINC:82376-5","elbasvir",0,0.0166397803979912,0,0
+"LOINC:82377-3","ledipasvir",0,0.0277568255026716,0,0.0297674519509348
+"LOINC:82378-1","ombitasvir",0,0.000252066838797265,0,0.00141040664035195
+"LOINC:82379-9","daclatasvir",0,3.91265254677732e-05,0,0.0240064318261083
+"LOINC:9335-1","appearance",0.0494394577078002,-0.000768091826940406,0.0135130847123016,0
+"LOINC:9404-5","adenosine deaminase, csf/fluid group:adea",0,0,0,0
+"LOINC:X1486-0","copper ug/ml group:coppr",0,0,0.00670895497676707,0
+"LOINC:X1516-4","afp tumor group:afptm",0.0276901196015331,0,0.0224915343538025,0
+"LOINC:X1537-0","celiac disease panel/interpretation group:celiac",0,0,0.0194846926528717,0
+"LOINC:X1599-0","hcv fibro-sure group:hcv-fibro",0,0,0.0137725670329631,0
+"LOINC:X1655-0","specimen status group:spstatus",0,0,0.00586203895790194,0
+"LOINC:X1742-6","creatinine poc group:creat-poc",0,0,0.0347216062456158,0
+"LOINC:X5002-1","smear interpretation group:f-int",0,0,0.0109727243770773,0
+"LOINC:X5006-5","fluid diff review group:fldrev",0,0,0.000406165953588744,0
+"LOINC:X5010-4","tube #, fluid group:ftube",0,0,0,0
+"LOINC:X5010-9","fluid type group:ftype",0,0,0.0283432910798064,0
+"Other lab:1000003808","nh3",0,0,0,0.0147791240476795
+"Other lab:1000004826","k-ur",0,0,0,0
+"Other lab:1000007495","teardp",0,0,0,0
+"Other lab:1000015679","na-ur",0,0,0,0
+"Other lab:1000017872","ovalocy",0,0,0,0
+"Other lab:1000018566","macro",0,0,0,0.0120405474594876
+"Other lab:1000021274","microcy",0,0,0,0
+"Other lab:1000021284","targ cl",0,0,0,0
+"Other lab:1000025951","na-ran ur",0,0,0,0
+"Other lab:1000032401","ana",0,0,0,0
+"Other lab:1000037012","1,25-di",0,0,0,0
+"Other lab:1000049488","nh3*",0,0,0,0
+"Other lab:1000055716","ana_scr",0,0,0,0
+"Other lab:1000067878","prpxy-u",0,0,0,0
+"Other lab:1000072188","burr cl",0,0,0,0
+"Other lab:1200001653","ana",0,0,0,0
+"Other lab:1200002512","ast/alt",0,0,0,0
+"Other lab:1200027953","prot,t",0,0,0,0
+"Other lab:1200052365","fib4",0,0,0,0
+"Other lab:1200065434","protein",0,0,0,0
+"Other lab:1200072897","ana",0,0,0,0
+"Other lab:1200083974","ammonia",0,0,0,0
+"Other lab:1200106520","ammon",0,0,0,0
+"Other lab:1200113789","bsr",0,0,0,0
+"Other lab:1200139772","ipf",0,0,0,0
+"Other lab:1200146163","ipf",0,0,0,0
+"Other lab:1200154392","wbc4",0,0,0,0
+"Other lab:1200154482","rbc4",0,0,0,0
+"Other lab:1200154493","hct4",0,0,0,0
+"Other lab:1200154494","mcv4",0,0,0,0
+"Other lab:1200154546","mchc4",0,0,0,0
+"Other lab:1200154640","mch4",0,0,0,0
+"Other lab:1200154641","plt4",0,0,0,0
+"Other lab:1200154643","neut%4",0,0,0,0
+"Other lab:1200154644","ly%4",0,0,0,0.00856862048030845
+"Other lab:1200154645","mono%4",0,0,0,0.00508876651128803
+"Other lab:1200154649","eosin%",0,0,0,0
+"Other lab:1200154650","baso%4",0,0,0,0
+"Other lab:1200154654","neut#",0,0,0,0
+"Other lab:1200154655","nrbc#",0,0,0,0
+"Other lab:1200154656","nrbc%",0,0,0,0
+"Other lab:1200154657","mpv4",0,0,0,0
+"Other lab:1200154659","rdwcv",0,0,0,0
+"Other lab:1200154660","mono#",0,0,0,9.05728562697864e-05
+"Other lab:1200154661","lymph#",0,0,0,4.98567942474564e-15
+"Other lab:1200154662","eosi#",0,0,0,0
+"Other lab:1200154663","baso#",0,0,0,0
+"Other lab:1200154664","imm gran#",0,0,0,7.47249470872056e-05
+"Other lab:1200154665","imm gran%",0,0,0,0
+"Other lab:1200154675","inst. neut #",0,0,0,0
+"Other lab:1400000623","a ly%",0,0,0,0
+"Other lab:1400000625","a mo%",0,0,0,0
+"Other lab:1400014040","hcv",0,0,0,0
+"Other lab:1400016042","a ly#",0,0,0,0
+"Other lab:1400017833","prot.",0,0,0,0.000834681332551047
+"Other lab:1400018269","m segs%",0,0,0,0
+"Other lab:1400020015","a mo#",0,0,0,0
+"Other lab:1400027205","bun/cre",0,0,0,0
+"Other lab:1400029529","a ba%",0,0,0,0
+"Other lab:1400033617","plt.e",0,0,0,0
+"Other lab:1400046205","a gr%",0,0,0,0
+"Other lab:1400046206","a gr#",0,0,0,0
+"Other lab:1400047552","a ba#",0,0,0,0
+"Other lab:1400054065","to2c",0,0,0,0
+"Other lab:1400055694","a/g",0,0.0146407391435072,0,0.0152749058063425
+"Other lab:1400057838","cal",0,0,0,0.00725503558415766
+"Other lab:1400059835","m baso%",0,0,0,0
+"Other lab:1400062908","ammonia",0,0.0040594555812897,0,0.0146144152484357
+"Other lab:1400066122","m lymph%",0,0,0,0
+"Other lab:1400076208","% sat.",0,0,0,0
+"Other lab:1400574018","total protein,serum",0,0,0,0.0032139115842334
+"Other lab:800000733","baso%",0,0,0,0
+"Other lab:800000977","alpha 1",0,0.0114894123429707,0,0.0330642227267594
+"Other lab:800001070","calcium",0,0,0,0
+"Other lab:800001088","hepc",0,0,0,0
+"Other lab:800035950","anaqual",0,0,0,0
+"Other lab:800040706","alpha 2",0,5.72295743966789e-16,0,1.78439735710568e-16
+"Other lab:800044500","beta",0,0,0,3.54330332339556e-14
+"Other lab:800045573","gamma",0,7.53020715745775e-17,0,1.14711258671079e-16
+"Other lab:800063628","lymph%",0,0,0,0
+"Other lab:800070668","burr c.",0,0,0,0
+"Other lab:800071471","baso",0,0,0,0
+"Other lab:800071505","cor ret",0,0,0,0
+"Other lab:800073033","lymphs",0,0,0,0
+"Other lab:800073576","baso#",0,0,0,0
+"Other lab:800073702","monos",0,0,0,0
+"Other lab:800073703","mono%",0,0,0,0
+"Other lab:800077711","tot pro",0,0,0,0.00337959322381168
+"Other lab:800089840","intnote",0,0,0,0
+"Other lab:800231772","ipf",0,0,0,0
+"Other lab:800232821","ipf%",0,0,0,0
+"Other lab:800235350","ipf%",0,0,0,0
+"PheCode:038.3","bacteremia",0,0,0,0
+"PheCode:070.1","viral hepatitis a",0,0,0,0
+"PheCode:070.2","viral hepatitis b",0.0120395233945357,0.0103549980604302,0.015561288267823,0
+"PheCode:070.3","viral hepatitis c",0.079125669644459,0.0967216254761205,0.0518171733205428,0.0866602155355798
+"PheCode:070.4","chronic hepatitis",0.0233232885967333,0.0199411816715043,0.0198691554515143,0.0107937326936952
+"PheCode:070.9","hepatitis nos",0,0,0.0100958627148063,0.00266789828732122
+"PheCode:1010.5","potential health hazards...diseases",0,0,0,0.0100482958936949
+"PheCode:1010.7","persons with potential...circumstances",0,0,0,0
+"PheCode:1090","acquired absence of organs",0,0,0,0
+"PheCode:136","other infectious and parasitic diseases",0,0,0,0
+"PheCode:155.1","malignant neoplasm of liver, primary",0.0597305844062532,0.0951989191698827,0.0317667367004027,0.0969815733844245
+"PheCode:208","benign neoplasm of colon",0.00158615768778538,0.00208270832642238,0,0
+"PheCode:211","benign neoplasm of other parts of digestive system",0,0,0.0104878569618747,0
+"PheCode:250.3","insulin pump user",0,0,0.0143767947859516,0
+"PheCode:261.4","vitamin d deficiency",0.0033326144980162,0.00121838813300524,0.01488991338704,0
+"PheCode:270.2","disorders of amino-acid metabolism",0.019563102909056,0.0173572814971862,0.0283374688213248,0
+"PheCode:270.3","disorders of plasma protein metabolism",0.0117432376282796,0.00967030564155725,0,0
+"PheCode:271.3","intestinal disaccharidase deficiencies...malabsorption",0.00309182933570905,0.00087362172271914,0.0178031906889506,0
+"PheCode:275.1","disorders of iron metabolism",0.0301595841455517,0.0206039654392779,0.0394190582291857,0.0144832024893426
+"PheCode:275.2","disorders of copper metabolism",0.04184221176731,0.0292873819817959,0.0561836871582189,0.015638551646195
+"PheCode:275.3","disorders of magnesium metabolism",0,0,0,0
+"PheCode:276.1","electrolyte imbalance",0.00378103212301555,0.00587646370146223,0.0171255384139197,0
+"PheCode:276.4","acid-base balance disorder",0.00358994561821238,0.00449187811240004,0.00496417932127337,0
+"PheCode:276.6","fluid overload",0,0,0.00141840556065565,0
+"PheCode:277.1","disorders of porphyrin metabolism",0,0,0,0
+"PheCode:277.4","disorders of bilirubin excretion",0,0,0.00261921855755408,0
+"PheCode:277.6","other deficiencies of circulating enzymes",-0.0005173857204135,0.023559904134175,0,0.0187803349894533
+"PheCode:277.7","dysmetabolic syndrome x",0.0313103634712352,0.0136986216272564,0.0580387446926288,0
+"PheCode:278.1","obesity",0,0,0.0054474689483149,0
+"PheCode:280.1","iron deficiency anemias,...loss",0.00210306917081505,0.00354634049006571,0,0
+"PheCode:280.2","iron deficiency anemia...chronic",0.0127964155205203,0.0181387128611906,0.00923691996278629,0
+"PheCode:281.9","deficiency anemias",0,0,0.00351165589716921,0
+"PheCode:284.1","pancytopenia",0.00914982029470737,0.0113655807712837,0,0
+"PheCode:284.2","constitutional aplastic anemia",0.0200792011289498,0,0.0673456418135084,0
+"PheCode:285.1","acute posthemorrhagic anemia",0,0,0,0
+"PheCode:286.4","acquired coagulation factor deficiency",0.00975783132910552,0.00592421688735154,0.018765392314072,0
+"PheCode:286.6","defibrination syndrome",0.00016694199458142,0.000340871306744002,0.011869236600643,0.00121833949126623
+"PheCode:286.7","other and unspecified coagulation defects",0,0,0.00455270361326761,0
+"PheCode:286.9","abnormal coagulation profile",0,0,0,0
+"PheCode:287.3","thrombocytopenia",0.0381936314991317,0.0480676924236001,0.00929026680466774,0.0419738866418776
+"PheCode:289.5","diseases of spleen",0,0,0.00592964811933747,0
+"PheCode:292.4","altered mental status",0,0,0,0
+"PheCode:317.1","alcoholism",0.0573135772876186,0.0187269208766227,0.0391124104872832,0
+"PheCode:348.8","encephalopathy, not elsewhere classified",0.0102654388457549,0.0328780840912651,0.00390474493146132,0.0321730079211532
+"PheCode:428.3","heart failure with...failure]",0.0130233628431154,0.0171926148187276,0,0.0140888983626315
+"PheCode:428.4","heart failure with...failure]",0.0105683907201438,0.0232031853423665,0,0.0244468616434705
+"PheCode:458.9","hypotension nos",0,0,0,0
+"PheCode:459.7","blood vessel replaced",0,0,0.010282443004611,0
+"PheCode:507","pleurisy; pleural effusion",0,0,0,0
+"PheCode:514.2","solitary pulmonary nodule",0.000551046978172975,0.00060157555383474,0,0
+"PheCode:530.2","esophageal bleeding varices/hemorrhage",0.0607427046099083,0.0805119826073594,0.0543625755873411,0.103000096027424
+"PheCode:531.2","gastric ulcer",0,0,0.00768891099056984,0
+"PheCode:535.2","atrophic gastritis",0,0,0.00893268718671963,0
+"PheCode:535.6","duodenitis",0,0,0,0
+"PheCode:535.8","other specified gastritis",0,0,0.00201928260100524,0
+"PheCode:535.9","gastritis and duodenitis, nos",0,0,0.00312412571848763,0
+"PheCode:537.1","lesions of stomach and duodenum",0.0235418898056948,0.0263006961477031,0.0246051148524628,0.00281452603912757
+"PheCode:550.4","umbilical hernia",0.0206038705851424,0.0159620513460873,0.0162800531456497,0
+"PheCode:557.1","celiac disease",0.0149967775965514,0.00716784356962678,0.0173672399229452,0
+"PheCode:561.1","diarrhea",0,0,0,0
+"PheCode:564.8","abnormal findings on...area",0,0,0,0
+"PheCode:564.9","personal history of diseases of digestive system",0.000528910781416748,0.00137661345238425,0,0
+"PheCode:567","peritonitis and retroperitoneal infections",0.0171622668847577,0.0129625250841405,0.0212591612470344,0.00841721767269758
+"PheCode:571.6","primary biliary cirrhosis",0.0345204482966043,0.0175220811958363,0.032531043276225,0.00589770591527664
+"PheCode:571.8","liver abscess and...disease",0.155729927096444,0.091977855097864,0.113482272361942,0.0854604979192744
+"PheCode:572","ascites non malignant",0.0770477368355337,0.0909870899838208,0.0461611284150292,0.0907098792485324
+"PheCode:573.1","chronic passive congestion of liver",0.0323146026583987,0.0121500918794425,0.0438872432070947,0
+"PheCode:573.2","liver replaced by transplant",0.0196648174928922,0.0316856868732624,0.00502137097861167,0.0280254577611987
+"PheCode:573.3","hepatomegaly",0.0248032327644338,0.0197474804773596,0.0186646954381893,0.0139280431348573
+"PheCode:573.4","acute and subacute necrosis of liver",0.0108839647792872,0.00974839750909152,0.0108331234848296,0.015107763547383
+"PheCode:573.5","jaundice not of newborn",0,0,0,0
+"PheCode:573.6","nonspecific elevation of...[ldh]",0,0,0,0.0032629218915246
+"PheCode:573.7","abnormal results of function study of liver",0.0251224553559791,0.0190570158479992,0.00500664691037126,0.0206068978353163
+"PheCode:573.9","abnormal serum enzyme levels",0.0227301747142305,0.00867737807540715,0.0385424917561306,0
+"PheCode:574.1","cholelithiasis",0.00323788018002016,0.00235117969657759,0.0167750742891316,0.00939280707463143
+"PheCode:574.2","calculus of bile duct",0,0,0,0
+"PheCode:574.3","cholecystitis without cholelithiasis",0,0,0,0
+"PheCode:575.1","cholangitis",0,0,0,0
+"PheCode:575.2","obstruction of bile duct",0,0,0,0
+"PheCode:575.6","cholesterolosis of gallbladder",0.0524612596497296,0.0361477951537164,0.0719984334396496,0.0255413400833751
+"PheCode:575.7","other disorders of gallbladder",0,0,0,0
+"PheCode:575.8","other disorders of biliary tract",0,0,3.42931570289829e-05,0
+"PheCode:575.9","nonspecific abnormal findings...tract",0.0345607803343477,0.0331298763118607,0.0412490488465203,0.0160156547131237
+"PheCode:577.1","acute pancreatitis",0,0,0,0
+"PheCode:577.2","chronic pancreatitis",0,0,0,0
+"PheCode:577.3","cyst and pseudocyst of pancreas",0,0,0.0142897204304117,0
+"PheCode:578.1","hematemesis",0,0,0,0
+"PheCode:578.2","blood in stool",0.00188544509246258,0.000982532925145671,0.0147675607149144,0
+"PheCode:578.8","hemorrhage of rectum and anus",0,0,0.00419542660861886,0
+"PheCode:578.9","hemorrhage of gastrointestinal tract",0.0279866783695835,0.029198407087552,0.013672485692959,0.00291695032302618
+"PheCode:579.2","splenomegaly",0.0237391306017762,0.0320705186055035,0.0208679170617995,0.0338935199764748
+"PheCode:585.1","acute renal failure",0.0201989068932288,0.0270722098933181,0.0077478553522664,0
+"PheCode:586.2","cyst of kidney, acquired",0.00565315821859465,0.00572540220269237,0.0209713386502871,0.00206848751932246
+"PheCode:601.8","other inflammatory disorders...organs",0.00911592015177098,-0.0017497738114236,0.033360268394382,0
+"PheCode:782.3","edema",0.00719943727316619,0.00432953144207211,0.0154625777040661,0
+"PheCode:785","abdominal pain",0.00737960149017444,0.0119464310743229,0,0.0146062429699222
+"PheCode:790.6","other abnormal blood chemistry",0.0252672809366332,0.0109170425508217,0.0272677387001446,0
+"PheCode:795.8","abnormal tumor markers",0,0,0,0
+"PheCode:973","poisoning by agents...system",0,0,0,0
+"PheCode:994.2","sepsis",0,0,0.00312587045037223,0
+"RXNORM:10454","thiamine",0,0,0,0
+"RXNORM:11065","ursodiol",0,0,0,0
+"RXNORM:117466","tenofovir",0.0124859152031177,0.00502528490738667,0.0200065918655694,0
+"RXNORM:1433868","dolutegravir",0.00400641459643484,0.00297484729202072,0.0154096884022851,0
+"RXNORM:1484911","sofosbuvir",0.0479617248331956,0.0248336250159469,0.0467314324308158,0.0144977227767682
+"RXNORM:1591942","ledipasvir/sofosbuvir",0.0354417297575565,0.0264390103780316,0.0604238519741016,0.00669544887721193
+"RXNORM:1600259","dasabuvir/ombitasvir/paritaprevir/ritonavir",0,0,0,0.00864304594875526
+"RXNORM:16521","adefovir",0,0,0,0
+"RXNORM:1734635","elbasvir/grazoprevir",0,0,0,0
+"RXNORM:1799211","sofosbuvir/velpatasvir",0,0,0,0.00198715637016056
+"RXNORM:1939328","sofosbuvir/velpatasvir/voxilaprevir",0,0,0,0.00779692786088143
+"RXNORM:26746","hepatitis b",0,0,0.0121287440509578,0
+"RXNORM:27729","iodixanol",0,0,0.0174216931245862,0
+"RXNORM:298869","eplerenone",0.0129078686430413,0.010043952860132,0.0244841854043011,0
+"RXNORM:306266","entecavir",0.0127967358148124,0.0178318356569567,0.0196416225970881,0.00799922903300069
+"RXNORM:3319","diatrizoate",0,0,0,0
+"RXNORM:35619","rifaximin",0.0416869648396733,0.0689131183214388,0.0326222715331467,0.0847318223234509
+"RXNORM:42316","tacrolimus",0,0,0,0.000464761340495389
+"RXNORM:495881","sorafenib",0,0,0,0
+"RXNORM:6218","lactulose",0.00421195313751985,0.00422161207929605,0.0160898942366761,0
+"RXNORM:644","amiloride",0.0123967974202427,0.0167823313202557,0.0134486037952888,0
+"RXNORM:6963","midodrine",0,0,0.0044921951059,0
+"RXNORM:711942","eltrombopag",0.000236214397702412,0.00502441268080229,0,0.00925273004031514
+"RXNORM:7226","nadolol",0.0321535407534816,0.032797093722586,0.0422319861878107,0.0153757168586706
+"RXNORM:7299","neomycin",0.00081827603969018,0.00383159192000379,0,0
+"RXNORM:7517","norfloxacin",0.0207748610515713,0.0235584265271673,0.0314316359293003,0.0232499901293628
+"RXNORM:7617","octreotide",0.000387489419885852,0.000400528270962522,0.0104483013577692,0.00024391147277065
+"RXNORM:797752","hepatitis b",0,0,0,0
+"RXNORM:805452","romiplostim",0.0040870372566303,0.00194470744391949,0.0325973996077888,0
+"RXNORM:8152","phentermine",0.0244581632436968,0.00166923671840901,0.0360249298613351,0
+"RXNORM:82819","acamprosate",0.00156872443201121,0.000190448187290987,0.0330339942351706,0
+"RXNORM:8308","phytonadione",0,0,0,0
+"RXNORM:873","anthralin",0,0.000162801691604252,0,0.00999057934626095
+"RXNORM:8787","propranolol",0.000488522044411407,0.00271734535742873,0,0
+"RXNORM:9344","ribavirin",0.0397605293006561,0.0295888449024532,0.0509747361655281,0.00913402655744166
+"RXNORM:9997","spironolactone",0.0288006715108447,0.0161184072938606,0.0248754895243352,0
+"ShortName:ABO Type","abo type",0,0.00139099072594928,0,0.0154304887869051
+"ShortName:Albumin","albumin",0,0,0,0
+"ShortName:ALT","alt",0,0,0,0
+"ShortName:AST","ast",0,0,0,0
+"ShortName:Bilirubin Total","bilirubin total",0,0,0,0
+"ShortName:Bilirubin Unconjugated","bilirubin unconjugated",0,0,0,0
+"ShortName:eGFR","egfr",0,0,0,0
+"ShortName:Ferritin","ferritin",0,0,0,0
+"ShortName:HCV - Genotype","hcv - genotype",0,0,0,0.00891749400175283
+"ShortName:HCV - RNA VL","hcv - rna vl",0,0.0191378568643231,0,0.0403662763507965
+"ShortName:Iron","iron",0,0,0,0
+"ShortName:Phosphatase Alkaline","phosphatase alkaline",0,0,0,0
+"ShortName:Tacrolimus","tacrolimus",0,0,0,0.010228544292304

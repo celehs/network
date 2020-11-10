@@ -1,0 +1,31 @@
+"Variable","Description","Integrative_Estimator_RPDR","Integrative_Estimator_VA","Local_Estimator_RPDR","Local_Estimator_VA"
+"CCS:170","excision of skin lesion",-0.00145933046204044,0.0149794389216009,0,0.0446964767068513
+"CCS:174","other non-or therapeutic...breast",-0.00114958447510309,0.00782132460152442,0,0.0379194972711166
+"CCS:213","physical therapy exercises,...procedures",0,0,0,0
+"CCS:226","other diagnostic radiology and related techniques",0,0,0,0.0255800955378893
+"LOINC:10378-8","polychromasia",0,0,0,0
+"LOINC:2020-6","capillary pco2 group:cpco2",0,0,0.0220786699216666,0
+"LOINC:2341-6","glucose poc group:glu-poc",0,0,0,0
+"LOINC:2745-8","capillary ph group:cph",0,0,0,0
+"LOINC:53797-7","neuts i/t ratio group:itratio",0,0,0,0
+"LOINC:X1727-7","glucose poc group:glu-poc",0,0,0,0
+"PheCode:110.1","dermatophytosis",0,0,0,0.0362231469443894
+"PheCode:351","other peripheral nerve disorders",0,0,0,0.0241125128173964
+"PheCode:526.3","anomalies of jaw size/symmetry",0.129103944390922,0.00529648305729671,0.112112126299662,0
+"PheCode:637","short gestation; low...retardation",0.0313568615017105,0,0.0247667445068994,0
+"PheCode:656.1","isoimmunization of fetus or newborn",0,0,0.021712023976982,0
+"PheCode:656.2","respiratory conditions of fetus and newborn",0,0,0,0
+"PheCode:656.3","endocrine and metabolic...newborn",0.0356214520456521,0.00161291471283886,0.0207026422250639,0
+"PheCode:656.7","conditions involving the...newborn",0.0341751892230034,0.00726440224368956,0.0369132237120451,0
+"PheCode:700","corns and callosities",-0.00456688492804881,0.0563587822786309,0,0.0637001318799126
+"PheCode:707.2","chronic ulcer of leg or foot",0,0,0,0.0514006098166582
+"PheCode:735.2","acquired toe deformities",-0.00198723116043272,0.0558821656346029,0,0.10626657533954
+"PheCode:735.3","hallux valgus bunion",0.00153866612214661,0.0506080623837119,0,0.113600790615442
+"PheCode:747.1","cardiac congenital anomalies",0.00471077821419566,-0.000161752378768044,0,0
+"PheCode:749.1","cleft palate",0,0,0,0
+"PheCode:749.2","congenital anomalies of skull and face bones",0,0,0,0
+"PheCode:755.1","congenital deformities of feet",0.157539597227248,9.76724320934333e-05,0.12475259197869,0
+"PheCode:755.4","congenital anomalies of...girdle",0,0,0,0
+"PheCode:758.1","chromosomal anomalies",0.0259962674843936,0.00170166494337498,0.0095619612158181,0
+"PheCode:773","pain in limb",0,0,0,0.0380183606245849
+"RXNORM:5464","hyaluronidase",0,0,0,0

@@ -1,0 +1,422 @@
+"Variable","Description","Integrative_Estimator_RPDR","Integrative_Estimator_VA","Local_Estimator_RPDR","Local_Estimator_VA"
+"CCS:100","endoscopy and endoscopic...tract",0,0,0.0348545910621574,0
+"CCS:106","genitourinary incontinence procedures",-0.00543243522719003,0.0337027670838389,0,0.0189142204896638
+"CCS:116","diagnostic procedures, male genital",0.0721827262930199,0.0224608500124159,0.0738850712585845,0.0345632349449604
+"CCS:117","other non-or therapeutic procedures, male genital",0,0,0.00108396992595703,0
+"CCS:118","other or therapeutic procedures, male genital",0.0449728706791676,0.038627035312553,0.0602818201008014,0.0493592675992236
+"CCS:170","excision of skin lesion",0,0,0,0
+"CCS:200","nonoperative urinary system measurements",0,0,0,0.0119928376500963
+"CCS:206","microscopic examination bacterial...toxicology",0,0,0,0
+"CCS:220","ophthalmologic and otologic...treatment",0,0,0,0
+"CCS:226","other diagnostic radiology and related techniques",0,0,0,0
+"CCS:227","other diagnostic procedures...consultation",0,0,0,0
+"CCS:228","prophylactic vaccinations and inoculations",0.0138981844951782,0.0149677460754505,0.00208234874870318,0
+"CCS:233","laboratory - chemistry and hematology",0,0,0,0
+"CCS:235","other laboratory",0,0,0,0
+"CCS:237","ancillary services",0,0,0,0
+"CCS:240","medications injections, infusions and other forms",0.000171557952435147,0.00534496803306885,0,0
+"CCS:242","hearing devices and audiology supplies",0,0,0,0
+"LOINC:10501-5","lutropin",0,0,0,0.00225192320284516
+"LOINC:10886-0","psa free group:psafree",0.050450017600814,0,0.084687805162358,0
+"LOINC:12841-3","psa percent free group:psapctf",0,0,0.0330187531684651,0
+"LOINC:13453-6","mean bld glucose, calc'd group:mglu",0,0,0.00267308104519964,0
+"LOINC:13945-1","erythrocytes",0,0,0,0
+"LOINC:13967-5","shbg group:shbg",0.0158056177116454,0,0.05398632024094,0
+"LOINC:14815-5","calculated ldl group:ldlcal",0,0,0,0
+"LOINC:14959-1","malb/cre ratio, urine group:malbcre",0,0,0,0
+"LOINC:15432-8","testosterone % free group:frtest",0.0387172822310889,0,0.0833736223979761,0
+"LOINC:1754-1","urine albumin group:grmalb",0,0,0.00164447513427493,0
+"LOINC:17856-6","hgb a1c group:ghba1c",0,0,0,0
+"LOINC:2086-7","hdl group:hdl",0,0,0,0
+"LOINC:2090-9","ldl group:ldl",0,0,0,0
+"LOINC:2092-5","vldl group:vldl",0,0,0,0
+"LOINC:2093-3","cholesterol group:chol",0,0,0,0
+"LOINC:2132-9","cobalamins",0,0,0,0
+"LOINC:2284-8","folate",0.00117190673444171,0.0156401107638538,0,0
+"LOINC:2286-3","fsh group:fsh,ch",0,0,0,0
+"LOINC:2514-8","ketones",0,0,0,0
+"LOINC:2571-8","triglycerides group:trig",0,0,0,0
+"LOINC:2574-2","direct ldl group:ldldir",0,0,0.00852076703762449,0
+"LOINC:2579-1","lh group:lh,chm",0,0,0,0
+"LOINC:2842-3","prolactin",0.0301078083272376,0.0176466141668861,0.0135500231838387,0
+"LOINC:2857-1","psa total group:psa",0.0130600104365503,0,0.0312054055449116,0
+"LOINC:2963-7","growth hormone group:gh",0,0,0,0
+"LOINC:2991-8","free testosterone group:ftes",0.0417121535838591,0,0.0727783131187013,0
+"LOINC:2993-4","testosterone group:tes",0.0283001901570319,0,0.0301072478716836,0
+"LOINC:3016-3","thyrotropin",0.00187618376778179,0.00767262472818979,0,0
+"LOINC:3024-7","thyroxine.free",-0.00204643556094527,0.020405806748619,0,0.0169686720919534
+"LOINC:35365-6","vitamin d+metabolites",0.00332139668553072,0.0302338719463255,0,0.0175623325967787
+"LOINC:43396-1","cholesterol.non hdl",0.0184624439307003,0.0099826593567877,0.0278537007360093,0
+"LOINC:48345-3","hiv 1+o+2 ab",0,0,0,0.013383865101347
+"LOINC:56888-1","hiv 1+2 ab+hiv1 p24 ag",0,0.012291202560112,0,0
+"LOINC:5767-9","appearance",0,0,0,0.00312606766555364
+"LOINC:5778-6","color",0,0,0,0
+"LOINC:5802-4","nitrite",0,0,0,0
+"LOINC:5803-2","ph",0,0,0,0
+"LOINC:5811-5","specific gravity",0,0,0,0
+"LOINC:5821-4","leukocytes",0,0,0,0
+"LOINC:8247-9","mucus",0,0,0,0
+"LOINC:9830-1","chol/hdl ratio group:chol/hdl",0,0,0.00486879118645455,0
+"LOINC:X1172-6","psa monitoring group:psamon",0.0448467366401973,0,0.0803495988816422,0
+"Other lab:1000000417","pb c:h",0,0,0,0
+"Other lab:1000002533","testosterone",0,0,0,0
+"Other lab:1000002871","zzleu ase",0,0,0,0
+"Other lab:1000002940","zbun-p*",0,0,0,0
+"Other lab:1000002948","hdl-p*",0,0.0317178584181591,0,0
+"Other lab:1000003107","zglu-p",0,0,0,0
+"Other lab:1000003118","alb-pen",0,0,0,0
+"Other lab:1000003292","co2-pen",0,0,0,0
+"Other lab:1000003632","ldl-cp*",0,0.000913323274739014,0,0.0223832515319162
+"Other lab:1000004396","test",0,0,0,0
+"Other lab:1000004934","na-pen*",0,0,0,0
+"Other lab:1000004937","calc-p",0,0,0,0
+"Other lab:1000005758","ocb/#3",0,0,0,0
+"Other lab:1000006663","ocb/#1",0,0,0,0
+"Other lab:1000007122","zzur glu",0,0,0,0
+"Other lab:1000007133","zk-pen",0,0,0,0
+"Other lab:1000007731","trig-p*",0,0,0,0
+"Other lab:1000007732","urobili",0,0,0,0
+"Other lab:1000007733","fobt#1",0,0,0,0
+"Other lab:1000008659","testos",0,0,0,0
+"Other lab:1000009339","ztesto",0,0,0,0
+"Other lab:1000010951","ttesto",0,0,0,0
+"Other lab:1000011715","testos",0,0,0,0
+"Other lab:1000011864","zzur-prot",0,0,0,0
+"Other lab:1000011865","fobt#2",0,0,0,0
+"Other lab:1000012130","fobt#3",0,0,0,0
+"Other lab:1000012139","cl-pen*",0,0,0,0
+"Other lab:1000012230","psa-f",0,0,0,0
+"Other lab:1000013040","vldl-p*",0,0,0,0
+"Other lab:1000014166","testost",0,0,0,0
+"Other lab:1000015407","cntrols",0,0,0,0
+"Other lab:1000015621","fr psa%",0,0,0,0
+"Other lab:1000019243","testos",0,0,0,0
+"Other lab:1000020418","prolac",0,0,0,0
+"Other lab:1000020777","testos",0,0,0,0.00393843104230694
+"Other lab:1000022462","testo",0,0,0,0
+"Other lab:1000023783","fr psa",0,0,0,0
+"Other lab:1000027019","fobt #2",0,0,0,0
+"Other lab:1000030963","fr test",0,0,0,0.0238290555759494
+"Other lab:1000034680","*testwb",0,0,0,0.0137474332571926
+"Other lab:1000041323","sexhbgl",0,0,0,0
+"Other lab:1000041560","cre/pen",0,0,0,0
+"Other lab:1000041565","tp-pen",0,0,0,0
+"Other lab:1000041568","sgpt-p*",0,0,0,0
+"Other lab:1000045035","fit2/3",0,0,0,0
+"Other lab:1000047039","fobt#3",0,0,0,0
+"Other lab:1000048012","fobt #3",0,0,0,0
+"Other lab:1000053399","fit1/3",0,0,0,0
+"Other lab:1000054570","fit3/3",0,0,0,0
+"Other lab:1000054661","sexhorm",0,0.00386710235987812,0,0.00621109298505543
+"Other lab:1000056456","fit1/3",0,0,0,0
+"Other lab:1000058065","zzur blo",0,0,0,0
+"Other lab:1000059624","fobt#2",0,0,0,0
+"Other lab:1000061318","testost",0,0,0,0
+"Other lab:1000064483","fobt#1",0,0,0,0
+"Other lab:1000064920","ocb/#2",0,0,0,0
+"Other lab:1000066186","lh__",0,0,0,0
+"Other lab:1000069966","fit2/3",0,0,0,0
+"Other lab:1000071351","fit3/3",0,0,0,0
+"Other lab:1000071898","zchol-p",0,0,0,0
+"Other lab:1000073449","fr tes",0,1.61461890060359e-05,0,0.00354668020038531
+"Other lab:1000073599","cholhdl",0,0,0,0
+"Other lab:1000074902","zztesto",0,0,0,0
+"Other lab:1000075073","mrd_b/c",0,0,0,0
+"Other lab:1000088127","testost",0,0,0,0.00080800502346187
+"Other lab:1000089306",".ur crea",0,0,0,0
+"Other lab:1000095065","testos",0,0,0,0
+"Other lab:1000103924","testo-t",0,0,0,0
+"Other lab:1000108305","testos",0,0,0,0
+"Other lab:1000117431","creat-ma",0,0,0,0
+"Other lab:1200001027","fobt #1",0,0,0,0
+"Other lab:1200001028","fobt #2",0,0,0,0
+"Other lab:1200001029","fobt #3",0,0,0,0
+"Other lab:1200001218","uro",0,0,0,0.0051432933087554
+"Other lab:1200001551","testost",0,0,0,0
+"Other lab:1200002107","testtot",0,0,0,0
+"Other lab:1200005932","testost",0,0,0,0
+"Other lab:1200007457","testo",0,0,0,0
+"Other lab:1200009738","ur glu",0,0,0,0
+"Other lab:1200009739","uprot",0,0,0,0
+"Other lab:1200011449","testost",0,0,0,0.0114005833490685
+"Other lab:1200019669","testost",0,0,0,0
+"Other lab:1200020224","ur. bld",0,0,0,0
+"Other lab:1200020251","leu ase",0,0,0,0
+"Other lab:1200023494","testost",0,0,0,0
+"Other lab:1200025370","testost",0,0,0,0
+"Other lab:1200027258","testosteroned/c",0,0,0,0.0174412233977755
+"Other lab:1200028410",".prolac",0,0,0,0
+"Other lab:1200028411",".testos",0,0.00862399774317903,0,0.0296027170335834
+"Other lab:1200031508","testost",0,0,0,0
+"Other lab:1200035456","t.p.",0,0,0,0
+"Other lab:1200037612","ucreat",0,0,0,0
+"Other lab:1200047680","testos",0,0,0,0
+"Other lab:1200053267","psa-oc",0,0,0,0
+"Other lab:1200054169","testost",0,0,0,0
+"Other lab:1200055618","tp-oc",0,0,0,0
+"Other lab:1200058088","u creat",0,0,0,0
+"Other lab:1200058174","testost",0,0.00776343563177236,0,0.0225535201893146
+"Other lab:1200059728","pro,ur",0,0,0,0
+"Other lab:1200060163","testos",0,0,0,0
+"Other lab:1200063102","riskfac",0,0,0,0
+"Other lab:1200066481","occbld2",0,0,0,0
+"Other lab:1200066493","prolac",0,0,0,0.00682433637995267
+"Other lab:1200068187","urine creatinine",0,0,0,0
+"Other lab:1200068208","vldl",0,0,0,0
+"Other lab:1200068742","occbld3",0,0.00278461045146016,0,0.0179150923036397
+"Other lab:1200068962","testost",0,0.00368304769181759,0,0.0191167602693154
+"Other lab:1200071849","testfr",0,0,0,0.011651622604048
+"Other lab:1200071905","~fobt#2",0,0,0,0
+"Other lab:1200072799","fobt#2",0,0,0,0
+"Other lab:1200074329","fobt#1",0,0,0,0
+"Other lab:1200074423","~fobt#3",0,0,0,0
+"Other lab:1200074864","fobt#3",0,0,0,0
+"Other lab:1200077545","testos",0,0.00256018952502992,0,0.0233224000773155
+"Other lab:1200078286","testos",0,0,0,0.00255357840320157
+"Other lab:1200080249","fr tes",0,0,0,0.0041973552176061
+"Other lab:1200081689","crurine",0,0,0,0
+"Other lab:1200081918","tsto",0,0,0,0
+"Other lab:1200082976","fobt#1",0,0,0,0
+"Other lab:1200082980","fobt#3",0,0,0,0.00282776144628619
+"Other lab:1200083979","fobt#2",0,0,0,0
+"Other lab:1200085247","fr psa%",0,0,0,0
+"Other lab:1200085653","testos",0,0,0,0.00196599328778716
+"Other lab:1200085804","testtot",0,0,0,0
+"Other lab:1200086422","fobt#2",0,0,0,0
+"Other lab:1200088636","ttestos",0,0,0,0
+"Other lab:1200088923","testos",0,0,0,0
+"Other lab:1200089069","testosterone",0,0,0,0.00266830536241435
+"Other lab:1200089090","testosterone",0,0,0,0
+"Other lab:1200089110","fobt#3",0,0,0,0
+"Other lab:1200089137","fobt#1",0,0,0,0
+"Other lab:1200089355","zglob co",0,0,0,0
+"Other lab:1200089527","chol/hd",0,0,0,0
+"Other lab:1200089573","f testo",0,0,0,0
+"Other lab:1200090066",".occ1",0,0,0,0
+"Other lab:1200091296","tot.tes",0,0,0,0
+"Other lab:1200093231","fr.test",0,0,0,0
+"Other lab:1200094016","testost",0,0,0,0
+"Other lab:1200094841","testost",0,0,0,0.00950630829398469
+"Other lab:1200095424","prolac",0,0,0,0
+"Other lab:1200095497",".occ3",0,0,0,0
+"Other lab:1200096067","testost",0,0,0,0
+"Other lab:1200096072",".occ#2",0,0,0,0
+"Other lab:1200096123","testo",0,0,0,0.00169556635418185
+"Other lab:1200097740","frtestn",0,0,0,0
+"Other lab:1200098656","prolact",0,0.00341219100026059,0,0.00625900027279691
+"Other lab:1200101266","lhnm",0,0.0153135127939114,0,0.0104819637380716
+"Other lab:1200102843","fsh",0,1.79998698915806e-15,0,2.08120095188037e-15
+"Other lab:1200105589","test tq",0,0,0,0
+"Other lab:1200107543","testo.",0,0,0,0
+"Other lab:1200107582","oc #2",0,0,0,0
+"Other lab:1200107583","oc #3",0,0,0,0
+"Other lab:1200108759","testos",0,0,0,0
+"Other lab:1200112811","test o",0,0,0,0
+"Other lab:1200121986","testost",0,0,0,0
+"Other lab:1200121987","shbg",0,0,0,0
+"Other lab:1200121988","freetst",0,0,0,0
+"Other lab:1200123869","testosterone",0,0,0,0
+"Other lab:1200125602","testos",0,0,0,0.00153254085388778
+"Other lab:1200127534","fit 1/1",0,0,0,0
+"Other lab:1200128188","fit1/1",0,0,0,0
+"Other lab:1200128389","occ blood",0,0,0,0
+"Other lab:1200137231","hep c ab",0,0.006218101780081,0,0
+"Other lab:1200138971","total protein",0,0,0,0
+"Other lab:1200138973","alkaline phosphatase",0,0,0,0.000293115472803365
+"Other lab:1200138981","total bilirubin",0,0,0,0
+"Other lab:1200139018","amp",0,0,0,0.000690646226228327
+"Other lab:1200139019","benzo",0,0,0,0
+"Other lab:1200139037","cocaine",0,0,0,0
+"Other lab:1200139038","opiates",0,0,0,0
+"Other lab:1200139039","pcp",0,0,0,0
+"Other lab:1200139040","thc",0,0,0,0
+"Other lab:1200139041","barbiturates",0,0,0,0.00659308421725843
+"Other lab:1200139042","direct bilirubin",0,0,0,0.021117427671344
+"Other lab:1200139054","vldl",0,0,0,0
+"Other lab:1200139055","tsh",0,0,0,0.00292054011469207
+"Other lab:1200139212","urine creat",0,0.00988747736238271,0,0.00822233540765513
+"Other lab:1200139213","malb quant",0,0.000470191755862247,0,0
+"Other lab:1200139214","malb/creat ratio",0,0,0,0
+"Other lab:1400003574","testos",0,0,0,0.00404323591627635
+"Other lab:1400024899","testost",0,0,0,0
+"Other lab:1400031382","testos",0,0,0,0
+"Other lab:1400073290","testos",0,0,0,0
+"Other lab:1400073804","testost",0,0,0,0
+"Other lab:1400078585","ifobt #1",0,0,0,0
+"Other lab:800001165","zzstlts",0,0,0,0
+"Other lab:800011251","testost",0,0,0,0
+"Other lab:800021999","ttesto",0,0,0,0
+"Other lab:800025710","lh",0,0.000749140905910275,0,0
+"Other lab:800025798","testosterone total.",0,0,0,0
+"Other lab:800026465","fsh",0,0.000564840329782968,0,0
+"Other lab:800027354","hdlrisk",0,0,0,0
+"Other lab:800027770","testost",0,0,0,0
+"Other lab:800031652","testo",0,0,0,0
+"Other lab:800040249","testost",0,0,0,0.00511795100269315
+"Other lab:800041355","testosterone",0,0,0,0
+"Other lab:800045860","tes",0,0.0161490647253471,0,0.0118327732323884
+"Other lab:800046301","lh m",0,0,0,0
+"Other lab:800047245","testos.",0,0,0,0
+"Other lab:800050978","testos",0,0,0,0
+"Other lab:800051039","zz fobt#2",0,0,0,0
+"Other lab:800053551","zz fobt#1",0,0,0,0
+"Other lab:800053552","zz fobt#3",0,0,0,0
+"Other lab:800057937","testosterone, total",0,0,0,0
+"Other lab:800062099","tsto",0,0,0,0
+"Other lab:800068671","testos",0,0,0,0
+"Other lab:800072910","testost",0,0,0,0
+"Other lab:800082160","occ #2",0,0,0,0
+"Other lab:800083604","testost",0,0,0,0.00650020408694901
+"Other lab:800084581","occ #3",0,0,0,0
+"Other lab:800085018","test.t",0,0,0,0
+"Other lab:800085588","shbg",0,0,0,0
+"Other lab:800086183","%f-psa",0,0,0,0
+"Other lab:800089319","f-psa",0,0,0,0
+"Other lab:800219535","glu",0,0.00835555928269969,0,0
+"Other lab:800219627","uric ac",0,0,0,0
+"Other lab:800219751","rdw",0,0,0,0
+"Other lab:800220052","ur. bld",0,0,0,0
+"Other lab:800220131","plt.e",0,0,0,0
+"Other lab:800220161","ldl/hdl",0,0,0,0
+"Other lab:800220188","protein",0,0,0,0
+"Other lab:800220227","leu ase",0,0,0,0.0020920872196163
+"Other lab:800220258","mch",0,0,0,0
+"Other lab:800220268","urobili",0,0,0,0
+"Other lab:800220380","pct",0,0,0,0
+"Other lab:800220462","mchc",0,0,0,0
+"Other lab:800222121","fit1/1",0,0,0,0
+"PheCode:1010.2","screening for malignant neoplasms",0,0.000931602285907705,0,0.0212544256880751
+"PheCode:1010.5","potential health hazards...diseases",0,0,0,0
+"PheCode:110.1","dermatophytosis",0.0248950289413552,0.0125272150824169,0.034431592809568,0
+"PheCode:185","cancer of prostate",0.0454383426886663,0.0711173057266161,0.021928387702464,0.0794060182174714
+"PheCode:189.1","cancer of kidney and renal pelvis",0,0,0,0
+"PheCode:208","benign neoplasm of colon",0.0296710486547107,0.0243067280431312,0.023991799213588,0.0210121634008317
+"PheCode:216.1","screening for malignant neoplasms of the skin",0,0,0.00840635295733429,0
+"PheCode:227.3","benign neoplasm of...pouch",-0.00131356083068495,0.00193342480768347,0,0
+"PheCode:244.4","hypothyroidism nos",-0.00027815663807274,0.00193057436993147,0,0
+"PheCode:250.2","type 2 diabetes",0,0,0,0
+"PheCode:250.4","abnormal glucose",0.013135210214852,0.0197122914417851,0,0.00797887180105477
+"PheCode:253.4","anterior pituitary disorders",0,0,0,2.06515083018507e-05
+"PheCode:257.1","testicular hypofunction",0.127787542084342,0.137684999446279,0.0986924558931425,0.133764726774912
+"PheCode:259.1","nonspecific abnormal results...study",0,0,0,0
+"PheCode:259.3","delay in sexual development and puberty nec",6.32282873244802e-06,0.00222515611090705,0,0.00945034166107855
+"PheCode:261.4","vitamin d deficiency",0.00948357069188324,0.0105407722688305,0.00564121953026784,0
+"PheCode:269","proteinuria",0,0,0.0254288820177581,0
+"PheCode:271.3","intestinal disaccharidase deficiencies...malabsorption",0.0453121268164317,0.00303826250206975,0.061877686529309,0
+"PheCode:272.1","hyperlipidemia",0.0351770460258986,0.079243971764456,0.00388685616219199,0.020177635049101
+"PheCode:274.1","gout",0.0116265582705386,0.0133502752011368,0.000358617246312014,0.0174977218088887
+"PheCode:278.1","obesity",0.00773974622841783,0.0115171325705129,0.000324057662664068,0.0593091138391123
+"PheCode:296.2","depression",0,0,0,0
+"PheCode:300.4","dysthymic disorder",0,0,0,0
+"PheCode:300.9","posttraumatic stress disorder",0,0,0,0
+"PheCode:302.1","decreased libido",0.148062627320693,0.055501936570831,0.141124910544691,0.0186220512628518
+"PheCode:313.1","attention deficit hyperactivity disorder",0,0,0.0142239535798718,0
+"PheCode:318","tobacco use disorder",0.00833511488525557,0.0111018988731765,0,0.0114736502437163
+"PheCode:327.3","sleep apnea",0.00360910644970974,0.00537866913920655,0.0152500343530624,0
+"PheCode:327.4","insomnia",0.0198379788206919,0.0323486362101936,0.00199209139948766,0.0189636674894777
+"PheCode:339","other headache syndromes",0,0,0,0
+"PheCode:351","other peripheral nerve disorders",0.00639896735732019,0.0046985859422402,0.00200279267260412,0
+"PheCode:365.1","open-angle glaucoma",0,0,0,0
+"PheCode:366.2","senile cataract",-0.00198741435459167,0.00156184603430439,0,0
+"PheCode:367.2","astigmatism",0,0,0,0
+"PheCode:367.4","presbyopia",0,0,0,0.0239622492072332
+"PheCode:367.8","hypermetropia",0,0,0,0
+"PheCode:375.1","dry eyes",0,0,0,0
+"PheCode:380.4","impacted cerumen",0.0154088598009211,-0.00263360682735218,0.0373124786954819,0
+"PheCode:389.1","sensorineural hearing loss",0.011290464330562,0.0245462503355548,0,0.0149718195777222
+"PheCode:389.4","tinnitus",0,0,0,0
+"PheCode:401.1","essential hypertension",0.00846609158714188,0.0282228368149623,0,0
+"PheCode:402","elevated blood pressure...hypertension",0,0,0,0
+"PheCode:411.8","other chronic ischemic heart disease, unspecified",0,0,0,0
+"PheCode:455","hemorrhoids",0.0153792319140491,0.0110076385331002,0.0409379682176759,0
+"PheCode:472","chronic pharyngitis and nasopharyngitis",0,0,0,0
+"PheCode:476","allergic rhinitis",0.0153301350335149,0.0953226284361225,0.00853354198529048,0.0951760691528395
+"PheCode:521.1","dental caries",0,0,0,0
+"PheCode:525.1","loss of teeth or edentulism",0,0,0,0
+"PheCode:530.1","esophagitis, gerd and related diseases",0.00453419784663885,0.0318698925640502,0,0.0172835164069179
+"PheCode:550.1","inguinal hernia",0.0188710806327212,0.0032600397049137,0.0329030084244995,0
+"PheCode:562.1","diverticulosis",0,0,0,0
+"PheCode:573.7","abnormal results of function study of liver",0,0,0,0
+"PheCode:593.2","microscopic hematuria",0,0,0,0
+"PheCode:594.1","calculus of kidney",0,0,0,0
+"PheCode:597.8","urethral hypermobility/isd",-2.40371990084397e-06,0.00827253087164773,0,0
+"PheCode:599.2","retention of urine",0,0,0,0
+"PheCode:599.3","dysuria",0,0,0.0105035701800648,0
+"PheCode:599.4","urinary incontinence",0.00296616660717801,0.00279058806451016,0,0
+"PheCode:599.5","frequency of urination and polyuria",0.0433670015923532,0.0103692767086838,0.0486947231164862,0
+"PheCode:599.9","other abnormality of urination",0.0414370712871893,0.0170806975544924,0.0465715624948676,0.00142416377877783
+"PheCode:600","hyperplasia of prostate",0.0698013984141144,0.0638672144855148,0.0362872332525347,0.0900638614034138
+"PheCode:601.1","prostatitis",0.0190678005813688,0.0028453047046215,0.0293849727606579,0
+"PheCode:603.1","hydrocele",0,0,0,0
+"PheCode:603.2","spermatocele",0,0,0,0
+"PheCode:604.3","peyronie's disease",0.144540332522926,0.0612465361384527,0.182646654757142,0.0281119649543554
+"PheCode:608","other disorders of male genital organs",0.0377765094506798,0.0188828567916682,0.0458664362223197,0.00140728323342952
+"PheCode:609.1","infertility, male",0.0601194484816208,0.0218292225497213,0.0580480633615369,0
+"PheCode:609.2","abnormal spermatozoa",0,0,0,0
+"PheCode:624.9","stress incontinence, female",0,0.00525867594681263,0,0.0174472150256044
+"PheCode:689","disorder of skin and subcutaneous tissue nos",0,0,0.0144026845049703,0
+"PheCode:695.3","rosacea",0,0,0,0
+"PheCode:702.1","actinic keratosis",0,0,0.0205115913376659,0
+"PheCode:702.2","seborrheic keratosis",0,0,0.000129423672374208,0
+"PheCode:716.9","arthropathy nos",0,0,0,0
+"PheCode:721.1","spondylosis without myelopathy",0,0,0,0
+"PheCode:722.6","degeneration of intervertebral disc",0,0,0,0
+"PheCode:728.7","fasciitis",0,0,0,0
+"PheCode:735.1","flat foot",0,0,0,0
+"PheCode:735.2","acquired toe deformities",0,0,0,0
+"PheCode:740.1","osteoarthritis; localized",0,0,0,0
+"PheCode:740.2","osteoarthrosis, generalized",0,0,0,0
+"PheCode:740.9","osteoarthrosis nos",0.00115498873307119,0.022650058133882,0,0.0354836296102418
+"PheCode:745","pain in joint",0.00922759225458757,0.0104631417382404,0,0
+"PheCode:760","back pain",0.00763965957224041,0.0123248027425045,0,0.0503680899600801
+"PheCode:761","cervicalgia",0,0,0,0
+"PheCode:763","thoracic or lumbosacral...unspecified",0,0,0.0131687713352562,0
+"PheCode:764","sciatica",0.0205155450032503,-0.00230145792166401,0.0397211409628324,0
+"PheCode:765","cervical radiculitis",0,0,0,0
+"PheCode:773","pain in limb",0,0,0,0
+"PheCode:790.6","other abnormal blood chemistry",0,0,0,0
+"PheCode:796","elevated prostate specific antigen [psa]",0.0888302246530946,0.0527526755609256,0.0740073109964401,0.0608975831183209
+"RXNORM:10379","testosterone",0.0489547803288697,0.085274131112275,0.0421022197138154,0.0737147614530925
+"RXNORM:1291301","avanafil",0,0.0583751608494863,0,0.0817307746465889
+"RXNORM:136411","sildenafil",0.110656670331621,0.132717513360138,0.0924368932527253,0.112980239396058
+"RXNORM:17300","alfuzosin",0.034616443502927,-0.000959956596100429,0.0462833872830604,0
+"RXNORM:214618","hydrochlorothiazide/lisinopril",-0.000484415382959275,0.00715200968831291,0,0.0235673057591486
+"RXNORM:220982","yohimbine",0,0,0,0.00962833942100901
+"RXNORM:24605","etodolac",0,0,0,0
+"RXNORM:25025","finasteride",0,0,0,0
+"RXNORM:29046","lisinopril",0,0,0,0
+"RXNORM:301542","rosuvastatin",0,0,0,0
+"RXNORM:306674","vardenafil",0.129562763367928,0.16810476570485,0.122744628615741,0.180279272405073
+"RXNORM:358263","tadalafil",0.114581980522882,0.029216288484928,0.114286089146632,0.0121767560187375
+"RXNORM:41493","meloxicam",0,0,0,0
+"RXNORM:42463","pravastatin",0,0,0,0
+"RXNORM:4419","fish oil",0,0,0,0
+"RXNORM:49276","doxazosin",0,0,0,0
+"RXNORM:52175","losartan",0,0,0,0
+"RXNORM:5487","hydrochlorothiazide",0,0,0,0
+"RXNORM:598","alprostadil",0.070031830803472,0.0774056586203893,0.069989101290349,0.0754867684826591
+"RXNORM:6135","ketoconazole",0,0,0.000409003435420196,0
+"RXNORM:6809","metformin",0,0,0,0
+"RXNORM:6904","methyltestosterone",0,0,0,0.00659905172020645
+"RXNORM:7258","naproxen",0,0,0.00323877457160582,0
+"RXNORM:77492","tamsulosin",0,0,0,0
+"RXNORM:7895","papaverine",0.00224369409497276,0.0237507319737344,0,0.0224140870567853
+"RXNORM:797541","isopropyl alcohol",-0.000149181507892869,0.0356470145528769,0,0.0316314518441979
+"RXNORM:83367","atorvastatin",0,0,0,0
+"ShortName:A1C","a1c",0,0.0284095348475974,0,0.0586997192214758
+"ShortName:Albumin","albumin",0,0,0,0
+"ShortName:ALT","alt",0,0,0,0
+"ShortName:AST","ast",0,0,0,0
+"ShortName:Bilirubin Direct","bilirubin direct",0,0,0,0
+"ShortName:Bilirubin Stick","bilirubin stick",0,0,0,0.0068763479937985
+"ShortName:Bilirubin Total","bilirubin total",0,0,0,0
+"ShortName:HCV - Ab","hcv - ab",0,0.00330757362166804,0,0.0141983116704358
+"ShortName:HDLC","hdlc",0,0.0917090406202775,0,0
+"ShortName:LDLC","ldlc",0,0.0178431846952088,0,0.0401497404568217
+"ShortName:Microalbumin","microalbumin",0,0,0,0.00545864537993761
+"ShortName:Microalbumin Spot","microalbumin spot",0,0,0,0.0116905373728715
+"ShortName:Microalbumin/creatinine ratio","microalbumin/creatinine ratio",0,0.0149209439756719,0,0.00923208300730007
+"ShortName:Phosphatase Alkaline","phosphatase alkaline",0,0,0,0
+"ShortName:PSA","psa",0,0.0840469264348668,0,0.137143569958925
+"ShortName:TotChol","totchol",0,0.000556598422943725,0,0.00311960318802776
+"ShortName:Trig","trig",0,0,0,0.00977228725646277

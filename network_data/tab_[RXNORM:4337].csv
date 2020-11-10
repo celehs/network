@@ -1,0 +1,420 @@
+"Variable","Description","Integrative_Estimator_RPDR","Integrative_Estimator_VA","Local_Estimator_RPDR","Local_Estimator_VA"
+"CCS:10","thyroidectomy, partial or complete",0,0,0,0
+"CCS:100","endoscopy and endoscopic...tract",0,0,0.00915649984955325,0
+"CCS:101","transurethral excision, drainage,...obstruction",0.00527060247908007,-0.00167640779327664,0,0
+"CCS:106","genitourinary incontinence procedures",0,0,0,0
+"CCS:109","procedures on the urethra",0,0,0,0
+"CCS:111","other non-or therapeutic...tract",0,0,0,0
+"CCS:112","other or therapeutic procedures of urinary tract",0,0,0.00427831384280713,0
+"CCS:113","transurethral resection of prostate turp",0,0,0,0
+"CCS:114","open prostatectomy",0,0,0,0
+"CCS:117","other non-or therapeutic procedures, male genital",0,0,0,0
+"CCS:118","other or therapeutic procedures, male genital",0.000182757799120513,-2.3260344387413e-05,0.0212426261044901,0
+"CCS:119","oophorectomy, unilateral and bilateral",0,0,0,0
+"CCS:12","other therapeutic endocrine procedures",0,0,0.00277306170392003,0
+"CCS:120","other operations on ovary",0.0189991616428727,0,0.014176962804887,0
+"CCS:121","ligation of fallopian tubes",0,0,0.0202048289440171,0
+"CCS:122","removal of ectopic pregnancy",0,0,0.00255795454959339,0
+"CCS:123","other operations on fallopian tubes",0,0,0,0
+"CCS:124","hysterectomy, abdominal and vaginal",0,0,0,0
+"CCS:125","other excision of cervix and uterus",0,0,0,0
+"CCS:126","abortion termination of pregnancy",0,0,0.00851634487485623,0
+"CCS:127","dilatation and curettage...abortion",0,0,0.00853752800776656,0
+"CCS:128","diagnostic dilatation and curettage d&c",0.000175880031528643,0,0.0188117483567897,0
+"CCS:129","repair of cystocele...vault",0,0,0.00234327563567515,0
+"CCS:131","other non-or therapeutic procedures, female organs",0,0,0,0
+"CCS:132","other or therapeutic procedures, female organs",0.0333847406891148,-0.00199228929763747,0.0361305060731058,0
+"CCS:133","episiotomy",0.00428129074411992,0,0.0215522002854605,0
+"CCS:134","cesarean section",0,0,0.00937860239348436,0
+"CCS:135","forceps, vacuum, and breech delivery",0,0,0,0
+"CCS:136","artrupmem",0,0,0.00334786706528066,0
+"CCS:137","other procedures to assist delivery",0.000855717674243702,0,0,0
+"CCS:138","diagnostic amniocentesis",0,0,0,0
+"CCS:139","fetal monitoring",0,0,0.0233056030091549,0
+"CCS:140","repair of current obstetric laceration",0,0,0.024049850162225,0
+"CCS:141","other therapeutic obstetrical procedures",0.00790610892403268,0,0.0183300640111746,0
+"CCS:142","partial excision bone",0,0,0,0
+"CCS:143","bunionectomy or repair of toe deformities",0.00316380589998542,-0.000291568001430881,0.0117777651574404,0
+"CCS:144","treatment, facial fracture or dislocation",0,0,0.0140368372862617,0
+"CCS:148","other fracture and dislocation procedure",0,0,0,0
+"CCS:149","arthroscopy",0,0,0.00955025842307125,0
+"CCS:150","division of joint capsule, ligament or cartilage",0.0120617477746345,-0.000757470596306937,0.00293017668271629,0
+"CCS:151","excision of semilunar cartilage of knee",0.00147795559238891,-0.000225188619664064,0,0
+"CCS:152","arthroplasty knee",0,0,0.00520775144026333,0
+"CCS:154","arthroplasty other than hip or knee",0,0,0,0
+"CCS:160","other therapeutic procedures...tendons",0.00271462931123939,0.000507801322786428,0.010784306602306,0
+"CCS:161","other or therapeutic procedures on bone",0,0,0.0129506724108002,0
+"CCS:162","other or therapeutic procedures on joints",0,0,0,0
+"CCS:165","breast biopsy and...breast",0.00186589116092213,-0.000507636046392535,0,0
+"CCS:166","lumpectomy, quadrantectomy of breast",0.00394628088666772,-0.00063445770227613,0.0115988687910203,0
+"CCS:167","mastectomy",0,0,0,0
+"CCS:175","other or therapeutic procedures on skin and breast",0.000387332122634107,-0.000246065023611181,0.000808062772280741,0
+"CCS:183","routine chest x-ray",0,0,0,0
+"CCS:187","intravenous pyelogram",0,0,0,0
+"CCS:194","diagnostic ultrasound of gastrointestinal tract",0,0,0,0
+"CCS:197","other diagnostic ultrasound",0.00485401433200265,0.00248329876695157,0.00553912990037674,0
+"CCS:202","electrocardiogram",0,0,0.000326481792668631,0
+"CCS:205","arterial blood gases",0,0,0,0
+"CCS:216","respiratory intubation and mechanical ventilation",0,0,0,0
+"CCS:223","enteral and parenteral nutrition",0.00273103649670916,0.0146097500639318,0,0.0100162002547997
+"CCS:226","other diagnostic radiology and related techniques",0,0,0.00475176833041453,0
+"CCS:231","other therapeutic procedures",0,0,0,0
+"CCS:232","anesthesia",0.0203715215681352,0.00618474890212643,0.0426009393469935,0
+"CCS:234","pathology",0.0591931603210745,-0.00599417292972259,0.035863092946986,0
+"CCS:238","infertility services",0,0,0.0220666960048098,0
+"CCS:244","gastric bypass and volume reduction",0,0,0,0
+"CCS:28","plastic procedures on nose",0,0,0.0101177718482437,0
+"CCS:30","tonsillectomy and/or adenoidectomy",0,0,0.00192768708385353,0
+"CCS:32","other non-or therapeutic...pharynx",0,0,0.000608062421689426,0
+"CCS:33","other or therapeutic...pharynx",0,0,0,0
+"CCS:34","tracheostomy, temporary and permanent",0.00270991501480135,0.0122726466327192,0,0.0226213447580372
+"CCS:36","lobectomy or pneumonectomy",0,0,0,0
+"CCS:37","diagnostic bronchoscopy and biopsy of bronchus",9.00637992522671e-05,0.00019170912274137,0,0.0106088430017772
+"CCS:39","incision of pleura, thoracentesis, chest drainage",0,0,0,0
+"CCS:54","other vascular catheterization, not heart",0,0,0,0
+"CCS:6","decompression peripheral nerve",0,0,0,0
+"CCS:61","other or procedures...neck",0,0,0.00134685897260625,0
+"CCS:67","other therapeutic procedures,...system",0,0,0,0
+"CCS:69","esophageal dilatation",0.0111486096446936,0.0152248132571075,0.0137720937774021,0.0156655250142469
+"CCS:70","upper gastrointestinal endoscopy, biopsy",0.00905452405961919,0.00443205228382178,0.0061293226498936,0
+"CCS:71","gastrostomy, temporary and permanent",0.00123224894811083,0.0221173022370816,0,0.0164493361401195
+"CCS:72","colostomy, temporary and permanent",0,0,0,0
+"CCS:73","ileostomy and other enterostomy",0,0,0,0.000204733596581134
+"CCS:74","gastrectomy, partial and total",0,0,0,0
+"CCS:76","colonoscopy and biopsy",0.0299495021882243,0.0125012882125645,0.0158642942894427,0
+"CCS:77","proctoscopy and anorectal biopsy",0,0,0,0
+"CCS:79","local excision of...endoscopic",0,0,0,0
+"CCS:8","other non-or or...procedures",0,0,0,0
+"CCS:81","hemorrhoid procedures",0,0,0,0
+"CCS:85","inguinal and femoral hernia repair",0,0,0,0
+"CCS:86","other hernia repair",0,0,0,0
+"CCS:87","laparoscopy",0,0,0,0
+"CCS:89","exploratory laparotomy",0.00127436296526068,0.00345534876980195,0,0.0141481845617335
+"CCS:90","excision, lysis peritoneal adhesions",0,0,0,0
+"CCS:92","other bowel diagnostic procedures",0,0,0,0
+"CCS:93","other non-or upper gi therapeutic procedures",0,0,0,0
+"CCS:94","other or upper gi therapeutic procedures",0,0,0,0
+"CCS:95","other non-or lower gi therapeutic procedures",0,0,0,0
+"CCS:96","other or lower gi therapeutic procedures",0,0,0,0
+"CCS:99","other or gastrointestinal therapeutic procedures",0,0,0,0.00520483803179919
+"LOINC:11555-0","base excess",0.00036634977862054,0.00134070873665459,0,0.0200415504435436
+"LOINC:11556-8","oxygen",0.0020664186169208,0.00940110954148503,0,0.000541605257063544
+"LOINC:11558-4","ph",0.00322490957174151,0.0040167920467531,0.00186399923799004,0
+"LOINC:14638-1","stone analysis group:stone",0,0,0,0
+"LOINC:1925-7","arterial hco3 group:abasex",0,0,0.0236195475391801,0
+"LOINC:19994-3","oxygen/inspired gas setting",0,0,0,0
+"LOINC:2119-6","hcg-quant group:hcg,qt",0,0,0.00919674473639165,0
+"LOINC:2243-4","estradiol",0,0,0.000464370727889048,0
+"LOINC:23301-5","mycoplasma dna group:mycdnastn",0,0,0,0
+"LOINC:2524-7","lactate",0,0,0,0
+"LOINC:2703-7","arterial po2 group:apo2",0,0,0.00570600353265929,0
+"LOINC:2713-6","oxygen saturation",0.00455419344259827,0.00347853910728454,0.0286649841400477,0
+"LOINC:2947-0","na - pl group:na-pl",0,0,0,0
+"LOINC:38459-4","crystals, urine group:uas-crys",0,0,0,0
+"LOINC:4633-4","hemoglobin f stain group:k-b",0,0,0,0
+"LOINC:6298-4","k - pl group:k-pl",0,0,0,0
+"LOINC:9439-1","casts /hpf group:casts",0,0,0.0113580742462587,0
+"LOINC:X1153-6","pth postoperative group:pthpost",0.096330327752757,0,0.0564052417387811,0
+"LOINC:X1168-4","pth preoperative group:pthpreop",0.00265830588452849,0,0.0690879731841412,0
+"LOINC:X1283-1","constituent 2, stone group:c2-stone",0,0,0,0
+"LOINC:X1303-7","constituent 1, stone group:c1-stone",0,0,0,0
+"LOINC:X1705-3","constituent 3, stone group:c3-stone",0,0,0.00781296873731201,0
+"LOINC:X1753-3","gfr estimated, poc group:gfr-poc",0,0,0.000641983238722875,0
+"LOINC:XC146-1","shell major, stone group:shell-major",0.000446686334037503,0,0.0315491590004916,0
+"LOINC:XC182-6","nidus minor group:nidus-minor",1.04046765330637e-16,0,2.64308775840087e-16,0
+"LOINC:XC187-5","nidus major group:nidus-major",0,0,4.12982462250136e-18,0
+"LOINC:XC300-4","shell minor, stone group:shell-minor",1.38729020440849e-17,0,0,0
+"Other lab:1000037685","bands",0,0,0,0.017873490568621
+"Other lab:1000053948","pco2,an",0,0.000419650259607167,0,0.00283860472673579
+"Other lab:1000054591","o2 sat",0,0.018298068250873,0,0.0299756640703472
+"Other lab:1000056378","po2temp",0,0.00773927003355989,0,0.0155004358595655
+"Other lab:1000062636","pco2tmp",0,0,0,0
+"Other lab:1000067626","s.type",0,0,0,0.0102881681384769
+"Other lab:1000072011","pco2",0,0,0,0.00772596697738162
+"Other lab:1200006274","polychr",0,0,0,0.00955790452165515
+"Other lab:1200006359","o2hb%",0,0.0264434223600591,0,0.0136753567513894
+"Other lab:1200006371","pco2@",0,0.0161266159741652,0,0.0248508038184177
+"Other lab:1200008487","pco2",0,0,0,0
+"Other lab:1200015540","nrbc",0,0,0,0
+"Other lab:1200033140","vols%o2",0,0,0,0.00829700972848837
+"Other lab:1200038638","paco2",0,0,0,0.000457616229225062
+"Other lab:1200039116","fio2",0,0.00410897398980984,0,0.0164780952050539
+"Other lab:1200055508","pre-alb",0,0.013874619943373,0,0.0220859051346221
+"Other lab:1200056081","pco2",0,0,0,0.0213474099015676
+"Other lab:1200079203","pao2",0,0,0,0.00950237808408361
+"Other lab:1400021717","fio2",0,0,0,0
+"Other lab:800017749","time.",0,0.0159360971870996,0,0.0161859309382239
+"Other lab:800019406","tco2 calc.",0,0.00497431191694971,0,0.0279552705533042
+"Other lab:800022610","pco2",0,0,0,0.00283499427449517
+"Other lab:800029463","pco2.",0,6.99506953495151e-06,0,0
+"Other lab:800030668","hco3",0,0,0,0
+"Other lab:800030967","pco2@pt",0,0,0,0.00855292770324611
+"Other lab:800033911","insp o2.",0,0,0,0
+"Other lab:800036294","o2 sat",0,0.0100745019081109,0,0.0188381717534079
+"Other lab:800038752","bands",0,0,0,0
+"Other lab:800044541","ventila",0,0.000194451411200648,0,0.0103349731962949
+"Other lab:800046049","p.oxim",0,0.00846081524632651,0,0.0184475645774392
+"Other lab:800050961","pco2",0,0.00378280703206548,0,0.0315878004355315
+"Other lab:800054147","pco2",0,0.00158003181547623,0,0.0213576695054908
+"Other lab:800063267","pco2",0,0.00922648017646371,0,0.0128025459554419
+"Other lab:800067152","hco3cal",0,0.00157384317187082,0,0.0173550522704779
+"Other lab:800067375","ur. na+",0,0.00322501028311203,0,0.0100545149678929
+"Other lab:800069491","urn. k+",0,0,0,0.000355707692873942
+"Other lab:800073406","ztco2",0,0,0,0.00306256474539785
+"Other lab:800074607","allens",0,0,0,0.00370071992140122
+"Other lab:800076811","sam sit",0,0,0,0.000158825189303914
+"Other lab:800082950","o2ct.",0,0,0,0.000169715182091487
+"Other lab:800083979","pco2",0,0,0,0.000136520386533414
+"Other lab:800086622","fhhb",0,0.0107059402669867,0,0.0106509073285977
+"PheCode:1003","sudden death",0,0,0,0
+"PheCode:145.2","cancer of tongue",0.000863009366572946,0.00790497131904395,0,0.0253982309870529
+"PheCode:150","cancer of esophagus",0.00095918128424216,0.00299639170772025,0,0.005541267472096
+"PheCode:170.1","bone cancer",-0.000146249178195343,0.00717581653438708,0,0.0113702867770991
+"PheCode:174.1","breast cancer [female]",0,0,0,0
+"PheCode:174.3","neoplasm of uncertain behavior of breast",0,0,0,0
+"PheCode:175","acquired absence of breast",0,0,0,0
+"PheCode:195.1","malignant neoplasm, other",0.00566296267808847,0.0265460017522428,0,0.0272009803199162
+"PheCode:195.3","malignant neoplasm of head, face, and neck",0,0.000342280424597544,0,0.0209353085440926
+"PheCode:208","benign neoplasm of colon",0.00725249598344847,0.00197664552553331,0.0170616048560779,0
+"PheCode:211","benign neoplasm of other parts of digestive system",0,0,0.00685349797291625,0
+"PheCode:218.1","uterine leiomyoma",0,0,0.00181188159259909,0
+"PheCode:218.2","other benign neoplasm of uterus",0.000648507438679348,3.71969096204708e-06,0.00752979469685738,0
+"PheCode:220","benign neoplasm of ovary",0,0,0.00299734235855331,0
+"PheCode:221","benign neoplasm of other female genital organs",0,0,0.0122119420618181,0
+"PheCode:278.3","localized adiposity",0,0,0,0
+"PheCode:285.1","acute posthemorrhagic anemia",0,0,0.00761590773768035,0
+"PheCode:306.1","mental disorders durring/after pregnancy",0,0,0,0
+"PheCode:318","tobacco use disorder",0,0,0,0
+"PheCode:338.1","acute pain",0,0,0.0123823864001125,0
+"PheCode:427.4","cardiac arrest and ventricular fibrillation",0.00132803890396465,0.00699105256093658,0,0.00302729202599142
+"PheCode:427.5","arrhythmia cardiac nos",0,0,0,0
+"PheCode:455","hemorrhoids",0.0201781532709407,0.00246575511920236,0.0113731621750894,0
+"PheCode:473.4","voice disturbance",0,0,0,0.00666784875683332
+"PheCode:501","pneumonitis due to inhalation of food or vomitus",0,0,0,0
+"PheCode:506","empyema and pneumothorax",7.18950093412062e-05,0.000124455748961709,0,0.00935632896881271
+"PheCode:509.1","respiratory failure",0,0,0,0.00483266235291484
+"PheCode:509.2","respiratory insufficiency",0.0101584583659552,0.0148277683873338,0,0.000131000122791653
+"PheCode:509.3","pulmonary insufficiency or...surgery",0,0,0,0
+"PheCode:519.2","respiratory complications",0.000268304822589778,0.00195908097560219,0,0.00468104788018938
+"PheCode:530.1","esophagitis, gerd and related diseases",0,0,0,0
+"PheCode:530.3","stricture and stenosis of esophagus",0.00786789413865231,0.00864282452083699,0.0136914711631131,0
+"PheCode:530.9","heartburn",0.00850812874570274,0.0013746274117438,0.0143385085585582,0
+"PheCode:532","dysphagia",0,0,0,0
+"PheCode:535.1","acute gastritis",0,0,0.00238771439123172,0
+"PheCode:535.2","atrophic gastritis",0.0213997488901925,0.00878267657715954,0.0178978515072635,0
+"PheCode:539","bariatric surgery",0,0,0.00106321015240839,0
+"PheCode:550.2","diaphragmatic hernia",0,0,0,0
+"PheCode:562.1","diverticulosis",0,0,0,0
+"PheCode:565.1","anal and rectal polyp",0.033656397068394,0.0185238004268907,0.0329652922200236,0
+"PheCode:568.1","peritoneal adhesions postoperative postinfection",0,0,0,0
+"PheCode:610.2","fibroadenosis of breast",0.00399131660021004,-0.000173305512899245,0.0161643179580562,0
+"PheCode:610.4","benign neoplasm of breast",0.0104172571322975,-0.00176874492590205,0.0126769817908833,0
+"PheCode:610.8","other specified benign mammary dysplasias",0.00606611255112357,-5.08081123359742e-05,0.00341068896680212,0
+"PheCode:612.2","hypertrophy of breast gynecomastia",0,0,0.00442014424211321,0
+"PheCode:612.3","congenital anomalies of breast",0.0344013598363286,0,0.0576306759048239,0
+"PheCode:613.8","other specified disorders of breast",0.0181563161206757,-0.00634235262639713,0.0312184876024626,0
+"PheCode:613.9","breast disorder nos",0.000327823972149721,-0.000102765154233038,0.00358520658046408,0
+"PheCode:614.1","pelvic peritoneal adhesions,...postinfection",0,0,0.0031704120170139,0
+"PheCode:615","endometriosis",0,0,0,0
+"PheCode:619.1","noninflammatory disorders of...ligament",0,0,0,0
+"PheCode:619.2","disorders of uterus, nec",0.00185683814149811,7.39614471412531e-06,0,0
+"PheCode:619.3","noninflammatory disorders of cervix",0,0,0,0
+"PheCode:622.1","polyp of corpus uteri",0.0043370828458923,-3.17635252975549e-05,0.0102377592782189,0
+"PheCode:622.2","mucous polyp of cervix",0.0068638048241489,0.0010273084313893,0,0
+"PheCode:626.8","infertility, female",0.0264545881802295,-0.00136989446338901,0.0202684599062229,0
+"PheCode:628","ovarian cyst",0,0,0,0
+"PheCode:634.1","missed abortion/hydatidiform mole",0.0111663273032688,0.00089757603076962,0.0125350405330453,0
+"PheCode:635.2","antepartum hemorrhage, abruptio...previa",0,0,0,0
+"PheCode:635.3","placenta previa and abruptio placenta",0,0,0,0
+"PheCode:636.2","early onset of delivery",0,0,0,0
+"PheCode:636.8","cervical incompetence",0,0,0,0
+"PheCode:642.1","preeclampsia and eclampsia",0,0,0,0
+"PheCode:644","anemia during pregnancy",0,0,0,0
+"PheCode:646","other complications of pregnancy nec",0,0,0,0
+"PheCode:647.3","major puerperal infection",0,0,0,0
+"PheCode:653","problems associated with...membranes",0.00422001761250803,0,0,0
+"PheCode:654.1","abnormality of organs...puerperium",0,0,0,0
+"PheCode:654.2","rhesus isoimmunization in pregnancy",0,0,0.0236205036580874,0
+"PheCode:655.1","abnormality in fetal heart rate or rhythm",0,0,0,0
+"PheCode:669","complications of labor and delivery nec",0,0,0,0
+"PheCode:674","other complications of the puerperium nec",0,0,0.00577703153817266,0
+"PheCode:676","other disorders of...lactation",0,0,0,0
+"PheCode:736.4","genu valgum or varum acquired",0,0,0.00650701572555684,0
+"PheCode:736.5","acquired deformities of knee",0,0,0,0
+"PheCode:741.1","ankylosis of joint",0.00163986750701443,-0.000265041508618816,0.0125983562072444,0
+"PheCode:742.8","articular cartilage disorder",0,0,0,0
+"PheCode:790.9","abnormal arterial blood gases",0,0,0,0
+"PheCode:794","abnormal results of...etc",0,0,0,0
+"PheCode:840.3","joint/ligament sprain",0.00326129407062274,-0.000439968479455328,0.0115490490314046,0
+"PheCode:858","complication of internal orthopedic device",0,0,0,0
+"PheCode:960.2","allergy/adverse effect of penicillin",0,0,0,0
+"PheCode:994.2","sepsis",0,0,0,0
+"RXNORM:1007645","calcium chloride/fibrogen/fibrinolysis inhibitor/thrombin...inhibitor/thrombin",0,0,0,0
+"RXNORM:1008574","sodium biphosphate/sodium phosphate",0.00331828585623781,0.0172461477162302,0,0.0158098876431728
+"RXNORM:1008712","dextrose/heparin",0,0,0,0
+"RXNORM:10154","succinylcholine",0.0114243458625357,0.0210903679676575,0,0.0211802400078928
+"RXNORM:10355","temazepam",0,0,0,0.00931760448919447
+"RXNORM:10368","terbutaline",0.0153314091756843,0.0177224177171664,0,0
+"RXNORM:10402","dronabinol",-0.0036345831125623,0.0224212003112379,0,0.0102301566346346
+"RXNORM:10493","thiopental",0,0,0.0121973085274361,0
+"RXNORM:10528","thrombin",0,0,0.000129435175864301,0
+"RXNORM:1056","aprotinin",0,0,0,0
+"RXNORM:10627","tobramycin",0.00226447223860134,0.0104998556098935,0,0.0253424052755368
+"RXNORM:10691","tranexamic acid",0.00279999275808784,0.0038311538145937,0,0
+"RXNORM:107602","epinephrine/lidocaine",0.0318079794316857,0.00204032192301661,0.00955218491618842,0
+"RXNORM:107606","bupivacaine/epinephrine",0,0,0.0139077890675286,0
+"RXNORM:1091","arginine",0,0,0,0
+"RXNORM:11124","vancomycin",0,0,0,0
+"RXNORM:11149","vasopressin",0,0,0,0
+"RXNORM:11295","water",0.00134355570602907,0.0182794831462834,0,0.012711543458
+"RXNORM:11416","zinc",0.00142721281001402,0.019126938390989,0,0.0155695358511187
+"RXNORM:1223","atropine",0,0,0,0
+"RXNORM:1291","bacitracin",0.00053586261539368,0.0011094131239794,0,0.0120262794614676
+"RXNORM:1299884","ammonia",0,0,0.00239123217107982,0
+"RXNORM:1307767","lavender",0,0.0177098589596914,0,0.0320461340206041
+"RXNORM:1399","benzocaine",0.0110331789253633,0.00546989608830844,0,0
+"RXNORM:140587","celecoxib",0,0,0,0
+"RXNORM:1596","bisacodyl",0.0035454919712362,0.00736937009379166,0,0.00700794390844571
+"RXNORM:161","acetaminophen",0,0,0,0
+"RXNORM:168","acetic acid",0,0,0,0
+"RXNORM:17128","lansoprazole",-0.00294539139345727,0.0321829585374411,0,0.0342568340073649
+"RXNORM:1815","bupivacaine",0.0190911976659483,0.0205252527189461,0.0320920602405974,0
+"RXNORM:1901","calcium chloride",0.00938662806453193,0.013494867185303,0,0.0242214711910143
+"RXNORM:1908","calcium gluconate",0,0,0,0
+"RXNORM:197","acetylcysteine",0,0,0,0.0135916663117737
+"RXNORM:20259","carboprost/tromethamine",0,0,0,0
+"RXNORM:20791","chlorhexidine gluconate",0.00647775437804454,0.0320066432757014,0,0.0184178800159162
+"RXNORM:214182","acetaminophen/hydrocodone",0,0,0,0
+"RXNORM:214183","acetaminophen/oxycodone",0.0125427966438139,0.0160206670767544,0.0213103937292212,0.0037951686160489
+"RXNORM:214199","albuterol/ipratropium",0.000300254898372295,0.00109781348315569,0,0
+"RXNORM:214444","codeine/promethazine",0.0043918476570877,0.00241349178190237,0,0
+"RXNORM:214502","diclofenac/misoprostol",0,0,0.00901826082409409,0
+"RXNORM:214519","docusate/ferrous fumarate",0,0,0,0
+"RXNORM:2177","cefadroxil",0,0,0,0
+"RXNORM:2180","cefazolin",0.000504118565989145,0.000248696868235749,0.00944810008868411,0
+"RXNORM:2187","cefotetan",0,0,0,0
+"RXNORM:2189","cefoxitin",0,0,0.00113617229996028,0
+"RXNORM:221147","polyethylene glycol 3350",0,0,0.00764362939800026,0
+"RXNORM:2221","cellulose",0.00510117033693477,0.0123712063836038,0,0
+"RXNORM:2222","cellulose,oxidized",0,0,0,0
+"RXNORM:227312","indigo carmine",0.0012749522767908,0,0.00789396905816587,0
+"RXNORM:228530","rapacuronium bromide",0,0,0,0
+"RXNORM:233603","clevidipine",0,0,0,0
+"RXNORM:2582","clindamycin",0,0,0,0
+"RXNORM:26225","ondansetron",0.0435115017225515,0.0243765746587619,0.0505719699148559,0.00145924984968405
+"RXNORM:2623","clotrimazole",0,0,0,0
+"RXNORM:2653","cocaine",0,0,0.00283797012641563,0
+"RXNORM:27334","hypromellose",0,0,0,0
+"RXNORM:27729","iodixanol",0,0,0.00193874097470198,0
+"RXNORM:27863","isosulfan blue",0,0,0.0340738677692108,0
+"RXNORM:28200","ketorolac tromethamine",0.0373425257823089,-0.000206156342923294,0.0152428872904224,0
+"RXNORM:2890","cosyntropin",0.000262024866485102,0.00219696839756109,0,0.00496494390331064
+"RXNORM:296","adenosine",0,0,0,0
+"RXNORM:29899","methylnaltrexone",0.00322975198693038,0.0253757241289261,0,0.029015166349951
+"RXNORM:319864","cisatracurium",0,0,0,0
+"RXNORM:32521","rocuronium bromide",0.024258779729021,0.0273195268483432,0.0086023341326702,0.0234104009845261
+"RXNORM:3264","dexamethasone",0.0127509823159523,0.0382592093964776,0,0.0366443505439224
+"RXNORM:328134","gefitinib",0,0.0109919352554675,0,0.0287834142085131
+"RXNORM:33094","peppermint oil",0,0,0,0
+"RXNORM:3319","diatrizoate",0.00153161403468405,0.0166586738539685,0,0.00624471274428153
+"RXNORM:3423","hydromorphone",0.0409434918244981,0.0654377194648157,0.0281109135539044,0.0770316169224842
+"RXNORM:3478","dinoprostone",0.000222256211558764,0,0.0088677739956022,0
+"RXNORM:35465","rhod immune globulin",0,0,0.000307765711321113,0
+"RXNORM:35780","ropivacaine",0,0,0.00401642416450714,0
+"RXNORM:3628","dopamine",0,0,0,0
+"RXNORM:36387","sennosides",0,0,0,0
+"RXNORM:3648","droperidol",0.00461257279537882,0.0105093730850011,0,0
+"RXNORM:36676","sodium bicarbonate",0,0,0,0
+"RXNORM:3829","enalaprilat",0,0,0,0
+"RXNORM:3966","ephedrine",0.0301452901545357,0,0.0531097558648009,0
+"RXNORM:3992","epinephrine",0,0,0,0
+"RXNORM:4053","erythromycin",0.0210962325847781,0.0109501331950607,0.0113592728738994,0
+"RXNORM:4089","estramustine",0,0.00601190970842806,0,0.0227221855557946
+"RXNORM:41289","ibutilide",0,0,0,0
+"RXNORM:4177","etomidate",0.00635105526662667,0.0125302593976914,0,0.0117717477263596
+"RXNORM:42319","nizatidine",0,0,0,0
+"RXNORM:42331","misoprostol",0.0170850208753154,0.0142805268589587,0.00833480183890718,0
+"RXNORM:4278","famotidine",0.00494757526617747,0.00539108297947096,0,0
+"RXNORM:435","albuterol",-0.0046983975992908,0.00921067778253014,0,0
+"RXNORM:4450","fluconazole",0,0,0,0
+"RXNORM:4457","flumazenil",0.000595081388790841,0.000143979200516689,0.00609023199124074,0
+"RXNORM:4716","gelatin",0,0,0,0
+"RXNORM:480","alfentanil",0,0,0.0090142098613436,0
+"RXNORM:4832","glucagon",0,0,0,0
+"RXNORM:48937","dexmedetomidine",0,0,0,0
+"RXNORM:491498","carboxymethylcellulose sodium",0,0,0,0
+"RXNORM:4955","glycopyrrolate",0.0226718671057606,0.0163450926932295,0,0.00267014304862619
+"RXNORM:49737","esmolol",0,0,0,0
+"RXNORM:4986","gonadotropin,chorionic",0.00168247146381766,0.000637681654121708,0.00898227327320257,0
+"RXNORM:49991","droperidol/fentanyl",0,0,0,0
+"RXNORM:5093","haloperidol",0,0,0.00798903542688415,0
+"RXNORM:5224","heparin",0.0164880293548992,0.00900057613280834,0.0192051661400262,0
+"RXNORM:53616","chloroprocaine hydrochloride",0.00349054550650269,0,0.00409684108964973,0
+"RXNORM:5499","hydrogen peroxide",0.00783150988779971,0.0174369815456703,0,0.0175728154820982
+"RXNORM:5531","hetastarch",0,0,0.00428091226956823,0
+"RXNORM:5640","ibuprofen",0.0139802221119157,0.00166815043244289,0.00375443816869667,0
+"RXNORM:56466","sodium citrate",0.0558888093061512,0.016268656603573,0.0238039140092149,0
+"RXNORM:56795","sufentanil",0,0,0,0
+"RXNORM:6054","isoproterenol",0,0,0.00320104899846816,0
+"RXNORM:60819","bivalirudin",0.00200653606242771,0.00420391486446025,0,0.00953612041299729
+"RXNORM:6130","ketamine",0,0,0,0
+"RXNORM:617777","omeprazole/sodium bicarbonate",0.00124017262585824,0.018228856102217,0,0.00909436493973491
+"RXNORM:6218","lactulose",-0.000541472412064673,0.00827345109373393,0,0.0095550212698112
+"RXNORM:632","mitomycin",0,0,0,0
+"RXNORM:6387","lidocaine",0.0691668442978846,0.0305271144569242,0.0782497929690228,0.00233980683975948
+"RXNORM:6470","lorazepam",0,0,0,0
+"RXNORM:6572","mafenide",0,0,0,0
+"RXNORM:6581","magnesium hydroxide",0.00302492076437952,0.00763117326400574,0,0.00247948250435236
+"RXNORM:6585","magnesium sulfate",0.00772843769774512,0.0134699649243196,0,0.00507222102643752
+"RXNORM:662411","gentamicin",0,0,0,0
+"RXNORM:66887","epinephrine,racemic",0,0,0,0
+"RXNORM:6703","megestrol",0.00115616636117792,0.0167295071542749,0,0.0153080423442283
+"RXNORM:67108","enoxaparin",0,0,0,0
+"RXNORM:6754","meperidine",0.00998073839786051,0.00202179217761423,0.00424067484821312,0
+"RXNORM:6759","mepivacaine",0.00556974498429791,-0.000617593302813992,0.00387413681288301,0
+"RXNORM:6813","methadone",-0.0051545400722933,0.016619774915361,0,0.0280060995036301
+"RXNORM:6878","methylene blue",0,0,0,0
+"RXNORM:6901","methylphenidate",-0.00184639278771585,0.0151920424890043,0,0.0176493210120232
+"RXNORM:690247","benzocaine/butamben/tetracaine",0,0,0,0
+"RXNORM:690737","lanolin/mineral oil/petrolatum",0,0,0,0
+"RXNORM:6915","metoclopramide",0.0244825750520447,0.0304103860376995,0.012588798337199,0.0280151651858626
+"RXNORM:6960","midazolam",0.208183280420283,0.12070137708814,0.171010585421889,0.103754920464629
+"RXNORM:703","amiodarone",0,0,0,0
+"RXNORM:7052","morphine",0.0451569273580803,0.0744213339568412,0.0140775481711514,0.0748624643163527
+"RXNORM:71535","vecuronium",0.0199886209916825,0.0327008981145227,0,0.027857597969984
+"RXNORM:7213","ipratropium",0,0,0,0.00402213911519278
+"RXNORM:722","amoxapine",0,0.0189813783103144,0,0.0326623258606059
+"RXNORM:7238","nalbuphine",0.0178548921827838,-0.00296668372244301,0.0156150463254321,0
+"RXNORM:7242","naloxone",0.0223905043288635,0.0146963695877791,0.0201187469073092,0
+"RXNORM:73032","remifentanil",0,0,0.0100328944979518,0
+"RXNORM:7315","neostigmine",0.00450979606327824,0.00661888981990534,0.0161256018713634,0
+"RXNORM:733","ampicillin",0,0,0,0
+"RXNORM:7597","nystatin",0,0,0,0.00403239762447447
+"RXNORM:7617","octreotide",-4.53489697418879e-05,0.0112138258023973,0,0.00891955503219581
+"RXNORM:7781","oxazepam",0,0,0,0
+"RXNORM:7804","oxycodone",0.0425045036603317,0.0429702338490496,0.0354598999654644,0.0347694834269273
+"RXNORM:7824","oxytocin",0.0428829859519148,0,0.043976107608783,0
+"RXNORM:7884","pancuronium bromide",0,0,0,0
+"RXNORM:7895","papaverine",0.00149138144169571,0.00115233150993741,0,0
+"RXNORM:7975","penicillamine",0,0.0347409284384991,0,0.0451617834874309
+"RXNORM:8004","pentobarbital",0,0,0,0
+"RXNORM:8120","phenazopyridine",0.00957103975753918,0.00389109872711708,0,0
+"RXNORM:8163","phenylephrine",0.0216747817199653,0.0133723996661597,0.0300566043122362,0
+"RXNORM:82003","docusate",0,0,0.00318045145252735,0
+"RXNORM:82063","oxycodone hcl",0,0.0138898229092931,0,0.0353792758261527
+"RXNORM:8308","phytonadione",0.0107495912024348,0.00828284742343119,0.0084546497682514,0
+"RXNORM:84158","methylergonovine maleate",0,0,0,0
+"RXNORM:8536","polymyxin b",0.00977484020211144,0.0117008561336841,0,0
+"RXNORM:8591","potassium chloride",0,0,0,0
+"RXNORM:8611","povidone iodine",0,0,0,0
+"RXNORM:8704","prochlorperazine",-0.00149163316457635,0.0120686923660014,0,0.0145207418535012
+"RXNORM:8745","promethazine",0.00588382059974885,0.0136236375835199,0,0.0148498553105947
+"RXNORM:8782","propofol",0.120338035319556,0.0429248915260614,0.148166572734722,0.0226627826502921
+"RXNORM:8825","protamine sulfate",0.0123724088003669,0.0113659573704976,0,0
+"RXNORM:89821","hamamelis water",0,0,0,0
+"RXNORM:91198","citric acid/sodium citrate",0,0,0.00207788132437614,0
+"RXNORM:9601","scopolamine",0.0202804835619995,0.043683537721222,0,0.0465077626225193
+"RXNORM:9778","silicone",0,0.0265607132236145,0,0.0481051448133782
+"RXNORM:9793","silver sulfadiazine",-8.47157671254145e-05,0.00417195652308118,0,0.0144303040249019
+"RXNORM:9796","simethicone",0,0,0,0.00271478140088118
+"RXNORM:9863","sodium chloride",0.0148625600446299,0.0107821994761379,0.0339751763871821,0

@@ -1,0 +1,422 @@
+"Variable","Description","Integrative_Estimator_RPDR","Integrative_Estimator_VA","Local_Estimator_RPDR","Local_Estimator_VA"
+"CCS:130","other diagnostic procedures, female organs",0.00764866719436676,0.00284621057469874,0,0
+"CCS:147","treatment, fracture or...femur",0,0,0.00866836331505705,0
+"CCS:148","other fracture and dislocation procedure",0,0,0,0
+"CCS:155","arthrocentesis",0,0,0,0
+"CCS:156","injections and aspirations...tissue",0.0235203474801874,0.0067188070285853,0.0493277880043315,0.0126837147386711
+"CCS:158","spinal fusion",0.00148080360372095,0.00235769397501377,0,0
+"CCS:161","other or therapeutic procedures on bone",0,0,0,0
+"CCS:163","other non-or therapeutic...system",0.0261395429261769,0.0346696034743007,0.0128045928234107,0.04936952645771
+"CCS:170","excision of skin lesion",0,0,0,0
+"CCS:177","computerized axial tomography ct scan head",0,0,0,0
+"CCS:180","other ct scan",0.0429677209438275,0.0223806199887729,0.0375054625390651,0
+"CCS:181","myelogram",0.00418981046937167,0.00373814468896869,0.024838886057452,0
+"CCS:182","mammography",0.00367896873533492,0.00422940917404708,0.0277175347090816,0.00531608266027317
+"CCS:198","magnetic resonance imaging",0.0121805859120029,0.00982846916184104,0.00815383816372585,0.0156958534402342
+"CCS:200","nonoperative urinary system measurements",0,0,0,0.012083716289504
+"CCS:206","microscopic examination bacterial...toxicology",0,0,0,0.0128185395488703
+"CCS:212","diagnostic physical therapy",0,0,0,0
+"CCS:213","physical therapy exercises,...procedures",0.00713283200678021,0.00431059171263872,0.0418385420291767,0
+"CCS:214","traction, splints, and other wound care",0,0,0,0
+"CCS:215","other physical therapy and rehabilitation",0,0,0.00163487547197797,0
+"CCS:218","psychological and psychiatric...therapy",0,0,0,0
+"CCS:220","ophthalmologic and otologic...treatment",0,0,0,0
+"CCS:226","other diagnostic radiology and related techniques",0,0,0,0
+"CCS:227","other diagnostic procedures...consultation",0,0,0,0
+"CCS:228","prophylactic vaccinations and inoculations",0,0,0.0018967668635767,0
+"CCS:235","other laboratory",0,0,0,0.00933978481394267
+"CCS:237","ancillary services",0,0,0,0
+"CCS:242","hearing devices and audiology supplies",0,0,0,0
+"CCS:3","laminectomy, excision intervertebral disc",0,0,0,0
+"CCS:35","tracheoscopy and laryngoscopy with biopsy",0.000556173480682758,0.000253348980478301,0.0206145416580006,0
+"CCS:5","insertion of catheter...canal",0,0,0,0
+"CCS:7","other diagnostic nervous system procedures",0.00253785721478044,0.00670893724942415,0,0.00472457527251863
+"CCS:8","other non-or or...procedures",0,0,0,0
+"CCS:9","other or therapeutic nervous system procedures",0,0,0,0.019958274843362
+"LOINC:12308-3","hydrocodone, urine group:vicodin",0,0,0.0124802978639578,0
+"LOINC:12382-8","temazepam",0.00216337200029891,0.00281371031790828,0.0245594596335185,0
+"LOINC:15372-6","nordiazepam, urine group:unordz",0,0,0.0103321352790737,0
+"LOINC:16228-9","nordiazepam",0.000887041308297713,0.00109585236525877,0.00399331950423904,0
+"LOINC:16249-5","oxycodone",0,0,0,0
+"LOINC:16250-3","codeine, urine group:ucodeine",0,0,5.67825817260842e-05,0
+"LOINC:16251-1","morphine",0,0,0,0
+"LOINC:17088-6","lorazepam, urine group:ulor",0,0,4.58020971129201e-05,0
+"LOINC:18282-4","cannabinoids",0,0,0,0
+"LOINC:19411-8","codeine, urine group:ucodeine",0,0,0,0
+"LOINC:19485-2","hydrocodone cutoff",0,0,0,0.00400719298877337
+"LOINC:19486-0","hydromorphone, urine group:uhdrmor",0,0,0.00657702787533399,0
+"LOINC:19520-6","lorazepam, urine group:ulor",0,0,3.55125200791037e-06,0
+"LOINC:19597-4","morphine, urine group:umorph",0,0,0,0
+"LOINC:19638-6","oxazepam, urine group:uoxazep",0,0,0,0
+"LOINC:19648-5","oxymorphone, urine ng/ml group:uoxymorph",0,0,0,0
+"LOINC:20470-1","ethanol tox screen group:alc-ts",0,0,0.0111296729098544,0
+"LOINC:20559-1","temazepam, urine group:utemaz",0,0,9.67615884215268e-07,0
+"LOINC:2106-3","choriogonadotropin pregnancy test",0,0,0,0.00368913340583165
+"LOINC:2110-5","choriogonadotropin.beta subunit pregnancy test",0,0,0,0
+"LOINC:2132-9","cobalamins",0,0,0,0
+"LOINC:24111-7","neisseria gonorrhoeae dna",0,0,0,0.00345606351852612
+"LOINC:3016-3","thyrotropin",0,0,0,0
+"LOINC:30167-1","human papilloma virus...dna",0,0,0,0
+"LOINC:3024-7","thyroxine.free",0,0,0,0
+"LOINC:3297-9","acetaminophen tox screen group:acet-ts",0,0,0,0
+"LOINC:3313-4","alprazolam, urine group:ualpraz",0,0,0,0
+"LOINC:3349-8","amphetamines",0,0,0,0.022514642532382
+"LOINC:3390-2","benzodiazepines",0,0,0,0
+"LOINC:3397-7","cocaine",0,0,0,0
+"LOINC:3507-1","codeine",0,0,0,0
+"LOINC:35365-6","vitamin d+metabolites",0,0,0,0.000502676202875096
+"LOINC:3773-9","methadone",0,0,0,0
+"LOINC:3879-4","opiates",0,0,0,0
+"LOINC:4023-8","salicylates tox screen group:sal-ts",0,0,0.00544112070189737,0
+"LOINC:43304-5","chlamydia trachomatis rrna",0,0,0,0
+"LOINC:48345-3","hiv 1+o+2 ab",0,0,0,0.016725147694303
+"LOINC:5645-7","ethanol",0,0,0,0.00104121401819589
+"LOINC:56888-1","hiv 1+2 ab+hiv1 p24 ag",0,0,0,0
+"LOINC:61372-9","human papilloma virus 16 dna",0,0,0,0
+"LOINC:61373-7","human papilloma virus 18 dna",0,0,0,0
+"LOINC:X7059-9","creatinine, urine aldulterant group:ucreadlt",0,0,0,0
+"Other lab:1200000923","ualdhyd",0,0,0,0.0144270926404066
+"Other lab:1200001218","uro",0,0,0,0
+"Other lab:1200019669","testost",0,0,0,0
+"Other lab:1200075573","barbscr",0,0,0,0
+"Other lab:1200090905","uhalogn",0,0,0,0
+"Other lab:1200094016","testost",0,0,0,0
+"Other lab:1200094637","u perox",0,0,0,0
+"Other lab:1200094819","uoxidnt",0,0,0,0
+"Other lab:1200095144","uchromt",0,0,0,2.27522601855148e-15
+"Other lab:1200097705","u nitrt",0,0,0,0
+"Other lab:1200103991","bar",0,0,0,0
+"Other lab:1200107582","oc #2",0,0,0,0
+"Other lab:1200107583","oc #3",0,0,0,0
+"Other lab:1200121986","testost",0,0,0,0
+"Other lab:1200121987","shbg",0,0,0,0
+"Other lab:1200121988","freetst",0,0,0,0
+"Other lab:1200123869","testosterone",0,0,0,0
+"Other lab:1200137231","hep c ab",0,0,0,0
+"Other lab:1200139018","amp",0,0,0,0
+"Other lab:1200139019","benzo",0,0,0,0
+"Other lab:1200139037","cocaine",0,0,0,0
+"Other lab:1200139038","opiates",0,0,0,0
+"Other lab:1200139039","pcp",0,0,0,0
+"Other lab:1200139040","thc",0,0,0,0
+"Other lab:1200139041","barbiturates",0,0,0,0
+"Other lab:1200139054","vldl",0,0,0,0
+"Other lab:1200139055","tsh",0,0,0,0
+"Other lab:1400031928","hep c",0,0,0,0
+"Other lab:1400036647","methamp",0,0.00429851325777904,0,0.0042877954103133
+"Other lab:1400037633","barbit",0,0.00403988072797695,0,0.0220182222184051
+"Other lab:1400043521","morphin",0,8.62500166154117e-09,0,4.14067665946193e-07
+"Other lab:1400562656","barbit'",0,0,0,0.00673004860524073
+"Other lab:1400563081","barbit.",0,0,0,0.00287934649321729
+"Other lab:800002900","25vitd",0,0,0,0
+"Other lab:800003179","ampheta",0,0,0,0
+"Other lab:800003978","propoxy",0,0,0,0
+"Other lab:800007042","phencyc",0,0,0,0
+"Other lab:800007378","barbs",0,0,0,0
+"Other lab:800010497","barb",0,0,0,0
+"Other lab:800010898","pcp_ur",0,0,0,0
+"Other lab:800032515","barbs",0,0,0,0
+"Other lab:800039331","oxycodn",0,0,0,0
+"Other lab:800039351","oxymorp",0,0,0,0
+"Other lab:800042218","morphin",0,0,0,0
+"Other lab:800042616","hydmorp",0,0,0,0
+"Other lab:800230878","oxy-ur",0,0,0,0
+"Other lab:800231092","noroxmu",0,0,0,0
+"Other lab:800249265","tsh3",0,0,0,0
+"Other lab:800250488","neut#",0,0,0,0
+"Other lab:800250518","eos#",0,0,0,0
+"PheCode:054","herpes simplex",0,0,0,0
+"PheCode:1009","injury, nos",0,0,0,0
+"PheCode:1010.1","screening for infectious and parasitic diseases",0,0,0,0
+"PheCode:1010.2","screening for malignant neoplasms",0,0,0,0.000727335617642383
+"PheCode:1010.3","screening for other diseases and disorders",0,0,0,0.00477556426250752
+"PheCode:1010.5","potential health hazards...diseases",0,0,0,0.0173588948145382
+"PheCode:1010.6","persons encountering health...reproduction",0,0,0,0.012514665313224
+"PheCode:1010.7","persons with potential...circumstances",0,0,0,0
+"PheCode:1015","effects of other external causes",0,0,0,0
+"PheCode:110.1","dermatophytosis",0,0,0,0
+"PheCode:172.2","other non-epithelial cancer of skin",0,0,0,0
+"PheCode:180.3","cervical intraepithelial neoplasia...dysplasia]",0,0,0,0.0109117079830579
+"PheCode:208","benign neoplasm of colon",0,0,0.00190614667213491,0
+"PheCode:216.1","screening for malignant neoplasms of the skin",0,0,0.00981045822990201,0
+"PheCode:218.1","uterine leiomyoma",0,0,0,0
+"PheCode:240","simple and unspecified goiter",0.0124653486306239,0.00782982145381752,0.0181214193206248,0
+"PheCode:241.1","nontoxic uninodular goiter",0,0,0.00288222010052835,0
+"PheCode:241.2","nontoxic multinodular goiter",0.0126141846957511,0.00286389489124065,0.0114576130517865,0
+"PheCode:244.4","hypothyroidism nos",0,0,0,0
+"PheCode:246.2","thyroid cyst",0.025088828842108,0.0158890234622839,0.015545974360797,0
+"PheCode:250.4","abnormal glucose",0,0,0,0
+"PheCode:256.4","polycystic ovaries",0,0,0,0
+"PheCode:257.1","testicular hypofunction",0.0141996283260675,0.018032877457522,0,0.0246080368144837
+"PheCode:261.4","vitamin d deficiency",0,0,0.00985768696103217,0.00207861104793873
+"PheCode:272.1","hyperlipidemia",0,0,0,0
+"PheCode:278.1","obesity",0,0,0,0
+"PheCode:291.4","specific nonpsychotic mental...damage",0.00975762076578364,0.00235092180686577,0.0287332115135052,0
+"PheCode:292.3","memory loss",0,0,0,0
+"PheCode:293.1","swelling, mass, or...nos]",0.0107354416043475,0.00424899155196663,0.0160639989808254,0
+"PheCode:296.1","bipolar",0,0,0,0
+"PheCode:296.2","depression",0,0,0,0.00638555619481
+"PheCode:300.1","anxiety disorder",0,0,0,0.0361528105198438
+"PheCode:300.4","dysthymic disorder",0.00401643849925732,0.00654846093002785,0,0
+"PheCode:300.8","acute reaction to stress",0,0,0.00592532794004343,0
+"PheCode:300.9","posttraumatic stress disorder",0,0,0.00627527549875143,0.00115899058973013
+"PheCode:301.2","antisocial/borderline personality disorder",0,0,0,0
+"PheCode:303.4","somatoform disorder",0,0,0.000819669064285008,0
+"PheCode:304","adjustment reaction",0.0102467658663342,0.016537256982737,0.00562499300632876,0.00768382306913578
+"PheCode:306.9","tension headache",0,0,0,0
+"PheCode:313.1","attention deficit hyperactivity disorder",9.66939991481884e-06,1.89350146850395e-05,0,0.00311734999085577
+"PheCode:318","tobacco use disorder",0,0,0,0
+"PheCode:324","other cns infection and poliomyelitis",0,0,0.00381566794065494,0
+"PheCode:327.3","sleep apnea",0,0,0,0
+"PheCode:327.4","insomnia",0.0214291221873193,0.0338671615119278,0.00680071245801402,0.0451610009111169
+"PheCode:327.7","sleep related movement disorders",0,0,0,0
+"PheCode:333.4","torsion dystonia",0.0290365206483919,0.0171796857767836,0.029398867941186,0.00123611201300379
+"PheCode:338.2","chronic pain",0.0390299402271057,0.0606788495521024,0.0544583791733604,0.0279321659936325
+"PheCode:339","other headache syndromes",0.0841837539475802,0.112735423205986,0.0590107107260537,0.131957391103685
+"PheCode:340.1","migrain with aura",0.0154200158413486,0.00358728392404766,0.0226857056730347,0.00990543201867863
+"PheCode:350.2","abnormality of gait",0,0,0,0
+"PheCode:350.5","abnormal reflex",0,0,0,0
+"PheCode:351","other peripheral nerve disorders",0.0096801977499384,0.0197831412225697,0,0.0491241559024615
+"PheCode:352.1","trigeminal nerve disorders [cn5]",0.00847995755580777,-0.000726492774204471,0.0114378182954688,0
+"PheCode:353.1","nerve plexus lesions",0.000672940157490702,0.000622993082263583,0.0170715071021489,0
+"PheCode:353.2","nerve root lesions",0.0415342331685154,0.0295909648143972,0.0552810902386372,0.0106999033449012
+"PheCode:355.1","chronic pain syndrome",0.011806601537008,0.028813875969423,0,0.0402150905373263
+"PheCode:356","hereditary and idiopathic peripheral neuropathy",0,0,0,0
+"PheCode:367.1","myopia",0,0,0,0
+"PheCode:367.2","astigmatism",0,0,0,0
+"PheCode:367.4","presbyopia",0,0,0,0.00565135819979453
+"PheCode:368.7","disorders of accommodation",0,0,0,0
+"PheCode:368.9","subjective visual disturbances",0.00689244362036324,0.00399275595753381,0,0
+"PheCode:371.2","conjunctivitis, noninfectious",0,0,0,0
+"PheCode:375.1","dry eyes",0,0,0,0
+"PheCode:380.4","impacted cerumen",0,0,0,0
+"PheCode:381.1","otitis media",0,0,0,0
+"PheCode:382","otalgia",0.0194586493533538,0.00415063996905429,0.0263442874324411,0
+"PheCode:386.2","peripheral or central vertigo",0,0,0.0144485427445327,0
+"PheCode:386.9","dizziness and giddiness...vertigo",0.0314113568549088,0.00855384832611569,0.0227610793042878,0
+"PheCode:389.1","sensorineural hearing loss",0.00611374290478524,0.00507496381120387,0,0
+"PheCode:389.4","tinnitus",0.0177571807212089,0.0237013618314046,0.015144578298682,0.0113461917739557
+"PheCode:401.1","essential hypertension",0,0,0,0
+"PheCode:402","elevated blood pressure...hypertension",0,0,0,0
+"PheCode:427.9","palpitations",0.0262085003920581,0.00967644488155668,0.0249105140620607,0
+"PheCode:464","acute sinusitis",0,0,0,0
+"PheCode:465.2","acute pharyngitis",0.0071839729787425,0.00111034774927331,0.0228952887376078,0
+"PheCode:470","septal deviations/turbinate hypertrophy",0,0,0,0
+"PheCode:472","chronic pharyngitis and nasopharyngitis",0,0,0,0
+"PheCode:473.4","voice disturbance",0,0,0.00716723518499646,0
+"PheCode:476","allergic rhinitis",0.038622816925819,0.0345674437092279,0.00380203109070602,0.035527364495293
+"PheCode:478","throat pain",0.0341414029162491,0.00783271004812252,0.0437123514736479,0
+"PheCode:512.8","cough",0,0,0,0
+"PheCode:521.1","dental caries",0.00464601085867812,0.0240293321758952,0,0
+"PheCode:522.1","pulpitis and necrosis of tooth pulp",0,0,0,0
+"PheCode:525.1","loss of teeth or edentulism",0,0,0,0.00382664575051346
+"PheCode:526.4","temporomandibular joint disorders",0.041143553636252,0.0174049793252793,0.0400985451489421,0
+"PheCode:527.2","sialoadenitis",0.0121372521021302,0.00376200223297396,0.0276637794138916,0
+"PheCode:529.6","glossodynia",0.00105565750574386,0.013968083372229,0,0
+"PheCode:530.1","esophagitis, gerd and related diseases",0.0127718815911,0.0145527611464592,0,0
+"PheCode:564.1","irritable bowel syndrome",0,0,0,0
+"PheCode:573.7","abnormal results of function study of liver",0,0,0,0
+"PheCode:599.4","urinary incontinence",0,0,0,0
+"PheCode:605","erectile dysfunction [ed]",0,0,0,0.00786719402865426
+"PheCode:610.1","cystic mastopathy",0,0,0,0
+"PheCode:611.1","abnormal mammogram",0,0,0,0
+"PheCode:611.3","lump or mass in breast",0,0,0.0024564699745697,0
+"PheCode:612.2","hypertrophy of breast gynecomastia",0.0335294102933697,0.00469103864477517,0.0348581311550325,0
+"PheCode:613.5","mastodynia",0,0,0.00969160092805067,0
+"PheCode:614.5","inflammatory disease of cervix, vagina, and vulva",0,0,0,0
+"PheCode:615","endometriosis",0,0,0,0.00812695767007612
+"PheCode:619.3","noninflammatory disorders of cervix",-0.00118052675955649,0.00279353229133539,0,0
+"PheCode:620.1","dysplasia of cervix",0,0,0,0
+"PheCode:625.1","dyspareunia",0,0,0,0
+"PheCode:626.1","irregular menstrual cycle/bleeding",0,0,0.0171716399672144,0
+"PheCode:626.2","dysmenorrhea",0,0,0,0
+"PheCode:626.4","premenstrual tension syndromes",0,0,0,0
+"PheCode:627.2","symptomatic menopause",0.0126671353824097,0.0138669292112026,0.00384130291270594,0
+"PheCode:681.2","cellulitis and abscess of face/neck",0.033983281556116,0.00904255886919886,0.0380312480735838,0
+"PheCode:687.4","disturbance of skin sensation",0.0307851950541767,0.017616070699545,0.0276399933810822,0.00519607738791277
+"PheCode:695.3","rosacea",0.000568386843182368,2.18501506778809e-05,0.00939721977673773,0
+"PheCode:702.1","actinic keratosis",0,0,0,0
+"PheCode:702.2","seborrheic keratosis",0,0,0.00373365469155063,0
+"PheCode:704.1","alopecia",0.00133571679614173,-0.000171202269355847,0.0269303815101758,0
+"PheCode:704.8","other specified diseases...follicles",0,0,0,0
+"PheCode:706.1","acne",0.0135401713122755,0.00809776356689625,0,0
+"PheCode:706.2","sebaceous cyst",0.00423442604084607,0.000953846553445428,0,0
+"PheCode:714.1","rheumatoid arthritis",0,0,0.00919680438695984,0
+"PheCode:715.1","sacroiliitis nec",-0.0077633085400117,0.00359542148592473,0,0
+"PheCode:715.2","ankylosing spondylitis",0.00169057807233578,0.00100069528216274,0.020270049938397,0
+"PheCode:715.3","spinal enthesopathy",-2.99983142253692e-06,0.000506246137872312,0,0
+"PheCode:716.9","arthropathy nos",0,0,0,0
+"PheCode:720.1","spinal stenosis of lumbar region",0,0,0,0
+"PheCode:721.1","spondylosis without myelopathy",0.0660283970738839,0.0599889860648039,0.0750911095522056,0.0516921788881709
+"PheCode:721.2","spondylosis with myelopathy",0.0421035740379095,0.0284573053327846,0.0333415593772082,0
+"PheCode:721.8","other allied disorders of spine",0.0306688844593027,0.0118853003684993,0.0348934139749682,0.00317741249797471
+"PheCode:722.1","displacement of intervertebral disc",0.0189379655284485,0.0208608520811964,0.00533157573077772,0.024039843855701
+"PheCode:722.3","schmorl's nodes",-0.0170268841668934,0.0138304032643444,0,0
+"PheCode:722.6","degeneration of intervertebral disc",0.0624334256685665,0.0772381776141959,0.0457290089392513,0.0620067327445344
+"PheCode:722.7","intervertebral disc disorder with myelopathy",0.0137413310593137,0.0118317398935294,0.0179404375746533,0.00949907302526655
+"PheCode:722.8","postlaminectomy syndrome",0,0,0,0
+"PheCode:722.9","other and unspecified disc disorder",0,0,0.000979737591795191,0
+"PheCode:723.1","torticollis",0.0559535611485972,0.0452402164500907,0.0543135839026891,0.0233399016389324
+"PheCode:724.1","disorders of sacrum",-0.00215323289960701,0.00723433027398034,0,0
+"PheCode:724.2","disorders of coccyx",0,0,0,0
+"PheCode:724.8","other symptoms referable to back",0.000817163063608594,0.00577938940807217,0,0.00457353379892389
+"PheCode:724.9","other unspecified back disorders",0.0200666749053152,0.016007515606246,0.0146016160500437,0
+"PheCode:726.1","enthesopathy",0,0,0,0
+"PheCode:726.2","synoviopathy",0.0185601304042746,0.00980631795076209,0.0109633964116023,0
+"PheCode:726.3","bursitis",0,0,0.00582982153700389,0
+"PheCode:726.4","calcaneal spur; exostosis nos",0,0,0,0
+"PheCode:727.1","synovitis and tenosynovitis",0,0,0,0
+"PheCode:727.2","bursitis disorders",0.0100851421850688,0.00630371194497142,0.0334389490559347,0
+"PheCode:727.4","ganglion and cyst of synovium, tendon, and bursa",0,0,0,0
+"PheCode:727.6","rupture of tendon, nontraumatic",0,0,0,0
+"PheCode:728.2","laxity of ligament or hypermobility syndrome",0,0,0,0
+"PheCode:728.7","fasciitis",0,0,0.00257902200208276,0
+"PheCode:729.1","rheumatism, unspecified and fibrositis",0,0,0,0.00141050394202328
+"PheCode:732.1","juvenile osteochondrosis",0,0,0,0
+"PheCode:735.1","flat foot",0,0,0,0
+"PheCode:735.2","acquired toe deformities",0,0,0,0
+"PheCode:735.3","hallux valgus bunion",0,0,0,0
+"PheCode:736.6","unequal leg length acquired",0,0,0,0
+"PheCode:737.1","kyphosis acquired",0.0121381579297479,0.0076319980166127,0.0385749657446669,0
+"PheCode:737.2","lordosis acquired",-0.0013145113748124,0.00931994458953854,0,0
+"PheCode:737.3","kyphoscoliosis and scoliosis",0,0,0,0
+"PheCode:738.4","acquired spondylolisthesis",0,0,0,0
+"PheCode:740.1","osteoarthritis; localized",0.00154383564151043,0.00746559191793785,0,0.00476208714232743
+"PheCode:740.2","osteoarthrosis, generalized",0,0,0,0
+"PheCode:740.9","osteoarthrosis nos",0,0,0,0
+"PheCode:741.2","stiffness of joint",0.00512365279209067,0.00489132036531987,0,0
+"PheCode:742.9","other derangement of joint",0.0115386076268737,0.00642452699593525,0.0134618094834575,0
+"PheCode:743.1","osteoporosis",0,0,0.00727158385993088,0
+"PheCode:743.9","osteopenia or other disorder of bone and cartilage",0,0,0.000108679166943167,0
+"PheCode:745","pain in joint",0.0400364989344434,0.0882353356885532,0.00182531074669545,0.129818774543246
+"PheCode:752.1","neural tube defects",0,0,0,0
+"PheCode:754.1","lumbosacral spondylolysis, congenital",0,0,0,0
+"PheCode:754.2","spondylolisthesis, congenital",0,0,0,0
+"PheCode:755.1","congenital deformities of feet",0,0,0,0
+"PheCode:756.3","congenital anomalies of...tissue",0.0188089501071161,0.00864331114695798,0.00181196407499524,0
+"PheCode:760","back pain",0.0788756580242569,0.157120076146875,0.0561618187077574,0.113053173144733
+"PheCode:763","thoracic or lumbosacral...unspecified",0.00231863986282992,0.0126670460187533,0,0.0216580282812687
+"PheCode:764","sciatica",0.0113463780135247,0.00771154131128768,0,0.00529776080926959
+"PheCode:765","cervical radiculitis",0.0842452911166476,0.0710688800494994,0.0843604738413634,0.0563890729077235
+"PheCode:766","neuralgia, neuritis, and radiculitis nos",0,0,0,0
+"PheCode:767","cervicocranial/cervicobrachial syndrome",0.165411198266111,0.0571561041837687,0.162822121363763,0.0223489017108495
+"PheCode:769","nonallopathic lesions nec",0.0585078006766594,0.0393398593425966,0.0575604353007843,0.057504019033162
+"PheCode:770","myalgia and myositis unspecified",0.100202110623969,0.0768003285390005,0.0892490765060401,0.067872344393094
+"PheCode:772.2","spasm of muscle",0.0284398176264426,0.0139439353331148,0.0215944667998223,0
+"PheCode:772.3","muscle weakness",0,0,0,0
+"PheCode:773","pain in limb",0,0.00878781168690792,0,0.0467935279964794
+"PheCode:781.2","abnormal posture",0.122280177273544,0.035118090433441,0.111320062913301,0
+"PheCode:785","abdominal pain",0.000863110145081907,0.0045665955059497,0,0.00442530195568897
+"PheCode:788","syncope and collapse",0,0,0,0
+"PheCode:792.1","papanicolaou smear of...cells",0,0,0,0.00814595993595858
+"PheCode:800.3","fracture of tibia and fibula",0,0,0,0
+"PheCode:801.1","fracture of foot",0,0,0,0
+"PheCode:802","fracture of pelvis",0,0,0.00627020070840958,0
+"PheCode:803.1","fracture of humerus",0,0,0,0
+"PheCode:803.2","fracture of radius and ulna",0,0,0,0
+"PheCode:803.3","fracture of clavicle or scapula",0.0162228770204094,0.00200491849640228,0.0319607565160883,0
+"PheCode:804","fracture of hand or wrist",0,0,0.00185679698335515,0
+"PheCode:805","fracture of vertebral...injury",0.0607011651496377,0.00948710655674124,0.0490802500832799,0
+"PheCode:807","fracture of ribs",0,0,3.41743616502365e-05,0
+"PheCode:809","fracture of unspecified bones",0,0,0,0
+"PheCode:816","cerebral laceration and contusion",0,0,0.00512434875040561,0
+"PheCode:817","concussion",0.0568967539294125,0.0306801203064709,0.0581185417908528,0.00322716800135318
+"PheCode:818.1","subdural hemorrhage injury",0,0,0.00929128055386531,0
+"PheCode:818.2","subarachnoid hemorrhage injury",0,0,0.016101344301768,0
+"PheCode:819","skull and face...injury",0.00766164002952466,0.00549758158158634,0,0
+"PheCode:830","dislocation",0,0,0.00128546902048261,0
+"PheCode:835","internal derangement of knee",0,0,0,0
+"PheCode:836","traumatic arthropathy",0,0,0,0
+"PheCode:840.1","muscle/tendon sprain",0.0382563599235687,0.0186209218491796,0.0476334424097712,0
+"PheCode:840.2","rotator cuff capsule sprain",0.0167282134758498,0.00615095615009408,0.0232102290473361,0
+"PheCode:840.3","joint/ligament sprain",0,0,0.00681084234094222,0
+"PheCode:841","sprains and strains of back and neck",0.0513426042654561,0.00813396797732565,0.0446219496027859,0
+"PheCode:842","other sprains and strains",0.0407428716570432,0.0149475285166882,0.0583736090936229,0
+"PheCode:870.3","other open wound of head and face",0.0325264411299269,0.00616439658663382,0.032379791447692,0
+"PheCode:907","injuries to the nervous system",0.00385442304566359,0.00186682788468139,0,0
+"PheCode:916","contusion",0.018433070693106,0.00387384553756692,0.0220145150701044,0
+"PheCode:938.2","chronic dermatitis due to solar radiation",0,0,0,0
+"PheCode:952","spinal cord injury...injury",0.00257684372982013,0.00135575824362088,0.0131837442174941,0
+"PheCode:957","injury to other and unspecified nerves",0,0,0,0
+"RXNORM:1000104","incobotulinumtoxina",0,0,0,0
+"RXNORM:10379","testosterone",0.00594573723485671,0.0277424684368612,0,0.023875370100101
+"RXNORM:10689","tramadol",0.00150504567761025,0.000427801138468313,0.0107467805490002,0
+"RXNORM:10737","trazodone",0,0,0,0
+"RXNORM:10759","triamcinolone",0,0,0.0131594456600431,0
+"RXNORM:108118","mometasone",0,0,0,0
+"RXNORM:1292","baclofen",0,0,0.0078615062784764,0
+"RXNORM:1302826","phentermine/topiramate",0,0,0,0
+"RXNORM:135775","zolmitriptan",0,0,0.0104558438936042,0
+"RXNORM:136411","sildenafil",-0.00327917291663021,0.0249269857399642,0,0.00377429712060033
+"RXNORM:141366","naratriptan",-0.00160431432772539,0.0166084111401442,0,0.00825543179639323
+"RXNORM:142439","hydrocodone bitartrate",0,0,0,0
+"RXNORM:1712","botulinum toxin type a",0,0,0,0.0257806938808182
+"RXNORM:187832","pregabalin",0,0,0,0
+"RXNORM:2101","carisoprodol",0.0104065339233824,0.00802190622780649,0.0229876089477437,0
+"RXNORM:214130","acetaminophen/butalbital/caffeine",0,0,0.000178748578853055,0
+"RXNORM:214159","aspirin/butalbital/caffeine",0,0,0.00151031709740686,0
+"RXNORM:214182","acetaminophen/hydrocodone",0.0201026529129789,0.00789009046937541,0,0
+"RXNORM:214183","acetaminophen/oxycodone",0,0,0,0
+"RXNORM:214558","ethinyl estradiol/levonorgestrel",0.00572860293316863,0.00164618961062472,0.00510912296658758,0
+"RXNORM:2167673","botulinum toxin type b",0,0,0,0
+"RXNORM:21949","cyclobenzaprine",0.0650600466625409,0.0338405214260449,0.0431043710075179,0.0336080538714591
+"RXNORM:231049","eletriptan",-8.55243627519168e-05,0.000444022423901044,0,0
+"RXNORM:232158","rofecoxib",0,0,0.0132637546497308,0
+"RXNORM:2353","clorazepate",0.0128481964437217,-0.00111340539812854,0.0375670933871771,0
+"RXNORM:24605","etodolac",0.0156548752560017,0.016836647381009,0.0205393220186385,0
+"RXNORM:253146","amphetamine/dextroamphetamine",0,0,0.00332111795063144,0
+"RXNORM:25480","gabapentin",0,0,0,0
+"RXNORM:2556","citalopram",0,0,0,0
+"RXNORM:2598","clonazepam",0,0,0,0
+"RXNORM:306674","vardenafil",0,0,0,0
+"RXNORM:31448","nabumetone",0.00324587923566676,0.00142356249696419,0,0
+"RXNORM:324044","desogestrel/ethinyl estradiol",0.00978332456024739,0.00369589442035841,0.014419835992261,0
+"RXNORM:3322","diazepam",0,0,0.0152747797001385,0
+"RXNORM:3355","diclofenac",0,0,0.0200259290170517,0
+"RXNORM:352376","ethinyl estradiol/etonogestrel",0,0,0,0
+"RXNORM:35780","ropivacaine",0,0,0,0
+"RXNORM:35827","ketorolac",0,0,0,0
+"RXNORM:36437","sertraline",0,0,0,0
+"RXNORM:37418","sumatriptan",0.0170150971773118,0.0234418524452721,0.00972446842331892,0.0103026585228872
+"RXNORM:38404","topiramate",0.00374593338644311,0.000262225697913648,0,0
+"RXNORM:39786","venlafaxine",0,0,0,0
+"RXNORM:3992","epinephrine",0,0,0,0
+"RXNORM:39993","zolpidem",0,0,0,0
+"RXNORM:41126","fluticasone",0,0,0,0
+"RXNORM:41493","meloxicam",0.0112001497059319,0.0184021952629329,0,0
+"RXNORM:42347","bupropion",0,0,0,0
+"RXNORM:4462","fluocinonide",0,0,0,0
+"RXNORM:4493","fluoxetine",0,0,0,0
+"RXNORM:5487","hydrochlorothiazide",0,0,0,0
+"RXNORM:5640","ibuprofen",0,0,0,0
+"RXNORM:57258","tizanidine",0.0156171246313541,0.00521901163796889,0.0277679642035196,0
+"RXNORM:59078","metaxalone",0.0201887541497397,0.00438354283383712,0.0226669561248223,0
+"RXNORM:591622","varenicline",0,0,0,0
+"RXNORM:596","alprazolam",0,0,0,0
+"RXNORM:6135","ketoconazole",0,0,0,0
+"RXNORM:6373","levonorgestrel",0,0,0.0023141524770052,0
+"RXNORM:6676","meclizine",0,0,0,0
+"RXNORM:6813","methadone",0,0,0,0
+"RXNORM:6845","methocarbamol",0.00267844430227556,0.00370915829261543,0.00551387412815833,0.013216989901434
+"RXNORM:689","aminophylline",0.0534042621440441,0.000902013976160339,0.0441024680678046,0
+"RXNORM:6902","methylprednisolone",0,0,0,0
+"RXNORM:704","amitriptyline",0,0,0,0
+"RXNORM:71517","propoxyphene hcl",0,0,0,0
+"RXNORM:725","amphetamine",0,0,0.0133604637337771,0
+"RXNORM:7258","naproxen",0.0368111742092739,0.0143143801624459,0.00800771547860162,0
+"RXNORM:72625","duloxetine",0,0,0.00376299196453499,0
+"RXNORM:7531","nortriptyline",0,0,0,0
+"RXNORM:7716","orphenadrine citrate",0.0588697657064505,0.0196907198153255,0.0690096719061701,0
+"RXNORM:817579","acetaminophen/codeine",0.00527082470625114,0.000625742953577987,0.0121660990965889,0
+"RXNORM:8356","piroxicam",0.00783427880275187,0.00170846062504813,0.0295363457860351,0
+"RXNORM:860189","onabotulinumtoxina",0.0108371171368827,0.00892917367369164,0.000949948080378206,0
+"RXNORM:88014","rizatriptan",0,0,0,0
+"ShortName:A1C","a1c",0,0,0,0
+"ShortName:ESR","esr",0,0,0,0
+"ShortName:HDLC","hdlc",0,0,0,0
+"ShortName:HLAB27","hlab27",0,0,0,0
+"ShortName:LDLC","ldlc",0,0,0,0.0370874428244596
+"ShortName:PSA","psa",0,0,0,0
+"ShortName:RF","rf",0,0,0,0
+"ShortName:TotChol","totchol",0,0,0,0
+"ShortName:Trig","trig",0,0,0,0

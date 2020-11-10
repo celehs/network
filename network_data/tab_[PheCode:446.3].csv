@@ -1,0 +1,65 @@
+"Variable","Description","Integrative_Estimator_RPDR","Integrative_Estimator_VA","Local_Estimator_RPDR","Local_Estimator_VA"
+"CCS:173","other diagnostic procedures...tissue",0.0011098699517692,0.0114849991611801,0,0.060850096321383
+"CCS:50","extracorporeal circulation auxiliary...procedures",0.000255218964985385,4.14658673204825e-05,0,0
+"CCS:58","hemodialysis",0,0,0,0
+"LOINC:11043-7","cryofibrinogen group:cryofib",0,0,0,0
+"LOINC:12201-0","cryoglobulins group:cryog",0.00782930132763425,0,0.0514389646953447,0
+"LOINC:1922-4","base deficit, arterial group:abased",0,0,0,0
+"LOINC:1924-0","base deficit, venous group:vbasedef",0,0,0.0108050030039602,0
+"LOINC:1927-3","venous hco3 group:vbasex",0,0,0.00365461098988946,0
+"LOINC:2021-4","venous pco2 group:vpco2",0,0,0,0
+"LOINC:2026-3","co2, whole bld/plasma group:co2pl",0,0,0,0
+"LOINC:20457-8","yeast/fungi group:uas-hyeas",0,0,0,0
+"LOINC:2705-2","venous po2 group:vpo2",0,0,0,0
+"LOINC:2711-0","so2, venous group:so2-venous",0.00636218714755578,0,0.027894722329373,0
+"LOINC:2746-6","venous ph group:vph",0,0,0,0
+"LOINC:2888-6","urine total protein group:utp",0,0,0,0
+"LOINC:30313-1","hgb bg group:hgb bg",0,0,0,0
+"LOINC:4485-9","complement c3",0.00955983070098678,0.0028003707883757,0.00838868549804571,0
+"LOINC:4498-2","complement c4",0.00176491589893556,0.000477056886895731,0,0
+"LOINC:4542-7","haptoglobin",0,0,0,0
+"LOINC:X1174-2","hct bg group:hct bg",0,0,0,0
+"Other lab:1000108751","ig %",0,0,0,0.0817681995833631
+"Other lab:1000108752","ig #",0,0,0,2.22474768489227e-05
+"Other lab:1200056380","ptratio",0,0,0,0.0659526297185288
+"Other lab:1400026640","bun/cre",0,0,0,0.0410698991872658
+"Other lab:1400060655","cal",0,0,0,0.0347212998768069
+"Other lab:800007476","calcium",0,0,0,0.0510140224533484
+"PheCode:038.3","bacteremia",0,0,0,0
+"PheCode:041.1","staphylococcus infections",0,0,0,0.0309351215570328
+"PheCode:041.2","streptococcus infection",0.000415880599022232,0.00231803792103797,0,0.0607093492707944
+"PheCode:276.6","fluid overload",0.00424810861849714,0.00553841940037356,0,0.0433220238007867
+"PheCode:285.1","acute posthemorrhagic anemia",0,0,0,0
+"PheCode:287.2","allergic purpura",0,0,0,0.0214977160750971
+"PheCode:291.8","alteration of consciousness",0,0,0,0
+"PheCode:401.3","other hypertensive complications",0,0,0,0
+"PheCode:420.3","endocarditis",0.0324684345058449,0.0353494362739178,0,0.0644482841627901
+"PheCode:427.7","tachycardia nos",0,0,0,0
+"PheCode:446.1","thromboangiitis obliterans",0,0,0,0
+"PheCode:446.4","wegener's granulomatosis",0.123398723343348,0.00329760215065442,0.128962218935487,0
+"PheCode:446.6","polyarteritis nodosa",0,0,0,-0.000314552456023159
+"PheCode:446.9","arteritis nos",0.105962324883385,0.159568063350336,0.0448707153302966,0.168395087206878
+"PheCode:452.2","deep vein thrombosis [dvt]",0,0,0,0
+"PheCode:502","postinflammatory pulmonary fibrosis",0.0461610738988895,0.0271374372404948,0.0157753800033686,0.0512312378331637
+"PheCode:509.1","respiratory failure",0,0,0,0
+"PheCode:510.2","lung transplant",0,0,0,0
+"PheCode:516.1","hemoptysis",0.0994862599112771,0.063712088402213,0.028203262490833,0.094823904945785
+"PheCode:580.1","glomerulonephritis",0.0741623494259671,0.0432774360528279,0.0479584259502582,0.0481952221101196
+"PheCode:580.3","nephritis and nephropathy...glomerulonephritis",0.0408983627100951,0.0360962793864137,0.0040576064608962,0.0642490321717078
+"PheCode:585.1","acute renal failure",0,0,0,0.0372708922793537
+"PheCode:585.2","renal failure nos",0,0,0,0
+"PheCode:681.5","cellulitis and abscess of leg, except foot",0,0,0,0.0434522933134455
+"PheCode:687.1","rash and other nonspecific skin eruption",0.0162596577364255,0.0212885241602133,0,0.055911177889943
+"PheCode:695.4","lupus localized and systemic",-0.000679387023816742,0.00882373430640363,0,0.0386481437699367
+"PheCode:707.2","chronic ulcer of leg or foot",0,0,0,0.0405366746353477
+"RXNORM:1008821","castor oil/peruvian balsam",0,0,0,0
+"RXNORM:105694","epoetin alfa,recombinant",0,0,0,0
+"RXNORM:1256","azathioprine",0,0,0,0.0393230899534517
+"RXNORM:1908","calcium gluconate",0,0,0,0
+"RXNORM:196102","basiliximab",0,0,0,0
+"RXNORM:3002","cyclophosphamide",0.00725373233204524,0.0697604718558542,0,0.0877481247174573
+"RXNORM:3108","dapsone",0.000199614094407448,0.00590955352475023,0,0.0408216720277666
+"RXNORM:491498","carboxymethylcellulose sodium",0,0,0,0
+"RXNORM:60212","atovaquone",0,0,0,0
+"RXNORM:68149","mycophenolate mofetil",0,0,0,0
+"RXNORM:8640","prednisone",0,0,0,0.0222515978952392

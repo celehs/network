@@ -1,0 +1,164 @@
+"Variable","Description","Integrative_Estimator_RPDR","Integrative_Estimator_VA","Local_Estimator_RPDR","Local_Estimator_VA"
+"CCS:142","partial excision bone",0.0298729034227821,-0.00657916310904017,0.0272011051666142,0
+"CCS:147","treatment, fracture or...femur",0,0,0,0
+"CCS:157","amputation of lower extremity",0.0373669439824389,-0.0166511795168547,0.0393800694493188,0
+"CCS:158","spinal fusion",0,0,0,0
+"CCS:159","other diagnostic procedures...system",0.00403999127245494,-0.00151509509233413,0.00857284266822183,0
+"CCS:160","other therapeutic procedures...tendons",0,0,0.00710818568245744,0
+"CCS:161","other or therapeutic procedures on bone",0.0100252929747191,-0.0062022727536413,0.01260220069183,0
+"CCS:162","other or therapeutic procedures on joints",0,0,0.00961675773858794,0
+"CCS:163","other non-or therapeutic...system",0.00298674091187792,-0.0028182879580138,0.0121050058236164,0
+"CCS:164","other or therapeutic...system",0,0,0.000759169185319615,0
+"CCS:168","incision and drainage,...tissue",0,0,0.00109947402324177,0
+"CCS:169","debridement of wound, infection or burn",0.0504026008916232,-0.0587931901222344,0.0524762822971033,0
+"CCS:172","skin graft",0,0,0,0
+"CCS:190","contrast arteriogram of...arteries",0,0,0,0
+"CCS:214","traction, splints, and other wound care",0.0323466315807553,0.0479720131614069,0.0250584461637082,0.0344704047796544
+"CCS:215","other physical therapy and rehabilitation",0.0111948870843645,0.0812051529208366,0,0.0311938325723792
+"CCS:226","other diagnostic radiology and related techniques",0.0109830219495512,0.044903870595755,0,0.024841108601956
+"CCS:3","laminectomy, excision intervertebral disc",0,0,0,0
+"CCS:54","other vascular catheterization, not heart",0,0,0,0
+"CCS:58","hemodialysis",0,0,0,0
+"CCS:60","embolectomy and endarterectomy of lower limbs",0,0,0,0
+"LOINC:11039-5","c-reactive protein group:crp",0,0,0,0
+"LOINC:17861-6","scca group:scca",0,0,0,0
+"LOINC:1903-4","vitamin c group:vitc",0,0,0,0
+"LOINC:20578-1","vancomycin group:unvanc",0,0,0,0
+"LOINC:2341-6","glucose poc group:glu-poc",0,0,0,0
+"LOINC:32286-7","hcv genotyping group:hcvgtyp",0,0,0,0
+"LOINC:3321-7","amikacin,trough group:tramik",0,0,0,0
+"LOINC:3665-7","gentamicin",0,0,0,0
+"LOINC:4090-7","vancomycin,peak group:pkvanv",0,0,0,0
+"LOINC:4092-3","vancomycin",0.0192931741793474,-0.00284069099497884,0.0163301011095338,0
+"LOINC:4537-7","esr group:esr",0,0,0.0102269751768789,0
+"LOINC:5785-1","urine eos group:u-eos",0,0,0,0
+"LOINC:9679-2","scca group:scca",0,0,0,0
+"LOINC:X1166-8","crp mg/l group:crpt",0.0132618026419047,0,0.0255628498322418,0
+"LOINC:X1700-4","vitamin a ug/dl group:vitma",0,0,0,0
+"LOINC:X1727-7","glucose poc group:glu-poc",0,0,0,0
+"LOINC:X6013-7","draw type group:drawtyp",0,0,0,0
+"PheCode:031","diseases due to other mycobacteria",0.00963316245914007,-0.000612631034071809,0.0114912181055902,0
+"PheCode:038.2","gram positive septicemia",0.00678057823524918,-0.00144792631611528,0,0
+"PheCode:038.3","bacteremia",0.0451053365405472,-0.00905985951764108,0.0344391848462172,0
+"PheCode:041.1","staphylococcus infections",0.0370156015442727,-0.0130771022801765,0.039688369697737,0
+"PheCode:041.2","streptococcus infection",0,0,0.0038181447015487,0
+"PheCode:041.9","infection with drug-resistant microorganisms",0.0115958683831395,-0.00407376767671532,0.00372181308990085,0
+"PheCode:070.3","viral hepatitis c",0,0,0,0
+"PheCode:080","postoperative infection",0.0224471826908735,-0.00610303135237497,0.0237269738751159,0
+"PheCode:136","other infectious and parasitic diseases",0,0,0.00599125492224703,0
+"PheCode:249","secondary diabetes mellitus",0,0,0,0
+"PheCode:250.1","type 1 diabetes",0.0168149991623561,-0.00507125423161416,0.0117857402533301,0
+"PheCode:250.2","type 2 diabetes",0.0152575580311795,0.0200202800467634,0,0
+"PheCode:250.3","insulin pump user",0,0,0,0
+"PheCode:250.6","polyneuropathy in diabetes",0.00440395892804364,-0.00174562316622961,0,0
+"PheCode:287.2","allergic purpura",0.00101955859470436,0.000166227609757825,0,0
+"PheCode:288.2","elevated white blood cell count",0,0,0,0
+"PheCode:324","other cns infection and poliomyelitis",0.0473282616039289,-0.00232978231354935,0.0554921615286373,0
+"PheCode:325","phlebitis and thrombophlebitis...sinuses",0,0,0.00345886772133381,0
+"PheCode:333.2","myoclonus",0,0,0,0
+"PheCode:338.1","acute pain",0,0,0.00635749946222911,0
+"PheCode:338.2","chronic pain",0.00385551886101447,-0.00107970151959353,0.00376614305561048,0
+"PheCode:343","infantile cerebral palsy",0.00183127437290362,-0.000325850632991621,0.00672780820267315,0
+"PheCode:344","other paralytic syndromes",0.0310366198990389,-0.017291412461421,0.0275723760132491,0
+"PheCode:355.1","chronic pain syndrome",0,0,0,0
+"PheCode:357","inflammatory and toxic neuropathy",0,0,0.000509463665243855,0
+"PheCode:381.3","mastoiditis & related conditions",0.0140520333193898,0.000316843911168755,0.00358095988095578,0
+"PheCode:420.3","endocarditis",0,0,0,0
+"PheCode:440.2","atherosclerosis of the extremities",0.0154283070284319,-0.00609325910703908,0.0100879808842363,0
+"PheCode:443.7","peripheral angiopathy in...elsewhere",0,0,0,0
+"PheCode:443.9","peripheral vascular disease, unspecified",0.0200796829660046,-0.0172622534217032,0,0
+"PheCode:452.2","deep vein thrombosis [dvt]",0,0,0,0
+"PheCode:453","chronic venous hypertension",0,0,0,0
+"PheCode:459.9","circulatory disease nec",0,0,0,0
+"PheCode:526.5","inflammatory conditions of jaw",0.0218448268986057,-0.00038929541099107,0.0433404526255188,0
+"PheCode:526.9","jaw disease nos",0.00909604457421403,0.00169565195193717,0.0120798949229503,0
+"PheCode:560.2","impaction of intestine",0,0,0,0
+"PheCode:585.3","chronic renal failure [ckd]",0,0,0,0
+"PheCode:596.5","functional disorders of bladder",0.00574270183892148,-0.00250925784772116,0.00732827010179362,0
+"PheCode:681.1","cellulitis and abscess of fingers/toes",0.0221231860611475,-0.00936783112047206,0.0259473570037755,0
+"PheCode:681.2","cellulitis and abscess of face/neck",0,0,0.00139503589000323,0
+"PheCode:681.3","cellulitis and abscess of arm/hand",0.000718610691956821,0.000110604342499221,0.00389519214767011,0
+"PheCode:681.5","cellulitis and abscess of leg, except foot",0.0321584056920634,-0.0275046058368367,0.0234687983996539,0
+"PheCode:681.6","cellulitis and abscess of foot, toe",0.0347492812179606,-0.0139785169349718,0.0207793844241408,0
+"PheCode:681.7","cellulitis and abscess of trunk",0,0,0,0
+"PheCode:686.5","pyoderma",0,0,0,0
+"PheCode:695.9","unspecified erythematous condition",0,0,0,0
+"PheCode:702.4","degenerative skin disorders",0,0,0,0
+"PheCode:707.1","decubitus ulcer",0.0587310706535014,-0.0298891961575262,0.0623040081654024,0
+"PheCode:707.2","chronic ulcer of leg or foot",0.0875875581444501,0.173736276957841,0.0685102630943923,0.0558834297622485
+"PheCode:707.3","chronic ulcer of unspecified site",0.0114226038016909,-0.00549436614475827,0.0132360949073946,0
+"PheCode:710.1","osteomyelitis",0.304793087626755,0.214601539323575,0.323298079513834,0.0633537219876429
+"PheCode:711.1","pyogenic arthritis",0.0443171697878044,-0.0114467023571517,0.0453972798589608,0
+"PheCode:711.3","behcet's syndrome",0,0,0.00626251275383558,0
+"PheCode:712","infective connective tissue disorders",0.0229208610999273,-0.00515817961992244,0.0271723120928091,0
+"PheCode:713.5","arthropathy associated with neurological disorders",0.0187621532727266,-0.00636325847647359,0.0219725936104717,0
+"PheCode:715.1","sacroiliitis nec",0.00674637568312371,-0.000424947573240113,0.00702859963656128,0
+"PheCode:722.9","other and unspecified disc disorder",0.0307045713199919,-0.00417855436561979,0.0286552362406962,0
+"PheCode:724.1","disorders of sacrum",0.00838747873922248,-0.00402945682978485,0.00829541049159496,0
+"PheCode:724.9","other unspecified back disorders",0,0,0.00914263760212351,0
+"PheCode:727.1","synovitis and tenosynovitis",0,0,0.00161472782174205,0
+"PheCode:733.4","aseptic necrosis of bone",0.00717122893400743,-0.00450270794719887,0.00444234025566748,0
+"PheCode:733.8","malunion and nonunion of fracture",0.0128289738419483,-0.00304347537733249,0.0121751617307841,0
+"PheCode:735.2","acquired toe deformities",0.00138040402372038,-0.00119860943158553,0,0
+"PheCode:737.1","kyphosis acquired",0,0,0.00089197844069253,0
+"PheCode:739","contracture of joint",0,0,0.00915495225047213,0
+"PheCode:740.9","osteoarthrosis nos",0.00502749279263897,0.0396176866397279,0,0.0323526723966779
+"PheCode:741.4","joint effusions",0,0,0,0
+"PheCode:743.9","osteopenia or other disorder of bone and cartilage",0.0027613192912814,-0.00105737329394224,0,0
+"PheCode:745","pain in joint",0.0112172634947149,0.0435543118215946,0,0.0319697123945478
+"PheCode:752.1","neural tube defects",0.0027845425144719,0.000156659721513648,0,0
+"PheCode:756.5","congenital osteodystrophies",0,0,0,0
+"PheCode:760","back pain",0.00112832040598856,0.000291483262163466,0,0
+"PheCode:764","sciatica",0,0,0.0141532747477548,0
+"PheCode:766","neuralgia, neuritis, and radiculitis nos",0,0,0.00818135082545632,0
+"PheCode:771.1","swelling of limb",0,0,0,0
+"PheCode:771.2","cramp of limb",0,0,0.00242045655191647,0
+"PheCode:790.1","elevated sedimentation rate",0,0,0,0
+"PheCode:790.8","elevated c-reactive protein crp",0.00736658670926411,-0.00186305541186837,0.0101876344222841,0
+"PheCode:791","gangrene",0.0254573057056902,-0.0094604529954187,0.03312888118535,0
+"PheCode:800.3","fracture of tibia and fibula",0,0,0,0
+"PheCode:800.4","fracture of patella",0,0,0,0
+"PheCode:801.1","fracture of foot",0,0,0,0
+"PheCode:809","fracture of unspecified bones",0.00754580499247679,-0.00536781296899493,0.0118267374728872,0
+"PheCode:854","complications of cardiac/vascular...graft",0,0,0,0
+"PheCode:857","mechanical complication of...graft",0,0,0,0
+"PheCode:858","complication of internal orthopedic device",0.00735876254359182,-0.00376796894383788,0.0166072194446585,0
+"PheCode:871.3","open wound of foot except toes alone",0.0217977589308674,-0.0121611340560952,0.0116139504480243,0
+"PheCode:871.4","open wound of toes",0.0218644865269667,-0.00357039419926931,0.0244471117637989,0
+"PheCode:872","traumatic amputation",0.0043548283695542,-0.000807354042570058,0.021013588183328,0
+"PheCode:874","complication of amputation stump",0.0207479733416339,-0.00512357991010847,0.0197795606820716,0
+"PheCode:875","non-healing surgical wound",0,0,0,0
+"PheCode:876","posttraumatic wound infection...classified",0.00214232854297514,-0.00142132135922821,0,0
+"PheCode:907","injuries to the nervous system",0,0,0,0
+"PheCode:952","spinal cord injury...injury",0,0,0.00277427923090021,0
+"PheCode:960.1","adverse effects of antibacterials not penicillins",0,0,0,0
+"PheCode:980","encounter for long-term current use of antibiotics",0,0,0,0
+"RXNORM:11124","vancomycin",0,0,0,0
+"RXNORM:11416","zinc",0,0,0,0
+"RXNORM:1291","bacitracin",0,0,0,0
+"RXNORM:190376","linezolid",0,0,0,0
+"RXNORM:20481","cefepime",0,0,0,0
+"RXNORM:2193","ceftriaxone",0,0,0,0
+"RXNORM:22299","daptomycin",0.0148562634879522,-0.000922623018466497,0.0233872711289359,0
+"RXNORM:25480","gabapentin",0,0,0,0
+"RXNORM:27729","iodixanol",0,0,0,0
+"RXNORM:29561","meropenem",0,0,0,0
+"RXNORM:325642","ertapenem",0.00401743530013186,-0.000550437602685049,0,0
+"RXNORM:34482","cilastatin/imipenem",0,0,0,0
+"RXNORM:35780","ropivacaine",0,0,0,0
+"RXNORM:37415","ampicillin/sulbactam",0,0,0.000103555926189073,0
+"RXNORM:39954","zinc sulfate",0,0,0,0
+"RXNORM:57258","tizanidine",0,0,0.00292340010556652,0
+"RXNORM:58939","collagenase",0,0,0,0
+"RXNORM:6130","ketamine",0,0,0,0
+"RXNORM:660890","sevelamer carbonate",0,0,0,0
+"RXNORM:6759","mepivacaine",0.00252814849565981,0.0017152147874711,0.00247503789174077,0
+"RXNORM:6813","methadone",0,0,0,0
+"RXNORM:704","amitriptyline",0.00296800942124377,0.0637349945257639,0,0.0337544918470222
+"RXNORM:7233","nafcillin",0,0,0,0
+"RXNORM:74169","piperacillin/tazobactam",0,0,0,0
+"RXNORM:8410","alteplase",0,0,0,0
+"RXNORM:9384","rifampin",0.00576016383747701,-0.000999587311467629,0.00359523606324506,0
+"RXNORM:9793","silver sulfadiazine",0,0,0,0
+"RXNORM:9881","sodium hypochlorite",0,0,0,0
+"ShortName:ESR","esr",0,0,0,0.0272868841691581

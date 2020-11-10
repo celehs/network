@@ -1,0 +1,235 @@
+"Variable","Description","Integrative_Estimator_RPDR","Integrative_Estimator_VA","Local_Estimator_RPDR","Local_Estimator_VA"
+"CCS:10","thyroidectomy, partial or complete",0,0,0,0.000428499607616138
+"CCS:12","other therapeutic endocrine procedures",0,0,0,0.00275557919983098
+"CCS:130","other diagnostic procedures, female organs",-0.00645750382103205,0.00675307602667512,0,0
+"CCS:170","excision of skin lesion",-0.00313466593004748,0.00327136661480005,0,0.00111226032853054
+"CCS:182","mammography",-0.00493027459252961,0.00570975485390819,0,0.00968363913439071
+"CCS:192","diagnostic ultrasound of head and neck",0,0,0,0
+"CCS:200","nonoperative urinary system measurements",0,0,0,0.00215753860230272
+"CCS:220","ophthalmologic and otologic...treatment",0.00727902343754938,0.00890177854776427,0,0
+"CCS:227","other diagnostic procedures...consultation",-0.000208265948903685,0.000486692695945987,0,0
+"CCS:228","prophylactic vaccinations and inoculations",-0.00124727323496934,0.0154888369084895,0,0.00718332281067511
+"CCS:233","laboratory - chemistry and hematology",0.00551371187062824,0.0127413809108647,0,0.0101493675670398
+"CCS:235","other laboratory",1.55005161410677e-05,0.00270197300213767,0,0.00223993821130005
+"CCS:236","home health services",0.00101064619282328,0.00931857913388202,0,0.0126803647133636
+"CCS:237","ancillary services",-0.0054423041374229,0.00400729399299814,0,0
+"CCS:242","hearing devices and audiology supplies",-0.00120245413779847,0.00750379616537402,0,0.00148457188607461
+"LOINC:10378-8","polychromasia",0,0,0,0
+"LOINC:1959-6","unspecified hco3 group:hc03",0,0,0,0
+"LOINC:1961-2","hco3, capillary group:chco3",0.0339843578604742,0,0.0067676249627596,0
+"LOINC:1989-3","calcidiol",-0.00230736846846926,0.0045496602157355,0,0
+"LOINC:2020-6","capillary pco2 group:cpco2",0,0,0.00605013798943403,0
+"LOINC:2021-4","venous pco2 group:vpco2",0,0,0,0
+"LOINC:21026-0","slide review group:slider",0.020545649309334,0,0,0
+"LOINC:2132-9","cobalamins",0,0.000966855894862893,0,0.0170397153857376
+"LOINC:2284-8","folate",0.000128848701782895,0.000857175516652983,0,0
+"LOINC:2514-8","ketones",0,0,0,0
+"LOINC:2704-5","capillary po2 group:cpo2",0.0288053225996301,0,0,0
+"LOINC:2745-8","capillary ph group:cph",0.0414179953172204,0,0,0
+"LOINC:2746-6","venous ph group:vph",0,0,0,0
+"LOINC:2761-5","phenyl ketones group:pku",0,0,0,0
+"LOINC:3016-3","thyrotropin",0.0327607383099933,0.0798230138058769,0,0.0567069215705049
+"LOINC:3021-3","thyroxine bind glob group:tbg",0,0,0,0
+"LOINC:3024-7","thyroxine.free",0.0624856643344315,0.0513506070418033,0,0.0443074489219689
+"LOINC:3026-2","thyroxine",0.0582753098029936,0.031327203669551,0,0.0173905552187458
+"LOINC:3051-0","triiodothyronine.free",0.00129010294951495,0.00518270107305029,0,0
+"LOINC:3053-6","triiodothyronine",0.028138992566793,0.0097071326563707,0,0.00576505637160523
+"LOINC:32167-9","clarity",0,0.00354772655742311,0,0
+"LOINC:35365-6","vitamin d+metabolites",-0.00845927694125078,0.005638329800933,0,0.00616536658342799
+"LOINC:4679-7","reticulocytes/100 erythrocytes",0.0156195633114135,0.00175608179944071,0,0
+"LOINC:5767-9","appearance",0,0,0,0
+"LOINC:5778-6","color",-0.00108190031813964,0.0233162752686669,0,0
+"LOINC:5802-4","nitrite",0,0,0,0
+"LOINC:5803-2","ph",0,0,0,0
+"LOINC:5811-5","specific gravity",0,0,0,0
+"LOINC:800-3","schistocytes",0,0,0,0
+"LOINC:8098-6","thyroglobulin ab",0,0,0,0.0132208275590432
+"LOINC:8099-4","thyroperoxidase ab",-0.0103387622718351,0.0132686605514701,0,0
+"LOINC:8247-9","mucus",0,0,0,0
+"LOINC:8310-5","body temperature",0,0,0,0
+"LOINC:X2023-2","slide review wbc group:msrw",0,0,0,0
+"LOINC:XC450-7","lactate, art, nicu group:lacnicu",0,0,0,0
+"LOINC:XC451-5","base def, art nicu group:bednicu",0,0,0,0
+"LOINC:XC455-6","lactate, ven, nicu group:lacvnicu",0,0,0,0
+"LOINC:XC458-0","tco2, cap, nicu group:tco2cn",0.100379155828344,0,0.043169895607632,0
+"LOINC:XC459-8","lactate, cap, nicu group:laccap",0.0984080885146267,0,0.0506698864812387,0
+"LOINC:XC461-4","base ex, cap, nicu group:bexcapn",0.0474277708630616,0,0.0299153591616492,0
+"Other lab:1000000417","pb c:h",0,0,0,0
+"Other lab:1000034826","t3 free",0,0,0,0
+"Other lab:1000037666","atpo",0,0.0121612940375605,0,0.0107896454443326
+"Other lab:1000050737","ft3",0,0,0,0.000202932045316398
+"Other lab:1000059766","mn prot",0,0,0,0
+"Other lab:1000068149","atg",0,5.34438573183532e-05,0,0.00514403628679534
+"Other lab:1000071016","mn c/h",0,0,0,0
+"Other lab:1000072545","ft3",0,0.00515940092923269,0,0.00734868057196636
+"Other lab:1000075073","mrd_b/c",0,0,0,0
+"Other lab:1000089684","crea-u",0,0,0,0
+"Other lab:1000099794","ifobt",0,0,0,0
+"Other lab:1000113172","25-hydroxyvitamin d",0,0,0,0
+"Other lab:1000137926","choles_",0,0.0138499127870659,0,0.00458099790964021
+"Other lab:1000137980","chol/hdl_",0,0,0,0.000371153828132711
+"Other lab:1000137981","ldl/hdl_",0,0,0,1.55729809712505e-15
+"Other lab:1200002657","triiodo",0,0,0,0
+"Other lab:1200028286",".t3",0,0,0,0
+"Other lab:1200078286","testos",0,0,0,0
+"Other lab:1200090526","free t3",0,0,0,0
+"Other lab:1200094961","tot t3",0,0,0,0
+"Other lab:1200127359","fit1/1",0,0,0,0
+"Other lab:1200139055","tsh",0,0,0,0
+"Other lab:1400031695","triiodo",0,0,0,0
+"Other lab:800020267","t-uptk",0,0.0124272604608739,0,0.00444326653257449
+"Other lab:800020315","freeti",0,3.8194259383963e-05,0,0.00052069878037664
+"Other lab:800021999","ttesto",0,0,0,0
+"Other lab:800087356","tup",0,0,0,0
+"PheCode:1010.2","screening for malignant neoplasms",0,0.00384905940416399,0,0.00840451057316616
+"PheCode:1010.3","screening for other diseases and disorders",0,0.0119683571479903,0,0.015981302314862
+"PheCode:1010.4","genetic test",0,0.00471413910515558,0,0.00450596455714106
+"PheCode:1010.5","potential health hazards...diseases",0,0.00516277998055231,0,0.00633776743690053
+"PheCode:1010.7","persons with potential...circumstances",0,0,0,0
+"PheCode:1015","effects of other external causes",0,0,0,0
+"PheCode:1090","acquired absence of organs",0,0.00674276387425576,0,0.00730925687257691
+"PheCode:110.1","dermatophytosis",-0.000953537428995407,0.00792681812007355,0,0
+"PheCode:193","thyroid cancer",0.0018786502802666,0.0242371229807359,0,0.0341058372634629
+"PheCode:194","cancer of other endocrine glands",-0.00309690032010142,0.0103545954982978,0,0.0058281743571335
+"PheCode:208","benign neoplasm of colon",-0.000348196339514367,0.00137981378864896,0,0
+"PheCode:226","benign neoplasm of thyroid glands",0,0,0,0
+"PheCode:227.3","benign neoplasm of...pouch",-0.00989226200347185,0.0170402192504359,0,0.0142017726561299
+"PheCode:240","simple and unspecified goiter",0,0,0,0
+"PheCode:241.1","nontoxic uninodular goiter",-0.000191697607423532,0.0289229922938014,0,0.0127786949145903
+"PheCode:241.2","nontoxic multinodular goiter",0,0,0,0
+"PheCode:242.1","graves' disease",-0.00675107300116356,0.0248402598829962,0,0.0237167000675576
+"PheCode:242.3","exophthalmos",-5.06580886375372e-05,0.000778140082267088,0,0.00210781533723899
+"PheCode:244.1","secondary hypothyroidism",0.000303544338851144,0.0368134487965951,0,0.0370765603268881
+"PheCode:244.2","acquired hypothyroidism",0.002239786394482,0.0422534115327179,0,0.0324060980729586
+"PheCode:244.3","iodine hypothyroidism",0.00849818643933811,0.0367245852995168,0,0.0227058147502065
+"PheCode:244.4","hypothyroidism nos",0.0474369090493205,0.259003575285591,0,0.234654459085605
+"PheCode:245.2","chronic thyroiditis",0.00127149113230796,0.0198839006158033,0,0.0223681845398821
+"PheCode:246.7","abnormal results of function study of thyroid",0.00297882227000797,0.0155125938702005,0,0.00386194492503406
+"PheCode:250.2","type 2 diabetes",-0.00080769155658973,0.0162317519450604,0,0
+"PheCode:250.4","abnormal glucose",-0.00241908120029578,0.0278244101528955,0,0.0126651618494142
+"PheCode:251.1","hypoglycemia",0.0646097459114283,0.0119227918458315,0,0
+"PheCode:252.2","hypoparathyroidism",-0.00277012302107461,0.0228063254936109,0,0.0151877266243724
+"PheCode:253.1","pituitary hyperfunction",-0.00605755963453475,0.0125816967310938,0,0.0100674948339337
+"PheCode:253.2","pituitary hypofunction",0.00175357962052164,0.0181401832060126,0,0.0158940413500726
+"PheCode:253.3","diabetes insipidus",0.00451849610433051,0.0149099384236153,0,0.00644950129130382
+"PheCode:253.4","anterior pituitary disorders",0,0,0,0.00143886965466393
+"PheCode:255.2","adrenal hypofunction",-0.0069725841261528,0.0136454941876264,0,0.0047516473158676
+"PheCode:256.4","polycystic ovaries",0.000398176716009968,0.00912329672238765,0,0
+"PheCode:257.1","testicular hypofunction",-0.00454954639160526,0.0155869076326238,0,0.00954112437998118
+"PheCode:259.8","polyglandular activity in...adenomatosis",-0.0012564877639919,0.0151601573130853,0,0.00656469631180426
+"PheCode:261.2","vitamin b-complex deficiencies",-0.00621181635380451,0.020849504761246,0,0
+"PheCode:261.4","vitamin d deficiency",-0.00814548458733464,0.0466574976799227,0,0.00736656026107435
+"PheCode:264.2","failure to thrive childhood",0.0462485414837105,0.00595225065235821,0,0
+"PheCode:272.1","hyperlipidemia",-0.00701208203931087,0.0766404641243606,0,0.0283940204794421
+"PheCode:274.1","gout",-0.003015010408423,0.00829830142547645,0,0
+"PheCode:276.1","electrolyte imbalance",0.00113241650548202,0.00122174468877009,0,0
+"PheCode:276.4","acid-base balance disorder",0.0155825985302515,0.00180206916119421,0,0
+"PheCode:278.1","obesity",-0.00732816184943207,0.012955028403644,0,0.00696219519107678
+"PheCode:281.1","megaloblastic anemia",-0.000710513278409777,0.00650897794475707,0,0.00282847876894387
+"PheCode:286.2","encounter for long-term...anticoagulants",-0.000478606806563047,0.00212715995301418,0,0
+"PheCode:290.1","dementias",-0.000537034852413751,0.00238287966202276,0,0
+"PheCode:296.1","bipolar",0,0,0,0
+"PheCode:296.2","depression",0,0,0,0
+"PheCode:300.1","anxiety disorder",-0.00655037759298648,0.00838449442298854,0,0
+"PheCode:318","tobacco use disorder",0,0,0,0
+"PheCode:327.3","sleep apnea",-0.00691927947754362,0.0217282582740474,0,0.0116726524811477
+"PheCode:327.4","insomnia",-0.00440746292629002,0.0263879135777789,0,0.0130887746098507
+"PheCode:327.7","sleep related movement disorders",0.000896698462181565,0.00472318869701842,0,0
+"PheCode:333.1","essential tremor",0.00265962518705037,0.00393368579608169,0,0
+"PheCode:350.1","abnormal involuntary movements",0,0,0,0
+"PheCode:351","other peripheral nerve disorders",-4.03297091549655e-05,0.000948383072007526,0,0
+"PheCode:361.2","retinoschisis and retinal cysts",0.00719433992407528,0.00230324688524485,0,0
+"PheCode:362.1","retinopathy of prematurity",0.122825313056615,0,0.109073235992091,0
+"PheCode:362.2","degeneration of macula...retina",0.00175468130975493,0.00412777755697,0,0
+"PheCode:366.2","senile cataract",0.00519511458111376,0.01524838159518,0,0
+"PheCode:367.4","presbyopia",0,0,0,0
+"PheCode:375.1","dry eyes",0.00435299903891548,0.00869036769046052,0,0
+"PheCode:380.4","impacted cerumen",-0.00109282416589471,0.00178412085671535,0,0.0025310195897316
+"PheCode:386.9","dizziness and giddiness...vertigo",0,0,0,0
+"PheCode:389.1","sensorineural hearing loss",-0.0104052721969005,0.0260387042658863,0,0.0164528457337751
+"PheCode:389.5","disorders of acoustic nerve",0.191417956313337,0.0114879619207912,0.112968758302322,0
+"PheCode:396","abnormal heart sounds",0.0281535186377354,0.00604403316468384,0,0
+"PheCode:401.1","essential hypertension",-0.000468762244752662,0.00296948940876721,0,0
+"PheCode:411.4","coronary atherosclerosis",0,0,0,0
+"PheCode:411.8","other chronic ischemic heart disease, unspecified",-8.01782622587205e-05,0.0193912331140961,0,0.00691089624464458
+"PheCode:426.9","cardiac pacemaker/device in situ",0.000397012523363203,0.00180326191017376,0,0
+"PheCode:427.2","atrial fibrillation and flutter",0,0,0,0
+"PheCode:427.3","other specified cardiac dysrhythmias",-0.000636212416108549,0.00290955673004869,0,0
+"PheCode:433.1","occlusion and stenosis of precerebral arteries",-0.00171962692053883,0.002892450348485,0,0
+"PheCode:433.3","cerebral ischemia",-0.00355598030113877,0.0119899140591224,0,0
+"PheCode:450","noninfectious disorders of lymphatic channels",0.0987626821440634,0.00740449540371996,0,0
+"PheCode:476","allergic rhinitis",-0.00675356141568718,0.0246499780524466,0,0.0102713938237851
+"PheCode:530.1","esophagitis, gerd and related diseases",0.00550773213046687,0.0260849585290949,0,0.0379611362446597
+"PheCode:532","dysphagia",0.0268276870800683,0.00937024659658249,0,0
+"PheCode:550.1","inguinal hernia",0.0759885348405607,0.00527502742117276,0.0214695151192686,0
+"PheCode:562.1","diverticulosis",0,0,0,0
+"PheCode:563","constipation",0,0,0,0.00323466762167737
+"PheCode:564.1","irritable bowel syndrome",-8.81400982186724e-05,0.000898564924252827,0,0
+"PheCode:575.8","other disorders of biliary tract",0.075882657957937,0.0039879177930969,0,0
+"PheCode:599.4","urinary incontinence",-0.00403799184207377,0.0110002622944942,0,0.00669127148265366
+"PheCode:600","hyperplasia of prostate",-0.00368249473187965,0.0337467143715412,0,0.0332486814310448
+"PheCode:605","erectile dysfunction [ed]",-0.00464343712933884,0.0135079873614399,0,0.012593074643643
+"PheCode:619.2","disorders of uterus, nec",-0.000662399276827226,0.00881545655662099,0,0.00288281511267141
+"PheCode:627.1","postmenopausal bleeding",-0.00114826507554607,0.0115571067478129,0,0.00606998894054744
+"PheCode:627.2","symptomatic menopause",-0.000152337650393401,0.000834433241424673,0,0.0059456582953197
+"PheCode:627.3","postmenopausal atrophic vaginitis",-0.0023963174048792,0.007675600838822,0,0.00347684776918259
+"PheCode:627.5","premature menopause and other ovarian failure",0.00246426908161686,0.00539477453840858,0,0
+"PheCode:637","short gestation; low...retardation",0,0,0,0
+"PheCode:656.1","isoimmunization of fetus or newborn",0.010643113653408,0,0,0
+"PheCode:656.2","respiratory conditions of fetus and newborn",0.00919693589085683,0,0.00506498645046267,0
+"PheCode:656.3","endocrine and metabolic...newborn",0.0229933426412384,0.00600056485902046,0,0
+"PheCode:656.4","hemorrhage of fetus or newborn",0.0279712576761127,0,0.019829014446629,0
+"PheCode:656.5","hematological disorders of newborn",0,0,0.020960291184887,0
+"PheCode:656.6","perinatal disorders of digestive system",0.0836962145935978,0.00294000037257107,0.055299994642863,0
+"PheCode:656.7","conditions involving the...newborn",0.00859849070912925,-0.00113814794932214,0,0
+"PheCode:656.9","neonatal bradycardia or tachycardia",0,0,0,0
+"PheCode:702.1","actinic keratosis",-0.00737714833450999,0.0185573254198933,0,0.0116379397538344
+"PheCode:716.9","arthropathy nos",0.000923940600672329,0.00235341663888122,0,0
+"PheCode:722.6","degeneration of intervertebral disc",0.000163089328949688,0.0012570399413953,0,0
+"PheCode:740.1","osteoarthritis; localized",-0.000509128756069046,0.00169347723880791,0,0.00932881895660307
+"PheCode:740.9","osteoarthrosis nos",-0.000397351707962981,0.00578916564479278,0,0
+"PheCode:743.1","osteoporosis",-0.00549716398022552,0.0200788036259937,0,0.0218199718144853
+"PheCode:743.9","osteopenia or other disorder of bone and cartilage",0.0192710039286637,0.0123392493064662,0,0.00970787876639524
+"PheCode:745","pain in joint",-0.000211295178736438,0.000284649390189698,0,0
+"PheCode:747.1","cardiac congenital anomalies",0.0111681220458494,0.00427706826556782,0,0
+"PheCode:750.2","lower gastrointestinal congenital anomalies",0.09214793937929,0.00264797932387625,0.0307768311312231,0
+"PheCode:751.1","congenital anomalies of genital organs",-0.00602500071578548,-0.000204314374540536,0,0
+"PheCode:752.2","other specified congenital...system",0.0572338550943184,0.00129257181364328,0.0200341434675182,0
+"PheCode:756.1","congenital anomalies of abdominal wall; diaphram",0,0,0,0
+"PheCode:758.1","chromosomal anomalies",0.113749952591202,0.00954935945168773,0.111899110831952,0
+"PheCode:760","back pain",-0.0005637042007317,0.000759926443087877,0,0.00702959086648261
+"PheCode:761","cervicalgia",-0.000152267923094029,0.00210880234353566,0,0
+"PheCode:770","myalgia and myositis unspecified",0,0,0,0
+"PheCode:773","pain in limb",0,0,0,0
+"PheCode:782.3","edema",0,0,0,0
+"PheCode:785","abdominal pain",-0.00132209066761544,0.0107226480361622,0,0
+"PheCode:790.6","other abnormal blood chemistry",0,0,0,0
+"PheCode:796","elevated prostate specific antigen [psa]",0,0,0,0.00923275567652988
+"RXNORM:10379","testosterone",-0.00139164702982561,0.00607814194463818,0,0.010074109950699
+"RXNORM:10572","thyroid",0.00380993201754387,0.0161548704485238,0,0.0151518847645082
+"RXNORM:10582","levothyroxine",0.029774764716173,0.0301108673015511,0,0.00691491050982824
+"RXNORM:10814","liothyronine",0.00299097255264311,0.0119150526209345,0,0.00418488593960521
+"RXNORM:136411","sildenafil",0,0,0,0
+"RXNORM:194279","palivizumab",0,0,0,0
+"RXNORM:2396","chlorothiazide",0.0707764560440975,0.00349535328940252,0,0
+"RXNORM:306674","vardenafil",0,0,0,0
+"RXNORM:47579","cabergoline",0,0,0,0.00124560833761803
+"RXNORM:4952","thyrotropin alfa",0.00132604822046513,0.0299094673668329,0,0.0257149157139566
+"RXNORM:54987","potassium acetate",0,0,0,0
+"RXNORM:56443","sodium acetate",0,0,0,0
+"RXNORM:690312","cyclopentolate/phenylephrine",0,0,0,0
+"ShortName:A1C","a1c",0,0,0,0.0117898816277861
+"ShortName:Albumin","albumin",0,0,0,0
+"ShortName:ALT","alt",0,0,0,0
+"ShortName:AST","ast",0,0,0,0
+"ShortName:Bilirubin Stick","bilirubin stick",0,0,0,0
+"ShortName:Bilirubin Total","bilirubin total",0,0,0,0
+"ShortName:HDLC","hdlc",0,0,0,0.0419907899122611
+"ShortName:Iron","iron",0,0,0,0
+"ShortName:LDLC","ldlc",0,0,0,0.00533136326637241
+"ShortName:Microalbumin Spot","microalbumin spot",0,0.00388152648667398,0,0.0141700945701748
+"ShortName:Microalbumin/creatinine ratio","microalbumin/creatinine ratio",0,0,0,0
+"ShortName:Phosphatase Alkaline","phosphatase alkaline",0,0,0,0
+"ShortName:PSA","psa",0,0,0,0.0148334428974433
+"ShortName:TotChol","totchol",0,0,0,0.00374865128297277
+"ShortName:Trig","trig",0,0,0,0

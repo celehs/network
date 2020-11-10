@@ -1,0 +1,81 @@
+"Variable","Description","Integrative_Estimator_RPDR","Integrative_Estimator_VA","Local_Estimator_RPDR","Local_Estimator_VA"
+"CCS:15","lens and cataract procedures",0,0,-0.0406876041465356,0
+"CCS:16","repair of retinal tear, detachment",0,0,0.0397629827344985,0
+"CCS:220","ophthalmologic and otologic...treatment",0,0,0.0227946192736066,0
+"CCS:241","visual aids and other optical supplies",0,0,0,0
+"Other lab:1000000162","baso%",0,0,0,0
+"Other lab:1000000174","ur. bld",0,0,0,0
+"Other lab:1000000210","glu",0,0,0,0
+"Other lab:1000002068","urobili",0,0,0,0
+"Other lab:1000011095","leu ase",0,0,0,0
+"Other lab:1000013831","ca",0,0,0,0
+"Other lab:1000015716","protein",0,0,0,0
+"Other lab:1000015917","segs",0,0,0,0
+"Other lab:1000017403","protei",0,0,0,0
+"Other lab:1000018940","ast",0,0,0,0
+"Other lab:1000023224","gluc-u",0,0,0,0
+"Other lab:1000023634","bilirub",0,0,0,0
+"Other lab:1000040398","ig#",0,0,0,0
+"Other lab:1000041819","basos%",0,0,0,0
+"Other lab:1000062711","proten",0,0,0,0
+"Other lab:1000066164","ig%",0,0,0,0
+"Other lab:1000069084","uro-ua",0,0,0,0
+"PheCode:1011","complications of surgical and medical procedures",0,0,0,0
+"PheCode:362.2","degeneration of macula...retina",0.0706461666611416,0.0244477050311427,0.0863822962456741,0
+"PheCode:362.9","retinal edema",0,0,0.0931170807026747,0
+"PheCode:363.3","chorioretinal scars",0,0,0.0342440843690386,0
+"PheCode:365.1","open-angle glaucoma",0,0,0,0
+"PheCode:365.5","pseudoexfoliation glaucoma",0,0,-0.0105184159338704,0
+"PheCode:366.2","senile cataract",0,0,0.00742721321190155,0
+"PheCode:367.9","blindness and low vision",0,0,0,0
+"RXNORM:10582","levothyroxine",0,0,0.0204679964676769,0
+"RXNORM:10689","tramadol",0,0,0,0
+"RXNORM:1191","aspirin",0,0,-0.000947419206925933,0
+"RXNORM:1202","atenolol",0,0,0.0219042457036573,0
+"RXNORM:1223","atropine",0,0,0,0
+"RXNORM:1256","azathioprine",0,0,0,0
+"RXNORM:134615","brimonidine",0.041206866762918,0.0325939370891797,0.0468412177815265,0
+"RXNORM:139462","moxifloxacin",0.034896546731084,0.0189789759358154,0.0634988040401338,0
+"RXNORM:1514","betamethasone",0,0,0,0
+"RXNORM:17767","amlodipine",0,0,0.0186887169955891,0
+"RXNORM:194881","brinzolamide",0.00128771068635134,0.0103924538112136,0,0
+"RXNORM:1992","capsaicin",0,0,0,0
+"RXNORM:20352","carvedilol",0,0,0,0
+"RXNORM:214342","calcium acetate",0,0,0,0
+"RXNORM:215830","calcium carbonate/vitamin d",0,0,0.0380535210311035,0
+"RXNORM:228476","gatifloxacin",0,0,0,0
+"RXNORM:23043","difluprednate",0.17855174130354,0.114993082915397,0.214568104148705,0
+"RXNORM:236782","saccharomyces boulardii",0.000336074041676608,0.0241948187575123,0,0
+"RXNORM:237027","loteprednol",0.0023780148141353,0.0380421017166407,0,0
+"RXNORM:2418","cholecalciferol",0,0,0.00104662195594573,0
+"RXNORM:24947","ferrous sulfate",0,0,0,0
+"RXNORM:25789","glimepiride",0.0011773780298601,0.00947313036522304,0,0
+"RXNORM:28200","ketorolac tromethamine",0,0,0,0
+"RXNORM:283809","travoprost",0,0,0,0
+"RXNORM:29046","lisinopril",0,0,-0.00169941127152515,0
+"RXNORM:298665","nepafenac",0,0,0.017752740569046,0
+"RXNORM:3001","cyclopentolate",0,0,-0.00735607236920747,0
+"RXNORM:301542","rosuvastatin",0,0,0,0
+"RXNORM:35829","ranolazine",0,0,0,0
+"RXNORM:36567","simvastatin",0,0,0.0139106443547788,0
+"RXNORM:36676","sodium bicarbonate",0,0,0,0
+"RXNORM:3827","enalapril",0,0,0,0
+"RXNORM:38404","topiramate",0,0,0,0
+"RXNORM:41126","fluticasone",0,0,0.0396493169715385,0
+"RXNORM:4419","fish oil",0,0,0.0403668402965185,0
+"RXNORM:4491","fluorometholone",0,0,0,0
+"RXNORM:4603","furosemide",0,0,0.038331084441572,0
+"RXNORM:4821","glipizide",0,0,0,0
+"RXNORM:49247","dofetilide",0,0,0,0
+"RXNORM:5487","hydrochlorothiazide",0,0,0.0188236415899127,0
+"RXNORM:593411","sitagliptin",0.00264644817979374,0.025380690338398,0,0
+"RXNORM:662263","dorzolamide/timolol",0.0167727463418148,0.0105234957583524,0.0544568664567731,0
+"RXNORM:689953","polyethylene glycol 400/propylene glycol",0,0,0.0539228779700786,0
+"RXNORM:6918","metoprolol",0,0,0.014332369748098,0
+"RXNORM:6963","midodrine",0,0,0,0
+"RXNORM:7623","ofloxacin",0.0258024569514894,0.00268132334857756,0.127468416848339,0
+"RXNORM:83008","bicalutamide",0,0,0,0
+"RXNORM:83367","atorvastatin",0,0,0.029897080318534,0
+"RXNORM:8638","prednisolone",0.0192229997126274,0.0143481835883195,0.0529427242691227,0
+"RXNORM:8640","prednisone",0,0,0.0325314671594505,0
+"RXNORM:8691","primidone",0,0,0,0

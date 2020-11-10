@@ -1,0 +1,77 @@
+"Variable","Description","Integrative_Estimator_RPDR","Integrative_Estimator_VA","Local_Estimator_RPDR","Local_Estimator_VA"
+"CCS:198","magnetic resonance imaging",0,0,0,0
+"CCS:215","other physical therapy and rehabilitation",0,0,0,0.0101590104787633
+"CCS:220","ophthalmologic and otologic...treatment",0.0417631419932537,0.0336453371991842,0,0.0240977736252721
+"CCS:228","prophylactic vaccinations and inoculations",0,0,0,0
+"CCS:242","hearing devices and audiology supplies",0.0163673894980768,0.031535135465297,0,0.0517556999214537
+"CCS:26","other therapeutic ear procedures",-3.46375261443497e-05,0.00812300390590482,0,0.0488333390808616
+"CCS:31","diagnostic procedures on nose, mouth and pharynx",0,0,0,0
+"Other lab:1000003409","calc",0,0,0,0.00434853584195977
+"Other lab:1000008396","urobili",0,0,0,0.117981768194573
+"Other lab:1000008400","protein",0,0,0,0.000733028753190387
+"Other lab:1000017209","protein",0,0,0,0.0301247534696279
+"Other lab:1000018837","leu ase",0,0,0,1.01332359333366e-06
+"Other lab:1000042091","ur. bld",0,0,0,7.63486808137731e-05
+"Other lab:1000061633","glu",0,0,0,0
+"Other lab:1000081481","urobili",0,0.032501152587725,0,0.0348635076088661
+"Other lab:1000083323","zzast",0,0,0,0.0363374023010221
+"Other lab:1000085769","leu est",0,0.00739860346716033,0,0.100768854361199
+"Other lab:1000089182","ur.prot",0,0,0,0.000111300151916618
+"Other lab:1000092056","ur bld",0,0,0,0
+"Other lab:1000093491","ur.gluc",0,0,0,0
+"Other lab:1000095969","zcrea",0,0,0,0.0503647295326128
+"Other lab:1200001978","calcium",0,0.0380656533800145,0,0.0382896256381265
+"Other lab:1200024032","urobili",0,0.0370214807078502,0,0.0229764201908157
+"Other lab:1200024036","glu",0,0,0,0.0916796521506433
+"Other lab:1200024037","protein",0,0,0,0.000235313621756823
+"Other lab:1200024073","t prot",0,0,0,0.0314949018635822
+"Other lab:1200060478","ur. bld",0,1.56454149424324e-07,0,0.000153625598367407
+"Other lab:1200065943","leu est",0,0,0,0
+"Other lab:1200068630","seg %",0,0,0,0.00967269061389189
+"Other lab:1200089090","testosterone",0,0,0,0
+"Other lab:1200117032","ifobt",0,0,0,0
+"Other lab:1200122498","imgran%",0,0,0,0.0451650133642566
+"Other lab:800073252","ur bld",0,0,0,0.0556595022837933
+"Other lab:800073572","urgluco",0,0,0,0
+"Other lab:800074235","leukoes",0,0,0,0
+"Other lab:800075150","urobili",0,0,0,0
+"Other lab:800075158","protein",0,0,0,0
+"PheCode:145.2","cancer of tongue",0,0,0,0.0561979332280158
+"PheCode:225.1","benign neoplasm of brain, cranial nerves, meninges",0.0555240612253969,0.0725332027641984,0,0.0851998272227192
+"PheCode:244.5","congenital hypothyroidism",0.127352919114372,0,0.0441319939813105,0
+"PheCode:291.4","specific nonpsychotic mental...damage",-7.90912777203195e-05,0.00443211765139075,0,0.0428860558312752
+"PheCode:292.1","aphasia/speech disturbance",0,0,0,0.0171674457223632
+"PheCode:292.2","mild cognitive impairment",0,0,0,0.0271142478511969
+"PheCode:292.3","memory loss",-0.000117385721540121,0.00478416243048076,0,0.0398803921553517
+"PheCode:352.2","facial nerve disorders [cn7]",0.00164075177605711,0.0425509985878506,0,0.0617547636042301
+"PheCode:362.2","degeneration of macula...retina",0,0,0,0
+"PheCode:380.1","otitis externa",-0.00168214952421161,0.0108443894587362,0,0.00722390322449915
+"PheCode:380.4","impacted cerumen",0.057979122868247,0.0511592639094466,0,0.0268499021357874
+"PheCode:381.1","otitis media",0,0,0,0.00475142523443996
+"PheCode:381.2","eustachian tube disorders",-0.00168240731555494,0.019852241483698,0,0.0449758710489668
+"PheCode:382","otalgia",-0.00578201410625079,0.0550302945890568,0,0.0724854668052952
+"PheCode:386.1","meniere's disease",0,0,0,0
+"PheCode:386.2","peripheral or central vertigo",0.00104934416129845,0.0067496262936492,0,0.0512296929753663
+"PheCode:386.3","labyrinthitis",0,0,0,0.00142574466596117
+"PheCode:386.9","dizziness and giddiness...vertigo",0,0,0,0.0127433996157024
+"PheCode:388","other disorders of ear",0,0,0,0
+"PheCode:389.1","sensorineural hearing loss",0.058289348665921,0.0543610858734394,0,0.029314664490314
+"PheCode:389.2","conductive hearing loss",0.00130875028017788,0.0107807554645723,0,0.0343068834833307
+"PheCode:389.3","degenerative and vascular disorders of ear",0.0340316707466705,0.139760913855132,0,0.185047313080679
+"PheCode:389.4","tinnitus",0.109775227392589,0.0802822370607376,0.00206682379286396,0.0464657711632304
+"PheCode:420.3","endocarditis",0,0,0,0.0252856279943432
+"PheCode:430.2","intracerebral hemorrhage",-0.000157844801322645,0.0159443443096362,0,0.0620597782482711
+"PheCode:433.8","late effects of cerebrovascular disease",0,0,0,0.022719809459591
+"PheCode:470","septal deviations/turbinate hypertrophy",0.000222880063003584,0.00995307223590123,0,0.0299005243723318
+"PheCode:512.7","shortness of breath",0,0,0,0
+"PheCode:637","short gestation; low...retardation",0,0,0,0
+"PheCode:656.2","respiratory conditions of fetus and newborn",0,0,0,0
+"PheCode:656.3","endocrine and metabolic...newborn",0.0584431138673116,0.00165787627271169,0,0
+"PheCode:656.4","hemorrhage of fetus or newborn",0.0108396208301773,0,0,0
+"PheCode:656.5","hematological disorders of newborn",0.0245146163753383,0,0,0
+"PheCode:747.1","cardiac congenital anomalies",0,0,0,0
+"PheCode:758.1","chromosomal anomalies",0.0769959612438404,0.00466806238498368,0,0
+"PheCode:819","skull and face...injury",0,0,0,0.0135216445421817
+"RXNORM:194279","palivizumab",0,0,0,0
+"RXNORM:217627","hydrocortisone/neomycin/polymyxin b",0,0,0,0.00184659625014824
+"RXNORM:5464","hyaluronidase",0,0,0,0

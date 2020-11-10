@@ -1,0 +1,87 @@
+"Variable","Description","Integrative_Estimator_RPDR","Integrative_Estimator_VA","Local_Estimator_RPDR","Local_Estimator_VA"
+"CCS:227","other diagnostic procedures...consultation",0,0,0,0
+"CCS:231","other therapeutic procedures",0,0,0,0
+"CCS:91","peritoneal dialysis",0,0,0,0
+"LOINC:73561-3","z score group:zscore",0,0,0,0
+"Other lab:1200002730","protein",0,0,0,0
+"Other lab:1200005821","protein",0,0,0,0
+"Other lab:1200006707","segs",0,0,0,0
+"Other lab:1200013880","glob",0,0,0,0
+"Other lab:1200017417","ca",0,0,0,0
+"Other lab:1200017419","uric ac",0,0,0,0
+"Other lab:1200017421","protein",0,0,0,0
+"Other lab:1200017545","uibc",0,0,0,0
+"Other lab:1200022608","a/g",0,0,0,0
+"Other lab:1200025493","nrbc",0,0,0,0
+"Other lab:1200043620","neutro%",0,0,0,0
+"Other lab:1200059889","baso%",0,0,0,0
+"Other lab:1200107616","ig#",0,0,0,0
+"Other lab:1200107617","ig%",0,0,0,0
+"Other lab:1200107956","ig#",0,0,0,0
+"Other lab:1200107961","ig%",0,0,0,0
+"Other lab:1200110048","imgrn-a",0,0,0,0
+"Other lab:1200110049","%imgrns",0,0,0,0
+"Other lab:1200110459","difftyp",0,0,0,0
+"Other lab:800235344","rdw-sd",0,0,0,0
+"Other lab:800235347","ig#",0,0,0,0
+"PheCode:157","pancreatic cancer",0,0,0,0
+"PheCode:159.2","malignant neoplasm of...duodenum",0.00199167633756857,0.0416364333424332,0,0.0369285016318188
+"PheCode:195.1","malignant neoplasm, other",0,0,0,0
+"PheCode:198.4","secondary malignant neoplasm of liver",0,0,0,0
+"PheCode:209","neuroendocrine tumors",-0.000920742234174418,0.0914683334035541,0,0.0774363755766184
+"PheCode:220","benign neoplasm of ovary",0,0,0,0
+"PheCode:227.3","benign neoplasm of...pouch",0,0,0,0
+"PheCode:253.1","pituitary hyperfunction",0.00136793516729167,0.07076908176495,0,0.0419810802342355
+"PheCode:259.1","nonspecific abnormal results...study",0,0,0,0
+"PheCode:259.2","carcinoid syndrome",0.000774591010774166,0.123216314501937,0,0.121432450642472
+"PheCode:261.2","vitamin b-complex deficiencies",0,0,0,0
+"PheCode:280.1","iron deficiency anemias,...loss",0,0,0,0
+"PheCode:285.2","anemia of chronic disease",0,0,0,0
+"PheCode:401.2","hypertensive heart and/or renal disease",0,0,0,0
+"PheCode:536.3","gastroparesis",0,0,0,0
+"PheCode:536.7","complications of gastrostomy,...enterostomy",0,0,0,0
+"PheCode:537.1","lesions of stomach and duodenum",0,0,0,0
+"PheCode:569.2","gastrointestinal complications",0,0,0,0
+"PheCode:585.3","chronic renal failure [ckd]",0,0,0,0
+"PheCode:588.2","secondary hyperparathyroidism of renal origin",0,0,0,0
+"PheCode:612.1","galactorrhea",0,0,0,0
+"PheCode:853","complication of colostomy or enterostomy",0,0,0,0
+"RXNORM:1000082","alcaftadine",0,0,0,0
+"RXNORM:1008559","ferrous fumarate/folic acid",0,0,0,0
+"RXNORM:113588","erythromycin/sulfisoxazole",0,0,0,0
+"RXNORM:11516","doxercalciferol",0.000149912864326275,0.00691138789226631,0,0
+"RXNORM:1388","lindane",0,0,0,0
+"RXNORM:141704","everolimus",-0.00168765007675586,0.0595237965039401,0,0.0562750539985339
+"RXNORM:14845","apraclonidine",0,0,0,0
+"RXNORM:1492727","apremilast",0,0,0,0
+"RXNORM:153970","hyoscyamine",0,0,0,0
+"RXNORM:1539753","efinaconazole",0,0,0,0
+"RXNORM:154643","mestranol/norethindrone",0,0,0,0
+"RXNORM:1599788","secukinumab",0,0,0,0
+"RXNORM:16688","acetylcarbromal",0,0,0,0
+"RXNORM:1760","bromocriptine",0,0,0,0
+"RXNORM:214256","aspirin/oxycodone",0,0,0,0
+"RXNORM:214622","hydrochlorothiazide/moexipril",0,0,0,0
+"RXNORM:232540","red yeast rice",0,0,0,0
+"RXNORM:2410","chlorzoxazone",0,0,0,0
+"RXNORM:258326","st. john's wort",0,0,0.0899325653990396,0
+"RXNORM:260040","evening primrose",0,0,0,0
+"RXNORM:261435","ferric na gluconate",0,0,0,0
+"RXNORM:278739","pegvisomant",0,0,0,0
+"RXNORM:282427","amitriptyline/perphenazine",0,0,0,0
+"RXNORM:283579","milk thistle",0,0,0,0
+"RXNORM:28393","lactic acid",0,0,0,0
+"RXNORM:31819","nitazoxanide",0,0,0,0
+"RXNORM:32638","oxiconazole",0,0,0,0
+"RXNORM:4530","formaldehyde",0,0,0.0385751031691022,0
+"RXNORM:46307","amlexanox",0,0,0,0
+"RXNORM:47579","cabergoline",0.000199551294537586,0.00956718482055205,0,0.015704389126896
+"RXNORM:6693","mefenamic acid",0,0,0,0
+"RXNORM:689623","bacitracin/hydrocortisone/neomycin/polymyxin b",0,0,0,0
+"RXNORM:691005","calcium carbonate/famotidine/magnesium hydroxide",0,0,0,0
+"RXNORM:70727","fiber",0,0,0,0
+"RXNORM:742","amyl nitrite",0,0,0,0
+"RXNORM:7617","octreotide",0,0,0,0
+"RXNORM:859393","adapalene/benzoyl peroxide",0,0,0,0
+"RXNORM:880350","krill oil",0,0,0,0
+"RXNORM:89785","methscopolamine",0,0,0,0

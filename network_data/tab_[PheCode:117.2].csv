@@ -1,0 +1,219 @@
+"Variable","Description","Integrative_Estimator_RPDR","Integrative_Estimator_VA","Local_Estimator_RPDR","Local_Estimator_VA"
+"CCS:178","ct scan chest",0,0,0,0
+"CCS:37","diagnostic bronchoscopy and biopsy of bronchus",0.0177858243029176,0.0113781404344642,0.00768458394858638,0
+"CCS:4","diagnostic spinal tap",0.00806330786240215,0.0257141032489156,0,0.00103426474650269
+"LOINC:10378-8","polychromasia",0,0,0,0
+"LOINC:10381-2","target cells",0,0,0.000819579949140699,0
+"LOINC:11253-2","tacrolimus",0.00149913602459899,0.00104117129341994,0.00105747274389497,0
+"LOINC:11274-8","elliptocytes",0.0360628759128731,-0.00809299602704463,0.0150959716686423,0
+"LOINC:11282-1","total cells counted group:tcnt",0,0,0,0
+"LOINC:11483-5","varicella dna, bld group:vzv-dna",0,0,0,0
+"LOINC:12230-9","macrophages/100 leukocytes",0.00834893779736716,0.000236820342026322,0.0110813061483189,0
+"LOINC:13047-6","plasma cells % group:pcell",0,0,0,0
+"LOINC:13522-8","fluid blast group:fblast",0,0,0,0
+"LOINC:13530-1","fluid nrbc group:fnrbc",0,0,0,0
+"LOINC:13599-6","promonocytes - manual group:promon",0,0,0.0331350291290769,0
+"LOINC:13971-7","histoplasma ag, urine group:hcapua",0,0,0.00485167008568104,0
+"LOINC:15197-7","lymphs, fissured group:fslymp",0,0,0.00323333941418446,0
+"LOINC:15201-7","plt fragments group:pltfr",0,0,0.00217545080157457,0
+"LOINC:17057-1","legionella ag group:legionag",0,0,0,0
+"LOINC:18319-4","neutrophils, vacuolated group:vacuol",0,0,0,0
+"LOINC:1922-4","base deficit, arterial group:abased",0,0,0.00962683871082027,0
+"LOINC:1924-0","base deficit, venous group:vbasedef",0,0,0.00257176891379754,0
+"LOINC:2021-4","venous pco2 group:vpco2",0,0,0,0
+"LOINC:2026-3","co2, whole bld/plasma group:co2pl",0,0,0.00787869463729623,0
+"LOINC:20781-1","cryptosporidium, stool group:crypto",0.0186622779028631,0,0.0463698162896565,0
+"LOINC:21055-9","adenovirus dna group:adenodna",0.00397546264697463,0,0.0132020891382034,0
+"LOINC:22080-6","adenovirus ab group:adenotr",0,0,0,0
+"LOINC:23858-4","ebv dna group:ebvdbld",0,0,0,0
+"LOINC:2705-2","venous po2 group:vpo2",0,0,0,0
+"LOINC:2746-6","venous ph group:vph",0,0,0,0
+"LOINC:29247-4","sirolimus",0,0,0,0
+"LOINC:29495-9","hhv 6 dna group:hhv6-dna",0,0,0.0250276494173761,0
+"LOINC:29533-7","cryptococcus ag group:crypto-ag",0.00998061400350051,0,0.0338494812007749,0
+"LOINC:29590-7","cmv dna qualitative group:cmvdnaq",0,0,0.000587679127719633,0
+"LOINC:30247-1","cmv viral load dna- copies/ml group:cmvdnac",0,0,0.00743516422590301,0
+"LOINC:30313-1","hgb bg group:hgb bg",0,0,0,0
+"LOINC:31788-3","cryptococcus ag, csf group:crytcsf",0,0,0.0446742780930639,0
+"LOINC:31859-2","influenza a ag group:infa",0,0,0,0
+"LOINC:31864-2","influenza b ag group:infb",0,0,0,0
+"LOINC:31950-9","rsv ag group:rsv",0,0,0,0
+"LOINC:32146-3","plts, large group:pltlge",0,0,0,0
+"LOINC:32585-2","ebv dna copies/ml group:ebv-vload",0,0,0.0138648259514579,0
+"LOINC:34720-3","cmv dna iu/ml group:cmv-dna_iu",0.0163070794293455,0,0.0235094053605099,0
+"LOINC:35383-9","galactomannan ag",0.0202842404892321,0,0.0324449942007709,0
+"LOINC:35670-9","tobramycin group:untobr",0.00204504860678162,0,0.024612092058182,0
+"LOINC:38370-3","voriconazole group:vfend",0.0263649525609643,0,0.0533496602645068,0
+"LOINC:38400-8","parainfluenza 1-3 abs group:para1-3abs",0,0,0.033066527446823,0
+"LOINC:4057-6","tobramycin,peak group:pktobr",0,0,0.00499721060726036,0
+"LOINC:4059-2","tobramycin,trough group:trtobr",0,0,0.0228297766088381,0
+"LOINC:4092-3","vancomycin",0,0,0,0
+"LOINC:40979-7","hmpv ag group:hmpv-ag",0.00110227218256325,0,0,0
+"LOINC:42176-8","1,3 beta glucan group:1-3bgluc",0.0515730323484103,0,0.0411786173904323,0
+"LOINC:42250-1","lymphs, atypical auto group:atypl",0,0,0.00134479742771509,0
+"LOINC:43743-4","lymph#, atypical auto group:aatyp",0,0,0,0
+"LOINC:47410-6","hhv 6 genotype group:hhv6-geno",0,0,0.0193832599277998,0
+"LOINC:49564-8","ebv band pattern group:ebvband",0,0,0,0
+"LOINC:52819-0","nucleated cells, fluid group:nuc#-fld",0,0,0.00413785252048328,0
+"LOINC:54067-4","clostridium difficile toxin genes",0,0,0,0
+"LOINC:57901-1","c. diff gdh group:cdiff-gdh",0,0,0.00205628020441769,0
+"LOINC:5869-3","parainfluenza 1 ag group:para1",0.0102697643187398,0,0.0205534475447779,0
+"LOINC:5908-9","plts, giant group:pltgnt",0,0,0,0
+"LOINC:703-9","basophilic stippling",0,0,0,0
+"LOINC:709-6","blasts/100 leukocytes",0.026159140541746,-0.00431982696312748,0.0110422818250632,0
+"LOINC:71369-3","neutrophils, dysplastic group:dneut",0,0,0.0309848780964005,0
+"LOINC:730-2","others group:others",0,0,0.00605856157620776,0
+"LOINC:739-3","metamyelocyte# group:ametas",0,0,0.00210729678904418,0
+"LOINC:740-1","metamyelocytes/100 leukocytes",0,0,0,0
+"LOINC:748-4","myelocyte# group:amyelos",0,0,0,0
+"LOINC:749-2","myelocytes/100 leukocytes",0,0,0,0
+"LOINC:76077-7","influenza a rna group:infa-rna",0,0,0.00306282141287477,0
+"LOINC:7790-9","burr cells",0,0,0,0
+"LOINC:7791-7","dacryocytes",0,0,0,0
+"LOINC:7792-5","dohle bodies group:dohle",0,0,0,0
+"LOINC:7798-2","smudge cells",0.000635612874483398,-1.40646688647793e-05,0,0
+"LOINC:783-1","promyelocytes/100 leukocytes",0.00944928137345409,-0.000736443599181925,0,0
+"LOINC:800-3","schistocytes",0,0,0,0
+"LOINC:803-7","toxic granulation group:tgran",0,0,0,0
+"LOINC:X1174-2","hct bg group:hct bg",0,0,0,0
+"LOINC:X5010-9","fluid type group:ftype",0,0,0,0
+"Other lab:1000021253","segs",0,0,0,0
+"Other lab:1000073305","bands",0,0,0,0
+"Other lab:1000105133","pltest auto",0,0.0356611931365541,0,0
+"Other lab:800025460","protein",0,0.036543058360727,0,0.00709785897639617
+"Other lab:800025590","protein",0,0.0251072562864488,0,0
+"Other lab:800025642","id-cf",0,0.246870271838714,0,0.240847419444924
+"Other lab:800026388","leu ase",0,0.0576524978648695,0,0
+"Other lab:800035013","plt suf",0,0.0315013751729482,0,0.00735813565279577
+"Other lab:800035801","segs",0,0.0232349374524856,0,0.0028087478617645
+"Other lab:800036219","gran %",0,0.0116973899601131,0,0
+"Other lab:800036285","urobili",0,0.051409289545173,0,0
+"Other lab:800036870","blood",0,0.00012257022025725,0,0
+"Other lab:800037191","leu ase",0,1.27631762652465e-06,0,0
+"Other lab:800038651","protein",0,3.57945616356516e-05,0,0
+"Other lab:800038752","bands",0,0,0,0
+"Other lab:800039162","glucose",0,0,0,0
+"Other lab:800054176","urobili",0,0,0,0
+"Other lab:800054928","wbc/hpf",0,0,0,0
+"Other lab:800055048","baso#",0,0,0,0
+"Other lab:800055098","blood",0,0,0,0
+"Other lab:800055573","glucose",0,0,0,0
+"Other lab:800055574","protein",0,0,0,0
+"Other lab:800058450","tp",0,0.00885443170732637,0,0
+"Other lab:800059743","utiscr",0,0,0,0
+"Other lab:800060928","protein",0,0.041642679993207,0,0.00759048982507599
+"Other lab:800060986","peripheral smr rev",0,0.0346234914403802,0,0.022712648716184
+"Other lab:800063555","urobil",0,0.00371479741933909,0,4.04245332665861e-05
+"Other lab:800063710","protein",0,0.0473657333055254,0,0.0146675679253656
+"Other lab:800063792","glucose",0,0,0,0
+"Other lab:800065039","sprealb",0,0.016555081607318,0,0
+"Other lab:800065541","microsc",0,0,0,0
+"Other lab:800065596","blood",0,0,0,8.86094305521269e-06
+"Other lab:800066163","titer",0,0.00512990783874184,0,0
+"Other lab:800067644","leu est",0,0,0,8.25085234803635e-08
+"Other lab:800067651","idtp",0,0,0,0
+"Other lab:800070579","t.prot",0,0,0,0
+"Other lab:800074703","cul-ind",0,0.0219830253822462,0,0
+"Other lab:800081630","c/hrato",0,0.00214977327608521,0,0
+"Other lab:800231926","seg #",0,0.0369057783069808,0,0
+"Other lab:800231931","ig #",0,0,0,0
+"Other lab:800231932","ig %",0,0.000129142848141981,0,0
+"Other lab:800232998","rdw-sd",0,0,0,0
+"Other lab:800235344","rdw-sd",0,0.0233971236865672,0,0
+"Other lab:800235347","ig#",0,0.00540873615302002,0,0
+"Other lab:800238127","ig #",0,0.0243873255647189,0,0
+"Other lab:800239164","ig %",0,0,0,0
+"Other lab:800244813","ig %",0,0.0733736856680063,0,0
+"Other lab:800244814","ig #",0,0.000718828052752497,0,0.0186025607117293
+"PheCode:008.5","bacterial enteritis",0,0,0.0040976977592813,0
+"PheCode:008.6","viral enteritis",0.00473954649408571,-0.000111517501941788,0.0172207120483036,0
+"PheCode:031","diseases due to other mycobacteria",0.0134779580851513,0.00267950538517198,0.0179820949438092,0
+"PheCode:038.1","gram negative septicemia",0.004005404021448,-0.00152081890547195,0.0151241329139922,0
+"PheCode:038.3","bacteremia",0.0501522143271385,0.00885708013667408,0.0405311562725434,0
+"PheCode:041.1","staphylococcus infections",0,0,0,0
+"PheCode:041.9","infection with drug-resistant microorganisms",0.0140521662051738,-0.00314352279498773,0.0272980046593266,0
+"PheCode:054","herpes simplex",0.0160194107642724,-0.000188899568132736,0.0251955029009725,0
+"PheCode:081.1","graft-versus-host disease",0.0279436425713515,-0.00281028012537789,0.0286291898939784,0
+"PheCode:110.2","dermatomycoses",0.0493548431078667,0.00533836968848044,0.051889143041637,0
+"PheCode:117.1","histoplasmosis",0.0115826818426357,0.0100050936947595,0,0
+"PheCode:117.4","aspergillosis",0.223766410189196,-0.0183039048773407,0.207345797882958,0
+"PheCode:136","other infectious and parasitic diseases",0.0108066148271499,-0.00252149261983132,0.0199278851623017,0
+"PheCode:204.1","lymphoid leukemia",0.013682198059544,-0.00422159299070453,0.00704175701658757,0
+"PheCode:204.2","myeloid leukemia",0.0299848140283747,-0.0122737883359482,0.020171389316512,0
+"PheCode:249","secondary diabetes mellitus",0.0412828248815268,-0.00810565191431674,0.0347788146444215,0
+"PheCode:255.2","adrenal hypofunction",0.0144854374863641,-0.00256614993660363,0.0281077193239864,0
+"PheCode:259.8","polyglandular activity in...adenomatosis",0.0973469647949918,-0.00263784469680167,0.0972953982869335,0
+"PheCode:260.1","cachexia",0.00637081749694089,-0.000776099544319737,0.00924893736188216,0
+"PheCode:260.2","severe protein-calorie malnutrition",0.0254533533482053,-0.0112455054212372,0.0185978934251526,0
+"PheCode:260.3","adult failure to thrive",0.0115016322441609,-0.00152078920787652,0.0196545955618517,0
+"PheCode:277.4","disorders of bilirubin excretion",0,0,0.00816786801946312,0
+"PheCode:279.1","immunity deficiency",0.0270704623133759,-0.00867793103020019,0.0135315002744156,0
+"PheCode:284.1","pancytopenia",0.0160224696618627,-0.00846370057015689,0.00920139538501367,0
+"PheCode:286.6","defibrination syndrome",0.00509076120932301,-0.00164069629075326,0.00465813740307368,0
+"PheCode:288.1","decreased white blood cell count",0.0475118554617691,-0.0120422006408793,0.0275403448840672,0
+"PheCode:288.2","elevated white blood cell count",0,0,0,0
+"PheCode:288.3","eosinophilia",0.00145997413672144,-0.000367193723869243,0.00890209419727203,0
+"PheCode:289.5","diseases of spleen",0.0220519258313468,-0.00348201887309628,0.0233185560950686,0
+"PheCode:320","meningitis",0.0459248494226504,0.115392822459598,0.0430475672706459,0.0909896262093408
+"PheCode:324","other cns infection and poliomyelitis",0.0446825462556872,-0.00287554321747533,0.0423415428925385,0
+"PheCode:331.1","hydrocephalus",-0.0104648652968131,0.0485736012489229,0,0
+"PheCode:359.2","myopathy",0.0191211370798841,-0.00475891465147255,0.0220917301899659,0
+"PheCode:368.9","subjective visual disturbances",0.0308085580544759,-0.0016158210104173,0.0355952366458477,0
+"PheCode:452.2","deep vein thrombosis [dvt]",0,0,0,0
+"PheCode:464","acute sinusitis",0.0124771759961986,-0.00212835610034906,0.0262410029025415,0
+"PheCode:480.1","bacterial pneumonia",0.0269605555033433,0.00296294130492741,0.0401709197133971,0
+"PheCode:480.2","viral pneumonia",0,0,0.00312985024007565,0
+"PheCode:480.3","pneumonia due to fungus mycoses",0.069670866486679,0.0813612739159383,0.0489059148125025,0.0477535805366188
+"PheCode:480.5","bronchopneumonia and lung abscess",0.0134199158230705,-0.00383301481623088,0.025540366892803,0
+"PheCode:496.3","bronchiectasis",0.0215402407372478,-0.00327874924020813,0.031448925738991,0
+"PheCode:499","cystic fibrosis",0.0235857588873857,-0.000909022659311992,0.0165931600753201,0
+"PheCode:500.1","extrinsic allergic alveolitis",0.0167311754454081,-0.00225010390123108,0.0249359568002485,0
+"PheCode:502","postinflammatory pulmonary fibrosis",0,0,0,0
+"PheCode:504.1","idiopathic fibrosing alveolitis",0.000562564996573959,-0.000626411851355374,0,0
+"PheCode:506","empyema and pneumothorax",0.00511885159272724,0.0046274436189514,0.00666427313950508,0
+"PheCode:509.1","respiratory failure",0.0147534259031435,-0.00252160799200543,0,0
+"PheCode:510.2","lung transplant",0.0337434920148455,-0.00939514502563011,0.0303171821710607,0
+"PheCode:514.2","solitary pulmonary nodule",0.013701580973072,0.0131104372238311,0,0
+"PheCode:516.1","hemoptysis",0.0253703173210592,-0.000897127591238074,0.0367058031761058,0
+"PheCode:519.8","other diseases of respiratory system, nec",0,0,0.00449459970950654,0
+"PheCode:530.5","disorders of esophageal motility",0,0,0.0112468476866602,0
+"PheCode:585.1","acute renal failure",0,0,0,0
+"PheCode:697","sarcoidosis",0.00823690071607562,0.038050426563178,0,0
+"PheCode:756.5","congenital osteodystrophies",0.0193700957530018,0.00675009123020693,0.0221377918604466,0
+"PheCode:851","complications of transplants and reattached limbs",0.00365718025852308,-0.00287049351494931,0.0131357549563554,0
+"PheCode:860","bone marrow or stem cell transplant",0.0195483416246683,-0.00282661231548666,0.0124619591824471,0
+"PheCode:962.3","hormones and synthetic...use",0.00446219360861969,-0.0018488470920848,0.0105100783820822,0
+"PheCode:980","encounter for long-term current use of antibiotics",0,0,0.00810794145609579,0
+"PheCode:994.1","systemic inflammatory response syndrome sirs",0,0,0.00398210351068272,0
+"PheCode:994.2","sepsis",0.0262125178417716,-0.00547973906054526,0.0218738128322911,0
+"RXNORM:10627","tobramycin",0,0,0.0106147256979048,0
+"RXNORM:11065","ursodiol",0,0,0,0
+"RXNORM:11295","water",0,0,0,0
+"RXNORM:121243","voriconazole",0.051695130826703,0.0307195368588003,0.0625626290454758,0.00804332356401592
+"RXNORM:140108","caspofungin",0,0,0.0453366976504589,0
+"RXNORM:1608321","isavuconazonium sulfate",0.066372762533845,0.101999396309756,0.0586397281553937,0.0776739646285607
+"RXNORM:190376","linezolid",0,0,0,0
+"RXNORM:20481","cefepime",0,0,0,0
+"RXNORM:2191","ceftazidime",0,0,0,0
+"RXNORM:22299","daptomycin",0.00165068532591054,-0.000470781896417986,0.0149931188195821,0
+"RXNORM:2708","colistimethate",0,0,0.0100669192358657,0
+"RXNORM:275891","valganciclovir",0.0034617072293409,-0.00354960345833611,0,0
+"RXNORM:28031","itraconazole",0.0452710828535216,0.0538007076489662,0.0438034256088879,0.0150802990556961
+"RXNORM:282446","posaconazole",0.0683381014388322,0.0666704805795659,0.0764403575095168,0.0403911360402875
+"RXNORM:29561","meropenem",0.000875710707669547,-0.000121438686803907,0.00762960052614117,0
+"RXNORM:325887","micafungin",0,0,0.0259868131043408,0
+"RXNORM:337623","dornase alfa,rdna",0.00761280685430939,-0.00164465007548396,0.0172415434235475,0
+"RXNORM:34482","cilastatin/imipenem",0,0,0,0
+"RXNORM:35302","sirolimus",0,0,0,0
+"RXNORM:37801","terbinafine",0.0192116845398,0.00365822466119231,0.0173171866441229,0
+"RXNORM:42316","tacrolimus",0,0,0,0
+"RXNORM:4450","fluconazole",0.0201388533482575,0.0261578864282491,0.00520456762284337,0
+"RXNORM:4678","ganciclovir",0,0,0.000777578777954405,0
+"RXNORM:4910","glycerin",0.0205369295954693,-0.00390617413671806,0.0137926892816909,0
+"RXNORM:60212","atovaquone",0,0,0,0
+"RXNORM:68099","famciclovir",0,0,0,0
+"RXNORM:732","amphotericin b",0.0522205819878564,0.0886925707269141,0.0383374415579416,0.0547970306218741
+"RXNORM:74169","piperacillin/tazobactam",0,0,0,0
+"RXNORM:7995","pentamidine isethionate",0,0,0.0042464685798213,0
+"RXNORM:8410","alteplase",0,0,0,0
+"RXNORM:9873","sodium fluoride",-0.000533491273443141,0.0186393948218564,0,0

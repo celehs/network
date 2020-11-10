@@ -1,0 +1,49 @@
+"Variable","Description","Integrative_Estimator_RPDR","Integrative_Estimator_VA","Local_Estimator_RPDR","Local_Estimator_VA"
+"CCS:228","prophylactic vaccinations and inoculations",0,0,0.0388646194278055,0
+"CCS:38","other diagnostic procedures on lung and bronchus",0,0,0.0595272857532692,0
+"Other lab:1200090355","imgran#",0,0,0,0
+"Other lab:1200091538","rdw-sd",0,0,0,0
+"Other lab:1400036696","gra% au",0,0,0,0
+"Other lab:1400049272","prot",0,0,0,0
+"Other lab:1400065706","gr auto",0,0,0,0
+"Other lab:800059395","segs",0,0,0,0
+"PheCode:476","allergic rhinitis",0,0,0.0354601001869437,0
+"RXNORM:10438","theophylline",0,0,0,0
+"RXNORM:10582","levothyroxine",0,0,0.0318805415737292,0
+"RXNORM:108118","mometasone",0,0,0,0
+"RXNORM:140587","celecoxib",0,0,0,0
+"RXNORM:18867","benazepril",0,0,0,0
+"RXNORM:19831","budesonide",0,0,0.0901584753467881,0
+"RXNORM:214488","dextromethorphan/guaifenesin",0,0,0,0
+"RXNORM:214565","fexofenadine/pseudoephedrine",0,0,0.0183218449810141,0
+"RXNORM:236216","formoterol fumarate",0,0,0,0
+"RXNORM:2418","cholecalciferol",0,0,0.033699303439193,0
+"RXNORM:25120","flunisolide",0,0,0,0
+"RXNORM:25255","formoterol",0,0,0.0156451391656469,0
+"RXNORM:258337","hydrochlorothiazide/triamterene",0,0,0,0
+"RXNORM:2598","clonazepam",0,0,0.0702778502316555,0
+"RXNORM:274964","ciclesonide",0,0,0.0753824430427435,0
+"RXNORM:275635","desloratadine",0,0,0.110420257615501,0
+"RXNORM:284635","fluticasone/salmeterol",0,0,0.0951937582548297,0
+"RXNORM:302379","omalizumab",0,0,0.00571235186543467,0
+"RXNORM:304962","arformoterol",0,0,0.061595587436543,0
+"RXNORM:32613","oxaprozin",0.000130534141292177,0.038726335173794,0,0.047064568369134
+"RXNORM:356887","levocetirizine",0,0,0.0344549324610845,0
+"RXNORM:36117","salmeterol",0,0,0,0
+"RXNORM:37801","terbinafine",0,0,0,0
+"RXNORM:3992","epinephrine",0,0,0.0574494964395485,0
+"RXNORM:40575","zileuton",0,0,0.0490423550298838,0
+"RXNORM:41126","fluticasone",0,0,0.0150067234874281,0
+"RXNORM:435","albuterol",0,0,-0.0156376069716091,0
+"RXNORM:4603","furosemide",0,0,0.0467065377400393,0
+"RXNORM:466588","aluminum hydroxide/magnesium hydroxide/simethicone",0,0,0,0
+"RXNORM:704","amitriptyline",0,0,0,0
+"RXNORM:7213","ipratropium",0,0,0.0831485483655802,0
+"RXNORM:7417","adalat",0,0,0,0
+"RXNORM:83367","atorvastatin",0,0,0.0494769269539623,0
+"RXNORM:8570","polyvinyl alcohol",0,0,0,0
+"RXNORM:8591","potassium chloride",0,0,0.0423600496011994,0
+"RXNORM:8640","prednisone",0,0,0.0202564819797333,0
+"RXNORM:87636","fexofenadine",0,0,0.105157388888775,0
+"RXNORM:88249","montelukast",0.0159168197853206,0.00679643575833554,0.0569529970635517,0
+"RXNORM:9143","ranitidine",0,0,0.0520335972686641,0

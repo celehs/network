@@ -1,0 +1,440 @@
+"Variable","Description","Integrative_Estimator_RPDR","Integrative_Estimator_VA","Local_Estimator_RPDR","Local_Estimator_VA"
+"CCS:130","other diagnostic procedures, female organs",5.8418135334869e-05,0.0117417162685807,0,0.0190155304144938
+"CCS:131","other non-or therapeutic procedures, female organs",-0.00394835448395329,0.0131142885619266,0,0.00271832838330881
+"CCS:182","mammography",0,0,0,0.00267257984475971
+"CCS:213","physical therapy exercises,...procedures",0,0,0,0
+"CCS:215","other physical therapy and rehabilitation",0,0,0,0
+"CCS:218","psychological and psychiatric...therapy",0.11528220632345,0.111232430976102,0.0441849388707731,0.0773120477856296
+"CCS:219","alcohol and drug rehabilitation/detoxification",0.0129648821715356,0.0340795232016102,0,0.028191538541322
+"CCS:227","other diagnostic procedures...consultation",0,0,0,0
+"CCS:235","other laboratory",0,0,0,0
+"CCS:236","home health services",0.00106738407832243,0.00798516633488118,0,0.00787452275198784
+"CCS:237","ancillary services",0.0034033907277044,0.0100753628107655,0,0.0074026422305909
+"CCS:239","transportation - patient, provider, equipment",0,0,0,0
+"LOINC:10976-9","6-monoacetylmorphine",0,0,0,0
+"LOINC:10992-6","norclozapine group:norcloz",0.027819839387729,0,0.0371935701453594,0
+"LOINC:10998-3","oxycodone",0.00911813929523689,0.00462011399398877,0,0
+"LOINC:11004-9","tricyclics, urine group:trcug",0,0,0.00275994345850089,0
+"LOINC:12342-2","oxymorphone group:oxmrphn",0,0,0.000790092836250898,0
+"LOINC:12375-2","clozapine+norclozapine group:cloznor",0.00653107458394967,0,0.0412574896497124,0
+"LOINC:13552-5","clozapine group:clozpn",0.00605524833474689,0,0.0196517456784103,0
+"LOINC:13557-4","desmethylsertraline group:dms",0,0,0.0344979817776684,0
+"LOINC:13572-3","nordiazepam group:ddiaz",0,0,0.0131538763766357,0
+"LOINC:13579-8","sertraline group:sert",0,0,0.0257657765574118,0
+"LOINC:13622-6","acetaminophen, urine group:acetomq",0,0,0.007233496464505,0
+"LOINC:14313-1","thc/cannabinoids, urine group:uthc",0,0,0,0
+"LOINC:14314-9","cocaine, urine group:urcoca",0.00669662030900848,0,0,0
+"LOINC:14316-4","benzodiazepines, urine group:ubenz",0,0,0,0
+"LOINC:14334-7","lithium",0.0760802669649695,0.0508572729881231,0.06432156786577,0.0441012300039959
+"LOINC:14336-2","ethanol mg/dl group:ethan",0,0,8.5049870230131e-05,0
+"LOINC:14624-1","barbiturates, urine group:ubarb",0,0,0,0
+"LOINC:16199-2","methadone, urine group:umethd",0,0,0.00610548555100661,0
+"LOINC:16249-5","oxycodone",0,0,0,0
+"LOINC:16254-5","phencyclidine, urine group:urpcp",0,0,0,0
+"LOINC:16369-1","amphetamines, urine group:uamph",0,0,0.0052196139613118,0
+"LOINC:17384-9","opiates, urine group:uopi",0,0,0,0
+"LOINC:18282-4","cannabinoids",0,0.0104196027912967,0,0.022039077635737
+"LOINC:19289-9","thc/cannabinoids, urine confirm group:uthccfm",0,0,0.0218582926451292,0
+"LOINC:19312-8","tricyclic antidepressants",0,0,0,0
+"LOINC:19550-3","methadone group:mthdon",0,0,0,0
+"LOINC:19642-8","oxycodone, urine screen group:uoxcod-scr",0,0,0.016997335920918,0
+"LOINC:19659-2","phencyclidine",0,0.011723568074151,0,0.015331834220032
+"LOINC:20470-1","ethanol tox screen group:alc-ts",0,0,0,0
+"LOINC:20507-0","reagin ab",0.00662245426330287,0.0113962280734244,0,0
+"LOINC:2106-3","choriogonadotropin pregnancy test",0.0176923477035092,0.0277328407703204,0,0.0161982278829289
+"LOINC:2110-5","choriogonadotropin.beta subunit pregnancy test",0.000744697921344265,0.00430504392099074,0,0.00854398700394004
+"LOINC:24111-7","neisseria gonorrhoeae dna",0,0,0,0
+"LOINC:28059-4","7-aminoclonazepam group:7aclonzpm",0,0,0.0100279178358288,0
+"LOINC:3016-3","thyrotropin",0,0,0,0
+"LOINC:31019-3","oxcarbazepine and metabolite group:oxcarb",0,0,0.0106282730237285,0
+"LOINC:3297-9","acetaminophen tox screen group:acet-ts",0,0,0,0
+"LOINC:3298-7","acetaminophen",0.00474407391058449,0.00390453264497175,0.0110506287339974,0
+"LOINC:3349-8","amphetamines",0,0,0,0.00558033492506726
+"LOINC:3389-4","benzo tox screen group:benz-ts",0,0,0.018633167598427,0
+"LOINC:3390-2","benzodiazepines",0,0,0,0
+"LOINC:3397-7","cocaine",0,0.00993459899224763,0,0.0314331833598508
+"LOINC:3413-2","buprenorphine group:bupnrp",0.0193393302088818,0,0.00593619557518793,0
+"LOINC:3414-0","buprenorphine",0.00810412919904671,0.0122761526813148,0,0.0106778181262531
+"LOINC:3432-2","carbamazepine",0.010774119131366,0.00670635369493219,0.0144852461698954,0.00514262019550896
+"LOINC:3436-3","carboxy tetrahydrocannabinol",0,0.00116916189851308,0,0.00499119988800446
+"LOINC:3494-2","clonazepam group:clonaz",0,0,0.0182212739291883,0
+"LOINC:3505-5","codeine group:codeine",0.0194277103243338,0,0.00921570794487176,0
+"LOINC:35467-0","m-cpp group:mcpp",0,0,0.0310840042692252,0
+"LOINC:3548-5","diazepam group:diaz",0,0,0.0197551407604894,0
+"LOINC:35597-4","salicylates group:salic",0,0,0.028388720977257,0
+"LOINC:35599-0","carbamazepine group:carb",0,0,0.0214332389936945,0
+"LOINC:35608-9","diphenhydramine group:dphn",0,0,0,0
+"LOINC:35610-5","fluoxetine group:fluox",0,0,0.00944939631597455,0
+"LOINC:35616-2","lorazepam group:lor",0,0,0,0
+"LOINC:35624-6","norfluoxetine group:nfluox",0,0,0.00174964006738683,0
+"LOINC:35635-2","trazodone group:trazo",0.0189608665364474,0,0.0474032548404259,0
+"LOINC:3679-8","hydrocodone group:vicodn",0,0,0.0367627066834811,0
+"LOINC:3682-2","hydromorphone group:hydromor",0,0,0,0
+"LOINC:3773-9","methadone",0,0,0,0
+"LOINC:3778-8","methamphetamine group:metham",0,0,0.0208148410974106,0
+"LOINC:3779-6","methamphetamine, urine group:umamph",0,0,0,0
+"LOINC:3826-5","morphine group:morphn",0,0,0.000609573652830556,0
+"LOINC:3879-4","opiates",0,0,0,0.00107850615554933
+"LOINC:4023-8","salicylates tox screen group:sal-ts",0,0,0.00137255350357549,0
+"LOINC:4024-6","salicylates",0,0,0,0
+"LOINC:4073-3","tricyclic antidepressants",0.00881242364999797,0.010049931460173,0.0210167471132634,0
+"LOINC:4086-5","valproate",0.0294260124659078,0.0140999714575199,0.0379095357395706,0.0189299114058072
+"LOINC:41761-8","lamotrigine lamictal group:lamot",0,0,0.0180090999260145,0
+"LOINC:43304-5","chlamydia trachomatis rrna",0,0,0,0
+"LOINC:47000-5","candida sp rrna",0,0,0,0
+"LOINC:5643-2","ethanol",0,0,0,0.00240510705751261
+"LOINC:5644-0","ethanol",0,0.00623887065236906,0,0.0119116315760753
+"LOINC:5645-7","ethanol",0,0,0,0
+"LOINC:57300-6","6-monoacetylmorphine, saliva group:6mam-sal",0,0,0,0
+"LOINC:57301-4","benzoylecgonine, saliva group:benzoyl-sal",0,0,0,0
+"LOINC:57304-8","codeine, saliva group:codeine-sal",0,0,0,0
+"LOINC:58424-3","ethyl sulfate",0,0,0,0
+"LOINC:59593-4","7-aminoclonazepam, fluid group:7aclonzpm-fld",0,0,0.00521431371414308,0
+"LOINC:6349-5","chlamydia trachomatis",0,0,0,0.00273443975959305
+"LOINC:6410-5","gardnerella vaginalis rrna",0,0,0,0
+"LOINC:72377-5","nordiazepam, saliva group:ddiaz-sal",0,0,0,0
+"LOINC:72378-3","oxazepam, saliva group:oxazep-sal",0,0,0,0
+"LOINC:72380-9","lorazepam, saliva group:lor-sal",0,0,0,0
+"LOINC:72381-7","alprazolam xanax, saliva group:alpraz-sal",0,0,0,0
+"LOINC:72388-2","methadone, saliva group:mthdn-sal",0,0,0,0
+"LOINC:72610-9","diazepam, saliva group:diaz-sal",0,0,0,0
+"LOINC:72733-9","hydromorphone, saliva group:hydromor-sal",0,0,0.00020678213074965,0
+"LOINC:72735-4","methamphetamine, saliva group:metham-sal",0,0,0,0
+"LOINC:72737-0","cocaine, saliva group:coke-sal",0,0,0,0
+"LOINC:72746-1","norbuprenorphine, saliva group:norbprn-sal",0,0,0,0
+"LOINC:72750-3","oxycodone, saliva group:oxcod-sal",0,0,2.66840303418136e-15,0
+"LOINC:72752-9","morphine, saliva group:morphn-sal",0,0,1.11648662518048e-17,0
+"LOINC:72753-7","hydrocodone, saliva group:vicodn-sal",0,0,0,0
+"LOINC:72755-2","clonazepam, saliva group:clonaz-sal",0,0,0,0
+"LOINC:72758-6","amphetamine, saliva group:amphetmn-sal",0,0,0,0
+"LOINC:72762-8","buprenorphine, saliva group:bupnrp-sal",0,0,0,0
+"LOINC:72766-9","oxymorphone, saliva group:oxmrphn-sal",0,0,0,0
+"LOINC:X7003-7","ethanol tox panel group:tox1",0,0,0.00246188760630288,0
+"LOINC:X7004-5","ats tox panel group:tox2",0,0,0,0
+"LOINC:X7005-2","barbiturates tox panel group:tox3",0,0,0,0
+"LOINC:X7006-0","benzo tox panel group:tox4",0,0,0.0386480153554512,0
+"LOINC:X7008-6","tricyclics tox panel group:tox5",0,0,0,0
+"LOINC:X7011-0","other findings tox group:otfi",0.0291491126056188,0,0.029354832010239,0
+"LOINC:X7013-6","other findings ii tox group:otfii",0,0,0.0173366883081516,0
+"Other lab:1000000049","prol",0,0,0,0
+"Other lab:1000001688","thcconf",0,0,0,0
+"Other lab:1000001695","thccon",0,0,0,0
+"Other lab:1000001992","barbit,ur",0,0,0,0
+"Other lab:1000016867","vlproic",0,0,0,0.0182227140045714
+"Other lab:1000019158","barbitu",0,0,0,0
+"Other lab:1000025222","barbs u",0,0,0,0
+"Other lab:1000032866","val acd",0,0,0,0
+"Other lab:1000038032","cocaine,ur",0,0,0,0
+"Other lab:1000041034","barb",0,0,0,0
+"Other lab:1000047337","val acd",0,0.00813839502192128,0,0.0193639715966294
+"Other lab:1000047671","creat.",0,0,0,0
+"Other lab:1000048582","barbs",0,0,0,0
+"Other lab:1000048991","li",0,0.0412899242398457,0,0.0472445403151718
+"Other lab:1000060568","val acd",0,0,0,0.0212276652388366
+"Other lab:1000063227","valpr a",0,0,0,0.00586309692168795
+"Other lab:1000065473","barbiscrn",0,0,0,0
+"Other lab:1000070397","susa",0,0,0,0
+"Other lab:1000071796","val acd",0,0.00650510161042563,0,0.0167157126968087
+"Other lab:1000078272","pcp",0,0,0,0
+"Other lab:1000079536","time",0,0.015549713808721,0,0.0101143883423395
+"Other lab:1000079548",".ur bld",0,0,0,0
+"Other lab:1000080207",".leu est",0,0,0,0
+"Other lab:1000080999",".ur protein",0,0,0,0
+"Other lab:1000083088",".ur glu",0,0,0,0
+"Other lab:1000084062",".barbs",0,0.00829872378767413,0,0.021910649646996
+"Other lab:1000085773","protein",0,0,0,0
+"Other lab:1000085866","antihcv",0,0,0,0
+"Other lab:1000088563","uds con",0,0.0152225971389334,0,0.0151800929603533
+"Other lab:1000088684","temp",0,0.00369121848099358,0,0.0227284221521148
+"Other lab:1000090252","val acd",0,0.0193057585830849,0,0.0350734814958921
+"Other lab:1000090998","date",0,0.00187861412025265,0,0.00717368947135985
+"Other lab:1000091818","u.d.s.",0,0,0,0
+"Other lab:1000092853","creat",0,0,0,0
+"Other lab:1000093146","*barbs",0,0,0,0
+"Other lab:1000093307","barbit",0,0,0,0
+"Other lab:1000097490",".oxyscr",0,0,0,0
+"Other lab:1000097905","ur crea",0,0,0,0
+"Other lab:1000105807","urbarb",0,0,0,0
+"Other lab:1000113359","opiates",0,0.00730110706330103,0,0.0140152572493056
+"Other lab:1000113370","barbit*",0,1.73335675743803e-16,0,4.58231524989758e-15
+"Other lab:1000113374","methado*",0,0,0,0
+"Other lab:1000130132","coc urine semi qt",0,0,0,0
+"Other lab:1200001045","ubarbs",0,0,0,0.00137936259210186
+"Other lab:1200003709","barbs",0,0,0,0.000776374142718821
+"Other lab:1200005063","benzodi",0,0,0,0.00484002346839898
+"Other lab:1200011415","barbs",0,0,0,0
+"Other lab:1200012810","opiates",0,0,0,0
+"Other lab:1200013776","val acd",0,0,0,0.00582591378301141
+"Other lab:1200019634","barb sc",0,0,0,0
+"Other lab:1200021634","valp",0,0,0,0.00353428513717322
+"Other lab:1200026959","barbs",0,0,0,0
+"Other lab:1200027224","barbs",0,0,0,0
+"Other lab:1200030359","barbs",0,0,0,0.00687828899201524
+"Other lab:1200033553","val acd",0,0,0,0
+"Other lab:1200043285","barbs",0,0,0,0
+"Other lab:1200043431","valproa",0,0,0,0.0135651997301895
+"Other lab:1200049397","ur crea",0,0,0,0
+"Other lab:1200051270","depaken",0,0,0,0.000657048798668458
+"Other lab:1200056521","drug sc",0,0,0,0
+"Other lab:1200062144","valpr.a",0,0,0,0.00161672624369633
+"Other lab:1200062404","barbit",0,0,0,0.00285785572424113
+"Other lab:1200069876","vit d",0,0,0,0
+"Other lab:1200071543","creat",0,0,0,0
+"Other lab:1200092797","uroxysc",0,0,0,0.00576543895775235
+"Other lab:1200097367","creat-u",0,0,0,0
+"Other lab:1200098095","creat-u",0,0,0,0
+"Other lab:1200098375","barb",0,0,0,0
+"Other lab:1200109766","et gluc",0,0,0,0
+"Other lab:1200109768","pl note",0,0,0,0
+"Other lab:1200111243","met-poc",0,0,0,0.00207261620942701
+"Other lab:1200111254","mdmapoc",0,0,0,0
+"Other lab:1200111256","bar-poc",0,0,0,0
+"Other lab:1200114665","ranurcr",0,0,0,0
+"Other lab:1200119549","ubar",0,0,0,0
+"Other lab:1200120185","amph",0,5.37571859141306e-05,0,0.00213900507599799
+"Other lab:1200123413","uds creat",0,0,0,0
+"Other lab:1200131431","uds-metham",0,0,0,0.00625417823711303
+"Other lab:1200131433","uds-oxy",0,0,0,1.46419227992664e-06
+"Other lab:1200131781","drug screen creat",0,0,0,0
+"Other lab:1200136134","methamphetamine lcms",0,0,0,0.0271951841347169
+"Other lab:1200136135","amphetamine lcms",0,0,0,1.15846050760869e-05
+"Other lab:1200136136","nordiazepam lcms",0,0,0,0.000742287167004164
+"Other lab:1200138535","oxazepam lcms",0,0,0,1.79843421208986e-06
+"Other lab:1200138536","temazepam lcms",0,0,0,0
+"Other lab:1200138537","alprazolam lcms",0,0,0,0
+"Other lab:1200138538","a-oh-alprazolam lcms",0,0,0,0
+"Other lab:1200138539","7-a-clonazepam lcms",0,0,0,0
+"Other lab:1200138540","lorazepam lcms",0,0,0,0
+"Other lab:1200138541","buprenorphine lcms",0,0,0,0
+"Other lab:1200138542","nbuprenorphine lcms",0,0,0,0
+"Other lab:1200138543","thc-cooh lcms",0,0,0,0
+"Other lab:1200138544","benzoylecgonine lcms",0,0,0,0
+"Other lab:1200138545","fentanyl lcms",0,0,0,0
+"Other lab:1200138546","norfentanyl lcms",0,0,0,0
+"Other lab:1200138547","6-mam lcms",0,0,0,0
+"Other lab:1200138548","methadone lcms",0,0,0,0
+"Other lab:1200138549","eddp lcms",0,0,0,0
+"Other lab:1200138550","mdma lcms",0,0,0,0
+"Other lab:1200138551","methylphenidate lcms",0,0,0,0
+"Other lab:1200138552","ritalinic acid lcms",0,0,0,0
+"Other lab:1200138553","morphine lcms",0,0,0,0
+"Other lab:1200138555","hydrocodone lcms",0,0,0,0
+"Other lab:1200138556","hydromorphone lcms",0,0,0,0
+"Other lab:1200138557","meperidine lcms",0,0,0,0
+"Other lab:1200138558","oxycodone lcms",0,0,0,0
+"Other lab:1200138559","oxymorphone lcms",0,0,0,0
+"Other lab:1200138560","pcp lcms",0,0,0,0
+"Other lab:1200138561","zolpidem met lcms",0,0,0,0
+"Other lab:1200138562","cyclobenzaprine lcms",0,0,0,0
+"Other lab:1200138563","carisoprodol lcms",0,0,0,0
+"Other lab:1200138564","meprobamate lcms",0,0,0,0
+"Other lab:1200138565","mdvp lcms",0,0,0,0
+"Other lab:1200138566","mephedrone lcms",0,0,0,0
+"Other lab:1200138567","methylone lcms",0,0,0,0
+"Other lab:1200138568","tapentadol lcms",0,0,0,0
+"Other lab:1200138569","tramadol lcms",0,0,0,0
+"Other lab:1200138570","nortramoadol lcms",0,0,0,0
+"Other lab:1200138665","butalbital lcms",0,0,0,0
+"Other lab:1200138666","phenobarbital lcms",0,0,0,0
+"Other lab:1200139020","benzodiazepines scrn",0,0,0,0
+"Other lab:1200139583","opiate confirm",0,0,0,0.0147622867057526
+"Other lab:1200139584","oxycod confirm",0,0,0,0.000194588351169874
+"Other lab:1200141194","comprehensive lcms",0,0,0,0
+"Other lab:1400012362","protein",0,0,0,0
+"Other lab:1400015953","barbit",0,0,0,0
+"Other lab:1400034601","barbs",0,0,0,0
+"Other lab:1400055391","hep-cab",0,0,0,0
+"Other lab:1400056766","barbs",0,0,0,0
+"Other lab:1400057639","balt",0,0,0,0
+"Other lab:1400064377","#ba",0,0,0,0
+"Other lab:1400067813","barbs",0,0,0,0
+"Other lab:1400069118","barbs",0,0,0,0
+"Other lab:1400078944","barbit",0,0,0,0
+"Other lab:1400575908","#ph",0,0,0,0.00963857868218389
+"Other lab:1400575945","ph.",0,0,0,0
+"Other lab:1400588543","fen",0,0,0,0.000530455186706333
+"Other lab:1400589589","creat.",0,0,0,0
+"Other lab:1400589590","#cre",0,0,0,0.000284744153928328
+"Other lab:1400590353","etg",0,0,0,0
+"Other lab:1400591060","#sg",0,0,0,0
+"Other lab:1400591078","sg",0,0,0,0
+"Other lab:1400592132","spgrav-dau",0,0,0,0.000767659875319769
+"Other lab:1400593684","dau cret",0,0,0,0
+"Other lab:800025775","val acid ref",0,0.00324378058743639,0,0.0156413221797534
+"Other lab:800027350","dose",0,0.00461412232614454,0,0.0161792641697589
+"Other lab:800031990","barbua",0,0,0,0
+"Other lab:800033167","valproa",0,0,0,0.00722253750818094
+"Other lab:800054194","val acd",0,0,0,0
+"Other lab:800058968","barbs",0,0,0,0
+"Other lab:800060452","a/g",0,0,0,0
+"Other lab:800077061","valpro",0,0,0,0.00254687614040259
+"Other lab:800080170","barb-sq",0,0,0,0
+"Other lab:800086436","barbs",0,0,0,0
+"Other lab:800089063","protein",0,0,0,0
+"Other lab:800224219","u creat",0,0,0,0
+"PheCode:070.3","viral hepatitis c",0.00137381140205189,0.000574718941396878,0.0230625679107169,0
+"PheCode:1010.7","persons with potential...circumstances",0,0,0,0
+"PheCode:1015","effects of other external causes",0,0,0,0
+"PheCode:244.4","hypothyroidism nos",0.00781669389649216,0.00612314838338764,0.0343049072973805,0
+"PheCode:261.4","vitamin d deficiency",0,0,0.0248099875206162,0
+"PheCode:277.1","disorders of porphyrin metabolism",0.059447976045114,0.00033375532277534,0.0724942644329884,0
+"PheCode:278.1","obesity",0,0,0,0
+"PheCode:290.2","delirium due to conditions classified elsewhere",0,0,0.00616639903070252,0
+"PheCode:290.3","other persistent mental...elsewhere",0.00203071683479485,0.00101461745666441,0.00382739022695754,0
+"PheCode:291.1","transient mental disorders...elsewhere",0,0,0.0113257979380735,0
+"PheCode:291.4","specific nonpsychotic mental...damage",0,0,0.00809724680327481,0
+"PheCode:292.4","altered mental status",0,0,0.0106855482939667,0
+"PheCode:292.6","hallucinations",0,0,0.00317199402829654,0
+"PheCode:295.1","schizophrenia",0.0946647358994401,0.0798443975089292,0.068281592003179,0.0803106271830867
+"PheCode:295.2","paranoid disorders",0,0,0,0
+"PheCode:295.3","psychosis",0.0272735548751378,0.0294052928273463,0.0165517454406959,0.0167759995473799
+"PheCode:296.2","depression",0.0204218508824087,0.0477381481184497,0.0205885891962937,0.0611691294023597
+"PheCode:297.1","suicidal ideation",0.0196991595766009,0.0330960933530859,0.016113972560842,0.0240339794908359
+"PheCode:297.2","suicide or self-inflicted injury",0.0158062195442996,0.0144424354571994,0.0178712768905213,0.00676285997838885
+"PheCode:300.1","anxiety disorder",0.0348714407947776,0.0760339445881043,0,0.0545978473272195
+"PheCode:300.3","obsessive-compulsive disorders",0,0,0.00126713035280685,0.0129952224443965
+"PheCode:300.4","dysthymic disorder",0,0,0,0.00955173061480644
+"PheCode:300.9","posttraumatic stress disorder",0.100846392277977,0.0753669080451112,0.0849521918099043,0.087208072235139
+"PheCode:301.1","schizoid personality disorder",0.0443116640418152,0.013879085899426,0.0659474593262699,0.00455782535817785
+"PheCode:301.2","antisocial/borderline personality disorder",0.0176829163057669,0.0666039514316009,0.0188470202731901,0.0861002805538628
+"PheCode:303.1","dissociative disorder",0.0202707443426012,0.00859194076881629,0.0438730830524592,0
+"PheCode:303.4","somatoform disorder",0,0,0,0
+"PheCode:304","adjustment reaction",0.00506457100176195,0.00700701462118121,0.0180709441745881,0.0156739619745497
+"PheCode:305.2","eating disorder",0,0,0.0056829827015171,0
+"PheCode:306.1","mental disorders durring/after pregnancy",0,0,0.0123200211076071,0
+"PheCode:312.3","impulse control disorder",0.0293894036715065,0.0362255263535554,0.0318504566077134,0.0229276003688382
+"PheCode:313.1","attention deficit hyperactivity disorder",0.0524951781866307,0.0513999797566754,0.0462734107212791,0.0373994721369532
+"PheCode:313.2","tics and stuttering",0.00686193610656347,0.000447874755054691,0.0280657672860343,0
+"PheCode:313.3","autism",0.00973344796715294,0.0103891031762513,0.0135544497823188,0.0230264495610254
+"PheCode:315.1","learning disorder",0,0,0.00668956829339733,0
+"PheCode:315.2","speech and language disorder",0,0,0,0
+"PheCode:315.3","mental retardation",0,0,0,0
+"PheCode:317.1","alcoholism",0.0361931375554195,0.0475290658378698,0.013325744311694,0.0255765528750463
+"PheCode:318","tobacco use disorder",0.0183509129031631,0.0252933713477594,0.0168377723145409,0.0157743575372533
+"PheCode:327.4","insomnia",0.0183145444206772,0.0143177533694096,0.0124655062329851,0.00237381044734851
+"PheCode:327.5","parasomnia",0,0,0,0
+"PheCode:333.1","essential tremor",0.0170057236949485,0.00518268434031679,0.0347663435400938,0
+"PheCode:338.2","chronic pain",0.0107116976410335,0.00254868968237385,0.0255909923902395,0
+"PheCode:339","other headache syndromes",0,0,0,0.00596888405067285
+"PheCode:345.3","convulsions",0.00844409373464573,0.0204384112083944,0,0.00684674452007256
+"PheCode:355.1","chronic pain syndrome",0,0,0.0089234100809284,0
+"PheCode:521.1","dental caries",0,0,0,0
+"PheCode:612.1","galactorrhea",-0.000172711852459453,0.00169112139607257,0,0
+"PheCode:614.5","inflammatory disease of cervix, vagina, and vulva",0.00296418191165913,0.00886942101029043,0,0.0234956703618649
+"PheCode:626.1","irregular menstrual cycle/bleeding",-0.000273679738755579,0.00374819765370271,0,0.0115383770857282
+"PheCode:626.2","dysmenorrhea",0,0,0,0.00640912772650125
+"PheCode:626.4","premenstrual tension syndromes",0,0,0,0.00689049197244764
+"PheCode:627.2","symptomatic menopause",0.000733746621769318,0.00123303631702788,0,0.00446548538143408
+"PheCode:638","other high-risk pregnancy",0,0.00866656442633033,0,0.0167847884053515
+"PheCode:745","pain in joint",0,0,0,0
+"PheCode:760","back pain",0,0,0,0
+"PheCode:761","cervicalgia",0,0,0,0
+"PheCode:770","myalgia and myositis unspecified",0,0,0.00253119311401124,0
+"PheCode:819","skull and face...injury",0,0,0,0
+"PheCode:941","adverse reaction to serum or vaccine",0,0,0.0135250033119368,0
+"PheCode:966","poisoning by anticonvulsants...drugs",0.036304980204953,0.0129242276771685,0.040111699632107,0
+"PheCode:969","poisoning by psychotropic agents",0.011755007915924,0.00832621604438808,0.0184683054260406,0
+"PheCode:979","adverse drug events and drug allergies",0.000715404608404618,0.000723936516424158,0.0163591000221773,0
+"PheCode:985","toxic effect of other metals",0.091362156658098,0.0456845672348359,0.0963013836169149,0.00788368479828837
+"PheCode:989","toxic effect of...source",0.0684002742774647,0.00223559000960256,0.0708815675530807,0
+"RXNORM:10154","succinylcholine",0,0,0.0152201789400073,0
+"RXNORM:10237","sulindac",0.0315360069862702,0.00331773393425809,0.0483229753775049,0
+"RXNORM:10355","temazepam",0,0,0.00783083958350957,0
+"RXNORM:1040028","lurasidone",0.0273850722895411,0.032750987835658,0.031779291523685,0.0441560611520913
+"RXNORM:10454","thiamine",0,0,0,0
+"RXNORM:10734","tranylcypromine",0.0660287020986993,0.0217886560465124,0.0734233075327919,0.00818562531289688
+"RXNORM:10737","trazodone",0,0,0.0234724866795378,0
+"RXNORM:10800","trifluoperazine",0,0,0.0309075966881119,0
+"RXNORM:10814","liothyronine",0.0120652803740065,0.00360286226628586,0.0292288059992467,0
+"RXNORM:11118","divalproex",0.0326079015774753,0.0470394208188963,0.0302944176945288,0.0465618915610633
+"RXNORM:115698","ziprasidone",0.0172796256712077,0.0216280455893806,0.0288101103685123,0.0255936434626338
+"RXNORM:135775","zolmitriptan",0,0,0,0
+"RXNORM:141366","naratriptan",0.000909171499560858,0.0157043290750832,0,0.0121285075641741
+"RXNORM:1424","benztropine",0.0275793890859426,0.00639364548836087,0.0478601314875274,0
+"RXNORM:1455099","vortioxetine",0,0,0,0
+"RXNORM:1547099","suvorexant",0,0.0179767953382849,0,0.0275672724622054
+"RXNORM:15996","mirtazapine",0,0,0,0
+"RXNORM:1819","buprenorphine",0.00209865064785877,0.00119789425603826,0,0
+"RXNORM:1827","buspirone",0,0,0,0
+"RXNORM:2002","carbamazepine",0,0,0.0210419963084712,0
+"RXNORM:214130","acetaminophen/butalbital/caffeine",0,0,0,0.0101044786664738
+"RXNORM:214551","estradiol/norethindrone",-0.000655531761968627,0.00808015350542351,0,0
+"RXNORM:214558","ethinyl estradiol/levonorgestrel",0,0,0,0
+"RXNORM:214559","ethinyl estradiol/norgestimate",0.00313419180399836,0.0045939369551902,0,0.00352868215840471
+"RXNORM:214599","guaifenesin/pseudoephedrine",0.000109141670191379,0.0185614521298566,0,0.0134107706434022
+"RXNORM:21949","cyclobenzaprine",0,0,0,0.00303653688299791
+"RXNORM:2356","chlordiazepoxide",0,0,0,0
+"RXNORM:2403","chlorpromazine",0,0,0.00274018486003642,0
+"RXNORM:24605","etodolac",0,0,0,0.00360219947689318
+"RXNORM:253146","amphetamine/dextroamphetamine",0.0264246561106716,0.0112909503977688,0.0275970603014465,0
+"RXNORM:25480","gabapentin",0,0,0.00095019578442976,0
+"RXNORM:2556","citalopram",0,0,0,0
+"RXNORM:2597","clomipramine",0.0230303737271246,0.00440279272550635,0.0337465051390956,0
+"RXNORM:2598","clonazepam",0.0222858580153922,0.0134701072179974,0.0275809020306382,0
+"RXNORM:2599","clonidine",0,0,0.00502207443626694,0
+"RXNORM:2626","clozapine",0,0,0.0113038856647181,0
+"RXNORM:279645","almotriptan",-0.000259944275001637,0.0180551623779142,0,0.0160758815076631
+"RXNORM:282708","throat lozenge",0,0,0,0
+"RXNORM:28439","lamotrigine",0.0874665874541503,0.0415043263056547,0.0759127977220069,0.0215017500035319
+"RXNORM:31765","nicotine polacrilex",0,0,0,0
+"RXNORM:321988","escitalopram",0,0,0.0106847090686906,0
+"RXNORM:32624","oxcarbazepine",0.0124005448150455,0.00803760987289016,0.0116946852466948,0.000556938077113419
+"RXNORM:3288","dextroamphetamine",0.00758995785398715,0.00292130193812963,0.0109608862677252,0
+"RXNORM:32937","paroxetine",0,0,0,0
+"RXNORM:3361","dicyclomine",0,0,0,0
+"RXNORM:352364","buprenorphine/naloxone",0.0149927840686902,0.0281369825139069,0.021175854018043,0.019987958000017
+"RXNORM:352372","dexmethylphenidate",0,0,0.0275309490460597,0
+"RXNORM:352376","ethinyl estradiol/etonogestrel",0,0,0,0
+"RXNORM:3554","disulfiram",0.000565438383417701,0.011101029107825,0,0.027762407420666
+"RXNORM:35636","risperidone",0,0,0.00912491045660991,0
+"RXNORM:3638","doxepin",0,0,0.00163459879027936,0
+"RXNORM:36437","sertraline",0,0,0,0
+"RXNORM:37418","sumatriptan",0,0,3.92133620689162e-05,0
+"RXNORM:38400","atomoxetine",0.0166132092179388,0.00843562473076921,0.00359248239773704,0.00427359087089908
+"RXNORM:38404","topiramate",0.00523654289238469,0.0146139228462804,0.0171336692988258,0.0138559198775385
+"RXNORM:384410","ethinyl estradiol/norethindrone",0.00568165593666707,0.00650939644155869,0,0
+"RXNORM:39786","venlafaxine",0.00105807821548932,0.000471906470346406,0.00120344670275997,0
+"RXNORM:39993","zolpidem",0,0,0,0
+"RXNORM:39998","zonisamide",0,0,0.00418548433412248,0
+"RXNORM:40114","guanfacine",0.0466280850506112,0.0221473068503126,0.0287226714851288,0.0038789748005676
+"RXNORM:407884","l-methylfolate",0,0,0.0610766110690521,0
+"RXNORM:4083","estradiol",0,0,0,0
+"RXNORM:41493","meloxicam",0,0,0,0
+"RXNORM:42347","bupropion",0.00972332476194544,0.00634304323268339,0.0220306221155515,0
+"RXNORM:42355","fluvoxamine",0,0,0.000869163377293892,0
+"RXNORM:4493","fluoxetine",0,0,0.0134424089098482,0
+"RXNORM:4496","fluphenazine",0,0,0.0289093778657274,0
+"RXNORM:461016","eszopiclone",0,0,0.000423184620343146,0
+"RXNORM:5093","haloperidol",0,0,0,0
+"RXNORM:51272","quetiapine",0.07734091676902,0.0299367260441532,0.0737008702741889,0
+"RXNORM:5553","hydroxyzine",0.0128419384176245,0.0214025002618833,0.016739306853134,0.0384740581268544
+"RXNORM:5640","ibuprofen",-0.00056520871459522,0.00959214345594482,0,0.0278200474144426
+"RXNORM:5691","imipramine",0.00297937891684678,-0.00119606659304177,0.0245117023902759,0
+"RXNORM:591622","varenicline",0,0,0,0
+"RXNORM:596","alprazolam",0,0,0.00826415318985019,0
+"RXNORM:61381","olanzapine",0,0,0.00599181192031482,0.00397062255095999
+"RXNORM:6373","levonorgestrel",0,0,0,0
+"RXNORM:644","amiloride",0.000367277327699168,6.43754545760646e-05,0.0293907333436411,0
+"RXNORM:6448","lithium",0.0563871380785696,0.0771591092774691,0.0489302967207737,0.0754320055080426
+"RXNORM:646781","benzoyl peroxide/clindamycin",-0.00817987330356804,0.0175700908873736,0,0.00204507088431437
+"RXNORM:6470","lorazepam",0.0140087861042645,0.00678960575565849,0.0120509887385664,0
+"RXNORM:6475","loxapine",0.0366614826806863,0.015751402803763,0.0610446993753601,0
+"RXNORM:6711","melatonin",0,0,0,0
+"RXNORM:679314","paliperidone",0.0282952177938843,0.0242404427895696,0.0189873638582222,0.0154164781184351
+"RXNORM:6845","methocarbamol",0,0,0,0
+"RXNORM:6847","methohexital",0.0382061489543083,0,0.0721120053292065,0
+"RXNORM:6901","methylphenidate",0,0,0.00142927841925579,0
+"RXNORM:700810","lisdexamfetamine",0.0114331678964317,0.0068324976489922,0.0148936930253141,0
+"RXNORM:7243","naltrexone",0.0118301851669224,0.0151673255962384,0.00223281464199311,0.0103903162897415
+"RXNORM:725","amphetamine",0,0,0.017486936482572,0
+"RXNORM:7258","naproxen",0,0,0,0.00104981141705521
+"RXNORM:72625","duloxetine",0,0,0.00534097181587661,0
+"RXNORM:7407","nicotine",0.0451232790127674,0.0505942910930235,0.00232353467259446,0.0206809657880024
+"RXNORM:784649","asenapine",0.0497711981462519,0.0233281545869213,0.110092710350481,0.0038302775672345
+"RXNORM:8076","perphenazine",0,0,0.00921197213743578,0
+"RXNORM:8124","phenelzine sulfate",0,0,0,0.00921702780249132
+"RXNORM:82819","acamprosate",0.00358012231547683,0.00332268243271383,0.0202794009393229,0.0027577422836484
+"RXNORM:840781","drospirenone/ethinyl estradiol",0,0,0.0219931167359818,0
+"RXNORM:8629","prazosin",0,0,0,0
+"RXNORM:8787","propranolol",0,0,0.000201396275645575,0
+"RXNORM:89013","aripiprazole",0.0144617090797934,0.0136337931274179,0.0210891188956186,0.0189807038910558

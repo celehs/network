@@ -1,0 +1,138 @@
+"Variable","Description","Integrative_Estimator_RPDR","Integrative_Estimator_VA","Local_Estimator_RPDR","Local_Estimator_VA"
+"CCS:108","indwelling catheter",0,0,0.012873500723067,0
+"CCS:145","treatment, fracture or...ulna",0.009114863814992,-0.00302499572587739,0.0318463118033492,0
+"CCS:146","treatment, fracture or...femur",0.0483508094632511,0.0274134281947088,0.0528587074512025,0.00188109052208505
+"CCS:147","treatment, fracture or...femur",0.0132824376999955,-0.00182970117411513,0.033486947999105,0
+"CCS:148","other fracture and dislocation procedure",0.0493910293725496,0.0101842888912039,0.0821581460280665,0
+"CCS:153","hip replacement, total and partial",0.00306633595181918,0.00234286583265185,0.0135305562123945,0
+"CCS:161","other or therapeutic procedures on bone",0,0,0.00646382976870042,0
+"CCS:162","other or therapeutic procedures on joints",0,0,0,0
+"CCS:163","other non-or therapeutic...system",0,0,0.0111522846483562,0
+"CCS:169","debridement of wound, infection or burn",0,0,0.0114605923870788,0
+"CCS:171","suture of skin and subcutaneous tissue",0.00249802624918119,-0.000420665063396575,0.00800210692337909,0
+"CCS:177","computerized axial tomography ct scan head",0,0,0,0
+"CCS:179","ct scan abdomen",0,0,0,0
+"CCS:180","other ct scan",0,0,0,0
+"CCS:191","arterio- or venogram not heart and head",0,0,0,0
+"CCS:205","arterial blood gases",0,0,0,0
+"CCS:212","diagnostic physical therapy",0,0,0,0
+"CCS:213","physical therapy exercises,...procedures",0,0,0,0
+"CCS:214","traction, splints, and other wound care",0,0,0,0
+"CCS:215","other physical therapy and rehabilitation",0,0,0,0
+"CCS:226","other diagnostic radiology and related techniques",0,0,0,0
+"LOINC:17861-6","scca group:scca",0,0,0.0154351818205439,0
+"LOINC:20421-4","barbiturates tox screen group:barb-ts",0,0,0.0172445907601439,0
+"LOINC:20470-1","ethanol tox screen group:alc-ts",0,0,0.0064349677438791,0
+"LOINC:2339-0","glucose, whole bld group:glu-wb",0,0,0.0143257452675104,0
+"LOINC:2947-0","na - pl group:na-pl",0,0,0,0
+"LOINC:3297-9","acetaminophen tox screen group:acet-ts",0,0,0.0317137813075656,0
+"LOINC:3389-4","benzo tox screen group:benz-ts",0,0,0.00154812456120254,0
+"LOINC:4023-8","salicylates tox screen group:sal-ts",0,0,0.00696528088164648,0
+"LOINC:4073-3","tricyclic antidepressants",0,0,0,0
+"LOINC:9679-2","scca group:scca",0,0,0.0055238222905584,0
+"LOINC:X7003-7","ethanol tox panel group:tox1",0,0,0,0
+"LOINC:X7004-5","ats tox panel group:tox2",0,0,0,0
+"LOINC:X7005-2","barbiturates tox panel group:tox3",0,0,0,0
+"LOINC:X7006-0","benzo tox panel group:tox4",0,0,0,0
+"LOINC:X7008-6","tricyclics tox panel group:tox5",0,0,0.014683407796343,0
+"PheCode:1006","crushing injury",0,0.00458456496849949,0,0.0294858281539798
+"PheCode:1008","crushing or internal injury to organs",0,0.0373614662185215,0,0.0657138125670378
+"PheCode:1009","injury, nos",0,0,0,0.00252282964507786
+"PheCode:1011","complications of surgical and medical procedures",0,0,0,0
+"PheCode:1012","late effect",0,0.00593005623938282,0,0.0335270950082072
+"PheCode:1015","effects of other external causes",0,0,0,0.0153791127184743
+"PheCode:276.1","electrolyte imbalance",0,0,0,0
+"PheCode:285.1","acute posthemorrhagic anemia",0.00424433489620414,0.0019418575710528,0.0277983529332831,0
+"PheCode:286.1","congenital coagulation defects",0.00237358004266586,0.0470038398574818,0,0.0504996226526038
+"PheCode:288.2","elevated white blood cell count",0,0,0,0
+"PheCode:290.1","dementias",0,0,0,0
+"PheCode:290.2","delirium due to conditions classified elsewhere",0,0,0,0
+"PheCode:291.4","specific nonpsychotic mental...damage",-0.000117953762897014,0.00144119163278776,0,0
+"PheCode:291.8","alteration of consciousness",0,0,0,0
+"PheCode:292.1","aphasia/speech disturbance",0,0,0,0
+"PheCode:292.3","memory loss",0,0,0,0
+"PheCode:297.2","suicide or self-inflicted injury",0.0153651001661628,-0.00197513338141715,0.0302727804640042,0
+"PheCode:300.8","acute reaction to stress",0.0656323676485739,0.0354272840560957,0.0811103432799832,0.0194294101291877
+"PheCode:327.4","insomnia",0,0,0.00324674894760722,0
+"PheCode:338.1","acute pain",0.0105930804534633,0.00550876764417906,0.0126538752074056,0
+"PheCode:348.7","coma",0,0,0.0220382632444511,0
+"PheCode:350.2","abnormality of gait",0.00298887891850246,0.00238409304704424,0.00835964037404034,0
+"PheCode:350.3","lack of coordination",0.00080340696302263,0.00429573403976662,0,0.011273457226567
+"PheCode:353.1","nerve plexus lesions",0.0012753156213266,0.0542776656568438,0,0.0508528230848953
+"PheCode:367.9","blindness and low vision",0.00754555185790087,0.00373422708714591,0.022483456358393,0
+"PheCode:384.4","perforation of tympanic membrane",-0.00160153255109345,0.0130467842435865,0,0.0192110847413255
+"PheCode:427.7","tachycardia nos",0,0,0,0
+"PheCode:430.1","subarachnoid hemorrhage",0.0120312148956093,0.0282011587929026,0,0.0328024541475839
+"PheCode:430.3","subdural hemorrhage",0.00325215777583549,0.00522878526994723,0,0.00800615407280668
+"PheCode:452.2","deep vein thrombosis [dvt]",0,0,0,0
+"PheCode:459.1","hemorrhage nos",0.021597455489561,0.0194363475914739,0.0364516600560909,0
+"PheCode:509.3","pulmonary insufficiency or...surgery",0,0,0,0
+"PheCode:519.2","respiratory complications",0,0,0,0
+"PheCode:599.2","retention of urine",0,0,0.00109848845293607,0
+"PheCode:728.1","muscular calcification and ossification",0.00195174595579632,0.0479443443755614,0,0.0513234196716492
+"PheCode:733.4","aseptic necrosis of bone",0.00201237499669517,0.00861794563869657,0,0.0157236427843837
+"PheCode:733.8","malunion and nonunion of fracture",0,0,0.00483900283295749,0.00344917118901237
+"PheCode:739","contracture of joint",-0.00535627278459525,0.0164768493373277,0,0.0182601444142569
+"PheCode:741.3","difficulty in walking",0.00342612477317683,0.0078661598358457,0,0.00513653373157016
+"PheCode:741.4","joint effusions",0,0,0,0
+"PheCode:742.9","other derangement of joint",0,0,0,0.00306247409864193
+"PheCode:743.1","osteoporosis",0,0,0,0
+"PheCode:743.2","pathologic fracture",0.0114649337954602,0.017288265737799,0.010246629658596,0.0199586737563285
+"PheCode:743.4","stress fracture",-0.00313907913797336,0.0759914382646212,0,0.0872508611497742
+"PheCode:745","pain in joint",0,0,0,0
+"PheCode:756.5","congenital osteodystrophies",0.0159083034027667,-0.000162823382082996,0.0363918560790294,0
+"PheCode:761","cervicalgia",0,0,0,0
+"PheCode:766","neuralgia, neuritis, and radiculitis nos",0,0,0,0
+"PheCode:771.1","swelling of limb",0,0,0,0
+"PheCode:772.3","muscle weakness",3.44658734800508e-06,1.61635578413518e-05,0,0.00344897594529004
+"PheCode:781.2","abnormal posture",-0.000844984676753555,0.0282537862307818,0,0.0243997220748417
+"PheCode:800.1","fracture of neck of femur",0.0890440937344365,0.0634125985728464,0.0924618819313697,0.0691800754357857
+"PheCode:800.2","fracture of unspecified part of femur",0.100975005882073,0.0723507412867734,0.111474142006913,0.062299151569563
+"PheCode:800.3","fracture of tibia and fibula",0.0881932163021564,0.0738338817863847,0.0616797504493191,0.0689272696278679
+"PheCode:800.4","fracture of patella",0.0477755490238177,0.0350306382666879,0.0510879897654044,0.0343601624890272
+"PheCode:801.1","fracture of foot",0.0230600500703469,0.0132366808047088,0.0207143124401141,0.00223823018003367
+"PheCode:803.1","fracture of humerus",0.0467320160187772,0.0647593438224462,0.0341025070302938,0.0810761300985452
+"PheCode:803.2","fracture of radius and ulna",0.0272329102882702,0.03366358101331,0.0358715662448434,0.0480360963755197
+"PheCode:803.3","fracture of clavicle or scapula",0.116395412265782,0.115491764603067,0.0943006688469529,0.0921653438741726
+"PheCode:804","fracture of hand or wrist",0.0243499867181302,0.0318180318695065,0.00159068655774326,0.0269481052465966
+"PheCode:805","fracture of vertebral...injury",0.0805344303387942,0.080501207741584,0.0725832273245856,0.0672032017687191
+"PheCode:807","fracture of ribs",0.104726907614592,0.0939551808974799,0.0653278990672658,0.0754778292396077
+"PheCode:809","fracture of unspecified bones",0.0497070143325212,0.0685603220847754,0.0366914415827276,0.0662383863901299
+"PheCode:816","cerebral laceration and contusion",0.000393512437243973,0.000116583506006496,0.0398269976625625,0
+"PheCode:817","concussion",0.0423409740192134,0.0360962188111524,0.0466202742873061,0.0286218821240144
+"PheCode:818.1","subdural hemorrhage injury",0.0280788349112177,0.0309462773533801,0.0263140105511209,0.0368178101707906
+"PheCode:818.2","subarachnoid hemorrhage injury",0.0723508105054654,0.0885440567112781,0.0487511009847269,0.0820346706835998
+"PheCode:819","skull and face...injury",0.0291283898934484,0.0310918993955389,0.0225439097117894,0.0191625541410811
+"PheCode:830","dislocation",0.0256779580398516,0.0233984116554195,0.0217445932485777,0.0266895413190273
+"PheCode:836","traumatic arthropathy",0,0,0,0
+"PheCode:840.3","joint/ligament sprain",0.0257972360593322,0.0202021387398629,0.0225155311237582,0.0185291008111307
+"PheCode:858","complication of internal orthopedic device",0.00237162233578483,0.0018721166468915,0,0
+"PheCode:870.3","other open wound of head and face",0.0335336106475562,0.0109371040963432,0.035789770118836,0
+"PheCode:915","superficial injury without mention of infection",0,0,0,0
+"PheCode:916","contusion",0.0133166041763898,0.0107180606340013,0.0101766850716242,0.00317037113408843
+"PheCode:965.1","opiates and related...use",0,0,0,0.00969715809170088
+"RXNORM:10636","tolmetin",0,0.047207878309958,0,0.0577561408869367
+"RXNORM:11253","vitamin d",0,0,0,0
+"RXNORM:1291","bacitracin",0,0,0,0
+"RXNORM:1596","bisacodyl",0,0,0,0
+"RXNORM:215831","calcium citrate/vitamin d",0.002661649275618,0.00384555434904666,1.2065895494819e-05,0
+"RXNORM:2180","cefazolin",0,0,0,0
+"RXNORM:319864","cisatracurium",0,0,0,0
+"RXNORM:321952","pimecrolimus",0.00145916711063787,0.055357207406639,0,0.0507854260147851
+"RXNORM:32385","olsalazine",0,0.0784800688422838,0,0.0943429475628018
+"RXNORM:32521","rocuronium bromide",0,0,0,0
+"RXNORM:35780","ropivacaine",0,0,0,0
+"RXNORM:42682","etidronate",0,0,0,0.0184560799343985
+"RXNORM:57258","tizanidine",0,0,0,0
+"RXNORM:5781","indomethacin",-0.000906972437256877,0.0106386132767825,0,0.0122911248414971
+"RXNORM:587318","glycolic acid",0,0.0502463401679835,0,0.0465757930201921
+"RXNORM:6130","ketamine",0,0,0.0104815253492608,0
+"RXNORM:616739","rotigotine",0.00011805214482181,0.0109565511452856,0,0.0310519427784096
+"RXNORM:6581","magnesium hydroxide",0,0,0,0
+"RXNORM:67108","enoxaparin",0,0,0,0
+"RXNORM:67109","dalteparin",0,0,0,0
+"RXNORM:689","aminophylline",0,0,0.00296760223150721,0
+"RXNORM:7804","oxycodone",0,0,0,0
+"RXNORM:82003","docusate",0,0,0,0
+"RXNORM:8787","propranolol",0,0,0.0030805614975485,0
+"RXNORM:8948","tuberculin,purified protein derivative",0,0,0,0

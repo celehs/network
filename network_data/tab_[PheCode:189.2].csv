@@ -1,0 +1,263 @@
+"Variable","Description","Integrative_Estimator_RPDR","Integrative_Estimator_VA","Local_Estimator_RPDR","Local_Estimator_VA"
+"CCS:100","endoscopy and endoscopic...tract",0.100186620434354,0.131035093943682,0.0690789425554506,0.139295025450983
+"CCS:101","transurethral excision, drainage,...obstruction",0.0563184655250966,0.0688344399785207,0.0748680604068219,0.0734888277022731
+"CCS:102","ureteral catheterization",0,0,0.0125134579153582,0
+"CCS:103","nephrotomy and nephrostomy",0.0329803255089227,0.0177482407650977,0.0456161485761363,0
+"CCS:104","nephrectomy, partial or complete",0,0,0.0204598993762104,0
+"CCS:107","extracorporeal lithotripsy, urinary",0,0,0,0
+"CCS:108","indwelling catheter",0.0195442919875234,0.0676172608450518,0.00960012309858216,0.0534965011199897
+"CCS:109","procedures on the urethra",0.0126786083773502,0.0061480190226403,0.0539835934555425,0
+"CCS:110","other diagnostic procedures of urinary tract",0,0,0,0
+"CCS:111","other non-or therapeutic...tract",0.0158602476688584,0.0110588393580337,0.0257112826084124,0
+"CCS:112","other or therapeutic procedures of urinary tract",0.0848124856719703,0.060103065295087,0.0481597715366909,0.0495783009395071
+"CCS:113","transurethral resection of prostate turp",0.00496274829643599,0.00239338185360376,0.0429636936721311,0
+"CCS:114","open prostatectomy",0.0527532705155903,0.0307278138012412,0.0620982035682704,0.0210596665982857
+"CCS:116","diagnostic procedures, male genital",0.000839239199272087,0.00433066082920752,0,0
+"CCS:179","ct scan abdomen",0.00727405392123284,0.012243946234318,-0.00545924590274149,0.00390555081893917
+"CCS:180","other ct scan",0,0,0.00826233498797732,0
+"CCS:187","intravenous pyelogram",0,0,0.0594542262196848,0
+"CCS:200","nonoperative urinary system measurements",0.00550064415984336,0.0103803050106646,-0.00106108615642011,0.00140617374008615
+"CCS:206","microscopic examination bacterial...toxicology",0,0,0,0
+"CCS:207","radioisotope bone scan",0,0,0.0399829189718106,0
+"CCS:211","therapeutic radiology",0.00170151587024277,0.000951679855000837,0.0138457417792322,0
+"CCS:224","cancer chemotherapy",0.0301535571076159,0.0266244442630116,0.0202731246981261,0.0216052544673018
+"CCS:232","anesthesia",0.00152788164897072,0.00248488832650227,0,0.00255265750567843
+"CCS:234","pathology",0.00678485927347716,0.0112443440489122,0,0
+"CCS:240","medications injections, infusions and other forms",0.126936992996019,-0.00146698941997197,0.132040676106639,0
+"CCS:67","other therapeutic procedures,...system",0.00470356367908461,0.00598914478394929,0.0276620973597568,0
+"LOINC:10886-0","psa free group:psafree",0,0,0.0115878694450266,0
+"LOINC:11277-1","epithelial cells.squamous",-8.94664406023319e-05,0.00237255469042548,0,0.0112121300238832
+"LOINC:12190-5","creatinine, fluid group:crefld",0,0,0.0449855106618775,0
+"LOINC:12841-3","psa percent free group:psapctf",0,0,0.0144229949022873,0
+"LOINC:13945-1","erythrocytes",0,0,0,0
+"LOINC:2514-8","ketones",0,0,0,0.00554604135902346
+"LOINC:25145-4","bacteria",0,0,0,0
+"LOINC:32167-9","clarity",0,0,0,0
+"LOINC:46420-6","wbc clumps /hpf group:wbcc-micro",0,0,0.0230223401884634,0
+"LOINC:5767-9","appearance",0,0,0,0
+"LOINC:5774-5","calcium oxalate crystals",0,0,0,0
+"LOINC:5778-6","color",0,0,0,0
+"LOINC:5796-8","hyaline casts",0,0,0,0
+"LOINC:5802-4","nitrite",0,0,0,0
+"LOINC:5803-2","ph",0,0,0,0
+"LOINC:5811-5","specific gravity",0,0,0,0
+"LOINC:5821-4","leukocytes",0,0,0,0
+"LOINC:8247-9","mucus",0,0,0,0
+"LOINC:X1172-6","psa monitoring group:psamon",0,0,0.0169236066679132,0
+"LOINC:X1742-6","creatinine poc group:creat-poc",0,0,0.0312024799151484,0
+"Other lab:1000013568","urleue",0,0.00642187242708959,0,0.0213474211717586
+"Other lab:1000039220","leu est",0,0,0,0
+"Other lab:1000039483","urgluc",0,0,0,0
+"Other lab:1000040607","urprot",0,0,0,0
+"Other lab:1000061852","urbld",0,0,0,0
+"Other lab:1000063225","ururob",0,3.05954782000729e-06,0,8.8614642983067e-05
+"Other lab:1000064900","urgluc",0,6.70886875538486e-17,0,0
+"Other lab:1000065367","wbcclps",0,0,0,0
+"Other lab:1000070739","protein",0,0,0,0
+"Other lab:1000075103","wbc/hpf",0,0,0,0
+"Other lab:1000075763","ur urob",0,0,0,0
+"Other lab:1000099498","wbc clu",0,0,0,0
+"Other lab:1000102143","uaepins",0,0,0,0
+"Other lab:1000109537","poc-leuk",0,0,0,0.0222927757552706
+"Other lab:1000109539","poc-urobil",0,0.00905516737173698,0,0.00667539447354767
+"Other lab:1000109540","poc-protein",0,0,0,0
+"Other lab:1000109542","poc-urine bld",0,0,0,0
+"Other lab:1000109546","poc glu",0,0,0,0
+"Other lab:1000119985","auto microscopic",0,0,0,0
+"Other lab:1200042424","glucose",0,0.0166601026444425,0,0.0412171430513857
+"Other lab:1200045570","protein",0,1.73240065234158e-06,0,0.00124799724236998
+"Other lab:1200048255","ur. bld",0,0,0,7.18552289195922e-05
+"Other lab:1200050684","wbc clu",0,0,0,0
+"Other lab:1200090218","wbc cl",0,0,0,0
+"Other lab:1200101020","wbc-clu",0,0,0,0
+"Other lab:1200112019","leukest",0,0,0,0
+"Other lab:1200114832","poccglu",0,0.0358357930872575,0,0.0559838856045344
+"Other lab:1200114836","poccocb",0,1.05323900011962e-15,0,2.07267086689569e-14
+"Other lab:1200114838","poccpro",0,0,0,0.000256106296686093
+"Other lab:1200114839","poccuro",0,0,0,2.02401662119391e-15
+"Other lab:1400002210","umicr",0,0,0,0
+"Other lab:1400002902","ur. bld",0,0,0,0.00120373125625558
+"Other lab:1400002919","urobili",0,0,0,0.000757073906043407
+"Other lab:1400007502","glu-u",0,0,0,5.24321907236699e-05
+"Other lab:1400013142","uric ac",0,0,0,0
+"Other lab:1400018184","protein",0,0,0,0
+"Other lab:1400020601","tr.epth",0,0,0,0
+"Other lab:1400028267","wbc/cas",0,0,0,0
+"Other lab:1400041109","waxy/ca",0,0,0,0
+"Other lab:1400041113","tyrosin",0,0,0,0
+"Other lab:1400048925","fatty/c",0,0,0,0
+"Other lab:1400048928","leucine",0,0,0,0
+"Other lab:1400049379","cystine",0,0,0,0
+"Other lab:1400063699","uric ac",0,0,0,0
+"Other lab:1400065380","rbc/cas",0,0,0,0
+"Other lab:1400072051","tri pho",0,0,0,0
+"Other lab:1400074839","wbc/hpf",0,0,0,0
+"Other lab:1400079067","wbcclmp",0,0,0,0
+"Other lab:1400569391","wbc/hpfa",0,0,0,0
+"Other lab:1400594210","appear-iris",0,0,0,0
+"Other lab:1400594211","urine color-iris",0,0,0,0
+"Other lab:1400594212","sp.gravity-iris",0,0,0,0
+"Other lab:1400594213","urobil-iris",0,0,0,0
+"Other lab:1400594214","ur blood-iris",0,0,0,0
+"Other lab:1400594216","ur bilirubin-iris",0,0,0,0
+"Other lab:1400594217","ur glu-iris",0,0,0,0
+"Other lab:1400594218","ur ket-iris",0,0,0,0
+"Other lab:1400594219","ur protein-iris",0,0,0,0
+"Other lab:1400594220","nitrite-iris",0,0,0,0
+"Other lab:1400594221","leu est-iris",0,0,0,0
+"Other lab:1400594222","wbc/hpf-iris",0,0,0,0
+"Other lab:1400594223","rbc/hpf-iris",0,0,0,0
+"Other lab:1400594227","squamous ep-iris",0,0,0,0
+"Other lab:1400594228","renal ep-iris",0,0,0,0
+"Other lab:1400594229","hyaline casts-iris",0,0,0,0
+"Other lab:1400594230","granular casts-iris",0,0,0,0
+"Other lab:1400594231","bacteria-iris",0,0,0,0.0472847349168079
+"Other lab:1400594232","ur mucus-iris",0,0,0,0.00364910921707934
+"Other lab:1400594233","trichomonas-iris",0,0,0,0
+"Other lab:1400594234","yeast-iris",0,0,0,0
+"Other lab:1400594250","budding yeast",0,0,0,0
+"Other lab:1400594255","wbc clump",0,0,0,0
+"Other lab:1400594256","rbc clump",0,0,0,0
+"Other lab:1400594530","uaauto micro",0,0,0,0
+"Other lab:800021899","pocpro",0,0.0382337532684845,0,0.053247816381425
+"Other lab:800021901","poc-uro",0,4.60577869085332e-06,0,0.00251679942008828
+"Other lab:800022039","pocbld",0,4.50927080029832e-07,0,0
+"Other lab:800022482","ur bld",0,0,0,0
+"Other lab:800022489","leu ase",0,0,0,0
+"Other lab:800023423","perform",0,0,0,0
+"Other lab:800027609","poc-leu",0,0,0,0.000430313989930188
+"Other lab:800027610","poc-glu",0,0,0,0
+"Other lab:800031495","ur-glu",0,0,0,0
+"Other lab:800032007","urobili",0,0,0,0
+"Other lab:800032013","ur prot",0,0,0,0
+"Other lab:800033608","rbc/hpf",0,0,0,0.00139601418788739
+"Other lab:800034545","bilirub",0,0,0,0
+"Other lab:800034764","ur cry",0,0,0,0
+"Other lab:800041290","wbc/hpf",0,0,0,0
+"Other lab:800057670","glu",0,0,0,0
+"Other lab:800059138","protein",0,0,0,0
+"Other lab:800061247","clx?",0,0,0,0
+"Other lab:800070502","ur. bld",0,0,0,0
+"Other lab:800072597","wbc clm",0,0,0,0
+"Other lab:800080518","wbc",0,0,0,0
+"Other lab:800218639","cultrfx",0,0,0,0
+"Other lab:800221194","aua glu",0,0,0,0.0452046851298581
+"Other lab:800221198","aua bld",0,0,0,0
+"Other lab:800221200","aua pro",0,0,0,0
+"Other lab:800221656","aua uro",0,0,0,1.07628265512724e-05
+"Other lab:800221658","aua le",0,0,0,0
+"Other lab:800225996","urobi",0,0,0,0.0141192036954136
+"Other lab:800226000","ur.glu",0,0,0,0
+"Other lab:800226001","ur.pro",0,0,0,0
+"Other lab:800226003","leu.ur",0,0,0,0
+"Other lab:800228474","pocuglu",0,0.0225484903145081,0,0.0442289110765498
+"Other lab:800228475","pocubil",0,0,0,1.01765027553766e-15
+"Other lab:800228478","pocubld",0,0,0,0
+"Other lab:800228480","pocuprt",0,4.44738991526675e-08,0,6.2562714847542e-06
+"Other lab:800228481","pocuest",0,0,0,9.91149382064087e-15
+"Other lab:800228522","pocubln",0,0,0,0
+"Other lab:800236027","ur. glucose",0,0,0,0
+"Other lab:800236030","ur blood",0,0,0,0
+"Other lab:800236032","ur protein",0,0,0,0
+"Other lab:800236033","urobilinogen",0,0,0,0
+"Other lab:800236035","ur leuk est.",0,0,0,0
+"PheCode:1090","acquired absence of organs",0,0,0,0.00082545423817302
+"PheCode:153.2","colon cancer",0,0,0,0
+"PheCode:153.3","malignant neoplasm of...anus",0.000414006985845476,0.000289375453083094,0.00285729679666464,0
+"PheCode:165.1","cancer of bronchus; lung",0,0,0,0
+"PheCode:175","acquired absence of breast",0,0,0.0120512849447894,0
+"PheCode:185","cancer of prostate",0.0463815620748261,0.0353167252162144,0.0253722327245331,0.0440245672637596
+"PheCode:187.1","malignant neoplasm of...organ",0.00913651833372486,0.00556468580293751,0.0574969314520424,0
+"PheCode:189.1","cancer of kidney and renal pelvis",0.0431881357861894,0.0392600409356133,0.0409333179056151,0.0127392059715319
+"PheCode:189.4","malignant neoplasm of other urinary organs",0.0891284144757648,0.0701288347366676,0.104615486652454,0.0664789592960836
+"PheCode:195.1","malignant neoplasm, other",0,0,0.0107004972249059,0
+"PheCode:196","radiotherapy",0.0110179478466072,0.0081243432886834,0.0241994266383862,0
+"PheCode:197","chemotherapy",0.00459775348985752,0.00622825195427566,-0.00361902535396957,0.00577199211888023
+"PheCode:198.1","secondary malignancy of lymph nodes",0.0198917560940294,0.0164852055188181,0.0171522475905523,0.00254405760612919
+"PheCode:198.2","secondary malignancy of respiratory organs",0.00082911137239652,0.00159808246106142,0,0.00277696617697924
+"PheCode:198.3","secondary malignant neoplasm of digestive systems",0,0,0,0
+"PheCode:198.4","secondary malignant neoplasm of liver",0,0,0.00154203651739899,0.00473643846529868
+"PheCode:198.6","secondary malignancy of bone",0.0147290673514581,0.0147476111235246,0.00799552736057002,0.0169024451892283
+"PheCode:223","benign neoplasm of kidney and other urinary organs",0.0451388650309354,0.0269888195226166,0.0644591338130059,0.0087206490809768
+"PheCode:289.4","lymphadenitis",0,0,0.0116289689465645,0
+"PheCode:442.1","aortic aneurysm",0,0,0,0
+"PheCode:514.2","solitary pulmonary nodule",0,0,0.0264749475492608,0
+"PheCode:559","ileostomy status",0.00903279343209631,0.00977515476326985,0.0374812942765766,0
+"PheCode:560.1","paralytic ileus",0,0,0.0292148448225632,0
+"PheCode:560.4","other intestinal obstruction",0,0,0.0228258129694543,0
+"PheCode:586.2","cyst of kidney, acquired",0,0,0.0168371951629196,0
+"PheCode:586.4","stricture/obstruction of ureter",0.0241821571693155,0.0187760557218713,0.0222587611693062,0.000567552380961903
+"PheCode:590","pyelonephritis",0.0128598692280228,0.00779611149850507,0.025511097947401,0
+"PheCode:591","urinary tract infection",0.0127674699947255,0.0261343439962832,0.0122326978899016,0.0316866124338962
+"PheCode:592.1","cystitis",0.0199458146282496,0.0202844853214501,0.0381250336832502,0
+"PheCode:592.3","urethral stricture due to infecton",0,0,0,0
+"PheCode:593.1","gross hematuria",0.0616562780656402,0.0815918263068921,0.0528104992569711,0.0837607093372096
+"PheCode:593.2","microscopic hematuria",0.00574257794375694,0.0114606098598481,0.0205976775816677,0.021534581108537
+"PheCode:594.1","calculus of kidney",0.00132154438009633,0.00768596183102924,0.000582249806153419,0.0205887255628457
+"PheCode:594.2","calculus of lower urinary tract",0,0,0.00920594619889884,0
+"PheCode:594.3","calculus of ureter",0,0,-0.0181850415586696,0
+"PheCode:595","hydronephrosis",0.0372211360986033,0.0462069180859325,0.026366316812223,0.0363685280896124
+"PheCode:596.1","bladder neck obstruction",0.0228566311634667,0.0105230259373649,0.0371109469977571,0
+"PheCode:596.5","functional disorders of bladder",0,0,0.00288884345476773,0
+"PheCode:597.1","urethral stricture not specified as infectious",0.0347288239720262,0.033798253499222,0.047891324805554,0.0259214041104673
+"PheCode:597.2","urinary complications nec",0.0120105854209635,0.00361518123936358,0.0506602220065337,0
+"PheCode:598.4","other cells and casts in urine",0.0431028222939697,0.0382211844676569,0.0798328728583545,0.00702749802036103
+"PheCode:598.9","other nonspecific findings on examination of urine",0,0,0,0.0133327059930041
+"PheCode:599.1","urinary obstruction",0.00496274581349167,0.00285474315456373,0.0263933730626975,0
+"PheCode:599.2","retention of urine",0.0245290453055861,0.031397016723606,0.00727723575949686,0.0321130354714947
+"PheCode:599.3","dysuria",0,0,0.0105012474322436,0.00135123786639968
+"PheCode:599.4","urinary incontinence",0,0,0,0
+"PheCode:599.5","frequency of urination and polyuria",0.00936050636671464,0.00752648698090132,0.00961980272771435,0.00219726936091139
+"PheCode:599.8","other symptoms involving urinary system",0,0,0.0246021463585087,0
+"PheCode:599.9","other abnormality of urination",0,0,0.0135345427056307,0
+"PheCode:600","hyperplasia of prostate",0.0253815956372177,0.0110110447725097,0.0218168343439261,0
+"PheCode:601.1","prostatitis",0,0,0,0
+"PheCode:604.1","redundant prepuce and phimosis/bxo",0,0,0,0
+"PheCode:751.3","obstructive genitourinary defect",0,0,0,0
+"PheCode:785","abdominal pain",0,0,0,0
+"PheCode:796","elevated prostate specific antigen [psa]",0.0150928374231336,0.00898483328452811,0.0164455756984152,0
+"PheCode:857","mechanical complication of...graft",0.00252768486806744,0.000852461315527346,0.0232108144587686,0
+"PheCode:941","adverse reaction to serum or vaccine",0,0,0,0
+"PheCode:990","effects radiation nos",0.000208175765789913,0.000552762743056573,0.0182172543712154,0
+"RXNORM:10829","trimethoprim",0.00920585207137646,0.000370477711285028,0.0716949491267174,0
+"RXNORM:11198","vinblastine",0.0221951087078157,0.0332387653639911,0.0424868836812071,0.0170772288721524
+"RXNORM:114202","lactate",0,0,0,0
+"RXNORM:119565","tolterodine",0,0,0.0285140919654884,0
+"RXNORM:12574","gemcitabine",0.0622190245033756,0.0594578288642543,0.0713597415199408,0.0499757964379492
+"RXNORM:1547545","pembrolizumab",0.000427514812394131,0.015043054437134,0,0.0193099936300973
+"RXNORM:17300","alfuzosin",0.00423211543156292,0.00102976596029685,0.0295485941296923,0
+"RXNORM:1731071","fosaprepitant",0.0228254346563944,0.0219718089430388,0.0258303177169622,0.020459499326657
+"RXNORM:214792","potassium chloride/sodium chloride",0,0,0.0339119889291006,0
+"RXNORM:2189","cefoxitin",0,0,0.0321927200695724,0
+"RXNORM:221050","bacillus calmette-guerin,tice vaccine",0.149949530364557,0.149210972594942,0.151140350498295,0.0816410350217437
+"RXNORM:227312","indigo carmine",0,0,0.0296242369812814,0
+"RXNORM:228790","dutasteride",0,0,0.0214317149801042,0
+"RXNORM:25025","finasteride",0,0,0.0145937825943877,0
+"RXNORM:2551","ciprofloxacin",0,0,0.0131260387639829,0
+"RXNORM:2555","cisplatin",0.0543198486890949,0.0462064262338922,0.0551581440914198,0.026295648387635
+"RXNORM:3002","cyclophosphamide",0,0,0.0149080354222781,0
+"RXNORM:316989","wafer",0,0,0,0.014554258436203
+"RXNORM:322167","solifenacin",0,0,0.0198771398532043,0
+"RXNORM:32638","oxiconazole",-1.77150327804763e-05,0.0305518989872765,0,0.0154822272885005
+"RXNORM:3264","dexamethasone",0,0,-0.00493404516583301,0
+"RXNORM:338036","pegfilgrastim",0,0,0.0100975668579663,0
+"RXNORM:358255","aprepitant",0,0,0,0
+"RXNORM:358263","tadalafil",0,0,0.0165434148128635,0
+"RXNORM:39541","vinorelbine",0.000676853138882083,1.01562129547721e-05,0.0479466276069429,0
+"RXNORM:40048","carboplatin",0.0049128932041029,0.00943161836905461,0,0
+"RXNORM:480639","alvimopan",0,0.00355276740582951,0,0.0182514189946563
+"RXNORM:54251","oxybutynin chloride",0,0,0.0220441393543369,0
+"RXNORM:56946","paclitaxel",0.000935140678789291,0.00091487184275689,0.0178087226104939,0
+"RXNORM:5880","interferon alfa-2b",0.000231524549959689,0.011606775066091,0,0
+"RXNORM:632","mitomycin",0.0783433814970468,0.0578851713022526,0.12696734102823,0.0437268024800782
+"RXNORM:6387","lidocaine",0,0,0.00168217241109963,0
+"RXNORM:6628","mannitol",0,0,0.031579841653041,0
+"RXNORM:68446","pemetrexed",0.000132084847573397,0.000703261414270419,0,0
+"RXNORM:6972","mineral oil",0,0,0.0318784513995998,0
+"RXNORM:7299","neomycin",0,0,0.0316338605924605,0
+"RXNORM:7454","nitrofurantoin",0,0,0.00824031952379772,0
+"RXNORM:76469","bcg, live, connaught strain",0,0.0378109271879826,0,0.0888576930001489
+"RXNORM:77492","tamsulosin",0,0,0.00866233524213204,0
+"RXNORM:7906","paraffin hydrocarbons",0,0,0,0
+"RXNORM:8120","phenazopyridine",0.0569238382473346,0.0384942950570765,0.0448708872377859,0
+"ShortName:Bilirubin Stick","bilirubin stick",0,0,0,0

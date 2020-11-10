@@ -1,0 +1,51 @@
+"Variable","Description","Integrative_Estimator_RPDR","Integrative_Estimator_VA","Local_Estimator_RPDR","Local_Estimator_VA"
+"CCS:169","debridement of wound, infection or burn",0,0,0.0631120309035128,0
+"CCS:173","other diagnostic procedures...tissue",0,0,0.01791519624371,0
+"CCS:19","other therapeutic procedures...cornea",0,0,0.0722518519254915,0
+"LOINC:1994-3","ionized calcium group:ic",0,0,0.0317839272501197,0
+"LOINC:2019-8","arterial pco2 group:apco2",0,0,0.0208975125541641,0
+"LOINC:2744-1","arterial ph group:aph",0,0,0.0289541343120092,0
+"LOINC:3151-8","fio2 group:fio2",0,0,0.0242938379339331,0
+"LOINC:5908-9","plts, giant group:pltgnt",0,0,0.0468437552771837,0
+"LOINC:740-1","metamyelocytes/100 leukocytes",0,0,0.0273994524663995,0
+"LOINC:749-2","myelocytes/100 leukocytes",0,0,0.0279355122808551,0
+"LOINC:7798-2","smudge cells",0,0,0.0431513290464733,0
+"LOINC:803-7","toxic granulation group:tgran",0,0,0.0344223355971467,0
+"Other lab:1200006707","segs",0,0,0,0
+"PheCode:038.1","gram negative septicemia",0,0,0.134356730648468,0
+"PheCode:038.3","bacteremia",0,0,0,0
+"PheCode:041.1","staphylococcus infections",0,0,0,0
+"PheCode:041.9","infection with drug-resistant microorganisms",0,0,0,0
+"PheCode:054","herpes simplex",0,0,0,0
+"PheCode:136","other infectious and parasitic diseases",0,0,0,0
+"PheCode:369.5","conjunctivitis, infectious",0,0,0.0972212835471268,0
+"PheCode:458.9","hypotension nos",0,0,0.0410310999138286,0
+"PheCode:509.2","respiratory insufficiency",0,0,0.0504851908256825,0
+"PheCode:528.1","stomatitis and mucositis",0,0,0.161525761198143,0
+"PheCode:574.3","cholecystitis without cholelithiasis",0,0,0,0
+"PheCode:681.5","cellulitis and abscess of leg, except foot",0,0,0,0
+"PheCode:687.1","rash and other nonspecific skin eruption",0,0,0.0460018465192937,0
+"PheCode:687.3","changes in skin texture",0,0,0.0349102004822385,0
+"PheCode:689","disorder of skin and subcutaneous tissue nos",0,0,0.0414211676182119,0
+"PheCode:695.2","bullous dermatoses",0,0,0,0
+"PheCode:695.8","other specified erythematous conditions",0,0,0,0
+"PheCode:702.4","degenerative skin disorders",0,0,0.213166942042355,0
+"PheCode:766","neuralgia, neuritis, and radiculitis nos",0,0,0.0732706302120539,0
+"PheCode:947","urticaria",0,0,0,0
+"PheCode:979","adverse drug events and drug allergies",0,0,0.0974863300199026,0
+"PheCode:994.2","sepsis",0,0,0.016486729600388,0
+"RXNORM:1007802","dextran 70/glycerin/hypromellos",0,0,0,0
+"RXNORM:10627","tobramycin",0,0,0,0
+"RXNORM:139462","moxifloxacin",0,0,0.0582081139612678,0
+"RXNORM:1514","betamethasone",0,0,0.067447255335898,0
+"RXNORM:2590","clobetasol",0,0,0.0222644726851948,0
+"RXNORM:3008","cyclosporine",0,0,0.0487530145145421,0
+"RXNORM:42372","mupirocin",0,0,0.0144565633660745,0
+"RXNORM:4491","fluorometholone",0.0697126555563532,0.00352167382063721,0.220384446005438,0
+"RXNORM:691286","mineral oil/petrolatum",0,0,0.0920232942615,0
+"RXNORM:73645","valacyclovir",0,0,0,0
+"RXNORM:7779","oxandrolone",0,0,0.0409086669398436,0
+"RXNORM:8091","petrolatum",0,0,0.0485675779036433,0
+"RXNORM:8570","polyvinyl alcohol",0,0,0.0284011625995843,0
+"RXNORM:8638","prednisolone",0,0,0.0119688281876386,0
+"RXNORM:883815","dexamethasone/tobramycin",0,0,0,0

@@ -1,0 +1,160 @@
+"Variable","Description","Integrative_Estimator_RPDR","Integrative_Estimator_VA","Local_Estimator_RPDR","Local_Estimator_VA"
+"CCS:227","other diagnostic procedures...consultation",0,0,-0.00155329251312355,0
+"LOINC:10466-1","anion gap 3",0,0,0.0128883821211117,0
+"LOINC:11043-7","cryofibrinogen group:cryofib",0,0,0.0181639819071552,0
+"LOINC:13347-0","rna polymerase abs group:rnapoly",0,0,0.104173077393807,0
+"LOINC:13956-8","mycobacteria dna group:mycob-dna",0,0,0.0117013053746936,0
+"LOINC:14117-6","igg index csf/ser group:iggi",0,0,-0.00592608367264618,0
+"LOINC:19048-8","nrbc% auto group:nrbc%",0,0,0.00522975427107024,0
+"LOINC:19071-0","phlebotomy therapeutic group:phleb-mls",0,0,0.058785469434704,0
+"LOINC:2000-8","calcium group:ca",0,0,0.0334070980099306,0
+"LOINC:2028-9","carbon dioxide group:co2",0,0,-0.083681912185139,0
+"LOINC:2075-0","chloride group:cl",0,0,0.0771462424447709,0
+"LOINC:21396-7","mononuclear cells, csf group:cmnuc",0,0,0.190081074673976,0
+"LOINC:21503-8","measles ab, igm group:rubem",0,0,-0.0229174587217497,0
+"LOINC:2160-0","creatinine group:cre",0,0,-0.013658049862538,0
+"LOINC:22293-5","ebv early ab group:ebveab",0,0,-0.0387497793792295,0
+"LOINC:22304-0","giardia abs group:giardab",0,0,-0.076489931798763,0
+"LOINC:27099-1","vitamin b2 group:vitb2",0,0,-0.174754279424813,0
+"LOINC:2823-3","potassium group:k",0,0,0.0277289121476621,0
+"LOINC:2951-2","sodium group:na",0,0,-0.0281519052481295,0
+"LOINC:3052-8","reverse t3 ng/dl group:revt3",0,0,0.0607058172565816,0
+"LOINC:3094-0","blood urea nitrogen group:bun",0,0,0.0108754167860279,0
+"LOINC:33914-3","gfr estimated group:gfr",0,0,0.00637343852197003,0
+"LOINC:34200-6","nrbc#, auto group:nrbca",0,0,-0.0527196955343719,0
+"LOINC:38483-4","creatinine, bld group:crebld",0,0,0.020623476285303,0
+"LOINC:43399-5","jak2 - v617f gene analysis group:v617f",0,0,-0.0919412171795228,0
+"LOINC:4544-3","hct group:hct",0,0,-0.00280035941003263,0
+"LOINC:56007-8","arachid induced 0.5 mm group:arach05",0,0,-0.040665188649707,0
+"LOINC:56008-6","collagen induced 1 ug/ml group:collag1",0,0,5.35897616258517e-14,0
+"LOINC:56009-4","collagen induced 5 ug/ml group:collag5",0,0,-5.47845727759929e-14,0
+"LOINC:58668-5","cortisol, pm specimen group:cortisol-pm",0,0,0.0195706077948101,0
+"LOINC:6690-2","wbc group:wbc",0,0,0.0229016583902508,0
+"LOINC:6777-7","glucose group:glu",0,0,-0.0214637958406475,0
+"LOINC:69048-7","interpretation immunology group:imm-int",0,0,0.00561375506850149,0
+"LOINC:7103-5","a. fumigatus ab, igg group:iggidx",0,0,0.114576976997267,0
+"LOINC:718-7","hgb group:hgb",0,0,-0.000510401688591441,0
+"LOINC:772-4","erythrocytes.nucleated",0,0,0.0414283888750554,0
+"LOINC:776-5","mean platelet volume group:mvp",0,0,0.0314702057322491,0
+"LOINC:777-3","plt group:plt",0,0,0.0393224718394608,0
+"LOINC:785-6","mch group:mch",0,0,0.0397625027723495,0
+"LOINC:786-4","mchc group:mchc",0,0,0.0449546662014007,0
+"LOINC:787-2","mcv group:mcv",0,0,-0.152859873629441,0
+"LOINC:788-0","rdw group:rdw",0,0,-0.0228742426852415,0
+"LOINC:789-8","erythrocytes",0,0,0.019964398846061,0
+"LOINC:X6030-1","phenytoin ug/dl group:diln",0,0,0.0180660445954358,0
+"Other lab:1000123315","ig%",0,0,0,0
+"Other lab:1000123316","ig abs",0,0,0,0
+"Other lab:1200008889","segs%",0,0,0,0
+"Other lab:1200008900","bands",0,0,0,0
+"Other lab:1200008916","baso%",0,0,0,0
+"Other lab:1200008918","myelo",0,0,0,0
+"Other lab:1200008921","plt.e",0,0,0,0
+"Other lab:1200008953","pco2",0,0,0,0
+"Other lab:1200017875","glu",0,0,0,0
+"Other lab:1200017876","protein",0,0,0,0
+"Other lab:1200017878","wbc/hpf",0,0,0,0
+"Other lab:1200017896","uric ac",0,0,0,0
+"Other lab:1200017911","tp",0,0,0,0
+"Other lab:1200018087","vancomy",0,0,0,0
+"Other lab:1200039749","ur. bld",0,0,0,0
+"Other lab:1200044318","segs#",0,0,0,0
+"Other lab:1200073927","nrbc#",0,0,0,0
+"Other lab:1200075331","urob",0,0,0,0
+"Other lab:1200075343","am crys",0,0,0,0
+"PheCode:031","diseases due to other mycobacteria",0,0,0,0
+"PheCode:222","benign neoplasm of male genital organs",0,0,-0.0240943537782294,0
+"PheCode:254","diseases of thymus gland",0,0,-0.0320645964557617,0
+"PheCode:261.3","vitamin c deficiencies",0,0,-0.000173026014487347,0
+"PheCode:446.1","thromboangiitis obliterans",0,0,-0.012308168838847,0
+"PheCode:496.1","emphysema",0,0,0,0
+"PheCode:496.2","chronic bronchitis",0,0,0,0
+"PheCode:526.8","exostosis of jaw",0,0,0.0291531366805253,0
+"PheCode:527.1","hypertrophy of salivary gland",0,0,0.0145725171113731,0
+"PheCode:592.3","urethral stricture due to infecton",0,0,0,0
+"PheCode:691.1","ichthyosis congenita",0,0,0.0230644986776092,0
+"PheCode:716.8","palindromic rheumatism",0,0,0.0250023654789788,0
+"RXNORM:1001472","dutasteride/tamsulosin",0,0,0.0479839272960885,0
+"RXNORM:1007809","magnesium sulfate/potassium sulfate/sodium sulfate",0,0,0,0
+"RXNORM:1008065","ferrous sulfate/folic acid",0,0,0.0251102273710245,0
+"RXNORM:1009015","amlodipine/olmesartan",0,0,-0.132554839939225,0
+"RXNORM:10636","tolmetin",0,0,0,0
+"RXNORM:106964","hydrocortisone/lidocaine",0,0,-0.00357660271052759,0
+"RXNORM:107011","nystatin/triamcinolone",0,0,0.1039881104966,0
+"RXNORM:10737","trazodone",0,0,0,0
+"RXNORM:108088","alclometasone",0,0,0.00103408331646804,0
+"RXNORM:108118","mometasone",0,0,0,0
+"RXNORM:1086769","vilazodone",0,0,-0.00596745050186423,0
+"RXNORM:1091836","roflumilast",0,0,-0.0583961858732774,0
+"RXNORM:1114883","curcuma",0,0,0.394419677402676,0
+"RXNORM:11359","lutein",0,0,0.188557761520107,0
+"RXNORM:125933","cranberry",0,0,0.0287574311553998,0
+"RXNORM:1291859","azelastine/fluticasone",0,0,-0.063804353260777,0
+"RXNORM:1303098","aclidinium",0,0,0.249211668109156,0
+"RXNORM:1421450","brimonidine/brinzolamide",0,0,0.0052627093515874,0
+"RXNORM:1424888","fluticasone/vilanterol",0,0,0.104833962276054,0
+"RXNORM:1455099","vortioxetine",0,0,0.0545009252956172,0
+"RXNORM:1487514","umeclidinium",0,0,0.136010136311759,0
+"RXNORM:1546887","abacavir/dolutegravir/lamivudine",0,0,0.0395637867066362,0
+"RXNORM:1658460","olodaterol/tiotropium",0,0,0,0
+"RXNORM:1841","butorphanol",0,0,0,0
+"RXNORM:18603","azelastine",0,0,0,0
+"RXNORM:18993","benzonatate",0,0,0,0
+"RXNORM:19685","bretylium",0,0,-0.0843784672843047,0
+"RXNORM:19831","budesonide",0,0,0,0
+"RXNORM:20012","cadexomer iodine",0,0,0.0280287106349212,0
+"RXNORM:214178","acetaminophen/butalbital",0,0,0.10885760139174,0
+"RXNORM:214181","acetaminophen/diphenhydramine",0,0,0.0202988948967349,0
+"RXNORM:214336","caffeine/ergotamine",0,0,0,0
+"RXNORM:214617","hydrochlorothiazide/irbesartan",0,0,0,0
+"RXNORM:215831","calcium citrate/vitamin d",0,0,0,0
+"RXNORM:216525","dexamethasone/neomycin/polymyxin b",0,0,0,0
+"RXNORM:237159","levalbuterol",0,0,0,0
+"RXNORM:2404","chlorpropamide",0,0,-0.081157971029331,0
+"RXNORM:24941","ferrous fumarate",0,0,-0.0144246795286853,0
+"RXNORM:2496","chromium",0,0,0.0113238053898366,0
+"RXNORM:25025","finasteride",0,0,0,0
+"RXNORM:25255","formoterol",0,0,0.017785597068829,0
+"RXNORM:259282","xenon,xe-133",0,0,0.0368094607911629,0
+"RXNORM:260101","oseltamivir",0,0,0,0
+"RXNORM:27712","invert sugar",0,0,0.0413380487247602,0
+"RXNORM:278567","valdecoxib",0,0,0.00779545595223081,0
+"RXNORM:279645","almotriptan",0,0,-0.0522004643089517,0
+"RXNORM:283810","bimatoprost",0,0,0,0
+"RXNORM:304962","arformoterol",0,0,0.185914478939473,0
+"RXNORM:324050","meningococcal b",0,0,0.0161497658216025,0
+"RXNORM:3355","diclofenac",0,0,0,0
+"RXNORM:3418","dihydroergotamine",0,0,0.0757593974870083,0
+"RXNORM:352381","glipizide/metformin",0,0,-0.00586399813018873,0
+"RXNORM:3626","domperidone",0,0,-0.130746402449837,0
+"RXNORM:36387","sennosides",0,0,0,0
+"RXNORM:36437","sertraline",0,0,0,0
+"RXNORM:38866","trolamine salicylate",0,0,0.00351494628921488,0
+"RXNORM:4110","ethambutol",0,0,0,0
+"RXNORM:4135","ethosuximide",0,0,0.0169797027455998,0
+"RXNORM:42463","pravastatin",0,0,0,0
+"RXNORM:4440","flavoxate",0,0,0.0332048231039782,0
+"RXNORM:4502","flurbiprofen",0,0,-0.0601484706054208,0
+"RXNORM:465711","ciprofloxacin/hydrocortisone",0,0,0,0
+"RXNORM:466522","diphenhydramine/zinc acetate",0,0,0.0696577197387018,0
+"RXNORM:5293","hexachlorophene",0,0,0.0817026816399665,0
+"RXNORM:591622","varenicline",0,0,0,0
+"RXNORM:596724","anagrelide",0,0,0.00592087713461822,0
+"RXNORM:6135","ketoconazole",0,0,0,0
+"RXNORM:616739","rotigotine",0,0,0.01793581237029,0
+"RXNORM:6387","lidocaine",0,0,0,0
+"RXNORM:645045","calamine/zinc oxide",0,0,0.0366204470529453,0
+"RXNORM:689953","polyethylene glycol 400/propylene glycol",0,0,0,0
+"RXNORM:690161","prednisolone/sulfacetamide",0,0,-0.0337637899297649,0
+"RXNORM:6932","miconazole",0,0,0,0
+"RXNORM:72257","interferon beta-1b",0,0,0.0251824027797875,0
+"RXNORM:7688","metaproterenol",0,0,0,0
+"RXNORM:787390","tapentadol",0,0,0.0187637445531227,0
+"RXNORM:794809","menthol/zinc oxide",0,0,0.233635298636049,0
+"RXNORM:8570","polyvinyl alcohol",0,0,0,0
+"RXNORM:8588","potassium",0,0,-0.0228929920288556,0
+"RXNORM:861634","pitavastatin",0,0,-0.0142044169933557,0
+"RXNORM:8754","propafenone",0,0,0,0
+"RXNORM:9384","rifampin",0,0,0,0
+"RXNORM:9800","sincalide",0,0,-0.0241678256053433,0
+"RXNORM:991743","alpha-1-proteinase inhibitor,human",0,0,0.051503146655125,0

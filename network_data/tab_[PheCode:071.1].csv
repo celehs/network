@@ -1,0 +1,404 @@
+"Variable","Description","Integrative_Estimator_RPDR","Integrative_Estimator_VA","Local_Estimator_RPDR","Local_Estimator_VA"
+"CCS:206","microscopic examination bacterial...toxicology",0,0,0,0
+"CCS:234","pathology",0.000454509407095154,0.00623279683004067,0,0
+"CCS:235","other laboratory",0.00330728429370345,0.00594842597092069,0,0
+"CCS:4","diagnostic spinal tap",0.0511670245774871,0.0122237890239108,0.0224208122406036,0
+"LOINC:11011-4","hcv viral load iu/ml group:hcvrnaq",0,0,0.0109246800087584,0
+"LOINC:11258-1","hepatitis b virus dna",0.0147686000991977,0.0132982209908778,0.00332117754615463,0
+"LOINC:11483-5","varicella dna, bld group:vzv-dna",0.0239070185482358,0,0.0287954610685086,0
+"LOINC:11597-2","treponemal abs group:ftab",0,0,0.019162925443214,0
+"LOINC:11598-0","toxoplasma gondii ab",0,0,0,0
+"LOINC:13287-8","toxoplasma gondii ab",0,0,0,0
+"LOINC:13303-3","hla a+b+c typing group:hlatype",0,0,0.0817641163601962,0
+"LOINC:13499-9","hiv 1 ab band pattern",0,0,0,0
+"LOINC:13949-3","cmv ab, igg group:cmvg",0,0,0.00452316982070423,0
+"LOINC:13950-1","hepatitis a virus ab.igm",0.00631575492076579,-0.000382173386757046,0.00527035181340306,0
+"LOINC:13951-9","hepatitis a virus ab",0.0139409130681685,0.00730713610060042,0.00394897995873545,0
+"LOINC:13952-7","hepatitis b virus core ab",0,0,0,0
+"LOINC:13953-5","hepatitis b virus little e ab",0.00162372128816023,0.00232699840234393,0,0
+"LOINC:13971-7","histoplasma ag, urine group:hcapua",0,0,0.0269302140882846,0
+"LOINC:14135-8","cells.cd3+cd8+",0.101816327500299,0.0604918990249432,0.0586805936605034,0.00530315835339419
+"LOINC:15196-9","cd3-cd19+ pct group:19+pct",0.0131707360138968,0,0.0581163818106745,0
+"LOINC:15396-5","toxoplasma ab, igg group:toxoigg",0.00243170342697139,0,0.0168433946228794,0
+"LOINC:16974-8","hiv 1 ab",0,0.00820802080178753,0,0.00901363695874254
+"LOINC:17822-8","cd3+cd4+% group:cd3ab",0.0607774148665262,0,0.0881360945719911,0
+"LOINC:17824-4","cd3+cd8+% group:cd3+cd8",0,0,6.66977163960461e-06,0
+"LOINC:1798-8","amylase",0,0,0,0
+"LOINC:1834-1","alpha-1-fetoprotein",0,0,0,0
+"LOINC:18348-3","toxoplasma gondii ab.igm",0,0,0,0
+"LOINC:20447-9","hiv 1 rna",0,0.0801719124662143,0,0.0894864773539252
+"LOINC:20507-0","reagin ab",0.0384351677853535,0.0439945537568743,0.0120924965292319,0.00759118696352118
+"LOINC:20781-1","cryptosporidium, stool group:crypto",0,0,0.0409662732387723,0
+"LOINC:21570-7","toxoplasma ab, igg group:toxoigg",0.000471714535329783,0,0,0
+"LOINC:21594-7","varicella abs group:vzv",0.01632637038251,0,0.00584539358985801,0
+"LOINC:21598-8","varicella dna, csf group:vzvdna-csf",0.0013493448110491,0,0.0287646579826836,0
+"LOINC:22322-2","hepatitis b virus surface ab",0,0,0,0
+"LOINC:22330-5","hepatitis d virus ab",0,0,0,0
+"LOINC:22459-2","reagin ab",0,0.0136884113719559,0,0
+"LOINC:22584-7","toxoplasma ab, igm group:toxom",0.0268105449250901,0,0.0997115354657171,0
+"LOINC:2357-2","g6pd assay group:g6pd",0,0,0.0150222647696598,0
+"LOINC:23858-4","ebv dna group:ebvdbld",0,0,0.00860069805182632,0
+"LOINC:24111-7","neisseria gonorrhoeae dna",0,0,0,0.0417525073546254
+"LOINC:24312-1","treponema pallidum ab",0,0,0,0
+"LOINC:24398-0","toxoplasma ab, igm group:toxom",0,0,2.49442910423137e-08,0
+"LOINC:24467-3","cells.cd3+cd4+",0,0.0160019723118802,0,0.187202440646422
+"LOINC:25835-0","hiv 1 rna",0,0,0,0.00858239840775276
+"LOINC:27071-0","cd45+abs group:cd45abs",0.0163449686191742,0,0.0436522631149755,0
+"LOINC:28059-4","7-aminoclonazepam group:7aclonzpm",0.0489205651217737,0,0.0375346165535419,0
+"LOINC:29533-7","cryptococcus ag group:crypto-ag",0,0,0.0263195064271278,0
+"LOINC:29541-0","hiv 1 rna",0,0.0103696635998382,0,0.0275687684093276
+"LOINC:29590-7","cmv dna qualitative group:cmvdnaq",0,0,0.0324845538356446,0
+"LOINC:29610-3","hbv dna group:hbvdna",0,0,0.0167227491569276,0
+"LOINC:29615-2","hepatitis b virus dna",0,0,0,0
+"LOINC:30158-0","toxoplasma gondii",0,0,0,0
+"LOINC:30268-7","zidovudine susceptibility group:zidovud",0.346425357566325,0,0.10225558058908,0
+"LOINC:30269-5","lamivudine/emtricitabine susceptibility group:lamivud...group:lamivud",3.54572780442788e-16,0,1.11476991200963e-14,0
+"LOINC:30270-3","didanosine susceptibility group:didanos",3.29835144597942e-17,0,0,0
+"LOINC:30272-9","stavudine susceptibility group:zerit",0.00027931638364482,0,2.46782669358734e-05,0
+"LOINC:30273-7","abacavir susceptibility group:abacav",0,0,0,0
+"LOINC:30275-2","nevirapine susceptibility group:nevirap",0,0,0,0
+"LOINC:30277-8","efavirenz susceptibility group:efavsus",0,0,0,0
+"LOINC:30278-6","indinavir susceptibility group:crixivan",0,0,0.0740648508927692,0
+"LOINC:30280-2","nelfinavir susceptibility group:nelfinvs",0,0,0.000143755112756103,0
+"LOINC:30554-0","rt genotyping for drug resistance group:rt",0,0,0,0
+"LOINC:31147-2","reagin ab",0,0.017482652368855,0,0
+"LOINC:31788-3","cryptococcus ag, csf group:crytcsf",0,0,0.0633055773662777,0
+"LOINC:31844-4","hepatitis b virus little e ag",0,0,0,0
+"LOINC:32286-7","hcv genotyping group:hcvgtyp",0,0,0.0281464262310261,0
+"LOINC:32363-4","jc pml virus dna group:jcdna",0,0,0.0643134381094881,0
+"LOINC:32532-4","cells.cd3+cd4+",0,0,0,0
+"LOINC:32533-2","cells.cd3+cd4+/100 cells",0,0,0,0
+"LOINC:32534-0","cells.cd3+cd8+",0,0,0,0
+"LOINC:32535-7","cells.cd3+cd8+/100 cells",0,0,0,0
+"LOINC:32537-3","cells.cd3+cd4+/cells.cd3+cd8+",0,0,0,0
+"LOINC:32686-8","hepatitis b virus dna",0,0,0,0
+"LOINC:33630-5","hiv protease gene mutations detected",0,0.0597704776588702,0,0.0907002608949097
+"LOINC:3413-2","buprenorphine group:bupnrp",0,0,0,0
+"LOINC:34644-5","tenofovir/viread susceptibility group:viread",0,0,1.47643234056202e-05,0
+"LOINC:3505-5","codeine group:codeine",0,0,0.0609887384606738,0
+"LOINC:3679-8","hydrocodone group:vicodn",0,0,0,0
+"LOINC:3682-2","hydromorphone group:hydromor",0,0,0,0
+"LOINC:3778-8","methamphetamine group:metham",0.0571706075821658,0,0.0480913591238388,0
+"LOINC:38180-6","hcv viral load log iu/ml group:hcvrna",0,0,0.0100552156764739,0
+"LOINC:3826-5","morphine group:morphn",0,0,0,0
+"LOINC:40459-0","hepatitis b virus dna",0,0,0,0
+"LOINC:41402-9","emtricitabine susceptability group:emtric",0,0,0.126733353707732,0
+"LOINC:41403-7","atazanavir susceptibility group:atazan",0,0,0.0321084567693982,0
+"LOINC:42000-0","lopinavir+ritonavir susceptibility group:kaleriton",0.000621256542398066,0,1.72582193529282e-05,0
+"LOINC:43304-5","chlamydia trachomatis rrna",0.0121224413549922,0.0215005331404772,0,0
+"LOINC:43305-2","gc rrna group:gcrrna",0,0,0.049571382783879,0
+"LOINC:43406-8","chlamydia trachomatis+neisseria gonorrhoeae dna",0,0,0,0
+"LOINC:43736-8","fosamprenavir susceptibility group:fosamp",0,0,1.30994769823376e-05,0
+"LOINC:48398-2","hepatitis b virus dna",0,0,0,0
+"LOINC:49618-2","atazanavir+ritonavir susceptibility group:atazriton...group:atazriton",1.96070584703678e-05,0,0,0
+"LOINC:49619-0","indinavir+ritonavir susceptibility group:crixriton",0,0,0,0
+"LOINC:49621-6","saquinavir+ritonavir susceptibility group:invirrito...group:invirrito",0,0,0,0
+"LOINC:49622-4","tipranavir+ritonavir susceptibility group:tiprrito",0,0,0,0
+"LOINC:49630-7","darunavir+ritonavir susceptibility group:darurito",0,0,0,0
+"LOINC:51409-1","fosamprenavir+ritonavir susceptibility group:fosarito...group:fosarito",0,0,0,0
+"LOINC:5196-1","hepatitis b virus surface ag",0,0,0,0
+"LOINC:52749-9","etravirine susceptibility group:etravsus",4.25482629613014e-05,0,4.05169097903864e-05,0
+"LOINC:5289-4","vdrl, csf group:vdrlcsf",0.00392722318509479,0,0.0509675912592057,0
+"LOINC:5292-8","reagin ab",0,0,0,0
+"LOINC:5388-4","toxoplasma gondii ab.igg",0,0,0,0
+"LOINC:5390-0","toxoplasma gondii ab.igm",0,0,0,0
+"LOINC:5393-4","treponema pallidum ab",0,0,0,0
+"LOINC:54218-3","cells.cd3+cd4+/cells.cd3+cd8+",0,0,0,0.00550374503651921
+"LOINC:57300-6","6-monoacetylmorphine, saliva group:6mam-sal",4.11369178080341e-05,0,0.000208700965370567,0
+"LOINC:57301-4","benzoylecgonine, saliva group:benzoyl-sal",1.68244213472766e-06,0,6.86489365948306e-07,0
+"LOINC:57304-8","codeine, saliva group:codeine-sal",0,0,0,0
+"LOINC:59593-4","7-aminoclonazepam, fluid group:7aclonzpm-fld",0.00101359614518232,0,0.00634520457157746,0
+"LOINC:59646-0","cotinine",0,0,0,0
+"LOINC:60255-7","neisseria gonorrhoeae rrna",0,0.000212279845135472,0,0
+"LOINC:6349-5","chlamydia trachomatis",0,0,0,0
+"LOINC:64084-7","mycobacterium tuberculosis stimulated...t-cells",-0.000803491201648752,0.00332101655727333,0,0
+"LOINC:6561-5","treponema pallidum ab.igg",0.0371578420499283,0.0173611103715163,0.0162215271614743,0
+"LOINC:68463-9","rilpivirine susceptibility group:rilpivir",0,0,0.0651296714250847,0
+"LOINC:698-1","neisseria gonorrhoeae",0,0,0,0
+"LOINC:71773-6","mycobacterium tuberculosis stimulated...interferon",0,0,0,0
+"LOINC:71774-4","mitogen stimulated gamma interferon",0,0,0,0
+"LOINC:71776-9","gamma interferon background",0,0,0,0
+"LOINC:72377-5","nordiazepam, saliva group:ddiaz-sal",0,0,0,0
+"LOINC:72378-3","oxazepam, saliva group:oxazep-sal",0,0,0,0
+"LOINC:72380-9","lorazepam, saliva group:lor-sal",0,0,0,0
+"LOINC:72381-7","alprazolam xanax, saliva group:alpraz-sal",0,0,0,0
+"LOINC:72388-2","methadone, saliva group:mthdn-sal",0,0,0,0
+"LOINC:72733-9","hydromorphone, saliva group:hydromor-sal",0,0,0,0
+"LOINC:72735-4","methamphetamine, saliva group:metham-sal",0,0,0,0
+"LOINC:72737-0","cocaine, saliva group:coke-sal",0,0,0,0
+"LOINC:72750-3","oxycodone, saliva group:oxcod-sal",0,0,0,0
+"LOINC:72752-9","morphine, saliva group:morphn-sal",0,0,0,0
+"LOINC:72753-7","hydrocodone, saliva group:vicodn-sal",0,0,0,0
+"LOINC:72758-6","amphetamine, saliva group:amphetmn-sal",0,0,0,0
+"LOINC:72762-8","buprenorphine, saliva group:bupnrp-sal",0,0,0,0
+"LOINC:74278-3","t spot group:tspot",0,0,0.0305213516632363,0
+"LOINC:80365-0","chlamydia trachomatis+neisseria gonorrhoeae rrna",0,0,0,0
+"LOINC:8101-8","cells.cd3+cd8+/100 cells",0.00337522095657392,0.00811876337985817,0.0363376499540357,0.0233581619212301
+"LOINC:8112-5","cells.cd3-cd16+cd56+/100 cells",0.0545917641663887,0.0131447173242308,0.0503239511841792,0
+"LOINC:8115-8","cd16% group:cd16",0,0,0.019104456082833,0
+"LOINC:8116-6","cells.cd19",0,0,0,0
+"LOINC:8117-4","cells.cd19/100 cells",0.00223577135401119,0.00136703264298889,0.00428884299886459,0
+"LOINC:8122-4","cells.cd3",0.0761372312896362,0.0085740234675528,0.0745532444824342,0
+"LOINC:8123-2","cells.cd3+cd4+/100 cells",0.0523420722225031,0.144642031620094,8.78192359503724e-05,0.0358800755744044
+"LOINC:8124-0","cells.cd3/100 cells",0.0660634867731649,0.0227417971183272,0.0841033409355981,0
+"LOINC:8127-3","cd3+cd4+ abs group:4+abs",0,0,1.52937866209724e-05,0
+"LOINC:8128-1","cd4&#37 group:cd4pct",0,0,0.00345154481252224,0
+"LOINC:8129-9","cd4+:cd8+ratio group:t4:t8",0.0578821489806047,0,0.0860670067103251,0
+"LOINC:8138-0","cd8 group:cd8",0,0,0,0
+"LOINC:82306-2","chlamydia trachomatis rrna",0,0,0,0.000761709417388251
+"LOINC:9571-1","parvovirus b19 dna qual group:pvdna",0,0,0.023545937087603,0
+"LOINC:9728-7","cells.cd3-cd16+cd56+",0,0,0,0
+"LOINC:9741-0","toxoplasma gondii ab.igg",0,0,0,0.0057745605105324
+"LOINC:X8001-0","t cell subsets group:t-cell",0,0,0.0333233915569737,0
+"Other lab:1000005469","wbc,tot",0,0,0,0
+"Other lab:1000013731","protein",0,0,0,0
+"Other lab:1000019298","hel/sup",0,0,0,0
+"Other lab:1000026770","t lymph",0,0,0,0
+"Other lab:1000029136","supp-t#",0,0,0,0
+"Other lab:1000047975","cd19",0,0,0,0
+"Other lab:1000049637","hcv vl",0,0,0,0
+"Other lab:1000057021","uric ac",0,0,0,0
+"Other lab:1000066087","cd56",0,0,0,0
+"Other lab:1000066655","t-c ag",0,0,0,0
+"Other lab:1200002163","atyp-ly",0,0,0,0
+"Other lab:1200002648","segs",0,0,0,0
+"Other lab:1200002659","bands",0,0,0,0
+"Other lab:1200002686","urobili",0,0,0,0
+"Other lab:1200002690","glu",0,0,0,0
+"Other lab:1200002691","protein",0,0,0,0
+"Other lab:1200002703","baso",0,0,0,0
+"Other lab:1200002713","uric ac",0,0,0,0
+"Other lab:1200002714","meta",0,0,0,0
+"Other lab:1200002726","ca",0,0,0,0
+"Other lab:1200002728","uric ac",0,0,0,0
+"Other lab:1200002730","protein",0,0,0,0
+"Other lab:1200002760","barbs",0,0,0,0
+"Other lab:1200002897","aty lym",0,0,0,0
+"Other lab:1200006628","rea lym",0,0,0,0
+"Other lab:1200006697","retic",0,0,0,0
+"Other lab:1200006707","segs",0,0,0,0
+"Other lab:1200006718","bands",0,0,0,0
+"Other lab:1200006734","baso",0,0,0,0
+"Other lab:1200006739","platest",0,0,0,0
+"Other lab:1200013880","glob",0,0,0,0
+"Other lab:1200017417","ca",0,0,0,0
+"Other lab:1200017419","uric ac",0,0.00226148905778822,0,0
+"Other lab:1200017421","protein",0,0,0,0
+"Other lab:1200017545","uibc",0,0,0,0
+"Other lab:1200017571","atypica",0,0,0,0
+"Other lab:1200022608","a/g",0,0,0,0
+"Other lab:1200022658","ur. bld",0,0,0,0
+"Other lab:1200022685","leu ase",0,0,0,0
+"Other lab:1200022771","ldl/hdl",0,0,0,0
+"Other lab:1200022808","opiates",0,0,0,0
+"Other lab:1200032639","cd3/cmm",0,0,0,0
+"Other lab:1200041451","vldl chcalc",0,0,0,0
+"Other lab:1200041821","cd3 %",0,0,0,0
+"Other lab:1200041955","b-cells",0,0,0,0
+"Other lab:1200043285","barbs",0,0.00157623723310887,0,0
+"Other lab:1200043620","neutro%",0,0,0,0
+"Other lab:1200044546","ur.glu",0,0,0,0
+"Other lab:1200048029","t-cells",0,0,0,0
+"Other lab:1200051081","anatitr",0,0,0,0
+"Other lab:1200052233","cd45",0,0,0,0
+"Other lab:1200053450","urobili",0,0,0,0
+"Other lab:1200054169","testost",0,0,0,0
+"Other lab:1200055754","cd4/cd8",0,0,0,0
+"Other lab:1200056968","ur.bld",0,0,0,0
+"Other lab:1200057436","ahcv",0,0.00081579638547091,0,0
+"Other lab:1200058043","cd8 abs",0,0,0,0
+"Other lab:1200058835","cd45%",0,0,0,0
+"Other lab:1200058955","cd3",0,0,0,0
+"Other lab:1200059125","oxyc",0,0,0,0
+"Other lab:1200059190","ur.prot",0,0,0,0
+"Other lab:1200059889","baso%",0,0,0,0
+"Other lab:1200059984","cd8",0,0,0,0
+"Other lab:1200060777","anascr",0,0,0,0
+"Other lab:1200060852","cd3 abs",0,0,0,0
+"Other lab:1200062848","nkcells",0,0,0,0
+"Other lab:1200066626","tot cd8",0,0,0,0
+"Other lab:1200066706","cd3%",0,0.00852200875635155,0,0
+"Other lab:1200067721","cd8 %",0,0,0,0
+"Other lab:1200068940","cd4/cd8",0,0,0,0
+"Other lab:1200069538","cd3",0,8.09523510367383e-16,0,0
+"Other lab:1200070678","rprttr",0,0,0,0
+"Other lab:1200071849","testfr",0,0,0,0
+"Other lab:1200073614","bun/cr",0,0,0,0
+"Other lab:1200081918","tsto",0,0,0,0
+"Other lab:1200098375","barb",0,0,0,0
+"Other lab:1200104081","rbc clp",0,0,0,0
+"Other lab:1200104135","non-sqm",0,0,0,0
+"Other lab:1200104909","epi cst",0,0,0,0
+"Other lab:1200106812","artft",0,0,0,0
+"Other lab:1200107055","ur fat",0,0,0,0
+"Other lab:1200107190","wbc clp",0,0,0,0
+"Other lab:1200123413","uds creat",0,0,0,0
+"Other lab:1400000146","tpr",0,0,0,0
+"Other lab:1400000171","ur. bld",0,0,0,0
+"Other lab:1400000598","bands %",0,0,0,0
+"Other lab:1400000600","seg %",0,0,0,0
+"Other lab:1400003574","testos",0,0,0,0
+"Other lab:1400009577","occbld2",0,0,0,0
+"Other lab:1400009992","hcv-eci",0,0,0,0
+"Other lab:1400013490","plt.e",0,0,0,0
+"Other lab:1400013990","leu ase",0,0,0,0
+"Other lab:1400015953","barbit",0,0,0,0
+"Other lab:1400018710","protein",0,0,0,0
+"Other lab:1400020651","summ",0,0,0,0
+"Other lab:1400021783","prot",0,0,0,0
+"Other lab:1400021789","urobili",0,0,0,0
+"Other lab:1400024493","u-alb",0,0,0,0
+"Other lab:1400024761","ur.glu",0,0,0,0
+"Other lab:1400024899","testost",0,0,0,0
+"Other lab:1400028891","glu",0,0,0,0
+"Other lab:1400030289","hcv",0,0,0,0
+"Other lab:1400033543","leu ase",0,0,0,0
+"Other lab:1400036473","protein",0,0,0,0
+"Other lab:1400036675","cho/hdl",0,0,0,0
+"Other lab:1400038184","uric ac",0,0,0,0
+"Other lab:1400039564","mo #",0,0,0,0
+"Other lab:1400043418","cd8%",0,0,0,0
+"Other lab:1400044818","baso,ab",0,0,0,0
+"Other lab:1400045001","baso %",0,0,0,0
+"Other lab:1400045634","at lym%",0,0,0,0
+"Other lab:1400045862","urobili",0,0,0,0
+"Other lab:1400047324","tot prt",0,0,0,0
+"Other lab:1400047954","occbld1",0,0.00219884618578089,0,0
+"Other lab:1400049273","barbs",0,0,0,0
+"Other lab:1400049547","cd3%",0,0,0,0
+"Other lab:1400050837","occbld3",0,0,0,0
+"Other lab:1400051991","ur. bld",0,0,0,0
+"Other lab:1400052404","ly%",0,0,0,0
+"Other lab:1400056024","mo%",0,0,0,0
+"Other lab:1400056510","u-barb",0,0,0,0
+"Other lab:1400056512","ba %",0,0,0,0
+"Other lab:1400057639","balt",0,0,0,0
+"Other lab:1400057983","barbs",0,0,0,0
+"Other lab:1400058174","ba #",0,0,0,0
+"Other lab:1400060012","baso.%",0,0,0,0
+"Other lab:1400061441","ly #",0,0,0,0
+"Other lab:1400061717","segs",0,0,0,0
+"Other lab:1400065032","bilirub",0,0,0,0
+"Other lab:1400065240","lymph %",0,0,0,0
+"Other lab:1400068021","rt indx",0,0,0,0
+"Other lab:1400071829","dau crt",0,0,0,0
+"Other lab:1400072986","bands",0,0,0,0
+"Other lab:1400073798","difscan",0,0,0,0
+"Other lab:1400076785","ana",0,0,0,0
+"Other lab:1400079132","barbs",0,0,0,0
+"Other lab:1400575146","fit 1/1",0,0,0,0
+"Other lab:800027828","cd4/cd8",0,0,0,0
+"Other lab:800038306","cd4:cd8",0,0,0,0
+"Other lab:800052146","cd3#",0,0,0,0
+"Other lab:800055044","cd3%",0,0,0,0
+"Other lab:800064948","protein",0,0,0,0
+"Other lab:800066588","tp",0,0,0,0
+"Other lab:800068759","glucose",0,0,0,0
+"Other lab:800069002","t supp%",0,0,0,0
+"Other lab:800069135","barbs",0,0,0,0
+"Other lab:800069167","hep c",0,0,0,0
+"Other lab:800072910","testost",0,0,0,0
+"Other lab:800078329","blood",0,0,0,0
+"Other lab:800080856","microsc",0,0,0,0
+"Other lab:800081047","leu ase",0,0,0,0
+"Other lab:800081050","t suppr",0,0,0,0
+"Other lab:800081492","h/s t c",0,0,0,0
+"Other lab:800081546","urobili",0,0,0,0
+"PheCode:008.7","intestinal infection due to protozoa",0.00281629991012556,0.00673138113416658,0,0
+"PheCode:010","tuberculosis",0.0154063526375364,0.00528282581488097,0.0256352962973426,0
+"PheCode:031","diseases due to other mycobacteria",0.0442468332961639,0.0107660518217808,0.0331552496863788,0
+"PheCode:053.1","herpes zoster with nervous system complications",0,0,0,0
+"PheCode:054","herpes simplex",0.0163211747115597,0.0134298701465524,0.0504115197743645,0
+"PheCode:070.1","viral hepatitis a",0,0,0,0
+"PheCode:070.2","viral hepatitis b",0.0316188042335418,0.0310258656663836,0.0406038604207312,0
+"PheCode:070.3","viral hepatitis c",0.0750407040026547,0.0429240148453135,0.0477527978903976,0
+"PheCode:070.9","hepatitis nos",0,0,0,0
+"PheCode:078","viral warts & hpv",0.0157425098763442,0.0132683839889408,0.039194606902944,0
+"PheCode:079.1","varicella infection",-0.000272461184188907,0.00153444528436042,0,0
+"PheCode:090.2","gonococcal infections",0.000228251345243573,0.00327900893493212,0,0
+"PheCode:090.3","venereal diseases due to chlamydia trachomatis",0.000523074999835548,0.00575078042944458,0,0
+"PheCode:1010.5","potential health hazards...diseases",0,0,0,0
+"PheCode:117.1","histoplasmosis",0,0,0,0
+"PheCode:131","protozoan infection",0.0708680505197074,0.014369481201162,0.0847684484340701,0
+"PheCode:230","kaposi's sarcoma",0.0343766069304291,0.018403456957846,0.052296033222168,0
+"PheCode:257.1","testicular hypofunction",0.0319837382719546,0.0195915104554426,0.0206313498749036,0
+"PheCode:260.1","cachexia",0.0164476771777968,0.00758785003497131,0.0347352042194985,0
+"PheCode:277.5","other disorders of lipoid metabolism",0,0,0.0330780490405557,0
+"PheCode:282.9","other hereditary hemolytic anemias",0.0279022701928457,0.0116869356389072,0.0563377307563247,0
+"PheCode:283.2","non-autoimmune hemolytic anemias",0,0,0,0
+"PheCode:287.4","qualitative platelet defects",0.026512068129488,0.000220320102288561,0.0517297221284563,0
+"PheCode:288.1","decreased white blood cell count",0,0,0,0
+"PheCode:289.4","lymphadenitis",0.0230148098001361,0.0122677492042533,0.0257464748769059,0
+"PheCode:320","meningitis",0.0187609204975144,0.0144577731684715,0.00969426687402102,0
+"PheCode:324","other cns infection and poliomyelitis",0,0,0.0248561585361895,0
+"PheCode:337.1","peripheral autonomic neuropathy",0.00960379207241618,0.00151883291384267,0.0462873420440187,0
+"PheCode:368.9","subjective visual disturbances",0.0141290946384533,0.00194915816755348,0.0571514975425165,0
+"PheCode:371.1","uveitis, noninfectious or nos",0.0281392281835061,0.0113807332638011,0,0
+"PheCode:480.3","pneumonia due to fungus mycoses",0.0376430296956377,0.015552356084598,0.0570970980372358,0
+"PheCode:561.1","diarrhea",0,0,0,0
+"PheCode:704.8","other specified diseases...follicles",0,0,0,0
+"PheCode:723.1","torticollis",0.054702742468919,0.00721716722878582,0.0785648444800095,0
+"PheCode:733.4","aseptic necrosis of bone",0,0,0,0
+"PheCode:780","hypothermia/chills",0,0,0.0361319076885517,0
+"RXNORM:10171","sulfadiazine",0,0,0,0
+"RXNORM:10402","dronabinol",0,0,0,0
+"RXNORM:10831","sulfamethoxazole/trimethoprim",0,0,0.0148430276437761,0
+"RXNORM:1102270","rilpivirine",0,0,0,0
+"RXNORM:11413","zidovudine",0.0648332764392713,0.0144338517256939,0.0877091661340502,0.00142269196792384
+"RXNORM:114289","indinavir",0,0,0,0
+"RXNORM:117466","tenofovir",0.0224862281291085,0.0216752290479213,0.048430863628267,0.0390456250482961
+"RXNORM:134527","nelfinavir",0.0978833862054003,0.0373469238228063,0.123420840103926,0.00312882599837119
+"RXNORM:139896","enfuvirtide",0,0,0,0
+"RXNORM:1433868","dolutegravir",0.0322666739600681,0.044128206437497,0.0499627035900409,0.0170527537563584
+"RXNORM:1546887","abacavir/dolutegravir/lamivudine",0.113292436253349,0.0508167884678736,0.165123240307086,0.00657111604438558
+"RXNORM:1598380","cobicistat/darunavir",0,0.00911251757898486,0,0
+"RXNORM:18631","azithromycin",0.00421335741911469,0.00418360511086966,0.0141509255227789,0
+"RXNORM:190521","abacavir",0.0262732007790541,0.0225280959068624,0.0431465914983142,0.0224573804068318
+"RXNORM:190548","tipranavir",0,0,0,0
+"RXNORM:195085","efavirenz",0.0514111380028459,0.0377054663724413,0.0667379569207346,0.00424210320285168
+"RXNORM:21212","clarithromycin",0,0,0,0
+"RXNORM:214671","lamivudine/zidovudine",0.0495565505140697,0.0422633674797803,0.075328346841205,0.0424575153293545
+"RXNORM:225852","calcium folinate",0,0,0,0
+"RXNORM:275891","valganciclovir",0,0,0,0
+"RXNORM:276237","emtricitabine",0.0239584581576095,0.00648221769635038,0.0502799771615114,0
+"RXNORM:28031","itraconazole",0,0,0,0
+"RXNORM:281","acyclovir",0.00418665590104921,0.00325416603823374,0,0
+"RXNORM:284620","abacavir/lamivudine/zidovudine",0.0799937680478204,0.0232086870410478,0.135173498223389,0
+"RXNORM:284640","lopinavir/ritonavir",0.0533191714000251,0.0227365548543727,0.0355222998755223,0.00565741573338945
+"RXNORM:306674","vardenafil",0,0,0,0
+"RXNORM:3108","dapsone",0.0212234936213525,0.0161264190862625,0.0384579075372858,0
+"RXNORM:31819","nitazoxanide",0,0,0,0
+"RXNORM:3288","dextroamphetamine",0.0275268300532661,0.00114647888048655,0.0521913083476956,0
+"RXNORM:3364","didanosine",0.076906009881917,0.0266939232776057,0.128140892682277,0
+"RXNORM:343047","atazanavir",0.0250735571899018,0.0129105763160986,0.0344662420527264,0
+"RXNORM:352364","buprenorphine/naloxone",0.0127043522988561,0.00304912393789239,0.0228249088991268,0
+"RXNORM:358262","fosamprenavir",0.0623657167259315,0.0187330785297645,0.115692137910023,0
+"RXNORM:4110","ethambutol",0.0615403664796631,0.00638575672844424,0.0670955349807396,0
+"RXNORM:430","albendazole",0,0,0,0
+"RXNORM:4450","fluconazole",0,0,0,0
+"RXNORM:4451","flucytosine",0,0,0,0
+"RXNORM:460132","darunavir",0.0446699626209746,0.0333186238801341,0.0415947357815833,0.00117083685946604
+"RXNORM:475969","etravirine",0.0513123808944041,0.020781933908495,0.0743131514165435,0
+"RXNORM:53654","nevirapine",0.0505177607682599,0.0224762406202983,0.10219490263306,0.00963641452898946
+"RXNORM:55672","rifabutin",0.043143464106246,0.00819623915439575,0.101776706767013,0
+"RXNORM:59763","stavudine d4t",0.0657218423019956,0.0484780410543319,0.0690008859525046,0.0238329908332925
+"RXNORM:60212","atovaquone",0.0199120676665255,0.0269213083213208,0.0194399421447255,0.0064531021202621
+"RXNORM:6038","isoniazid",0,0,0.00966507291742637,0
+"RXNORM:614534","abacavir/lamivudine",0.0434063374367375,0.0164394539376602,0.0735502829412723,0.0206661222458642
+"RXNORM:620216","maraviroc",0,0,0,0
+"RXNORM:68099","famciclovir",0,0,0,0
+"RXNORM:6813","methadone",0.000665774088302721,0.000164838702130038,0.0299745931792269,0
+"RXNORM:68244","lamivudine",0.0542489290747589,0.0418099464841,0.0541314378210817,0.0460535336698674
+"RXNORM:719872","raltegravir",0.0460141599497101,0.0352651150880572,0.0275222278513815,0.01341098160381
+"RXNORM:73645","valacyclovir",0.00677806200864641,0.0142855928962907,0.0119785176938121,0
+"RXNORM:7407","nicotine",0,0,0.00426470924371713,0
+"RXNORM:7980","penicillin g",0,0,0,0
+"RXNORM:7995","pentamidine isethionate",0,0,0,0
+"RXNORM:83395","saquinavir",0,0,0,0
+"RXNORM:83816","delavirdine",-0.000154307816663234,0.000856787375352743,0,0
+"RXNORM:8463","podofilox",0,0,0,0
+"RXNORM:85762","ritonavir",0.096141370237869,0.06541326935022,0.0932999699853287,0.0489316908438459
+"RXNORM:8687","primaquine",0,0,0,0
+"RXNORM:8987","pyrazinamide",0,0,0,0
+"RXNORM:9010","pyrimethamine",0,0,0,0
+"ShortName:HCV - RNA VL","hcv - rna vl",0,0,0,0

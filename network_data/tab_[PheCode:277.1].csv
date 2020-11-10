@@ -1,0 +1,32 @@
+"Variable","Description","Integrative_Estimator_RPDR","Integrative_Estimator_VA","Local_Estimator_RPDR","Local_Estimator_VA"
+"CCS:173","other diagnostic procedures...tissue",0,0,0,0.0632853933709898
+"LOINC:11225-0","porphyrins, urine group:uporph",0,0,0,0
+"LOINC:1834-1","alpha-1-fetoprotein",0,0,0,0.0345134428936443
+"LOINC:2276-4","ferritin group:fer",0,0,0,0
+"LOINC:2498-4","iron",0,0,0,0
+"LOINC:3167-4","specimen volume",0,0,0,0
+"Other lab:1200030795","tp",0,0,0,0.0503579155578311
+"Other lab:1200127027","rdwsd",0,0,0,0.0534861328395268
+"PheCode:070.3","viral hepatitis c",0,0,0,0.0652701709978298
+"PheCode:155.1","malignant neoplasm of liver, primary",0,0,0,0.0571631997941315
+"PheCode:200.1","polycythemia vera",0,0,0,0.0704633406424613
+"PheCode:275.1","disorders of iron metabolism",0.00124652698784307,0.0523678535081116,0,0.124490954778918
+"PheCode:289.8","polycythemia, secondary",0.000156100816343175,0.00195623419271116,0,0.0895942722991447
+"PheCode:290.1","dementias",0,0,0,0.0573048149734757
+"PheCode:295.2","paranoid disorders",0,0,0,0.0629575866189122
+"PheCode:296.1","bipolar",0,0,0,0
+"PheCode:300.1","anxiety disorder",0,0,0,0
+"PheCode:357","inflammatory and toxic neuropathy",0,0,0,0
+"PheCode:509.1","respiratory failure",0,0,0,0
+"PheCode:571.5","other chronic nonalcoholic liver disease",0,0,0,0.0350364557621943
+"PheCode:695.2","bullous dermatoses",0,0,0,0.0994722536771953
+"PheCode:785","abdominal pain",0,0,0,0
+"PheCode:804","fracture of hand or wrist",0,0,0,0.0844500358101511
+"RXNORM:1591942","ledipasvir/sofosbuvir",0,0,0,0.0693647875957395
+"RXNORM:21090","ciclopirox",0,0,0,0.0918656095959022
+"RXNORM:258337","hydrochlorothiazide/triamterene",0,0,0,0.0650229330786322
+"RXNORM:37801","terbinafine",0,0,0,0.0721930009711291
+"RXNORM:9344","ribavirin",0,0,0,0.0549118885319132
+"ShortName:Ferritin","ferritin",0,0,0,0.0671923170447882
+"ShortName:HCV - Genotype","hcv - genotype",0,0,0,0.0438692280974705
+"ShortName:HCV - RNA VL","hcv - rna vl",0,0,0,0.0185771588980377

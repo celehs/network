@@ -1,0 +1,441 @@
+"Variable","Description","Integrative_Estimator_RPDR","Integrative_Estimator_VA","Local_Estimator_RPDR","Local_Estimator_VA"
+"CCS:222","blood transfusion",0.0367672608549727,0.101145311164599,0.0352149684075263,0.0791671900016487
+"CCS:224","cancer chemotherapy",0.00970476307477721,0.0415766985405678,0,0.0230442241049836
+"CCS:63","other non-or therapeutic cardiovascular procedures",0.00269714109461918,0.00666163911845488,0.0111556252791029,0
+"CCS:64","bone marrow transplant",0,0,-0.000705892961618353,0
+"CCS:65","bone marrow biopsy",0.0452350070841183,0.0683674570733393,0.00785755350672229,0.0620710133073949
+"LOINC:10355-6","wright stain group:ws-bma",0,0,0.0431664328517744,0
+"LOINC:10374-7","helmet cells",0,0,0,0
+"LOINC:10378-8","polychromasia",0,0,0.00485683870966721,0
+"LOINC:10381-2","target cells",0,0,0.01308670792014,0
+"LOINC:11253-2","tacrolimus",0.00215523930474309,-0.000649805643919228,0.0186484504934156,0
+"LOINC:11274-8","elliptocytes",0.102034477927687,0.0192358288887341,0.0980707455303138,0
+"LOINC:11282-1","total cells counted group:tcnt",0,0,0.000934594211036509,0
+"LOINC:13047-6","plasma cells % group:pcell",0,0,0.010446615954912,0
+"LOINC:13513-7","iron stain group:fe-bma",0,0,0.0821591193930323,0
+"LOINC:13599-6","promonocytes - manual group:promon",0,0,0.0145245610905189,0
+"LOINC:13971-7","histoplasma ag, urine group:hcapua",0,0,0.0130669517214392,0
+"LOINC:14196-0","reticulocytes",0.00241421717021766,0.0172851369559825,0,0
+"LOINC:15061-5","erythropoietin",0.0251373819896322,0.0315819240981988,0.0775464722759378,0.0130601921842219
+"LOINC:16279-2","toxoplasma dna group:toxodna",0,0,0.0423075776018329,0
+"LOINC:18319-4","neutrophils, vacuolated group:vacuol",0,0,0.011431301088595,0
+"LOINC:20781-1","cryptosporidium, stool group:crypto",0,0,0.0162185979345165,0
+"LOINC:21055-9","adenovirus dna group:adenodna",0,0,0.0314102395279663,0
+"LOINC:22080-6","adenovirus ab group:adenotr",0,0,0.0235866197915106,0
+"LOINC:23858-4","ebv dna group:ebvdbld",0,0,0.0156285904328597,0
+"LOINC:2458-8","iga",0,0,0,0
+"LOINC:2465-3","igg",0.0298831619897403,0.0261666345889502,0.0310460629788293,0
+"LOINC:2472-9","igm",0,0,0,0
+"LOINC:2532-0","lactate dehydrogenase",0,0,-0.00957435231389446,0
+"LOINC:26484-6","abs monos group:amons",0,0,0.00364010600767624,0
+"LOINC:26511-6","neutrophils group:neut",0,0,0.00179390246956484,0
+"LOINC:29247-4","sirolimus",0.100686769632142,-0.00820868980141675,0.0632997420360359,0
+"LOINC:29495-9","hhv 6 dna group:hhv6-dna",0,0,0.023949664309256,0
+"LOINC:29533-7","cryptococcus ag group:crypto-ag",0,0,0.0133150290059843,0
+"LOINC:29590-7","cmv dna qualitative group:cmvdnaq",0,0,0.0169681894013885,0
+"LOINC:30247-1","cmv viral load dna- copies/ml group:cmvdnac",0,0,0.0345560683448905,0
+"LOINC:3084-1","uric acid group:uric",0,0,-0.00806555717639292,0
+"LOINC:32146-3","plts, large group:pltlge",0,0,-0.00247964764056663,0
+"LOINC:32284-2","bkv dna group:bkv-dna",0,0,0.00220311636813153,0
+"LOINC:32585-2","ebv dna copies/ml group:ebv-vload",0.0143802905423819,0,0.0473911444241928,0
+"LOINC:33363-3","normocytic",0,0.0141928933821153,0,0
+"LOINC:33364-1","normochromic",0,0.00133356474700083,0,0.0110874525125047
+"LOINC:34720-3","cmv dna iu/ml group:cmv-dna_iu",0.0334729078361878,0,0.035917214372426,0
+"LOINC:3520-4","cyclosporine",0,0,0,0
+"LOINC:35383-9","galactomannan ag",0,0,0.00887238973800947,0
+"LOINC:38370-3","voriconazole group:vfend",0,0,0.00752806287968702,0
+"LOINC:38400-8","parainfluenza 1-3 abs group:para1-3abs",0,0,0.00879105218994855,0
+"LOINC:40979-7","hmpv ag group:hmpv-ag",0,0,0.00429257885164063,0
+"LOINC:42176-8","1,3 beta glucan group:1-3bgluc",0,0,0.0161241647976435,0
+"LOINC:42250-1","lymphs, atypical auto group:atypl",0,0,0.00760879414791531,0
+"LOINC:43743-4","lymph#, atypical auto group:aatyp",0,0,0.00627951451389985,0
+"LOINC:4542-7","haptoglobin",0,0,0,0
+"LOINC:4679-7","reticulocytes/100 erythrocytes",0,0,0,0
+"LOINC:47410-6","hhv 6 genotype group:hhv6-geno",0,0,0.0214130569835755,0
+"LOINC:49564-8","ebv band pattern group:ebvband",0,0,0.0247232581186818,0
+"LOINC:5869-3","parainfluenza 1 ag group:para1",0,0,0.00990429238444081,0
+"LOINC:5908-9","plts, giant group:pltgnt",0,0,0.0150395067114816,0
+"LOINC:702-1","anisocytosis",0.00542025272296979,0.0270794457728581,0,0.0542378979738694
+"LOINC:703-9","basophilic stippling",0.0157190738009457,0.0301902367055181,0.0220754414798808,0.0138715960143866
+"LOINC:709-6","blasts/100 leukocytes",0.0239547236695294,0.00781537198673422,0.038048506307991,0
+"LOINC:71369-3","neutrophils, dysplastic group:dneut",0,0,0.0621300109101859,0
+"LOINC:728-6","hypochromia",0,0,0,0
+"LOINC:730-2","others group:others",0,0,-0.00501464973183575,0
+"LOINC:738-5","macrocytes",0,0,0,0
+"LOINC:740-1","metamyelocytes/100 leukocytes",0.00690472390572127,0.00907636086804798,0.00775487115652224,0
+"LOINC:741-9","microcytes",0,0,0,0
+"LOINC:748-4","myelocyte# group:amyelos",0,0,-0.0122735671635881,0
+"LOINC:749-2","myelocytes/100 leukocytes",0,0,0.0111765276051753,0
+"LOINC:763-3","abs bands manual group:abands",0,0,0.0119076489290092,0
+"LOINC:774-0","ovalocytes",0,0,-0.0157224143485228,0
+"LOINC:7789-1","acanthocytes",0,0,0,0
+"LOINC:779-9","poikilocytosis",0.00788315735860386,0.0254740741630154,0,0
+"LOINC:7790-9","burr cells",0,0,-0.0125652507264727,0
+"LOINC:7791-7","dacryocytes",0,0,0.0178582847047146,0
+"LOINC:7792-5","dohle bodies group:dohle",0,0,-0.00904787910077847,0
+"LOINC:783-1","promyelocytes/100 leukocytes",0,0,0.00653531885921853,0
+"LOINC:800-3","schistocytes",0.0100113372551772,0.00482909546216321,0.0336028245826068,0
+"LOINC:802-9","spherocytes",0,0,0.0155564514499486,0
+"LOINC:803-7","toxic granulation group:tgran",0,0,-0.0170215487271762,0
+"LOINC:8116-6","cells.cd19",0,0,0,0
+"LOINC:X2007-6","interpretation group:interp",0,0,0.0392495138397843,0
+"LOINC:X2021-0","slide review plt group:msrp",0,0,0.023099027203946,0
+"LOINC:X2024-8","special slide group:spslide",0,0,0.0328263026623798,0
+"LOINC:X2036-5","diff method group:difmet",0,0,0.00510768174837827,0
+"LOINC:XG654-4","chimerism transplants group:chimerism-bmt",0,0,0.0468955222934965,0
+"Other lab:1000000874","hypo",0,0,0,0
+"Other lab:1000002535","microcy",0,0,0,0
+"Other lab:1000002684","segsm",0,0,0,0
+"Other lab:1000003678","plt.e",0,0,0,0
+"Other lab:1000003789","basom",0,0,0,0
+"Other lab:1000003954","macro",0,0,0,0
+"Other lab:1000004508","poikilo",0,0,0,0
+"Other lab:1000007021","rbc frg",0,0,0,0
+"Other lab:1000007211","metamyelocytes",0,0,0,0
+"Other lab:1000007495","teardp",0,0,0,0
+"Other lab:1000014003","meta",0,0,0,0
+"Other lab:1000014425","bandsm",0,0,0,0
+"Other lab:1000017611","plt suf",0,0,0,0
+"Other lab:1000017872","ovalocy",0,0,0,0
+"Other lab:1000018508","band",0,0,0,0
+"Other lab:1000018566","macro",0,0,0,0
+"Other lab:1000019065","md slide",0,0,0,0
+"Other lab:1000021274","microcy",0,0,0,0
+"Other lab:1000026477","aty lymph",0,0,0,0
+"Other lab:1000027081","segs",0,0,0,0
+"Other lab:1000027231","poik",0,0,0,0
+"Other lab:1000030196","microcy",0,0,0,0
+"Other lab:1000030571","myelo",0,0,0,0
+"Other lab:1000031155","plt est",0,0,0,0
+"Other lab:1000031630","spheroc",0,0,0,0
+"Other lab:1000032802","hypo",0,0,0,0
+"Other lab:1000032803","targ cl",0,0,0,0
+"Other lab:1000033967","plt,gia",0,0,0,0
+"Other lab:1000033969","teardro",0,0,0,0
+"Other lab:1000034665","aty lym",0,0,0,0
+"Other lab:1000038656","ovalocy",0,0,0,0
+"Other lab:1000038953","baso",0,0,0,0
+"Other lab:1000039701","polychr",0,0,0,0
+"Other lab:1000043525","myelo",0,0,0,0
+"Other lab:1000043797","meta",0,0,0,0
+"Other lab:1000048406","baso",0,0,0,0
+"Other lab:1000048610","meta",0,0,0,0
+"Other lab:1000048861","bands",0,0,0,0
+"Other lab:1000050068","baso",0,0,0,0
+"Other lab:1000051944","segs",0,0,0,0
+"Other lab:1000056062","pltmor",0,0,0,0
+"Other lab:1000058895","macro",0,0,0,0
+"Other lab:1000062679","nrbc",0,0,0,0
+"Other lab:1000064379","atyp.ly",0,0,0,0
+"Other lab:1000064423","sl scan",0,0,0,0
+"Other lab:1000064552","macrocy",0,0,0,0
+"Other lab:1000065044","ovalocy",0,0,0,0
+"Other lab:1000066227","bfs",0,0,0,0
+"Other lab:1000067485","morph",0,0,0,0
+"Other lab:1000068721","baso",0,0,0,0
+"Other lab:1000072188","burr cl",0,0,0,0
+"Other lab:1000073234","atl",0,0,0,0
+"Other lab:1000073866","bands",0,0,0,0
+"Other lab:1000074649","ovaloc",0,0,0,0
+"Other lab:1000075014","bands",0,0,0,0
+"Other lab:1000076166","plt.e",0,0,0,0
+"Other lab:1000076771","segs",0,0,0,0
+"Other lab:1000077582","ipf",0,0,0,0
+"Other lab:1000077746",".segs",0,0,0,0
+"Other lab:1000077896","myelo",0,0,0,0
+"Other lab:1000078417",".plt.e",0,0,0,0
+"Other lab:1000078564","teardp",0,0,0,0
+"Other lab:1000080553","ab myel",0,0,0,0
+"Other lab:1000080883","plt.e",0,0,0,0
+"Other lab:1000083616","poikilo",0,0,0,0
+"Other lab:1000084259","myelo",0,0,0,0
+"Other lab:1000086804","meta",0,0,0,0
+"Other lab:1000087040","polychr",0,0,0,0
+"Other lab:1000087674","meta",0,0,0,0
+"Other lab:1000088018","ovalocy",0,0,0,0
+"Other lab:1000088500","nrbc",0,0,0,0
+"Other lab:1000093393","poikilo",0,0,0,0
+"Other lab:1000095441","ab meta",0,0,0,0
+"Other lab:1000096652","rbc mor",0,0,0,0
+"Other lab:1000109308",".rbcmor",0,0,0,0
+"Other lab:1200001039","segs",0,0,0,0
+"Other lab:1200001374","bands%m",0,0,0,0
+"Other lab:1200001375","meta%-m",0,0,0,0
+"Other lab:1200001376","myelo%m",0,0,0,0
+"Other lab:1200002163","atyp-ly",0,0,0,0
+"Other lab:1200002339","baso%-m",0,0,0,0
+"Other lab:1200002355","seg#-c",0,0,0,0
+"Other lab:1200002703","baso",0,0,0,0
+"Other lab:1200002714","meta",0,0,0,0
+"Other lab:1200003603","segs",0,0,0,0
+"Other lab:1200003614","bands",0,0,0,0
+"Other lab:1200003715","plt est",0,0,0,0
+"Other lab:1200006336","atypica",0,0,0,0
+"Other lab:1200006449","baso",0,0,0,0
+"Other lab:1200006859","atypica",0,0,0,0
+"Other lab:1200007686","bands",0,0,0,0
+"Other lab:1200007701","meta",0,0,0,0
+"Other lab:1200007702","myelo",0,0,0,0
+"Other lab:1200007705","plt.e",0,0,0,0
+"Other lab:1200007714","hypo",0,0,0,0
+"Other lab:1200008918","myelo",0,0,0,0
+"Other lab:1200009018","microcy",0,0,0,0
+"Other lab:1200012283","retic",0,0,0,0
+"Other lab:1200012293","segs",0,0,0,0
+"Other lab:1200012304","bands",0,0,0,0
+"Other lab:1200012359","meta",0,0,0,0
+"Other lab:1200012373","uric",0,0,0,0
+"Other lab:1200012721","diff",0,0,0,0
+"Other lab:1200014467","poikilo",0,0,0,0
+"Other lab:1200018461","atl %",0,0,0,0
+"Other lab:1200018527","blasts%",0,0,0,0
+"Other lab:1200018827","sphero",0,0,0,0
+"Other lab:1200019011","poik",0,0,0,0
+"Other lab:1200022243","microcy",0,0,0,0
+"Other lab:1200023575","atypica",0,0,0,0
+"Other lab:1200023750","segs",0,0,0,0.00175867068407792
+"Other lab:1200023761","bands",0,0,0,0
+"Other lab:1200023851","plt.e",0,0,0,0
+"Other lab:1200027403","atypica",0,0,0,0
+"Other lab:1200027437","nrbc",0,0,0,0
+"Other lab:1200032760","teardps",0,0,0,0
+"Other lab:1200035151","ovalocy",0,0,0,0
+"Other lab:1200037052","schisto",0,0,0,0
+"Other lab:1200039742","schist",0,0,0,0
+"Other lab:1200041273","teardrp",0,0,0,0
+"Other lab:1200043079","zigg",0,0,0,0
+"Other lab:1200045931","ovalocy",0,0,0,0
+"Other lab:1200066737"," ne,bands",0,0,0,0
+"Other lab:1200069503","basos %",0,0,0,0
+"Other lab:1200077770"," ne,segs",0,0,0,0
+"Other lab:1200079964","plt est",0,0,0,0
+"Other lab:1200087991","varlym",0,0,0,0
+"Other lab:1200089514","seg",0,0,0,0
+"Other lab:1200090405","micro",0,0.0205013887340789,0,0.0137114519124077
+"Other lab:1200090703","segs%-m",0,0,0,0
+"Other lab:1200093153","irf",0,0,0,0
+"Other lab:1200094032","hypo",0,0,0,0
+"Other lab:1200094471","metamy#",0,0,0,0
+"Other lab:1200094616","pe",0,0,0,0
+"Other lab:1200095187","myelo #",0,0,0,0
+"Other lab:1200095568","poly",0,0,0,0.0200800024181995
+"Other lab:1200096074","macro",0,0,0,0
+"Other lab:1200097050","ret-he",0,0,0,0
+"Other lab:1200099363","nrbc ab",0,0,0,0
+"Other lab:1200100322","poly",0,0,0,0
+"Other lab:1200100369","agr plt",0,0,0,0
+"Other lab:1200100499","macrocy",0,0,0,0
+"Other lab:1200100588","lrg plt",0,0,0,0
+"Other lab:1200100778","baso#",0,0,0,0
+"Other lab:1200101019","irf",0,0,0,0
+"Other lab:1200101047","schicyt",0,0,0,0
+"Other lab:1200101646","micr",0,0,0,0
+"Other lab:1200101826","vlymp",0,0,0,0
+"Other lab:1200102163","meta#",0,0,0,0
+"Other lab:1200102176","poik",0,0,0,0
+"Other lab:1200102272","oval",0,0,0,0
+"Other lab:1200102526","pltl",0,0,0,0
+"Other lab:1200102555","wbc mor",0,0,0,0
+"Other lab:1200102794","smud",0,0,0,0
+"Other lab:1200102830","band#",0,0,0,0
+"Other lab:1200103169","plt est",0,0,0,0
+"Other lab:1200103215","metamy",0,0,0,0
+"Other lab:1200103217","polychr",0,0,0,0
+"Other lab:1200103317","vlymp#",0,0,0,0
+"Other lab:1200103541","band#-c",0,0,0,0
+"Other lab:1200103867","plt suf",0,0,0,0
+"Other lab:1200103882","macro",0,0,0,0
+"Other lab:1200103904","myelo#c",0,0,0,0
+"Other lab:1200104150","rbc mo",0,0,0,0
+"Other lab:1200104357","myeloc",0,0,0,0
+"Other lab:1200104464","hypochr",0,0,0,0
+"Other lab:1200104592","aty lym",0,0,0,0
+"Other lab:1200104748","microcy",0,0,0,0
+"Other lab:1200104829","baso",0,0,0,0
+"Other lab:1200105106","sldscan",0,0,0,0
+"Other lab:1200105119","myelo#",0,0,0,0
+"Other lab:1200105455","band",0,0,0,0
+"Other lab:1200105478","targetc",0,0,0,0
+"Other lab:1200106363","tear dr",0,0,0,0
+"Other lab:1200106793","poikil",0,0,0,0
+"Other lab:1200106880","meta#-c",0,0,0,0
+"Other lab:1200107118","baso#-c",0,0,0,0
+"Other lab:1200107519","wbc dif",0,0,0,0
+"Other lab:1200107824","giaplat",0,0,0,0
+"Other lab:1200108174","ig%",0,0,0,0
+"Other lab:1200108175","ig abs",0,0,0,0
+"Other lab:1200127721","large platelets",0,0,0,0
+"Other lab:1200139772","ipf",0,0,0,0
+"Other lab:1200146163","ipf",0,0,0,0
+"Other lab:1400002485","plt/est",0,0,0,0
+"Other lab:1400002868","aty.ly",0,0,0,0
+"Other lab:1400009220","plt est",0,0,0,0
+"Other lab:1400013490","plt.e",0,0,0,0
+"Other lab:1400016988","plt.e",0,0,0,0
+"Other lab:1400022951","bands",0,0,0,0
+"Other lab:1400024790","plt.e",0,0,0,0
+"Other lab:1400029235","uric ac",0,0,0,0
+"Other lab:1400033650","nrbc",0,0,0,0
+"Other lab:1400034074","segs",0,0.000329272045247084,0,0
+"Other lab:1400034501","bands",0,0.00708220516423465,0,0.0112550188744613
+"Other lab:1400035736","segs",0,0,0,0
+"Other lab:1400036790","bands",0,0,0,0
+"Other lab:1400041955","r-lym",0,0,0,0
+"Other lab:1400047093","segs",0,0,0,0
+"Other lab:1400055124","ret-he",0,0,0,0
+"Other lab:1400058489","segs",0,0,0,0
+"Other lab:1400059835","m baso%",0,0,0,0
+"Other lab:1400061717","segs",0,0,0,0
+"Other lab:1400063187","normrbc",0,0,0,0
+"Other lab:1400064184","bands",0,0,0,0
+"Other lab:1400067709","plt mor",0,0,0,0
+"Other lab:1400073798","difscan",0,0,0,0
+"Other lab:1400073810","atypica",0,0,0,0
+"Other lab:1400564161","ig%",0,0,0,0
+"Other lab:1400564162","absolute ig",0,0,0,0
+"Other lab:1400592134","nrbc%",0,0,0,0
+"Other lab:1400592135","nrbc#",0,0,0,0
+"Other lab:800008404","microcy",0,0,0,0
+"Other lab:800014547","ovalocy",0,0,0,0
+"Other lab:800014874","bands",0,0,0,0
+"Other lab:800015292","segs",0,0,0,0
+"Other lab:800024398","plt.est",0,0,0,0
+"Other lab:800025752","bands",0,0,0,0
+"Other lab:800026781","ovalocytes",0,0,0,0
+"Other lab:800026935","zpolychr",0,0,0,0
+"Other lab:800027030","segs",0,0,0,0
+"Other lab:800030956","smear review, path",0,0,0,0
+"Other lab:800031698","ovalo",0,0,0,0
+"Other lab:800032895","rbc morph.",0,0,0,0
+"Other lab:800033125","plt.e",0,0,0,0
+"Other lab:800033543","varlymp",0,0,0,0
+"Other lab:800034366","h.smear",0,0,0,0
+"Other lab:800034706","retic #",0,0,0,0
+"Other lab:800035831","baso",0,0,0,0
+"Other lab:800036033","microcy",0,0,0,0
+"Other lab:800037554","baso",0,0,0,0
+"Other lab:800037659","basophils",0,0,0,0
+"Other lab:800041719","estimated plts",0,0,0,0
+"Other lab:800041729","polychromasia",0,0,0,0
+"Other lab:800041827","anisocytosis",0,0,0,0
+"Other lab:800046594","poikilo",0,0.014197031984979,0,0
+"Other lab:800047698","reaclym",0,0,0,0
+"Other lab:800047990","macro",0,0.00074056541842155,0,0
+"Other lab:800047992","hypo",0,0.00200275166184376,0,0
+"Other lab:800049117","plt.e",0,0,0,0
+"Other lab:800049569","h.smear",0,0,0,0
+"Other lab:800053944","segs",0,0,0,0
+"Other lab:800054488","bands",0,0,0,0
+"Other lab:800056755","micro",0,0,0,0
+"Other lab:800063601","giantpl",0,0,0,0
+"Other lab:800064591","segs",0,0,0,0
+"Other lab:800066840","segs.%",0,0,0,0
+"Other lab:800066861","bands%",0,0,0,0
+"Other lab:800067345","bands",0,0,0,0
+"Other lab:800068268","bands",0,0,0,0
+"Other lab:800069670","atylymp",0,0,0,0
+"Other lab:800071823","wkdiff",0,0,0,0
+"Other lab:800082010","plt.e",0,0,0,0
+"Other lab:800083897","baso",0,0,0,0
+"Other lab:800086646","agran",0,0,0,0
+"Other lab:800087128","myelo",0,0,0,0
+"Other lab:800087249","ur",0,0,0,0
+"Other lab:800088545","plt est",0,0,0,0
+"Other lab:800089293","macro",0,0,0,0
+"Other lab:800231772","ipf",0,0,0,0
+"Other lab:800232818","ret-he",0,0,0,0
+"Other lab:800232819","irf%",0,0,0,0
+"Other lab:800232821","ipf%",0,0,0,0
+"Other lab:800233134","plt est",0,0,0,0
+"Other lab:800235350","ipf%",0,0,0,0
+"PheCode:008","intestinal infection",0,0,0,0
+"PheCode:038","septicemia",0,0,0,0
+"PheCode:079","viral infection",0,0,0.0102838079392157,0
+"PheCode:081","infection/inflammation of internal...graft",9.64165151547998e-05,3.84017719758129e-05,0.0389412862157739,0
+"PheCode:117","mycoses",0,0,0.0120209822167587,0
+"PheCode:165","cancer within the respiratory system",0,0,0,0
+"PheCode:202","cancer of other lymphoid, histiocytic tissue",0.00412177101336151,0.0146452319383718,0,0
+"PheCode:204","leukemia",0.024525947821036,0.0805454092896389,-0.00971599741884055,0.103671940231081
+"PheCode:270","disorders of protein...metabolism",0.000142074095088246,0.00134292832424609,0,0
+"PheCode:275","disorders of mineral metabolism",0.00228978386582996,0.00671975444232252,0,0
+"PheCode:280","iron deficiency anemias",0.000375985366474001,0.0011067809521785,0,0
+"PheCode:281","other deficiency anemia",0,0,0,0
+"PheCode:282","hereditary hemolytic anemias",0,0,0,0
+"PheCode:283","acquired hemolytic anemias",0,0,0,0
+"PheCode:284","aplastic anemia",0.0886090685714811,0.127865957142975,0.0401226051228426,0.128677248917101
+"PheCode:285","other anemias",0.00797579410290455,0.0326103778561143,0,0
+"PheCode:287","purpura and other hemorrhagic conditions",0.0360048254338187,0.0939605747866438,0.0312657917684083,0.108875764544216
+"PheCode:288","diseases of white blood cells",0.0359982023987068,0.0672687261320603,0.0232021246543958,0.0360969747185809
+"PheCode:289","other diseases of blood and blood-forming organs",0.058782908575516,0.120435918204708,0.0455897242395363,0.0886777768694163
+"PheCode:480","pneumonia",0,0,0,0
+"PheCode:579","other symptoms involving abdomen and pelvis",0,0,0.0307605714227719,0
+"PheCode:691","congenital anomalies of skin",0.0184394339030901,0.00888896789230937,0.0507167628422235,0
+"PheCode:752","nervous system congenital anomalies",0.032304151861539,0.0695403805223884,0,0.0641995906904903
+"PheCode:783","fever of unknown origin",0,0,0,0
+"PheCode:963","poisoning by primarily systemic agents",0,0,0.00510894266654021,0
+"PheCode:994","sepsis and sirs",0,0,0,0
+"RXNORM:10030","stannous fluoride",0,0,0.021212489648689,0
+"RXNORM:10432","thalidomide",0,0,0,0
+"RXNORM:105694","epoetin alfa,recombinant",0.00500587613137924,0.021682377405897,0,0.00491486153972708
+"RXNORM:11065","ursodiol",0.0184114522011316,0.0112891755401531,0.0289246449539602,0
+"RXNORM:1193326","ruxolitinib",0.0711909576310523,0.0553375762796126,0.141642262149933,0.035585840781632
+"RXNORM:121243","voriconazole",0.0185652836451683,0.0177152600695612,0.012361705594851,0.00123916137118939
+"RXNORM:1251","azacitidine",0.144787801809703,0.152806458819288,0.168989663662118,0.14017696325931
+"RXNORM:1433764","tbo-filgrastim",0,0,0.0139337110233848,0
+"RXNORM:15657","decitabine",0.0723268936535988,0.0770610536109671,0.0964849548352691,0.0646216409657649
+"RXNORM:1608321","isavuconazonium sulfate",0,0,0.0419171281501517,0
+"RXNORM:1747556","venetoclax",0,0,0,0
+"RXNORM:1828","busulfan",0,0,0.0513934555626802,0
+"RXNORM:20481","cefepime",0,0,0.00904859310190991,0
+"RXNORM:24698","fludarabine",0.0106304917974022,-0.000841399617008417,0.0438032633295984,0
+"RXNORM:26225","ondansetron",0,0,0,0
+"RXNORM:281","acyclovir",0.00922680281389082,0.00323040825075366,0.023401444959199,0
+"RXNORM:282446","posaconazole",0.0131749508456324,0.0210764691717758,0.0162064901734821,0.00783879204531444
+"RXNORM:283838","darbepoetin alfa,recombinant",0,0.015975606227326,0,0.0171125740105155
+"RXNORM:3102","danazol",0.000497875518715119,0.017682918407037,0,0
+"RXNORM:3131","deferoxamine",-0.00197363897028807,0.0457426776393999,0,0.0351502596635772
+"RXNORM:325887","micafungin",0,0,0.00671199330488435,0
+"RXNORM:3264","dexamethasone",0,0,0,0
+"RXNORM:338036","pegfilgrastim",0,0,0,0
+"RXNORM:342369","lenalidomide",0.0200537302347077,0.016488364338236,0.0563448691426752,0
+"RXNORM:35302","sirolimus",0.0318077222449026,-0.00478134497115684,0.0390758480748925,0
+"RXNORM:358258","bortezomib",0,0,0,0
+"RXNORM:4179","etoposide",0,0,0,0
+"RXNORM:42316","tacrolimus",0.000732315374743277,4.50360466908509e-05,0.00996007086104219,0
+"RXNORM:4450","fluconazole",0,0,0.0203380929897888,0
+"RXNORM:4491","fluorometholone",0.0290991004810738,0.00395873254250564,0.0643822281840548,0
+"RXNORM:5552","hydroxyurea",0.0600700858226893,0.103770120812881,0.0813258853486301,0.109996210113628
+"RXNORM:596724","anagrelide",0.0216961500873789,0.0488776531280985,0.155004833810081,0.0344041259359313
+"RXNORM:60212","atovaquone",0.00215712163426416,0.00121504755027857,0.00492802968806962,0
+"RXNORM:614373","deferasirox",0,0.00585338922896933,0,0.0192155398764558
+"RXNORM:6468","loperamide",0,0,0.0136878857187602,0
+"RXNORM:6582","magnesium oxide",0,0,0.00881313629210575,0
+"RXNORM:68099","famciclovir",0.0442495674341768,0.0102551795242852,0.0240069998240337,0
+"RXNORM:68442","filgrastim",0.0250386636215363,0.0426108251797956,0.0254265111218212,0.0460420316500518
+"RXNORM:6854","methoxsalen",0,0,0.0476903400410864,0
+"RXNORM:711942","eltrombopag",0.000140610331990888,0.00621385500579131,0,0.00430804255252973
+"RXNORM:73645","valacyclovir",0,0,0,0
+"RXNORM:7995","pentamidine isethionate",0.0158335193696093,0.00890429020233574,0.0570740265421585,0
+"RXNORM:805452","romiplostim",0.020105312815975,0.019115053834972,0.0649287502780907,0
+"RXNORM:99","aminocaproic acid",0.00732385960109489,0.0237698719918249,0.0299153066062217,0.0128244235440045
+"ShortName:Baso - Fra","baso - fra",0,0,0,0
+"ShortName:Eos - Abs","eos - abs",0,0,0,0
+"ShortName:Eos - Fra","eos - fra",0,0,0,0
+"ShortName:Ferritin","ferritin",0,0,0,0
+"ShortName:HCT","hct",0,0,0,0
+"ShortName:Hemoglobin","hemoglobin",0,0,0,0
+"ShortName:Lymph - Abs","lymph - abs",0,0,0,0
+"ShortName:Lymph - Fra","lymph - fra",0,0,0,0
+"ShortName:MCH","mch",0,0,0,0
+"ShortName:MCHC","mchc",0,0,0,0
+"ShortName:MCV","mcv",0,0,0,0
+"ShortName:Mono - Abs","mono - abs",0,0,0,0
+"ShortName:Mono - Fra","mono - fra",0,0,0,0
+"ShortName:MPV","mpv",0,0,0,0
+"ShortName:Neut - Abs","neut - abs",0,0,0,0
+"ShortName:Neut - Fra","neut - fra",0,0,0,0
+"ShortName:Phosphatase Alkaline Leukocyte","phosphatase alkaline leukocyte",0,0,0,0
+"ShortName:Platelet","platelet",0,0,0,0
+"ShortName:RBC","rbc",0,0,0,0
+"ShortName:RDW","rdw",0,0,0,0
+"ShortName:WBC","wbc",0,0,0,0

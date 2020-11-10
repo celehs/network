@@ -1,0 +1,75 @@
+"Variable","Description","Integrative_Estimator_RPDR","Integrative_Estimator_VA","Local_Estimator_RPDR","Local_Estimator_VA"
+"Other lab:1000002957","ca",0,0,0,0
+"Other lab:1000003303","protein",0,0,0,0
+"Other lab:1000005210","baso",0,0,0,0
+"Other lab:1000011139","urobili",0,0,0,0
+"Other lab:1000011141","ua prot",0,0,0,0
+"Other lab:1000011275","ur. bld",0,0,0,0
+"Other lab:1000013198","vldl",0,0,0,0.00464932544920561
+"Other lab:1000017247","ca",0,0,0,0
+"Other lab:1000018866","ua gluc",0,0,0,0
+"Other lab:1000072616","tp",0,0,0,0
+"Other lab:1200012283","retic",0,0,0,0
+"Other lab:1200012293","segs",0,0,0,0
+"Other lab:1200012304","bands",0,0,0,0
+"Other lab:1200012331","urobili",0,0,0,0
+"Other lab:1200012335","glu",0,0,0,0
+"Other lab:1200012336","protein",0,0,0,0
+"Other lab:1200012359","meta",0,0,0,0
+"Other lab:1200012369","zco2",0,0,0,0
+"Other lab:1200012371","zcalc",0,0,0,0
+"Other lab:1200012373","uric",0,0,0,0
+"Other lab:1200012375","zt.p.",0,0,0,0
+"Other lab:1200012381","zast",0,0,0,0
+"Other lab:1200012402","phenytn",0,0,0,0
+"Other lab:1200012414","hypo",0,0,0,0
+"Other lab:1200012437","pco2",0,0,0,0
+"Other lab:1200012439","hco3",0,0,0,0
+"Other lab:1200027403","atypica",0,0,0,0.00672205987942366
+"Other lab:1200040276","luc ab",0,0,0,0
+"Other lab:1200043343","luc %",0,0,0,0.0403651327449944
+"Other lab:1200045143","leu est",0,0,0,0
+"Other lab:1200048888","ur. bld",0,0,0,0
+"Other lab:1200071664","prealbu",0,0,0,0
+"Other lab:1200074700","tp",0,0,0,0
+"Other lab:1200075349","ca",0,0,0,0
+"Other lab:1200088543","occ bld",0,0,0,0.0309190980854852
+"Other lab:1200089527","chol/hd",0,0,0,0
+"Other lab:1200097889","zcpk",0,0,0,0.0152985763512112
+"PheCode:272.1","hyperlipidemia",0,0,0.0334185476581355,0
+"PheCode:401.1","essential hypertension",0,0,0.0261486074382117,0
+"PheCode:411.4","coronary atherosclerosis",0,0,0.070547555193543,0
+"RXNORM:1009153","potassium bicarbonate/potassium citrate",0,0,0.062376308514225,0
+"RXNORM:10502","thioridazine",2.44165636337877e-05,0.00284756352592395,0,0.020178199790412
+"RXNORM:10759","triamcinolone",0,0,0,0
+"RXNORM:10814","liothyronine",0,0,0,0
+"RXNORM:1100699","linagliptin",0,0,0.0588916180545278,0
+"RXNORM:11065","ursodiol",0,0,0,0
+"RXNORM:1191","aspirin",0,0,-0.00188050990804282,0
+"RXNORM:149","acebutolol",0,0,0.0557090876806938,0
+"RXNORM:17767","amlodipine",0,0,0.123927561147984,0
+"RXNORM:21949","cyclobenzaprine",0,0,0,0
+"RXNORM:253183","humulin u",0,0.0749801145199223,0,0.152205549187574
+"RXNORM:3247","desipramine",0,0,0,0
+"RXNORM:325646","aliskiren",0,0,0.135570023299925,0
+"RXNORM:3443","diltiazem",0,0,0,0
+"RXNORM:3521","dipyridamole",0,0,0,0
+"RXNORM:404773","amlodipine/atorvastatin",0,0,0.0759307359398971,0
+"RXNORM:4603","furosemide",0,0,0.0614223475284039,0
+"RXNORM:484211","ezetimibe/simvastatin",0,0,0,0
+"RXNORM:5764","indapamide",0,0,0.130452565686524,0
+"RXNORM:6058","isosorbide dinitrate",0,0,0,0
+"RXNORM:644","amiloride",0,0,0,0
+"RXNORM:6472","lovastatin",0,0,0,0
+"RXNORM:6750","menthol",0,0,0.0565063702272353,0
+"RXNORM:6918","metoprolol",0,0,0.00148444550921553,0
+"RXNORM:720825","silodosin",0,0,0.0466483990091286,0
+"RXNORM:7417","adalat",0,0,0,0
+"RXNORM:7646","omeprazole",0,0,0.0136073199302498,0
+"RXNORM:82003","docusate",0,0,0.066715226089805,0
+"RXNORM:83367","atorvastatin",0,0,0.090355939917678,0
+"RXNORM:84857","anastrozole",0,0,0,0
+"RXNORM:8591","potassium chloride",0,0,0.0609466805584851,0
+"RXNORM:9796","simethicone",0,0,0,0
+"RXNORM:9997","spironolactone",0,0,0,0
+"ShortName:Glucose - FS","glucose - fs",0,0,0,0

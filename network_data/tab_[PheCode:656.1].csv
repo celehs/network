@@ -1,0 +1,189 @@
+"Variable","Description","Integrative_Estimator_RPDR","Integrative_Estimator_VA","Local_Estimator_RPDR","Local_Estimator_VA"
+"CCS:115","circumcision",0.0407371874212308,-0.000635846950508498,0.0576517154431998,0
+"CCS:192","diagnostic ultrasound of head and neck",0.0283861885041494,0.00212528413693464,0.0343455378876824,0
+"CCS:203","electrographic cardiac monitoring",0.0134449990801756,0.00119460979791844,0,0
+"CCS:205","arterial blood gases",0.00159918184129119,0.00151996994607847,0,0
+"CCS:216","respiratory intubation and mechanical ventilation",0.00826494575893813,0.00435942811515856,0,0
+"CCS:220","ophthalmologic and otologic...treatment",0.0246893658187159,-0.00534068349467694,0.00162889777060222,0
+"CCS:223","enteral and parenteral nutrition",0.00542946193363595,-0.000704193962744559,0,0
+"CCS:228","prophylactic vaccinations and inoculations",0,0,0,0
+"CCS:4","diagnostic spinal tap",0.000161648984110409,-5.60623349831129e-05,0,0
+"CCS:7","other diagnostic nervous system procedures",0.0226686935548157,0.00101623929278826,0.00947349980160513,0
+"LOINC:10378-8","polychromasia",0.0201010148404405,-0.0014673311505685,0,0
+"LOINC:10381-2","target cells",0.00540113223027877,-0.000218865690076258,0,0
+"LOINC:13508-7","csf mhct group:cmhct",0,0,0,0
+"LOINC:13527-7","csf unidentified group:cunid",0,0,0,0
+"LOINC:14627-4","hco3, venous group:vhco3",0.0133537698463176,0,0,0
+"LOINC:15201-7","plt fragments group:pltfr",0.00359559115073309,0,0.00848565408401431,0
+"LOINC:19080-1","choriogonadotropin",0,0.0436086483937137,0,0.05964933524661
+"LOINC:1959-6","unspecified hco3 group:hc03",0,0,0,0
+"LOINC:1960-4","hco3, arterial group:ahco3",0.043025122095993,0,0.0302220468896653,0
+"LOINC:1961-2","hco3, capillary group:chco3",0.0293582161443504,0,0.0695838480125519,0
+"LOINC:1968-7","direct bilirubin group:dbili",0,0,0,0
+"LOINC:1975-2","total bilirubin group:tbili",0,0,0,0
+"LOINC:2019-8","arterial pco2 group:apco2",0,0,0,0
+"LOINC:2020-6","capillary pco2 group:cpco2",0.0399199088056534,0,0.0116291341451559,0
+"LOINC:2021-4","venous pco2 group:vpco2",0,0,0,0
+"LOINC:2026-3","co2, whole bld/plasma group:co2pl",0,0,0.00198617296326824,0
+"LOINC:21026-0","slide review group:slider",0.0294276645732319,0,0.0384489830667444,0
+"LOINC:2106-3","choriogonadotropin pregnancy test",0.00121055058613471,0.0302275401933304,0,0.0300089783084913
+"LOINC:2110-5","choriogonadotropin.beta subunit pregnancy test",0.00102790958299892,0.0262908921251148,0,0.0330229763601304
+"LOINC:2341-6","glucose poc group:glu-poc",0,0,0,0
+"LOINC:2342-4","csf glucose group:csf-glu",0,0,0,0
+"LOINC:2357-2","g6pd assay group:g6pd",0,0,0,0
+"LOINC:26956-3","cocaine, meconium group:cocamec",0.141848919005785,0,0.0938935882938314,0
+"LOINC:26959-7","amphetamines, meconium group:mamph",0.0633428014649971,0,0.0572493109776999,0
+"LOINC:27024-9","thc/cannabinoids, meconium group:thcmec",0.0059383313507736,0,0.0415567046595683,0
+"LOINC:2703-7","arterial po2 group:apo2",0,0,0,0
+"LOINC:2704-5","capillary po2 group:cpo2",0.00447644899928242,0,0.041839867934325,0
+"LOINC:2705-2","venous po2 group:vpo2",0,0,0,0
+"LOINC:27289-8","methamphetamine, meconium group:mmetham",0.0234871615561182,0,0.0449587575246666,0
+"LOINC:2744-1","arterial ph group:aph",0,0,0,0
+"LOINC:2745-8","capillary ph group:cph",0.0411092443274268,0,0.0554399754060523,0
+"LOINC:2746-6","venous ph group:vph",0,0,0,0
+"LOINC:2761-5","phenyl ketones group:pku",0.0532340200369946,0,0.0779243821555394,0
+"LOINC:2880-3","csf total protein group:csf-tp",0,0,0,0
+"LOINC:29158-3","opiates, meconium group:opimec",0,0,0,0
+"LOINC:3151-8","fio2 group:fio2",0,0,0,0
+"LOINC:32147-1","reducing substances, ur group:redcsub",0.00226667545768006,0,0,0
+"LOINC:32306-3","pco2, art umb group:pco2uan",0.056650297490763,0,0.0400909230041313,0
+"LOINC:35631-1","phenobarbital group:pheno",0,0,0,0
+"LOINC:35632-9","phenytoin ug/ml group:phen",0,0,0,0
+"LOINC:35668-3","gentamicin group:ungent",0.00895650121386847,0,0,0
+"LOINC:3663-2","gentamicin,peak group:pkgent",0,0,0,0
+"LOINC:3665-7","gentamicin",0.0284265739523506,-0.00681730402917115,0,0
+"LOINC:3948-7","phenobarbital",0,0,0,0
+"LOINC:42810-2","hgb equivalent retic group:hgb-equ",0.0122381224691629,0,0.00137608365739236,0
+"LOINC:4679-7","reticulocytes/100 erythrocytes",0.0321502643159136,0.00415748546557368,0.0106322110136501,0
+"LOINC:53797-7","neuts i/t ratio group:itratio",0.0108453196343369,0,0,0
+"LOINC:735-1","atypical lymphs group:atyps",0,0,0,0
+"LOINC:740-1","metamyelocytes/100 leukocytes",0.0029930929536431,-0.000833974337455285,0,0
+"LOINC:749-2","myelocytes/100 leukocytes",0,0,0,0
+"LOINC:763-3","abs bands manual group:abands",0,0,0,0
+"LOINC:764-1","bands - manual group:band",0,0,0,0
+"LOINC:779-9","poikilocytosis",0.0055973617506223,0.00048514579380342,0,0
+"LOINC:7790-9","burr cells",0.0232973299642336,-0.00120677082659068,0,0
+"LOINC:7791-7","dacryocytes",0,0,0,0
+"LOINC:800-3","schistocytes",0.00891228090201913,0.00156720933313366,0,0
+"LOINC:8310-5","body temperature",0.000693994424061859,-0.000584040730645464,0,0
+"LOINC:9317-9","plt estimate group:pltest",0,0,0,0
+"LOINC:X1513-1","specimen hold, urine group:sphold",0,0,0,0
+"LOINC:X1727-7","glucose poc group:glu-poc",0,0,0,0
+"LOINC:X1731-9","ph uncorrected group:phu",0,0,0,0
+"LOINC:X1732-7","pco2 uncorrected group:pco2u",0,0,0,0
+"LOINC:X1733-5","po2 uncorrected group:po2u",0,0,0,0
+"LOINC:X2021-0","slide review plt group:msrp",0,0,0,0
+"LOINC:X2023-2","slide review wbc group:msrw",0.0149275246588148,0,0.00292107864119846,0
+"LOINC:XC450-7","lactate, art, nicu group:lacnicu",0.00842948676819667,0,0.0251619111190791,0
+"LOINC:XC451-5","base def, art nicu group:bednicu",0.023431298793444,0,0.00623711216556914,0
+"LOINC:XC453-1","tco2, ven nicu group:tco2vn",0.0390508917820544,0,0.0190239660383073,0
+"LOINC:XC455-6","lactate, ven, nicu group:lacvnicu",0.0267679625117705,0,0.00117703510388815,0
+"LOINC:XC458-0","tco2, cap, nicu group:tco2cn",0.0428412782483934,0,0.0199005334111143,0
+"LOINC:XC459-8","lactate, cap, nicu group:laccap",0,0,0.05416895209668,0
+"LOINC:XC460-6","base def, cap, nicu group:bedcapn",0.0287632169776206,0,0.059674367681011,0
+"LOINC:XC461-4","base ex, cap, nicu group:bexcapn",0,0,0.000193523371218379,0
+"Other lab:1000034181","micro",0,0,0,0.0139654621731526
+"Other lab:1000039079","lymph#",0,0.0566342853760244,0,0.070120956087471
+"Other lab:1000041968","plt mor",0,0.00160621835983193,0,0.0118996609051981
+"Other lab:1000042097","baso#",0,0.00801925537891406,0,0.0241278509413253
+"Other lab:1000044240","vancomy",0,0.00275996967142712,0,0.01724677751279
+"Other lab:1000052694","mono#",0,0,0,-0.0252751077890859
+"Other lab:1000053948","pco2,an",0,0.0312834376898374,0,0.0243490245491829
+"Other lab:1000054591","o2 sat",0,0.0351787078369451,0,0.0412692483994076
+"Other lab:1000056378","po2temp",0,0.0592841796489306,0,0.0833995835722119
+"Other lab:1000062636","pco2tmp",0,9.07869027505887e-05,0,0.0033238749035086
+"Other lab:1000067626","s.type",0,4.10269044875369e-05,0,0.021708146878809
+"Other lab:1000075693","eos#",0,0.00163443848208231,0,0.0194006726095992
+"Other lab:1000105302","poc pco2",0,0.090775116553194,0,0.0747538100051214
+"Other lab:1000105427","hco3-poc",0,0.000234076587629014,0,0.000464569228733768
+"Other lab:1000105428","tc02-poc",0,0,0,0
+"Other lab:1000105474","allen-poc",0,0.0611280730483913,0,0.0734548524054365
+"Other lab:1000105475","site-poc",0,7.77450430510816e-07,0,1.50012083611202e-05
+"Other lab:1000105548","fio2-poc",0,3.86580783432396e-05,0,0.00201145775845847
+"Other lab:800027809","insp o2",0,0.020748934815838,0,0.0567788784471213
+"Other lab:800035969","zzsgpt",0,0.0337998016515349,0,0.0416112589378278
+"Other lab:800045775","pco2",0,0.000191686035355985,0,-0.0107338763902457
+"PheCode:1010.6","persons encountering health...reproduction",0,0.117585911450534,0,0.119548819490015
+"PheCode:112.3","candidiasis of skin and nails",0.0261817591908006,0.00307333349448611,0.0140153790539519,0
+"PheCode:228.1","hemangioma of skin and subcutaneous tissue",0,0,0,0
+"PheCode:244.5","congenital hypothyroidism",0,0,0.00379899449892146,0
+"PheCode:246.7","abnormal results of function study of thyroid",0.0207661442387518,0.00661279552336441,0.00950144404669883,0
+"PheCode:251.1","hypoglycemia",0,0,0,0
+"PheCode:264.2","failure to thrive childhood",0.0142313144361231,0.00643691889128256,0,0
+"PheCode:277.4","disorders of bilirubin excretion",0,0,0,0
+"PheCode:282.9","other hereditary hemolytic anemias",0.0608454200231602,-0.000620572754569992,0.0287715755113183,0
+"PheCode:333.3","tics and choreas",0.00100182074889757,0.0273353109483161,0,0.0412760339685816
+"PheCode:348.4","cerebral cysts",0.0148680483474923,0.0013998518857557,0,0
+"PheCode:358.1","myasthenia gravis",0.00626554554249226,0.0367435470949517,0,0.0455154042490589
+"PheCode:362.1","retinopathy of prematurity",0.00320534704884758,0,0,0
+"PheCode:396","abnormal heart sounds",0.0234578556999997,-0.00349370423588465,0,0
+"PheCode:430.2","intracerebral hemorrhage",-0.00676094919832463,0.0261078555516031,0,0.0404435253478461
+"PheCode:458.9","hypotension nos",0,0,0,0
+"PheCode:513.3","hypoventilation",0.0123802974886016,0.00117551573552971,0,0
+"PheCode:550.1","inguinal hernia",0,0,0,0
+"PheCode:573.5","jaundice not of newborn",0.0182481108206883,0.0022084071153798,0,0
+"PheCode:575.8","other disorders of biliary tract",0.0050085513421268,0.00117268419099148,0,0
+"PheCode:604.1","redundant prepuce and phimosis/bxo",0.033215605303547,0.00334515514129492,0.0168673854231191,0
+"PheCode:635.2","antepartum hemorrhage, abruptio...previa",0.00674121190939535,0,0.00941205520476149,0
+"PheCode:637","short gestation; low...retardation",0.0860270752026253,0,0.100327245692967,0
+"PheCode:656.2","respiratory conditions of fetus and newborn",0.04932111520024,0,0.0544183317027605,0
+"PheCode:656.3","endocrine and metabolic...newborn",0.0814365950214065,0.173296630828858,0.114756927942588,0.184453463955147
+"PheCode:656.4","hemorrhage of fetus or newborn",0.0614402059609094,0,0.000243361055193432,0
+"PheCode:656.5","hematological disorders of newborn",0.0493845620285329,0,0.106951398940643,0
+"PheCode:656.6","perinatal disorders of digestive system",0.0580029543243594,0.175927150882035,0.0327929366163123,0.185379684072615
+"PheCode:656.7","conditions involving the...newborn",0.098327600619977,0.167013614658072,0.0926713725339738,0.190238792251933
+"PheCode:656.9","neonatal bradycardia or tachycardia",0.0623017632681761,0,0.0159557329291004,0
+"PheCode:686.3","pilonidal cyst",0.0353910954816836,0.00643121292600984,0.0179507874386918,0
+"PheCode:747.1","cardiac congenital anomalies",0.0299969650907813,-0.00193605538912921,0.047792440428967,0
+"PheCode:748","anomalies of respiratory system, congenital",0.0256791757817997,0.00237495862112405,0,0
+"PheCode:749.1","cleft palate",0.0263479444893275,0,0.0121107151925486,0
+"PheCode:749.2","congenital anomalies of skull and face bones",0,0,0.000872110317008644,0
+"PheCode:750.1","upper gastrointestinal congenital anomalies",0,0,0,0
+"PheCode:750.2","lower gastrointestinal congenital anomalies",0.0489652838654304,0.00723790275291577,0.0478536312663286,0
+"PheCode:751.1","congenital anomalies of genital organs",0.0296413822009759,0.00705720191251165,0.0273634485618216,0
+"PheCode:751.2","congenital anomalies of urinary system",0.00682674232832605,-0.0016074339592121,0,0
+"PheCode:751.3","obstructive genitourinary defect",0.0280295673351648,-0.000961799998625321,0.00937881523847991,0
+"PheCode:752.2","other specified congenital...system",0.0114130148551827,0.000592791813078022,0,0
+"PheCode:755.1","congenital deformities of feet",0.0354004887060057,-0.0012192277143065,0.0342957661474868,0
+"PheCode:755.3","congenital anomaly of fingers/toes",0.047655680206627,-0.00020607001281227,0.0274389327694072,0
+"PheCode:755.6","other congenital anomalies...girdle",0.0423643735232265,-0.00456056095210066,0.00534977538607084,0
+"PheCode:756.1","congenital anomalies of abdominal wall; diaphram",0.0134467066240957,-0.000987174179868029,0.0237414703002345,0
+"PheCode:758.1","chromosomal anomalies",0.014415661337035,0.00219931011674821,0.00390042980396037,0
+"PheCode:949.1","diaper or napkin rash",0.0394079000634315,0.000461306991964265,0.0300684792260249,0
+"RXNORM:1007802","dextran 70/glycerin/hypromellos",0,0.0364053756189915,0,0.0495616112515077
+"RXNORM:11246","vitamin a",0.0273359232520049,0.00253239259560818,0.0051613550918664,0
+"RXNORM:11295","water",0.01265433857378,-0.00101976810395301,0,0
+"RXNORM:1272","aztreonam",0,0,0,0
+"RXNORM:1886","caffeine",0.0242052031017055,0,0.0232053050138681,0
+"RXNORM:194279","palivizumab",0.0205271164825108,0,0.0029025040108073,0
+"RXNORM:216554","dextrose/potassium chloride/sodium chloride",0.0207625801277898,-0.00209962822788558,0,0
+"RXNORM:2186","cefotaxime",0,0,0,0
+"RXNORM:22701","dexpanthenol",0.0381474299294095,0,0.0172737557959938,0
+"RXNORM:236381","poractant alfa",0.0282962027843019,0,0.00861119245850098,0
+"RXNORM:2396","chlorothiazide",0,0,0,0
+"RXNORM:24947","ferrous sulfate",0,0,0,0
+"RXNORM:26746","hepatitis b",0.02739750737837,0,0.0370584132351708,0
+"RXNORM:3001","cyclopentolate",0.0234127830729606,0.00262343229509802,0.000508047829817792,0
+"RXNORM:34905","proparacaine",0,0,0,0
+"RXNORM:3628","dopamine",0.00611625205128826,0,0,0
+"RXNORM:4053","erythromycin",0.0280642424749485,-0.00297239192117634,0.0295007213761389,0
+"RXNORM:46967","beractant",0.0766217476896687,0,0.0655099920886873,0
+"RXNORM:4850","glucose",0,0,0,0
+"RXNORM:4910","glycerin",7.53840472240968e-05,1.10163850294513e-05,0.0181258384909098,0
+"RXNORM:50937","haemophilus b",0.00583354907998089,-0.000647252973086871,0,0
+"RXNORM:54987","potassium acetate",0.00358906611219102,0,0,0
+"RXNORM:56443","sodium acetate",0.0153477050715008,0,0,0
+"RXNORM:5781","indomethacin",0.00900691594172043,-0.00168884982273587,0,0
+"RXNORM:58300","zinc gluconate",0,0.0571013557892115,0,0.0577420039506769
+"RXNORM:6227","lanolin",0.00149523012641703,0.0340578252980106,0,0.0463281154521946
+"RXNORM:662411","gentamicin",0.0115419263712231,0,0.00898678473820339,0
+"RXNORM:6835","methimazole",-0.00124268875683312,0.0306320683674088,0,0.0395714641928269
+"RXNORM:690312","cyclopentolate/phenylephrine",0,0,0,0
+"RXNORM:7233","nafcillin",0,0,0,0
+"RXNORM:733","ampicillin",0.0301111456939855,-0.00160835395080133,0.0243000161435523,0
+"RXNORM:7884","pancuronium bromide",0,0,0,0
+"RXNORM:8091","petrolatum",0.00424708401671584,-0.00155984180774945,0,0
+"RXNORM:8134","phenobarbital",0,0,0,0
+"RXNORM:8308","phytonadione",0.0139921876855345,0.00238339000395231,0.0060262496910156,0
+"RXNORM:91211","fat emulsion",0.0286430992928258,0,0,0
+"RXNORM:9949","soybean oil",0.00194749071216399,0,0,0

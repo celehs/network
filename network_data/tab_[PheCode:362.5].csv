@@ -1,0 +1,54 @@
+"Variable","Description","Integrative_Estimator_RPDR","Integrative_Estimator_VA","Local_Estimator_RPDR","Local_Estimator_VA"
+"CCS:17","destruction of lesion of retina and choroid",0.0429006982492089,-0.00234840542853178,0.024029328510303,0
+"CCS:220","ophthalmologic and otologic...treatment",0.10007418634013,0.0514251051427545,0.0986201159407205,0.0387749842767991
+"CCS:227","other diagnostic procedures...consultation",0.0370879108864716,0.010524593416164,0.0260965362686477,0
+"CCS:241","visual aids and other optical supplies",0,0.0339586142231004,0,0.0600945666097756
+"Other lab:800070579","t.prot",0,0.0802483789380088,0,0.105288758625601
+"PheCode:250.7","diabetic retinopathy",-0.00132910454636395,0.0415750128439804,0,0.0460205935794667
+"PheCode:360.2","progressive myopia",0,0,0,0
+"PheCode:361.2","retinoschisis and retinal cysts",0.000528534114850093,-0.000200398210337043,0,0
+"PheCode:362.2","degeneration of macula...retina",0.000729264746493104,0.0488355999172446,0,0.0597900217859892
+"PheCode:362.6","peripheral retinal degenerations",0.0156767050411343,-0.0186815582799683,0,0
+"PheCode:362.7","hereditary retinal dystrophies",0.0354216749523416,-0.00758518550323368,0.0131305642599289,0
+"PheCode:365.1","open-angle glaucoma",-4.45267438318436e-05,0.00629742865226467,0,0.00684949659389073
+"PheCode:366.2","senile cataract",-0.0149917046915469,0.0330001074700577,0,0.024954154177911
+"PheCode:367.2","astigmatism",-0.0037127147182653,0.015464802923316,0,0.00892375042246153
+"PheCode:367.4","presbyopia",0,0.00930166212524565,0,0.0297271558713707
+"PheCode:367.8","hypermetropia",0.00124278941513228,0.0448538256617361,0,0.0347947344085613
+"PheCode:367.9","blindness and low vision",-0.00362747152326425,0.0833071388660756,0,0.0877614991243241
+"PheCode:368.1","amblyopia",0,0,0,0
+"PheCode:368.3","anisometropia",0.00114695640020553,-0.00117839757656137,0,0
+"PheCode:370.2","superficial keratitis",0.00392801643749227,-0.00791743563884061,0,0
+"PheCode:375.1","dry eyes",-0.00636434835724265,0.0292489429811327,0,0.0239506983095894
+"PheCode:376","disorders of the orbit",0,0,0,0
+"PheCode:389.3","degenerative and vascular disorders of ear",0,0,0,0
+"PheCode:695.4","lupus localized and systemic",0.000729745531674652,0.0951616746117763,0,0.101446074974134
+"PheCode:714.1","rheumatoid arthritis",-0.0063577484341252,0.0637353277506861,0,0.0689973097779653
+"PheCode:753.2","congenital anomalies of posterior segment of eye",0.020791136938199,0.0185141091837609,0,0
+"RXNORM:1000082","alcaftadine",0,0,0,0
+"RXNORM:11246","vitamin a",0,0,0,0
+"RXNORM:1388","lindane",0,0,0,0
+"RXNORM:14845","apraclonidine",0,0,0,0
+"RXNORM:1492727","apremilast",0,0,0,0
+"RXNORM:1599788","secukinumab",0,0,0,0
+"RXNORM:194279","palivizumab",0,0,0,0
+"RXNORM:214178","acetaminophen/butalbital",0,0,0,0
+"RXNORM:214256","aspirin/oxycodone",0,0,0,0
+"RXNORM:2410","chlorzoxazone",0,0,0,0
+"RXNORM:24605","etodolac",0.000912598965110155,0.0386323860790019,0,0.040813762947457
+"RXNORM:260040","evening primrose",0,0,0,0
+"RXNORM:27334","hypromellose",0.000696105461427191,-0.00159697565326242,0,0
+"RXNORM:282427","amitriptyline/perphenazine",0,0,0,0
+"RXNORM:28393","lactic acid",0,0,0,0
+"RXNORM:31819","nitazoxanide",0,0,0,0
+"RXNORM:32638","oxiconazole",0,0,0,0
+"RXNORM:4230","eye drop",0,0.0214307197418083,0,0.0833155497336883
+"RXNORM:5464","hyaluronidase",0,0,0,0
+"RXNORM:5521","hydroxychloroquine",0.00256765877980716,0.069402690384377,0,0.0840236464848993
+"RXNORM:6851","methotrexate",-0.0051250852538419,0.0471616077969263,0,0.062221529501152
+"RXNORM:689623","bacitracin/hydrocortisone/neomycin/polymyxin b",0,0,0,0
+"RXNORM:689953","polyethylene glycol 400/propylene glycol",0.0093256815362351,-0.00443470924341771,0,0
+"RXNORM:690312","cyclopentolate/phenylephrine",0,0,0,0
+"RXNORM:70727","fiber",0,0,0,0
+"RXNORM:8471","poliovirus vaccine",0,0,0,0
+"RXNORM:89785","methscopolamine",0,0,0,0

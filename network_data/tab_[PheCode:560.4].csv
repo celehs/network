@@ -1,0 +1,242 @@
+"Variable","Description","Integrative_Estimator_RPDR","Integrative_Estimator_VA","Local_Estimator_RPDR","Local_Estimator_VA"
+"CCS:102","ureteral catheterization",0,0,0,0
+"CCS:103","nephrotomy and nephrostomy",0,0,0.0146102740615206,0
+"CCS:112","other or therapeutic procedures of urinary tract",0,0,0,0
+"CCS:179","ct scan abdomen",0.000846758545778372,0.00111036847773968,0.000369011575992134,0.0138049959265057
+"CCS:183","routine chest x-ray",0,0,0,0
+"CCS:185","upper gastrointestinal x-ray",0,0,0.000443227936042591,0
+"CCS:186","lower gastrointestinal x-ray",0.0465144185691625,0.0259571755968641,0.0871837062160269,0
+"CCS:217","other respiratory therapy",0,0,0,0
+"CCS:221","nasogastric tube",0.0780912216866349,0.0517147799775613,0.0835934001961573,0.0253046118452252
+"CCS:223","enteral and parenteral nutrition",0.00548038336090089,0.00561770513237135,0.0184320324639911,0.00730076390452789
+"CCS:226","other diagnostic radiology and related techniques",0,0,0.00117648091792091,0
+"CCS:232","anesthesia",0,0,0,0
+"CCS:34","tracheostomy, temporary and permanent",0,0,0,0
+"CCS:5","insertion of catheter...canal",0,0,0,0
+"CCS:54","other vascular catheterization, not heart",0,0,0,0
+"CCS:71","gastrostomy, temporary and permanent",0,0,0.00833099616197362,0
+"CCS:72","colostomy, temporary and permanent",0.000535061646783843,0.000728401823724752,0.0284678793108781,0
+"CCS:73","ileostomy and other enterostomy",0,0,0,0.0045349368987003
+"CCS:75","small bowel resection",0.0378783499485543,0.0447866834569615,0.0489299566163502,0.0656639733517745
+"CCS:76","colonoscopy and biopsy",0,0,0.000862420410111311,0
+"CCS:77","proctoscopy and anorectal biopsy",0.00439166602596554,0.00369529509001496,0.0286469912311307,0
+"CCS:78","colorectal resection",0.0376200718956521,0.055770081230352,0.0327390245187776,0.066582995030657
+"CCS:79","local excision of...endoscopic",0,0,0.0428192156783993,0
+"CCS:80","appendectomy",0,0,0.0198757162404574,0
+"CCS:85","inguinal and femoral hernia repair",0,0,0,0
+"CCS:86","other hernia repair",0,0,0.0149816283509183,0.00105948524049994
+"CCS:87","laparoscopy",0.00651348416704322,0.0119315107387825,0.00648292602425081,0.00702135398483052
+"CCS:88","abdominal paracentesis",0,0,0,0
+"CCS:89","exploratory laparotomy",0.000563385440058927,0.00137450092236284,0.00654081739236001,0.00344894152849342
+"CCS:90","excision, lysis peritoneal adhesions",0.021539226805541,0.022288614111377,0.0169298930415737,0.0225388051553728
+"CCS:92","other bowel diagnostic procedures",0,0,0.0124769556529398,0
+"CCS:93","other non-or upper gi therapeutic procedures",0,0,0.0269749089585127,0
+"CCS:94","other or upper gi therapeutic procedures",0,0,0,0
+"CCS:95","other non-or lower gi therapeutic procedures",0,0,0.0228636751580416,0
+"CCS:96","other or lower gi therapeutic procedures",0.0879996584257795,0.0569899250506205,0.0768260391677858,0.0395512723298607
+"CCS:97","other gastrointestinal diagnostic procedures",0,0,0,0
+"CCS:98","other non-or gastrointestinal...procedures",0,0,0,0
+"CCS:99","other or gastrointestinal therapeutic procedures",0.011028699969444,0.0175164991661641,0,0.0205699013449893
+"LOINC:14338-8","prealbumin group:prealb",0,0,0.0155248114678632,0
+"LOINC:1798-8","amylase",0,0,0,0
+"LOINC:1977-8","bilirubin ictotest group:ictotest",0,0,0,0
+"LOINC:2006-5","ca125 group:ca125",0,0,0,0
+"LOINC:2524-7","lactate",0,0,0,0
+"LOINC:2777-1","phosphate",0,0,0,0
+"LOINC:3040-3","triacylglycerol lipase",0,0,0,0
+"LOINC:34713-8","clostridium difficile toxin a+b",0,0,0,0
+"LOINC:35492-8","staphylococcus aureus.methicillin resistant dna",0,0,0,0
+"LOINC:54067-4","clostridium difficile toxin genes",0,0,0,0
+"LOINC:5723-2","selenium group:selen",0,0,0.0148125642402426,0
+"LOINC:X1080-1","zinc ug/ml group:zn",0,0,0.00482210349862956,0
+"LOINC:X1486-0","copper ug/ml group:coppr",0,0,0,0
+"LOINC:X1700-4","vitamin a ug/dl group:vitma",0,0,0.0110829185664514,0
+"Other lab:1000056969","ion mg",0,0,0,0
+"Other lab:1200000190","ica",0,0,0,0.00322029575392857
+"Other lab:1200005740","segs",0,0,0,0
+"Other lab:1200005751","bands",0,0,0,0
+"Other lab:1200030725","bands",0,0,0,0
+"Other lab:1200031136","o2 sat",0,0,0,0
+"Other lab:1200031142","pco2",0,0,0,0
+"Other lab:1200055508","pre-alb",0,0,0,0
+"Other lab:1200056081","pco2",0,0,0,0
+"Other lab:1200059866","trsfrn",0,0,0,0
+"Other lab:1200077855","cbctime",0,0,0,0
+"Other lab:1200099453","prealbv",0,0,0,0
+"Other lab:1200154493","hct4",0,0,0,0
+"Other lab:1400027504","pco2",0,0,0,0
+"Other lab:1400057342","prealb",0,0,0,0.00739701429643476
+"Other lab:800024353","uric ac",0,0,0,0
+"PheCode:008.5","bacterial enteritis",0,0,0,0
+"PheCode:038.1","gram negative septicemia",0,0,0,0
+"PheCode:038.3","bacteremia",0,0,0,0
+"PheCode:080","postoperative infection",0,0,0,0
+"PheCode:1008","crushing or internal injury to organs",0,0,0,0
+"PheCode:1011","complications of surgical and medical procedures",0,0,0,0
+"PheCode:1090","acquired absence of organs",0,0,0,0
+"PheCode:151","cancer of stomach",0.0168524302914909,0.0165533618619965,0.0193419516101712,0
+"PheCode:153.2","colon cancer",0.0429198372025079,0.0436425597933381,0.0305003070058764,0.0213768918598148
+"PheCode:153.3","malignant neoplasm of...anus",0.00411756057333012,0.00510529525438459,0.00160722806990221,0
+"PheCode:157","pancreatic cancer",0,0,0,0
+"PheCode:158","neoplasm of unspecified nature of digestive system",0,0,0,0
+"PheCode:159.2","malignant neoplasm of...duodenum",0.0207796721187852,0.0220599995852087,0.0223633726988992,0.0199093643340277
+"PheCode:159.4","malignant neoplasm of...peritoneum",0.0132031304189244,0.0202929575050658,0.0273957819004491,0.00796595959452476
+"PheCode:175","acquired absence of breast",0,0,0.013307477052042,0
+"PheCode:180.1","cervical cancer",0,0,0.0229954739385493,0
+"PheCode:182","malignant neoplasm of uterus",0.0036129018845111,0.0068170377160639,0.00994272927551731,0
+"PheCode:184.1","malignant neoplasm of...adnexa",0.052456766944384,0.046654285161566,0.0510562813759742,0.0327388550227751
+"PheCode:189.2","cancer of bladder",0,0,0.00219191379022394,0
+"PheCode:195.1","malignant neoplasm, other",0,0,0.0109686826309384,0.0101353145120494
+"PheCode:198.3","secondary malignant neoplasm of digestive systems",0.0503538045968559,0.0565729046961038,0.0403527678775538,0.0496860320614119
+"PheCode:198.4","secondary malignant neoplasm of liver",0,0,0,0.00509452902149155
+"PheCode:209","neuroendocrine tumors",0.0004655444059221,0.00236169245368364,0,0
+"PheCode:211","benign neoplasm of other parts of digestive system",0,0,0,0
+"PheCode:259.2","carcinoid syndrome",0,0,0,0
+"PheCode:260.1","cachexia",0,0,0.00975639867916336,0
+"PheCode:260.2","severe protein-calorie malnutrition",0.0300543433933478,0.027592185769496,0.0286774162495583,0.0314270798230845
+"PheCode:260.3","adult failure to thrive",0,0,0.0436754298720542,0
+"PheCode:260.6","anorexia",0,0,0.000162292990426353,0
+"PheCode:263","other nutritional deficiency",0,0,0,0.00209950360885363
+"PheCode:275.3","disorders of magnesium metabolism",0,0,0,0
+"PheCode:276.1","electrolyte imbalance",0,0,0,0
+"PheCode:276.4","acid-base balance disorder",0,0,0,0.00215949580325204
+"PheCode:276.5","hypovolemia",0,0,0.00651671808786635,0
+"PheCode:285.1","acute posthemorrhagic anemia",0,0,0,0
+"PheCode:288.2","elevated white blood cell count",8.92493797588776e-05,0.000361482890164322,0,0
+"PheCode:338.1","acute pain",0.000193366928231651,0.000309619165434547,0,0
+"PheCode:343","infantile cerebral palsy",0,0,0.0219732401658606,0
+"PheCode:427.7","tachycardia nos",0.0011397534834407,0.00530554723846721,0,0
+"PheCode:441.1","acute vascular insufficiency of intestine",0.0215244689434864,0.0275990250344527,0.0357758997901975,0.019418736014966
+"PheCode:441.2","chronic vascular insufficiency of intestine",0.00203447743939392,0.00262940210721037,0.0214780441154662,0
+"PheCode:458.9","hypotension nos",0,0,0,0
+"PheCode:480.1","bacterial pneumonia",0,0,0,0
+"PheCode:501","pneumonitis due to inhalation of food or vomitus",0,0,0,0
+"PheCode:507","pleurisy; pleural effusion",0,0,0,0
+"PheCode:508","pulmonary collapse; interstitial...emphysema",0,0,0,0
+"PheCode:509.1","respiratory failure",0,0,0,0
+"PheCode:509.2","respiratory insufficiency",0,0,0,0
+"PheCode:509.3","pulmonary insufficiency or...surgery",0.00199029961619075,0.0107005215299925,0,0
+"PheCode:513.8","disorders of diaphragm",0,0,0.0152234711144619,0
+"PheCode:527.7","disturbance of salivary secretion",0,0,0.0190507095611223,0
+"PheCode:536.3","gastroparesis",0,0,0,0
+"PheCode:536.7","complications of gastrostomy,...enterostomy",0.0109894141851919,0.00828364755599568,0.0271859641202363,0
+"PheCode:536.8","dyspepsia and other...stomach",0,0,0.012035995648059,0
+"PheCode:540.1","appendicitis",0,0,0,0
+"PheCode:550.1","inguinal hernia",0,0,0,0
+"PheCode:550.3","femoral hernia",0.00270906447756965,0.0432583620388232,0,0.0336058523034539
+"PheCode:550.4","umbilical hernia",0,0,0.0192088205753239,0
+"PheCode:550.5","ventral hernia",0.0559246124554111,0.0643938189269642,0.0453951218384332,0.0311507728217465
+"PheCode:550.6","incisional hernia",0.0142672265915077,0.0150396195019663,0.0205596002603259,0
+"PheCode:555.1","regional enteritis",0.0318151673893006,0.0533942613611448,0.016021030042499,0.0528480531855916
+"PheCode:555.2","ulcerative colitis",0.00467759036018541,0.0163610926531585,0,0.00612630705017752
+"PheCode:556.1","ulceration of intestine",0,0,0.00506182086680361,0
+"PheCode:558","noninfectious gastroenteritis",0.00549377928793197,0.00647508879760513,0.0096345989603005,0.00730177048523424
+"PheCode:559","ileostomy status",0.0465586189017402,0.0494568857649245,0.0353003850231803,0.0393158256933735
+"PheCode:560.1","paralytic ileus",0.0996755978141068,0.115077973873212,0.0855038794471287,0.115893144009614
+"PheCode:560.2","impaction of intestine",0.040878551940264,0.0297423375125634,0.064267599783663,0
+"PheCode:560.3","peritoneal or intestinal adhesions",0.11244270313473,0.101318972729891,0.098794943727491,0.0899800054031739
+"PheCode:561.1","diarrhea",0,0,0,0
+"PheCode:561.2","flatulence",0,0,0,0.0262663428763235
+"PheCode:562.1","diverticulosis",0,0,0,0
+"PheCode:562.2","diverticulitis",0.0190716544899154,0.0319309097802718,0.00238020036586141,0.0282803806096926
+"PheCode:563","constipation",0,0,0,0
+"PheCode:564.8","abnormal findings on...area",0,0,0,0.000142415873153391
+"PheCode:564.9","personal history of diseases of digestive system",0.00103533581342176,0.00149224929224097,0.00935385826736302,0
+"PheCode:567","peritonitis and retroperitoneal infections",0.0412515075013412,0.0717917855147049,0.0174803172383314,0.0712697714359037
+"PheCode:568.1","peritoneal adhesions postoperative postinfection",0.00267765374150741,0.00379892302546648,0,0.00901791868841792
+"PheCode:569.2","gastrointestinal complications",0.0436357397820356,0.0334512219495187,0.0419487585469758,0.0267156283776033
+"PheCode:572","ascites non malignant",0,0,0,0
+"PheCode:574.1","cholelithiasis",0,0,0,0
+"PheCode:574.2","calculus of bile duct",0,0,0,0
+"PheCode:574.3","cholecystitis without cholelithiasis",0,0,0,0
+"PheCode:575.8","other disorders of biliary tract",0,0,0,0
+"PheCode:577.1","acute pancreatitis",0,0,0,0
+"PheCode:578.1","hematemesis",0,0,0,0
+"PheCode:578.9","hemorrhage of gastrointestinal tract",0,0,0,0
+"PheCode:585.1","acute renal failure",0,0,0,0
+"PheCode:586.4","stricture/obstruction of ureter",0,0,0,0
+"PheCode:595","hydronephrosis",0.0135842598582569,0.0137184577330668,0.0199140251342671,0
+"PheCode:597.2","urinary complications nec",0,0,0.00923494445625798,0
+"PheCode:599.1","urinary obstruction",0,0,0.00780511724922653,0
+"PheCode:656.6","perinatal disorders of digestive system",0.0178618508449778,0.000865160755940887,0.0262515594081287,0
+"PheCode:750.2","lower gastrointestinal congenital anomalies",0.0122123809205384,0.0106367019011838,0.0331577689442438,0
+"PheCode:785","abdominal pain",0.028912418128647,0.0338289091241698,0.0222741936241701,0.0189298465796882
+"PheCode:789.1","persistent vomiting",0,0,0,0
+"PheCode:853","complication of colostomy or enterostomy",0.0130083323837604,0.0305241578609418,0.0061834921163123,0.0330496847079168
+"PheCode:958.1","postoperative shock",-0.000295313684628294,0.0012554466295627,0,0
+"PheCode:994.1","systemic inflammatory response syndrome sirs",0,0,0,0
+"PheCode:994.2","sepsis",0.000758617912203355,0.0071065333440442,0,0
+"RXNORM:1008574","sodium biphosphate/sodium phosphate",0,0,0.0151247139829148,0
+"RXNORM:1399","benzocaine",0,0,0.0193751115036909,0
+"RXNORM:1538097","vedolizumab",-0.00315549841537956,0.0440603388018561,0,0.040180561676892
+"RXNORM:153970","hyoscyamine",0,0,0.0304819825875337,0
+"RXNORM:1596","bisacodyl",0,0,0,0
+"RXNORM:16728","acetohydroxamic acid",0,0.000460352679152812,0,0.00701559712970413
+"RXNORM:1815","bupivacaine",0,0,0,0
+"RXNORM:216554","dextrose/potassium chloride/sodium chloride",0.00835427991373017,-0.000400043674320316,0.0341383979633457,0
+"RXNORM:2187","cefotetan",0,0,0,0
+"RXNORM:2447","cholestyramine",0,0,0.0015035367129287,0
+"RXNORM:26225","ondansetron",0,0,0,0.00136947829319515
+"RXNORM:26344","guar gum",0,0,0.0180786791571918,0
+"RXNORM:28200","ketorolac tromethamine",0.00443367357257543,0.00620463859653164,0.00113343786134933,0
+"RXNORM:29899","methylnaltrexone",0.00628086538152222,0.00995276692424443,0.0284791497322887,0
+"RXNORM:316989","wafer",0,0,0,0
+"RXNORM:32521","rocuronium bromide",0,0,0.000644296277027643,0
+"RXNORM:3319","diatrizoate",0.0149290590390271,0.0179968507801461,0.0394882058478189,0.00142213398821752
+"RXNORM:33290","phenol",0.0249575010252269,0.0255052567394931,0.0475829947047858,0.000914752182684174
+"RXNORM:3423","hydromorphone",0,0,0,0
+"RXNORM:34322","potassium phosphate",0.000352873962865342,0.00068671340223412,0,0
+"RXNORM:36709","sodium phosphate",0,0,0,0
+"RXNORM:3829","enalaprilat",0,0,0,0.00409069651270958
+"RXNORM:40790","pantoprazole",0,0,0.0165159683084067,0
+"RXNORM:4278","famotidine",0,0,0,0
+"RXNORM:466426","benzocaine/menthol",0,0,0.0187306998474185,0
+"RXNORM:480639","alvimopan",0,0,0,0
+"RXNORM:4910","glycerin",0.0648881636218462,0.00953228444853388,0.068667527829836,0
+"RXNORM:4955","glycopyrrolate",0,0,0,0
+"RXNORM:5224","heparin",0,0,0,0
+"RXNORM:52356","magnesium citrate",0,0,0.00135581564230935,0
+"RXNORM:594040","atropine/diphenoxylate",0,0,0,0
+"RXNORM:5956","iohexol",0,0,0,0.0103457695162135
+"RXNORM:5966","iopamidol",0,0,0.0027679614026475,0
+"RXNORM:637366","wheat dextrin",0,0,0.0121990954643944,0
+"RXNORM:6585","magnesium sulfate",0,0,0,0
+"RXNORM:67108","enoxaparin",0,0,0,0
+"RXNORM:690247","benzocaine/butamben/tetracaine",0,0,0,0
+"RXNORM:6915","metoclopramide",0,0,0,0
+"RXNORM:6922","metronidazole",0,0,0,0
+"RXNORM:6960","midazolam",0,0,0,0
+"RXNORM:6972","mineral oil",0,0,0.0147270460036556,0
+"RXNORM:7052","morphine",0,0,0,0
+"RXNORM:709271","certolizumab",-0.000814962861626525,0.00784987866888788,0,0
+"RXNORM:7238","nalbuphine",0,0,0,0
+"RXNORM:7242","naloxone",0,0,0.00279935412681523,0
+"RXNORM:7299","neomycin",0,0,0,0
+"RXNORM:7315","neostigmine",0.0113901409662411,0.0230480757497629,0,0.0189834312652608
+"RXNORM:733","ampicillin",0,0,0,0
+"RXNORM:74169","piperacillin/tazobactam",0,0,0,0
+"RXNORM:7617","octreotide",0.0219465094207195,0.0377230914553024,0.0242123678819526,0.0344997574119795
+"RXNORM:7676","opium",0,0,0.000482130181863105,0
+"RXNORM:792171","bupivacaine/hydromorphone",0,0,0.0339780765228123,0
+"RXNORM:8410","alteplase",0,0,0,0
+"RXNORM:8591","potassium chloride",0,0,0,0
+"RXNORM:8704","prochlorperazine",0,0,0,0
+"RXNORM:8745","promethazine",0,0,0,0
+"RXNORM:91211","fat emulsion",0,0,0,0
+"RXNORM:9796","simethicone",0,0,0.0142132199713693,0
+"RXNORM:9949","soybean oil",0,0,0.0577414472484001,0
+"ShortName:Bicarbonate","bicarbonate",0,0,0,0
+"ShortName:BUN - BSP","bun - bsp",0,0,0,0
+"ShortName:Chloride - BSP","chloride - bsp",0,0,0,0
+"ShortName:eGFR","egfr",0,0,0,0
+"ShortName:HCT","hct",0,0,0,0
+"ShortName:Hemoglobin","hemoglobin",0,0,0,0
+"ShortName:MCH","mch",0,0,0,0
+"ShortName:MCHC","mchc",0,0,0,0
+"ShortName:MCV","mcv",0,0,0,0
+"ShortName:Mg - BSP","mg - bsp",0,0,0,0
+"ShortName:Platelet","platelet",0,0,0,0
+"ShortName:Potas - BSP","potas - bsp",0,0,0,0
+"ShortName:RBC","rbc",0,0,0,0
+"ShortName:Sodium - BSP","sodium - bsp",0,0,0,0
+"ShortName:WBC","wbc",0,0,0,0

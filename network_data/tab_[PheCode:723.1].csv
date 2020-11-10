@@ -1,0 +1,56 @@
+"Variable","Description","Integrative_Estimator_RPDR","Integrative_Estimator_VA","Local_Estimator_RPDR","Local_Estimator_VA"
+"CCS:156","injections and aspirations...tissue",0,0,0,0.0212519042212549
+"CCS:163","other non-or therapeutic...system",0,0,0,0
+"CCS:213","physical therapy exercises,...procedures",0,0,0,0
+"CCS:7","other diagnostic nervous system procedures",0.0129241681289919,0.0115768402599966,0,0.00191130500981278
+"CCS:8","other non-or or...procedures",0,0,0,0
+"CCS:9","other or therapeutic nervous system procedures",0.0366215609898962,0.0551654648524526,0,0.0451602919651919
+"LOINC:10381-2","target cells",0,0,0,0
+"LOINC:2021-4","venous pco2 group:vpco2",0,0,0,0
+"LOINC:2705-2","venous po2 group:vpo2",0,0,0,0
+"LOINC:2746-6","venous ph group:vph",0,0,0,0
+"LOINC:703-9","basophilic stippling",0,0,0,0
+"LOINC:7790-9","burr cells",0,0,0,0
+"PheCode:070.2","viral hepatitis b",0.0525385480368109,-0.00260360659442554,0,0
+"PheCode:071.1","hiv infection, symptomatic",0.0269592740930499,-0.000646261620701188,0,0
+"PheCode:201","hodgkin's disease",0.0141522967657265,-6.66440322029894e-05,0,0
+"PheCode:278.1","obesity",0,0,0,0
+"PheCode:292.1","aphasia/speech disturbance",0,0,0,0
+"PheCode:324","other cns infection and poliomyelitis",0,0,0,0.031242863935099
+"PheCode:332","parkinson's disease",0,0,0,0.00255753396047777
+"PheCode:333.1","essential tremor",0,0,0,0
+"PheCode:333.4","torsion dystonia",0.10040299493624,0.114197565628736,0.0197696331242887,0.110937215774699
+"PheCode:335","multiple sclerosis",0,0,0,0
+"PheCode:339","other headache syndromes",0,0,0,0
+"PheCode:342","hemiplegia",-6.59200552055192e-05,0.000779271439855733,0,0.0242224749913549
+"PheCode:350.1","abnormal involuntary movements",0,0,0,0.000563335101570369
+"PheCode:368.9","subjective visual disturbances",0.140411076989937,0.00633986839549765,0,0
+"PheCode:428.2","heart failure nos",0,0,0,0
+"PheCode:509.1","respiratory failure",0,0,0,0
+"PheCode:721.1","spondylosis without myelopathy",0,0,0,0.00211788359638106
+"PheCode:721.2","spondylosis with myelopathy",0,0,0,0
+"PheCode:722.6","degeneration of intervertebral disc",0,0,0,0
+"PheCode:724.8","other symptoms referable to back",-0.00137165838576245,0.00772821817043016,0,0.0224765978602875
+"PheCode:737.3","kyphoscoliosis and scoliosis",0.0799022958683794,0.0685260793952168,0,0.0493583729867048
+"PheCode:761","cervicalgia",0.0359094310227123,0.0332630029013389,0,0.0249529818755377
+"PheCode:765","cervical radiculitis",0.0661816391127803,0.0371775689885811,0.015963062475896,0.00576780210637976
+"PheCode:772.2","spasm of muscle",0.0476745112050723,0.0346461214467844,0,0.00813103770158505
+"PheCode:772.3","muscle weakness",0,0,0,0
+"PheCode:819","skull and face...injury",0,0,0,0.00596719875644308
+"PheCode:841","sprains and strains of back and neck",0.00086492240505153,0.00330500476865361,0,0.0331567006740294
+"RXNORM:1000104","incobotulinumtoxina",0,0,0,0
+"RXNORM:10811","trihexyphenidyl",0,0,0,0.00673003594154791
+"RXNORM:115698","ziprasidone",0,0,0,0.00995517725096353
+"RXNORM:1712","botulinum toxin type a",0,0.0286035548142947,0,0.0864592661126342
+"RXNORM:2167673","botulinum toxin type b",0,0,0,0
+"RXNORM:21949","cyclobenzaprine",0.0026945181278407,0.00152973105449925,0,0
+"RXNORM:253146","amphetamine/dextroamphetamine",-0.00131420533927647,0.0228711280618384,0,0.0393513520833628
+"RXNORM:3105","dantrolene",0,0,0,0
+"RXNORM:3247","desipramine",0,0,0,0.00627841052061985
+"RXNORM:3322","diazepam",0,0,0,0
+"RXNORM:35827","ketorolac",0,0,0,0.0227286801711847
+"RXNORM:596205","ramelteon",-0.000200942616643717,0.00591725903780281,0,0.0345770289992127
+"RXNORM:617777","omeprazole/sodium bicarbonate",0,0,0,0.0134202514964712
+"RXNORM:72257","interferon beta-1b",-0.000425221650832898,0.0262661067346103,0,0.055159250618169
+"RXNORM:860189","onabotulinumtoxina",0.00914893588023886,0.112987419538978,0,0.123662766506026
+"RXNORM:9601","scopolamine",0,0,0,0.00265109636072754
