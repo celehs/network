@@ -6,7 +6,7 @@ library(base)
 library(data.table)
 library(dplyr)
 
-setwd("/n/data1/hsph/biostat/celehs/cb334/feature_selection/result/network_result")
+setwd("/n/data1/hsph/biostat/celehs/cb334/network_vis/result/network_result")
 source("../../code/myfunction_new.R")
 
 clean.fun=function(feature_desc){
@@ -27,22 +27,24 @@ clean.fun=function(feature_desc){
   nm
 }
 
+# upload dictionnary results
 load("/n/data1/hsph/biostat/celehs/ch263/feature_selection/dictionary/result/dict_combine_uniform_molei.Rdata")
 dict.combine=dict.combine[,c("feature_id", "feature_desc")]
 dict.combine$feature_desc=unlist(lapply(1:dim(dict.combine)[1], function(jj) clean.fun(dict.combine$feature_desc[jj])))
 colnames(dict.combine)=c("Variable","Description")
 
-interest.list=list.files("../network_data")
+# upload network data
+interest.list=list.files("/n/data1/hsph/biostat/celehs/ch263/feature_selection/result_final2/network_data")
 interest.list=gsub("tab_|\\[|\\]|.csv", "",interest.list)
 
 main.kern=function(ii){
   interest=interest.list[ii]
   interest.label=dict.combine[dict.combine$Variable==interest,"Description"]
-  res=read.csv(paste0("../network_data/tab_[", interest,"]", ".csv"))
+  res=read.csv(paste0("/n/data1/hsph/biostat/celehs/ch263/feature_selection/result_final2/network_data/tab_[", interest,"]", ".csv"))
   res[is.na(res)]=0
   res[,1]=as.character(res[,1])
   res[,2]=as.character(res[,2])
-
+  
   res=res[,c("Variable", "Description", "Integrative_Estimator_RPDR", "Integrative_Estimator_VA")]
   colnames(res)[-c(1:2)]=c("int_RPDR", "int_VA")
   res1=res[res[,"int_RPDR"]!=0&res[,"int_VA"]!=0,c(1,2,3,4)]
