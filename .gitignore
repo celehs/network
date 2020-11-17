@@ -2,3 +2,5 @@
 .Rhistory
 .RData
 .Ruserdata
+network_data/
+.DS_Store
