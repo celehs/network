@@ -49,10 +49,10 @@ for (ii in 1:length(interest.list)){
   
   res=res[,c("Variable", "Description", "Integrative_Estimator_RPDR", "Integrative_Estimator_VA")]
   colnames(res)[-c(1:2)]=c("int_RPDR", "int_VA")
-  
-  res$int01 <- rep(0,length(res$int_RPDR))
+  #
+  res['int01'] <-rep(0,length(res$int_RPDR))
   res$int01[which(res$int_RPDR!=0 | res$int_VA!=0)] <- 1
-  res <- subset(res, select=c("int_RPDR", "int_VA"))
+  res <- subset(res, select=c("Variable", "Description","int01"))
   
   data.res[[interest]] <- res
 }
