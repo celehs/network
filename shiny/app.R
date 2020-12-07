@@ -3,7 +3,8 @@ library(shiny)
 library(Matrix)
 library(shinydashboard)
 library(shinycssloaders)
-source("network_shiny.R")
+library(DT)
+source("helper.R")
 load("data/edge_matrix.RData")
 
 
