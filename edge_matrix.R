@@ -1,5 +1,13 @@
 rm(list=ls())
 library("visNetwork")
+library("RColorBrewer")
+library(htmlwidgets)
+library(base)
+library(data.table)
+library(dplyr)
+library(network)
+library(igraph)
+library(igraphdata)
 library("Matrix")
 
 mainpath = "D:/xxiong/program/network/network.vis-main"
@@ -112,6 +120,7 @@ for (i in 1:5) {
 n.node = nrow(dict.combine)
 set.seed(10101)
 dict.combine$group = sample(1:30,n.node,replace = TRUE)
+dict.combine$group = sample(1:10,n.node,replace = TRUE)
 edge.full.list.2 = list(list(1,1),list(1,1),list(1,1),list(1,1),list(1,1))
 for (i in 1:5) {
   edge.full.list.2[[i]][[1]] = edge.full.list[[i]]
@@ -119,6 +128,7 @@ for (i in 1:5) {
                                                                    dict.combine$Variable)])
 }
 edge.full.list = edge.full.list.2
+
 
 dict.combine$degree.VA.inte = dict.combine$degree.RPDR.inte = 
   dict.combine$degree.VA.local =  dict.combine$degree.RPDR.local = 
@@ -141,10 +151,10 @@ for (method in 1:5) {
 
 
 
-
 a<-ls()
 rm(list=a[which(a!='edge.full.list' & a !='dict.combine' & a != 'edge.list')])
 rm(a)
+
 mainpath = "D:/xxiong/Github/network.vis"
 setwd(mainpath)
 save.image("shiny/data/edge_matrix.RData")
@@ -158,3 +168,5 @@ a = table(dict.combine$Description)
 tail(sort(a),100)
 b = dict.combine[dict.combine$Description=="protein",]
 View(b)
+
+save.image("network_shiny/data/edge_matrix.RData")
