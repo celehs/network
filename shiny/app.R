@@ -60,6 +60,8 @@ ui <- dashboardPage(
         box(collapsible=TRUE,collapsed = FALSE,
             width = NULL, title = "Neighbors of",
             textOutput("shiny_returntext",container = h4),
+            actionButton("addButton", "Add to candidates", icon = tags$i(class = "fas fa-project-diagram", style="font-size: 10px"), class = "btn-success"),
+            
             hr(),
             br(),
             DT::dataTableOutput("shiny_return"))
@@ -277,6 +279,37 @@ server <- function(input, output, session) {
     }
   })
   
+  observe({
+    input$addButton
+    isolate({
+      method = as.numeric(method())
+      s = input$table_rows_selected
+      if(length(s)!=0 & length(input$current_node_id$nodes[[1]])!=0){
+        node_now = input$current_node_id$nodes[[1]]
+        edge.ma.now = edge.full.list[[method]][[1]]
+        loc.node_now = match(node_now, colnames(edge.ma.now))
+        if(is.na(loc.node_now)==FALSE){
+          node_now_name = colnames(edge.ma.now)[loc.node_now]
+          x = input$inCheckboxGroup2
+          x = c(node_now_name, x)
+          x.neighbor = sapply(x, function(xx){
+            sum(edge.full.list[[method]][[1]][xx,]==1) + 
+              sum(edge.full.list[[method]][[1]][,xx]==1) - 
+              sum(edge.full.list[[method]][[1]][,xx] == 1 & 
+                    edge.full.list[[method]][[1]][xx,] == 1)
+          })
+          x.name = dict.combine$Description[match(x,dict.combine$Variable)]
+          x.neighbor = paste0(x.name," (" ,x.neighbor," degrees)")
+          updateCheckboxGroupInput(session, "inCheckboxGroup2",
+                                   label = paste(length(x), " candidate nodes:"),
+                                   choiceValues = x,
+                                   choiceNames = x.neighbor,
+                                   selected = x
+          )
+        }
+      }
+    })
+  })
   
 }
 
