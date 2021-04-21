@@ -251,7 +251,8 @@ server <- function(input, output, session) {
                     addEdges = ledges,
                     useGroups = FALSE, zoom = FALSE,
                     stepX = 150, stepY = 75,ncol=1) %>%
-          visInteraction(hover = TRUE) %>%
+          visInteraction(hover = TRUE,
+                         navigationButtons = TRUE) %>%
           visPhysics(barnesHut = list("avoidOverlap"=0.1)) %>%
           visIgraphLayout(layout = "layout_nicely",physics = TRUE,
                           smooth = TRUE) %>%
@@ -293,7 +294,8 @@ server <- function(input, output, session) {
                     addEdges = ledges,
                     useGroups = FALSE, zoom = FALSE,
                     stepX = 150, stepY = 75,ncol=1) %>%
-          visInteraction(hover = TRUE) %>%
+          visInteraction(hover = TRUE,
+                         navigationButtons = TRUE) %>%
           visPhysics(barnesHut = list("avoidOverlap"=0.7)) %>%
           visIgraphLayout(layout = "layout_nicely",physics = TRUE,
                           smooth = TRUE) %>%
