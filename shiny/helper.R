@@ -98,7 +98,7 @@ vis.InOutNodes <- function(root.node, method, edge.list, edge.full.list, dict.co
                          (max(length.total)-min(length.total)))^5+0.2>1,1,
                        (1-(length.total-min(length.total))/
                          (max(length.total)-min(length.total)))^5+0.2),2)
-    plot(length.total,color.opa)
+    #plot(length.total,color.opa)
     edges = cbind(edges, data.frame(color.color=paste0("rgba(128,128,128,", color.opa,")"),
                                     color.opa = color.opa,
                                     color.highlight="rgba(205,104,57)",
