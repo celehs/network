@@ -36,14 +36,23 @@ ui <- dashboardPage(
              column(3,actionButton('refresh', 'Unselect', 
                                    icon = tags$i(class = "fa fa-refresh", 
                                                  style="font-size: 10px")))), 
-    checkboxInput("cluster", "Cluster by groups*", value = FALSE),
-      fluidRow(column(2),
-               column(9,downloadButton("downloadData", "Download as html"))),
-    menuItem("Instructions", icon = icon("th"), tabName = "Instructions")
+    checkboxInput("cluster", "Cluster by groups*", value = FALSE)
+
     )
   ),
   
   dashboardBody(
+    bsModal(
+      id = "instruction", title = "Instruction", trigger = FALSE,
+      size = "small",
+      p('1. Please refer to "Possible input" box to see appropriate values.'),
+      p('2. If you select "cluster by groups", double click any group node (ellipse) to unfold or
+                                  any expanded individual node (square) to fold the group it belongs to. 
+                                  Click "Reinitialize clustering" botton to fold all groups.'),
+      p('3. Click any individual node (ellipse) to see its neighbors.'),
+      p('4. The maximum number of input nodes has been set to be 50. However, less than 10 nodes
+                    are recommended considering the possessing time and network density.')
+    ),
     tabItems(
       tabItem(tabName = "Network",
               fluidRow(
@@ -92,7 +101,14 @@ ui <- dashboardPage(
                      )  
                        
                    )
-                 )
+                 ),
+              column(7),
+              column(1,downloadBttn(outputId = "downloadData", 
+                                      label = "Download nodes as .csv",
+                                      style = "material-circle",
+                                      color = "default")),
+              column(1,actionBttn("instruct", "Help", style = "material-circle",
+                                    icon = icon("question")))
               ), 
               fluidRow(
                 column(width = 12,
@@ -101,22 +117,7 @@ ui <- dashboardPage(
                 
               )
 
-      ),
-      tabItem(tabName = "Instructions",
-              fluidRow(
-                column(
-                  width = 12,
-                  strong("Instruction:"),
-                  p('1. Please refer to "Possible input" box to see appropriate values.'),
-                  p('2. If you select "cluster by groups", double click any group node (ellipse) to unfold or
-                                  any expanded individual node (square) to fold the group it belongs to. 
-                                  Click "Reinitialize clustering" botton to fold all groups.'),
-                  p('3. Click any individual node (ellipse) to see its neighbors.'),
-                  p('4. The maximum number of input nodes has been set to be 50. However, less than 10 nodes
-                    are recommended considering the possessing time and network density.')
-                  
-                )
-              ))
+      )
     )
   )
 )
@@ -129,6 +130,9 @@ server <- function(input, output, session) {
   method = reactive({input$select})
   cluster = reactive({input$cluster})
   
+  observeEvent(input$instruct, {
+    toggleModal(session, "instruction", toggle = "open")
+  })
   
   output$network <- renderUI({
 
@@ -410,7 +414,7 @@ server <- function(input, output, session) {
 
   output$downloadData <- downloadHandler(
     filename = function() {
-      paste("network.html")
+      paste("node.csv")
     },
     content = function(path) {
       s = input$inCheckboxGroup2
@@ -423,90 +427,22 @@ server <- function(input, output, session) {
                                    edge.list, edge.full.list, dict.combine)
         nodes = draw.data[[1]]
         edges = draw.data[[2]]
-        group.legend = draw.data[[3]][[1]]
-        ledges = draw.data[[3]][[2]]
-        group.target = draw.data[[4]][[1]]
-        group.other = draw.data[[4]][[2]]
-        text.group.color = draw.data[[4]][[3]]
-        if(cluster()==TRUE){
-          edges$length[edges$length<300] =  as.numeric(edges$length[edges$length<300])*2
-          if(sum(edges$length>400)>0){
-            edges$length[edges$length>400] =  runif(sum(edges$length>400),400,450)
-          }
-          nodes$mass[(length(nodes$mass)-length(root.node)+1):length(nodes$mass)]=30
-          
-          a = visNetwork(nodes, edges, width = "100%",height = height) %>%
-            visNodes(color = list(background = "lightblue",
-                                  border = "darkblue",
-                                  highlight = "yellow"),
-                     shadow = list(enabled = TRUE, size = 10)) %>%
-            visEdges(
-              physics = TRUE,
-              smooth = FALSE,
-              hoverWidth = 2.5) %>%
-            visOptions(highlightNearest =
-                         list(enabled = T, degree = 1, hover = T,
-                              hideColor = "rgba(200,200,200,0.2)"),
-                       selectedBy = "group",
-                       #clickToUse = TRUE,
-                       collapse = FALSE) %>%
-            visLegend(width = 0.1, position = "right",
-                      addNodes = group.legend,
-                      addEdges = ledges,
-                      useGroups = FALSE, zoom = FALSE,
-                      stepX = 150, stepY = 75,ncol=1) %>%
-            visInteraction(hover = TRUE) %>%
-            visPhysics(barnesHut = list("avoidOverlap"=0)) %>%
-            visIgraphLayout(layout = "layout_nicely",physics = TRUE,
-                            smooth = TRUE) %>%
-            
-            
-            visClusteringByGroup(groups = c(group.target,group.other),
-                                 label = "Group:\n",
-                                 scale_size = TRUE,
-                                 shape = c(rep("ellipse",length(group.target)),
-                                           rep("ellipse",length(group.other))),
-                                 color = c(rep("#9955FF",length(group.target)),
-                                           text.group.color),
-                                 force = TRUE)%>%
-            
-            visLayout(randomSeed = 10) # to have always the same network
-        }else{
-          a = visNetwork(nodes, edges, width = "100%",height = height) %>%
-            visNodes(color = list(background = "lightblue",
-                                  border = "darkblue",
-                                  highlight = "yellow"),
-                     shadow = list(enabled = TRUE, size = 10)) %>%
-            visEdges(
-              #physics = FALSE,
-              smooth = FALSE,
-              hoverWidth = 2.5) %>%
-            visOptions(highlightNearest =
-                         list(enabled = T, degree = 1, hover = T,
-                              hideColor = "rgba(200,200,200,0.2)"),
-                       selectedBy = "group",
-                       #clickToUse = TRUE,
-                       collapse = FALSE) %>%
-            visLegend(width = 0.1, position = "right",
-                      addNodes = group.legend,
-                      addEdges = ledges,
-                      useGroups = FALSE, zoom = FALSE,
-                      stepX = 150, stepY = 75,ncol=1) %>%
-            visInteraction(hover = TRUE) %>%
-            visPhysics(barnesHut = list("avoidOverlap"=0)) %>%
-            visIgraphLayout(layout = "layout_nicely",physics = TRUE,
-                            smooth = TRUE) %>%
-            visLayout(randomSeed = 10) # to have always the same network
-        }
+        # target = data.frame("m1" = match(edges$from, s),
+        #                     "m2" = match(edges$to, s))
+        # target[!is.na(target$m1),1] = paste0("node",target[!is.na(target$m1),1])
+        # target[!is.na(target$m2),2] = paste0("node",target[!is.na(target$m2),2])
+        # target[is.na(target$m1),1]="other"
+        # target[is.na(target$m2),2]="other"
+        # edges$direction = paste0(target$m1," -> ",target$m2)
+        file = edges[,c(1,2,3,4)]
+        file$from.term = nodes$label[match(file$from,nodes$id)]
+        file$to.term = nodes$label[match(file$to,nodes$id)]
+        file = file[,c(3,1,5,2,6,4)]
+        file = file[order(file$corvalue,decreasing = TRUE),]
       }else{
-        a = visNetwork(data.frame(), data.frame(), width = "100%",height = height,
-                       main = "Try to click some rows in the 'Possible inputs' box to specify your nodes")
+        file = data.frame("Warning"="Try to click some rows in the 'Possible inputs' box to specify your nodes!")
       }
-      
-      
-      visSave(a, file = path, selfcontained = TRUE)
-    
-      
+      write.csv(file,path,row.names = FALSE)
     }
   )
 

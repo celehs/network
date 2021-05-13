@@ -48,6 +48,8 @@ vis.InOutNodes <- function(root.node, method, edge.list, edge.full.list, dict.co
       length.total = c(length.total,length)
       edges = rbind(edges, data.frame(from=as.character(rep(from,length(newto))),
                                       to=as.character(newto),
+                                      edgetype="from target to other",
+                                      corvalue=newto.value,
                                       length=length,
                                       title = paste0(as.character(rep(from,length(newto))),"<b> &rarr; </b>",
                                                      as.character(newto))))
@@ -68,6 +70,8 @@ vis.InOutNodes <- function(root.node, method, edge.list, edge.full.list, dict.co
       length.total = c(length.total,length)
       edges = rbind(edges, data.frame(from=as.character(newfrom),
                                       to=as.character(rep(to,length(newfrom))),
+                                      edgetype="from other to target",
+                                      corvalue=newfrom.value,
                                       length=length,
                                       title = paste0(as.character(newfrom),"<b> &rarr; </b>",
                                                      as.character(rep(to,length(newfrom))))))
@@ -88,6 +92,8 @@ vis.InOutNodes <- function(root.node, method, edge.list, edge.full.list, dict.co
       length.total = c(length.total,length)
       edges = rbind(edges, data.frame(from=as.character(newtofrom),
                                       to=as.character(rep(to,length(newtofrom))),
+                                      edgetype="both directions",
+                                      corvalue=newtofrom.value,
                                       length=length,
                                       title= paste0(as.character(newtofrom),"<b> &harr; </b>",
                                                     as.character(rep(to,length(newtofrom))))))
