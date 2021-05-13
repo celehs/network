@@ -1,5 +1,6 @@
 library(visNetwork)
 library(shiny)
+library(shinyBS)
 library(shinyWidgets)
 library(Matrix)
 library(shinydashboard)
