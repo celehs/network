@@ -1,0 +1,10 @@
+
+Date: 05.20.2021
+
+Folder: KESER_RESULTS/results
+
+Version of the KESER results copied from the directory
+/n/data1/hsph/biostat/celehs/lab/ch263/feature_selection/revision/network/result/
+
+These results were generated on 11/01/2021
+
