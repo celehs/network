@@ -153,7 +153,7 @@ vis.InOutNodes <- function(root.node, method, edge.list, edge.full.list, dict.co
                                   group = dict.combine$group_label[match(nodes$id,dict.combine$Variable)],
                                   Cap = dict.combine$Cap[match(nodes$id,dict.combine$Variable)],
                                   shape = c(rep("star",n.root),rep("box",n.nonroot)),
-                                  mass = c(rep(7,n.root),rep(3,n.nonroot)),
+                                  mass = c(rep(10,n.root),rep(5,n.nonroot)),
                                   font.size = c(rep(30,n.root),rep(22,n.nonroot)),
                                   size =  c(rep(30,n.root),rep(20,n.nonroot)),
                                   font.background = c(rep("#FFFFF0",n.root),rep("",n.nonroot)),
@@ -209,13 +209,13 @@ vis.InOutNodes <- function(root.node, method, edge.list, edge.full.list, dict.co
   #  nodes$color.hover.background[1:n.root] =  nodes$color.border[1:n.root] = "#FF0000"
   nodes$color.highlight.border[1:n.root] = nodes$color.hover.border[1:n.root] = "#FF0000"
  
-  nodes$font.size = sapply(nodes$color.opa*20,function(x){max(min(x,18),5)})
+  nodes$font.size = sapply(nodes$color.opa*35,function(x){max(min(x,30),10)})
   nodes$font.size[str_length(nodes$label)>40] = 
     nodes$font.size[str_length(nodes$label)>40]*40/
     str_length(nodes$label[str_length(nodes$label)>40])
   nodes$font.size[str_length(nodes$label)>40] = sapply(nodes$font.size[str_length(nodes$label)>40],
-                                                       function(x){max(x,5)})
-  nodes$font.size[1:n.root] = 20
+                                                       function(x){max(x,10)})
+  nodes$font.size[1:n.root] = 35
   
   group.target = unique(nodes$group[1:n.root])
   group.other.C = setdiff(unique(nodes$group[nodes$Cap=="C"]),group.target)
@@ -241,7 +241,8 @@ vis.InOutNodes <- function(root.node, method, edge.list, edge.full.list, dict.co
                  "<br>Group:", nodes$group,
                  "<br>Degree:", dict.combine[match(nodes$id,dict.combine$Variable), method+8])
   #nodes = rbind(nodes[((n.root+1):nrow(nodes)),],nodes[(1:n.root),])
-  
+  nodes$Cap_label = group.names.long[match(nodes$Cap,group.names)]
+  nodes$Cap_label[1:n.root] = paste0(group.names.long,collapse = ",")
   return(list(nodes, edges, list(group.legend,ledges), list(group.target, group.other, text.group.color)))
 }
 

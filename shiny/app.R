@@ -37,7 +37,18 @@ ui <- dashboardPage(
              column(3,actionButton('refresh', 'Unselect', 
                                    icon = tags$i(class = "fa fa-refresh", 
                                                  style="font-size: 10px")))), 
-    checkboxInput("cluster", "Cluster by groups*", value = FALSE)
+    checkboxInput("cluster", "Cluster by groups*", value = FALSE),
+    conditionalPanel(condition =  "input.current_node_id!=null",
+                     hr(),
+                     h5("Clicked node info:"),
+                     tableOutput("shiny_return_subnode_table"),
+                     actionButton("addButton", "Add to candidates",class="btn-primary active"),
+                     br(),
+                     h5("Connected node(s) info:"),
+                     tableOutput("shiny_returntable")),
+    conditionalPanel(condition =  "input.current_node_id==null",
+                     hr(),
+                     h4(" Try to click on a non-center node."))
 
     )
   ),
@@ -85,25 +96,7 @@ ui <- dashboardPage(
                          duration = 0
                        ))
                      ),
-              column(1,
-                     dropdown(
-                     h4("Neighbors of"),
-                     textOutput("shiny_returntext",container = h4),
-                     actionButton("addButton", "Add to candidates", icon = icon("plus-square"),class="btn-primary active"),
-                     hr(),
-                     br(),
-                     DT::dataTableOutput("shiny_return"),
-                     style = "unite", icon = icon("project-diagram"),right = FALSE,
-                     status = "primary", width = "500px",
-                     animate = animateOptions(
-                       enter = animations$fading_entrances$fadeInDown,
-                       exit = animations$fading_exits$fadeOutUp,
-                       duration = 0
-                     )  
-                       
-                   )
-                 ),
-              column(7),
+              column(8),
               column(1,downloadBttn(outputId = "downloadData", 
                                       label = "Download nodes as .csv",
                                       style = "material-circle",
@@ -248,7 +241,9 @@ server <- function(input, output, session) {
           visOptions(highlightNearest =
                        list(enabled = T, degree = 1, hover = T,
                             hideColor = "rgba(200,200,200,0.2)"),
-                     #selectedBy = "group",
+                     selectedBy = list(`variable` = "Cap_label",
+                                       `multiple` = TRUE,
+                                       `main` = "Select by group"),
                      #clickToUse = TRUE,
                      collapse = FALSE) %>%
           visLegend(width = 0.09, position = "right",
@@ -291,7 +286,9 @@ server <- function(input, output, session) {
           visOptions(highlightNearest =
                        list(enabled = T, degree = 1, hover = T,
                             hideColor = "rgba(200,200,200,0.2)"),
-                     #selectedBy = "group",
+                     selectedBy = list(`variable` = "Cap_label",
+                                       `multiple` = TRUE,
+                                       `main` = "Select by group"),
                      #clickToUse = TRUE,
                      collapse = FALSE) %>%
           visLegend(width = 0.09, position = "right",
@@ -318,43 +315,54 @@ server <- function(input, output, session) {
     
   })
   
-  output$shiny_return <-
-    DT::renderDataTable(DT::datatable({
-      if(length(input$current_node_id$nodes[[1]])!=0){
-        node_now = input$current_node_id$nodes[[1]]
+
+  output$shiny_return_subnode_table <- renderTable({
+    if(length(input$current_node_id$nodes[[1]])!=0 & length(input$inCheckboxGroup2)!=0){
+      node_now = input$current_node_id$nodes[[1]]
+      edge.ma.now = edge.full.list[[as.numeric(method())]][[1]]
+      loc.node_now = match(node_now, colnames(edge.ma.now))
+      if(is.na(loc.node_now)==FALSE){
+        re = data.frame("info" = c("id","label","degree","sub_group"),
+                        "value"= c(node_now,
+                                   dict.combine$Description[match(node_now,dict.combine$Variable)],
+                                   dict.combine[match(node_now,dict.combine$Variable), 1+n.col],
+                                   dict.combine$group[match(node_now,dict.combine$Variable)]))
+      }
+    }else{
+      "You haven't clicked on a node."
+    }
+  })
+  
+  output$shiny_returntable <- renderTable({
+    input$goButton
+    isolate({
+      s = input$inCheckboxGroup2
+      })
+    if(length(input$current_node_id$nodes[[1]])!=0 & length(s)!=0){
+      node_now = input$current_node_id$nodes[[1]]
+      if(node_now %in% s){
+        data.frame("message"="Try to click on a non-center node!")
+      }else{
         edge.ma.now = edge.full.list[[as.numeric(method())]][[1]]
         loc.node_now = match(node_now, colnames(edge.ma.now))
         if(is.na(loc.node_now)==FALSE){
           node.id = edge.ma.now[loc.node_now,]!=0 | edge.ma.now[,loc.node_now]!=0
           connected.node_now = colnames(edge.ma.now)[node.id]
-          data.frame("Neighbor id"=connected.node_now,
-                     "Description"=dict.combine$Description[match(connected.node_now,dict.combine$Variable)],
-                     "Degree"=dict.combine[match(connected.node_now,dict.combine$Variable), as.numeric(method())+n.col],
-                     "Group"=dict.combine$group[match(connected.node_now,dict.combine$Variable)]
-          )
-        }else{
-          data.frame()
+          connected.node_now = connected.node_now[connected.node_now %in% s]
+          nn = length(connected.node_now)
+          re = data.frame("info"=rep(c("id","label","degree","cos_Sim","---"),nn),
+                          "value"=rep(NA,nn*5))
+          for(i in 1:nn){
+            re[i*5-4,2] = connected.node_now[i]
+            re[i*5-3,2] = dict.combine$Description[match(connected.node_now,dict.combine$Variable)][i]
+            re[i*5-2,2] = dict.combine[match(connected.node_now,dict.combine$Variable), as.numeric(method())+n.col][i]
+            re[i*5-1,2] = max(edge.ma.now[loc.node_now,connected.node_now][i],
+                              edge.ma.now[connected.node_now,loc.node_now][i])
+            re[i*5,2] = "---"
+          }
+          re
         }
-      }else{
-        data.frame()
       }
-    }, rownames = FALSE,options = list(
-      pageLength = 5
-    )))
-  
-  output$shiny_returntext <- renderText({
-    if(length(input$current_node_id$nodes[[1]])!=0){
-      node_now = input$current_node_id$nodes[[1]]
-      edge.ma.now = edge.full.list[[as.numeric(method())]][[1]]
-      loc.node_now = match(node_now, colnames(edge.ma.now))
-      if(is.na(loc.node_now)==FALSE){
-        node_now_name = colnames(edge.ma.now)[loc.node_now]
-        paste0(dict.combine$Description[match(node_now_name,dict.combine$Variable)])
-      }else{
-        "Try to click on an individual node instead of a group circle."
-      }
-    }else{
-      "You haven't clicked on a node."
     }
   })
   
