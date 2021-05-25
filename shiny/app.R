@@ -54,6 +54,7 @@ ui <- dashboardPage(
   ),
   
   dashboardBody(
+    shinybrowser::detect(),
     bsModal(
       id = "instruction", title = "Instruction", trigger = FALSE,
       size = "small",
@@ -132,7 +133,7 @@ server <- function(input, output, session) {
 
     shinycssloaders::withSpinner(
       visNetworkOutput("network_proxy_nodes", 
-                       height =  paste0(input$slider_h,"px")), type = 6
+                       height =  paste0(max(input$slider_h,shinybrowser::get_height()),"px")), type = 6
     )
   })
 
